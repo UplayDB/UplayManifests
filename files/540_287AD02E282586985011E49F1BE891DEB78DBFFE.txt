@@ -1,0 +1,158 @@
+Total number of files   : 1
+Total size of files     : 94125920 | 94,13 MB
+Total number of chunks  : 1
+Total bytes on disk     : 94125920 | 94,13 MB
+Total bytes compressed  : 93585133 | 93,59 MB
+
+Compression Method      : Deflate
+Version                 : 3
+GameVersion             : 
+Is Require Patch        : False
+Is file compressed      : True
+Chunk Version           : 0
+Legacy Installer        : 
+
+Max(?) Slice Size       : 3145728 (Depracted)
+Padded Slice Size:      : 3147264 (Depracted)
+Is encrypted            : False (Depracted)
+
+
+================================================Chunks================================================
+
+Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: main
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+5CDD2353404431839AF02AF57E84CE4D9FAADECF | 1A7B18E19DFF4C2D93E4AF63A5D71ACCEB3DAB81 |   94125920 |  3145728 |  2799859 | Maniaplanet_UplaySetup.exe
+FF1E97EB44D8CB3323A12CE07B7B3C93E55B0B0E | 5E0115985275F99D8A25939F57150C5978D83A79 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+B3FF56D19B0DC1959DD45C9EC67EE85770E6019D | D74478FBE3996A7ABDD5BF54595346DBFCE83E56 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+16C02E5C4C4CDD6BA1AC8499BDA42627DFE55DDC | 3E728343A5F9DBA4AFB9F6B878633F6788F9441D |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+9BB2F91A0600B4BDE50E44E4EBDCFC55BAD6B1D8 | 5A35AC929BD4CCD4C9D6787026F3A06B49A6DF2A |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+6575A379876A9BF775CEB54690247624589CE6C6 | 563130133F07C97E9B153E5808E50C06A4BB80A0 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+88181EE6143EE05A4A8DD1B787206988208AC9EE | F2D64223C5D5004EA6012A9F5525A5AA84DD776C |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+FF7590A6BC5E5F6079EC101FCE3246608817426B | 1F17DD9D1CB646E8B71743D61E372191F2470FA8 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+EC74BBA81243490E4DDBF293BCDC93CCDA5329B1 | A3E3DF2B100CB1E7D166E03A404E06661A34E9B3 |   94125920 |  3145728 |  3145466 | Maniaplanet_UplaySetup.exe
+55816171DC4707E19CC206140D9585B68A76E760 | 1E9F830BE152874D6E9683003BE0F1BCF88B80E4 |   94125920 |  3145728 |  3144179 | Maniaplanet_UplaySetup.exe
+16D0E0AD19A5C53DCD899B1982845752385DEE42 | FD6B65C3B1EB6190EDDE504AFCF438F9BCC27338 |   94125920 |  3145728 |  3145000 | Maniaplanet_UplaySetup.exe
+9E9734417934F2BEE07170C40A8D086FCD16835C | 71AB40FAA4D077F611C7387E111DC06D44DBD1B7 |   94125920 |  3145728 |  3144600 | Maniaplanet_UplaySetup.exe
+D1B41A0FCA2E9D2CCA5FBD5A38C0622FDA2363F8 | C9E66F92338005B2A9CDACE554A3F2515F9198CC |   94125920 |  3145728 |  3145127 | Maniaplanet_UplaySetup.exe
+9A2EB12296954131939911EEF253C91B5DDB9FE0 | 1CBCFBF3ED536D76E60E9431CF55151F8CACEECE |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+E59ADB97B0B18620987D9B6D17E4E9524638AA18 | BC9D65F6D0A7D09ADD964E8B2DEF0D571880DBD5 |   94125920 |  3145728 |  3146201 | Maniaplanet_UplaySetup.exe
+F00B5918E3BA2540AAF27028A4C9EBA30A3C6001 | 00019B7B05544FFD304D95C81B3F89630771FA27 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+34EA711AB00F254C2F90832DE551110F940385C9 | 798500628303BA281089479CD665C827FCCF05C1 |   94125920 |  3145728 |  3146570 | Maniaplanet_UplaySetup.exe
+C6F07C4582D7C90F31C37FFE9937EE0902BBC5C8 | BD4EC514F040DE548EB38369F46752EE4F00E53F |   94125920 |  3145728 |  3145164 | Maniaplanet_UplaySetup.exe
+0FD6A70BF9F8FF68EDDC335354D597DF909D75A7 | 0917B1D25A8BCDBE52B84FCD21B9011681B1B7C5 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+B1FCE47DB64EE81A4046A3B5FE4427568BD5D516 | A90A738D9068723967F92A4DBEECD58933F0628E |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+C3F0D6E5E8DB0E4F7F0C8C65EA928F9CA144F1AF | FB25413A218CB27CC8A7845BF5FB5A72A4DB7927 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+4E2B1021CBF69A89810E21CFC377CD5DC0365797 | 581C44A1FAC085C1D775832A61309E87BE00D4A6 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+3DCE6A43232A10A011D4D6406591935FAF7C99DA | 929F1CA3E22CDAB1E4F89E73FD5A22B5E1C8D13A |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+64F41356726FF8888F5700525248A7547BD6C674 | 1FAA48C79F87C3E7953B06B814CD6A4E56D243EB |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+C7F562F3448762B5C296786F6262525BE85381EB | A7495B1FB0894189D6E1B8D0E2B6AC8775EBBD13 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+2BC07E8D31EE68B2E220295D91D3BDEB37C074B2 | 26A81AB6694B393A5DA843125875566269A842A8 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+EEE78EAC274D413A8037037E445118E197A86490 | C65C27E0A20289854DA738406627239355D58E57 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+C1FBB470CFD280CA5B88D0A8EE9E845C4A86F36B | B61DD92554CA4336E5919384F8B73EA623C34DC4 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
+421E5346B46E43285D83EFD279A47BCC5074D93E | A821E82E460D5B7988F330A91066C760F8B2E338 |   94125920 |  3145728 |  3115844 | Maniaplanet_UplaySetup.exe
+BAF073EC6C55E29D854AC3E844C00539BC30FAB4 | 46941DF78D05F9ED54A6308F39802BB6C2AF3D21 |   94125920 |  2899808 |  2719937 | Maniaplanet_UplaySetup.exe
+
+===============================================Licenses===============================================
+
+Identifier: eula, Version: 200, Format: Text
+		SHA1			 |  Lang  |  Text  | Name
+54C2B7CEB4D17AF2471B9CEB927D9F44EF421439 |  cs-CZ |        | 
+BCAD3D0291838441E0FAE6CD64FDC96332C9E471 |  da-DK |        | 
+B3BA30FA87AA65BF724E23472DB76A93043D0BAD |  de-DE |        | 
+4423598537B618F1434489806371B8C9909F6759 |  en-GB |        | 
+4FA7772DEAD04FF84BDE6F163EFB0ED408399199 |  en-US |        | 
+5A703738849C0D4782310321E4D903FF71E2C1D6 |  en-CA |        | 
+55C367BEAF26CFD8B69AA5CA246320B7DF49B11D |  es-ES |        | 
+DB035A62387A39AE52A6159D8AFE05950879E78B |  fi-FI |        | 
+F733F9AB7F0C40FB044188D4863A78508695773D |  fr-FR |        | 
+3C42C2F511FD151CB3A14E1D33199B6D1482E550 |  fr-CA |        | 
+80390779869DB903FDD93F186260FA3B6C8F8143 |  hu-HU |        | 
+737BE13978B4747BC50E1E274C6AC755AB707486 |  it-IT |        | 
+05FB7FB33894A81174FE533D9A1A57ECBDB3A634 |  ja-JP |        | 
+5F55CD518B158F3217E157A9B515B7BC5D65605E |  nb-NO |        | 
+2608EFD7223927322E396BD2E6B84A2D9F3741EB |  nl-NL |        | 
+FFA92564A40D610AB041618C15CB346438A760FC |  pl-PL |        | 
+A0C0D4F07482A42B8B81ECEC30105900469C1FB1 |  pt-PT |        | 
+7E6F16462839DE6061BF6D2CE119DD9A93C62F34 |  pt-BR |        | 
+1375E793CD38B3605984692F56425C0A01D66898 |  ru-RU |        | 
+5251B484E4FF081EF5155827B6833ECE2EF86C50 |  sv-SE |        | 
+E82CFB25981457361C91A8E5ED2CFA3A429BE601 |  zh-CN |        | 
+2A63A4B6F625C4FF15966104E95B3A9059E15016 |  zh-TW |        | 
+
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Maniaplanet_UplaySetup.exe, Working Dir: $INSTALL_DIR/
+Arguments: , Description: Maniaplanet setup
+Identifier: maniaplanet_setup, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+
+
+
+
+==============================================Languages===============================================
+
+Code: cs-CZ, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: da-DK, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: de-DE, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: en-GB, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: en-US, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: en-CA, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: es-ES, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: fi-FI, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: fr-FR, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: fr-CA, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: hu-HU, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: it-IT, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: ja-JP, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: nb-NO, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: nl-NL, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: pl-PL, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: pt-PT, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: pt-BR, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: ru-RU, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: sv-SE, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: zh-CN, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: zh-TW, UplayIds Count: 0

@@ -1,0 +1,114 @@
+Total number of files   : 222
+Total size of files     : 1346922863 | 1,35 GB
+Total number of chunks  : 2
+Total bytes on disk     : 0 | 0,00 B
+Total bytes compressed  : 0 | 0,00 B
+
+Compression Method      : Deflate
+Version                 : 0
+GameVersion             : 
+Is Require Patch        : False
+Is file compressed      : False
+Chunk Version           : 2
+Legacy Installer        : 
+
+Max(?) Slice Size       : 0 (Depracted)
+Padded Slice Size:      : 0 (Depracted)
+Is encrypted            : False (Depracted)
+
+
+================================================Chunks================================================
+
+Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+
+===============================================Licenses===============================================
+
+Identifier: Game, Version: 2, Format: Html
+		SHA1			 |  Lang  |  Text  | Name
+DBC1D7DFB86E00FB4F4A7F5106733877C17EBE72 |  de-DE |        | 
+6448EE335AA1678BAB9B627010DF178E3D788778 |  en-US |        | 
+68027681B7D08598C363CA50B17B0248FEBFD5BE |  es-ES |        | 
+C800B8A27DC9660B4598DE1E4867BE1AC243D689 |  fr-FR |        | 
+E41E14D8B00378B08215B570305B922A2147F41A |  it-IT |        | 
+E75228D28AD4ACE10C785BE3FD0968D66E6970A8 |  nl-NL |        | 
+7F8F953564E1A4C21BCA68BED393C61DF19A4B12 |  pl-PL |        | 
+253B8C3BCFEEE1D303B779572E31A03140498679 |  pt-BR |        | 
+7A41533B23868F93FBB68A09E7723B60B06BF6AA |  ru-RU |        | 
+A9CA6B8D1A6789265FE5BE1B9114C3BC53D3A470 |  ja-JP |        | 
+
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/DirectX/DXSETUP.exe, Working Dir: $INSTALL_DIR/Support/DirectX/
+Arguments: /silent, Description: DirectX End-User redistributable
+Identifier: directx, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Vc2010Redist/vcredist_x86.exe, Working Dir: $INSTALL_DIR/Support/Vc2010Redist/
+Arguments: /q, Description: Microsoft Visual C++ 2010 redistributable
+Identifier: vcredist, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/configure.exe, Working Dir: $INSTALL_DIR/
+Arguments: +fw f "$INSTALL_DIR", Description: Adding windows firewall rule
+Identifier: add_firewall, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/configure.exe, Working Dir: $INSTALL_DIR/
+Arguments: +ge f "$INSTALL_DIR", Description: Adding to Games Explorer
+Identifier: add_gameexplorer, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Valiant Hearts\InstallDir, Type: String
+Registry String Entry
+	Value | Language
+$INSTALL_DIR  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Valiant Hearts\Language, Type: String
+Registry String Entry
+	Value | Language
+German  | de-DE
+English  | en-US
+Spanish  | es-ES
+French  | fr-FR
+Italian  | it-IT
+ Dutch  | nl-NL
+Polish  | pl-PL
+Brazilian  | pt-BR
+Russian  | ru-RU
+Japanese  | ja-JP
+
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/configure.exe, Working Dir: $INSTALL_DIR/
+Arguments: -fw f "$INSTALL_DIR"
+Platform: WindowsXp, Platform Type: X86
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/configure.exe, Working Dir: $INSTALL_DIR/
+Arguments: -ge f "$INSTALL_DIR"
+Platform: WindowsXp, Platform Type: X86
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/configure.exe, Working Dir: $INSTALL_DIR/
+Arguments: clean
+Platform: WindowsXp, Platform Type: X86
+
+==========================================Uninstall Registry==========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Valiant Hearts
+

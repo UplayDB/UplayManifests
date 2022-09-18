@@ -1,0 +1,119 @@
+Total number of files   : 5442
+Total size of files     : 1371574056 | 1,37 GB
+Total number of chunks  : 1
+Total bytes on disk     : 0 | 0,00 B
+Total bytes compressed  : 0 | 0,00 B
+
+Compression Method      : Deflate
+Version                 : 0
+GameVersion             : 
+Is Require Patch        : False
+Is file compressed      : False
+Chunk Version           : 1
+Legacy Installer        : 
+
+Max(?) Slice Size       : 1048576 (Depracted)
+Padded Slice Size:      : 0 (Depracted)
+Is encrypted            : False (Depracted)
+
+
+================================================Chunks================================================
+
+Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+
+===============================================Licenses===============================================
+
+Identifier: Game, Version: 1, Format: Html
+		SHA1			 |  Lang  |  Text  | Name
+76259D553296588D2075C0DD10A1562FAF37F551 |  en-US |        | 
+
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/DirectX/dxsetup.exe, Working Dir: $INSTALL_DIR/DirectX/
+Arguments: /silent, Description: DirectX
+Identifier: DirectX, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Lock On\installdir, Type: String
+Registry String Entry
+	Value | Language
+$INSTALL_DIR  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\LockOn.MOM.Application2\(Default), Type: String
+Registry String Entry
+	Value | Language
+LockOn Application2 Class  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\LockOn.MOM.Application2\CLSID\(Default), Type: String
+Registry String Entry
+	Value | Language
+{CF1EEFC3-BC83-413f-9824-549C6FB1854E}  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\LockOn.MOM.Application2\CurVer\(Default), Type: String
+Registry String Entry
+	Value | Language
+LockOn.MOM.Application2.1  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\LockOn.MOM.Application2.1\(Default), Type: String
+Registry String Entry
+	Value | Language
+LockOn Application2 Class  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\LockOn.MOM.Application2.1\CLSID\(Default), Type: String
+Registry String Entry
+	Value | Language
+{CF1EEFC3-BC83-413f-9824-549C6FB1854E}  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\CLSID\{CF1EEFC3-BC83-413f-9824-549C6FB1854E}\(Default), Type: String
+Registry String Entry
+	Value | Language
+LockOn Application2 Class  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\CLSID\{CF1EEFC3-BC83-413f-9824-549C6FB1854E}\InprocServer32\(Default), Type: String
+Registry String Entry
+	Value | Language
+$INSTALL_DIR\MOM.dll  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\CLSID\{CF1EEFC3-BC83-413f-9824-549C6FB1854E}\InprocServer32, Type: String
+Registry String Entry
+	Value | Language
+ThreadingModel"="Apartment  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\CLSID\{CF1EEFC3-BC83-413f-9824-549C6FB1854E}\ProgID\(Default), Type: String
+Registry String Entry
+	Value | Language
+LockOn.MOM.Application2.1  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\CLSID\{CF1EEFC3-BC83-413f-9824-549C6FB1854E}\Programmable, Type: String
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\CLSID\{CF1EEFC3-BC83-413f-9824-549C6FB1854E}\TypeLib\(Default), Type: String
+Registry String Entry
+	Value | Language
+{497BBAFB-0850-4f6e-989D-7825D56FCFED}  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CLASSES_ROOT\CLSID\{CF1EEFC3-BC83-413f-9824-549C6FB1854E}\VersionIndependentProgID\(Default), Type: String
+Registry String Entry
+	Value | Language
+LockOn.MOM.Application2  | 
+
+
+==========================================Uninstall Registry==========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Lock On
+

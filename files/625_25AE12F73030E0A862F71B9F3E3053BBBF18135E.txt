@@ -1,0 +1,133 @@
+Total number of files   : 247
+Total size of files     : 3407365232 | 3,41 GB
+Total number of chunks  : 1
+Total bytes on disk     : 0 | 0,00 B
+Total bytes compressed  : 0 | 0,00 B
+
+Compression Method      : Deflate
+Version                 : 0
+GameVersion             : 
+Is Require Patch        : False
+Is file compressed      : False
+Chunk Version           : 2
+Legacy Installer        : 
+
+Max(?) Slice Size       : 0 (Depracted)
+Padded Slice Size:      : 0 (Depracted)
+Is encrypted            : False (Depracted)
+
+
+================================================Chunks================================================
+
+Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+
+===============================================Licenses===============================================
+
+Identifier: Game, Version: 1, Format: Html
+		SHA1			 |  Lang  |  Text  | Name
+6D91DE0935767B1DF7E42AA2C51B9E7EBC2ABE29 |  en-US |        | 
+76A20A24074F0ECD4218282106CDA3DC6FEF6FC9 |  fr-FR |        | 
+894C3CDD2D92F2ABE56C2121B60C09E96738463C |  it-IT |        | 
+7D811DA968CBAF91780CC4E6C3ACBB3BD7C0CD9A |  de-DE |        | 
+AF6E167DD958C53B6936DD9AE04634993ADAF677 |  es-ES |        | 
+A8DF6FF2A012E64592512C5CB404E90B8C027435 |  nl-NL |        | 
+753E3A4C39B4686A9C751034B609588A78D99820 |  pt-BR |        | 
+24D4647F19AD2E089018EFC63DEF08A73B739BEC |  ru-RU |        | 
+
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Software/DirectX/DXSETUP.exe, Working Dir: $INSTALL_DIR/Support/Software/DirectX/
+Arguments: /silent, Description: DirectX
+Identifier: Directx, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Software/VCRedist/vcredist_x86_2008SP1.exe, Working Dir: $INSTALL_DIR/Support/Software/VCRedist/
+Arguments: /Q, Description: VC Redistributable 2008
+Identifier: vcredist2008, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Software/VCRedist/vcredist_x86_sp1.exe, Working Dir: $INSTALL_DIR/Support/Software/VCRedist/
+Arguments: /Q, Description: VC Redistributable
+Identifier: vcredist, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Software/Microsoft .NET Framework 4/dotNetFx40_Client_x86_x64.exe, Working Dir: $INSTALL_DIR/Support/Software/dotNetFramework/
+Arguments: /q /norestart, Description: .NET Framework
+Identifier: dotNet, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/firewallGE.exe, Working Dir: $INSTALL_DIR/
+Arguments: , Description: Adding Windows Firewall Rule
+Identifier: uplay_firewall, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/GDFTool.exe, Working Dir: $INSTALL_DIR/
+Arguments: , Description: Game Explorer for Vista
+Identifier: game_explorer, Version: 1
+Platform: WindowsVista, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $WINDIR/system32/wusa.exe, Working Dir: $INSTALL_DIR/Support/Software/KB971512/
+Arguments: "$INSTALL_DIR/Support/Software/KB971512/KB971512-x86.msu" /quiet /norestart, Description: KB971512 Windows Update
+Identifier: vista_update, Version: 1
+Platform: WindowsVista, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: True
+=============================================Install Runs=============================================
+
+Exe: $WINDIR/system32/wusa.exe, Working Dir: $INSTALL_DIR/Support/Software/KB971512/
+Arguments: "$INSTALL_DIR/Support/Software/KB971512/KB971512-x64.msu" /quiet /norestart, Description: KB971512 Windows Update
+Identifier: vista_update, Version: 1
+Platform: WindowsVista, Platform Type: X64
+Ignore All Exit Codes?: True, Restart Required?: True
+
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Liberation HD\installdir, Type: String
+Registry String Entry
+	Value | Language
+$INSTALL_DIR  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Liberation HD\Language, Type: String
+Registry String Entry
+	Value | Language
+English  | en-US
+French  | fr-FR
+Italian  | it-IT
+German  | de-DE
+Spanish  | es-ES
+ Dutch  | nl-NL
+Brazil  | pt-BR
+Russian  | ru-RU
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Liberation HD\SKU, Type: String
+Registry String Entry
+	Value | Language
+    WW  | 
+
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/firewallGE_rem.exe, Working Dir: $INSTALL_DIR/
+Arguments: 
+Platform: WindowsXp, Platform Type: X86
+
+==========================================Uninstall Registry==========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Liberation HD
+==========================================Uninstall Registry==========================================
+
+Key: HKEY_CURRENT_USER\Software\Ubisoft\Assassin's Creed Liberation HD
+

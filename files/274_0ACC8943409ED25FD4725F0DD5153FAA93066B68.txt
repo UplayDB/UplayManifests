@@ -1,0 +1,234 @@
+Total number of files   : 257
+Total size of files     : 27189377395 | 27,19 GB
+Total number of chunks  : 12
+Total bytes on disk     : 0 | 0,00 B
+Total bytes compressed  : 0 | 0,00 B
+
+Compression Method      : Deflate
+Version                 : 0
+GameVersion             : 
+Is Require Patch        : False
+Is file compressed      : False
+Chunk Version           : 3
+Legacy Installer        : 
+
+Max(?) Slice Size       : 1048576 (Depracted)
+Padded Slice Size:      : 0 (Depracted)
+Is encrypted            : False (Depracted)
+
+
+================================================Chunks================================================
+
+Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: cs-CZ,da-DK,en-US,fi-FI,hu-HU,nb-NO,nl-NL,pl-PL,pt-PT,sv-SE, Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pt-BR, Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 573, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 18, Chunk Type: Required, Chunk UplayID: 748, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 27, Chunk Type: Required, Chunk UplayID: 572, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 36, Chunk Type: Required, Chunk UplayID: 571, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+================================================Chunks================================================
+
+Chunk ID: 45, Chunk Type: Required, Chunk UplayID: 747, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+
+===============================================Licenses===============================================
+
+Identifier: Game, Version: 7, Format: Html
+		SHA1			 |  Lang  |  Text  | Name
+70150B97E8CBA20B2D35B67BCF7EC080E6AD9E3D |  da-DK |        | 
+DB2E327A0B472C2361258C29D7FBA9ABFA25D8CF |  de-DE |        | 
+0B763F0F106947595CF16EE9AF62767669722ACD |  en-US |        | 
+FDFDBEE023CA436C66308CABA3B863215C638FB5 |  es-ES |        | 
+3DF3F9823D4E8FA51244B6335AAF280BC0500FD9 |  fi-FI |        | 
+51C81F5F93511C1F82037D13DCBA8DACAD87DA6A |  fr-FR |        | 
+093A2E105278C1012A74C9E6003C2C04FD287C80 |  it-IT |        | 
+796174235D3BB15B5E78F9A9E5ED5B2526BCB6D7 |  ja-JP |        | 
+3664477E121A0ED72C1F552191AE9C3301359ECC |  ko-KO |        | 
+F5105E6544024A74B25277E9766CDE460A26B1D4 |  nb-NO |        | 
+634BBEF20099129C5B630D0DC7B57AA4552F912F |  nl-NL |        | 
+8D5228B17E3F676006754767C964660F1D4BF338 |  pt-BR |        | 
+5C4AD430B9A763BF07F9011877BFC864F58E4C68 |  pt-PT |        | 
+7356A1C1FBE62EC2486C5B5C2E4F28CD738317A7 |  sv-SE |        | 
+656900C6443C0E7C61060C51CC85339F7B1FC32C |  ru-RU |        | 
+3664477E121A0ED72C1F552191AE9C3301359ECC |  zh-TW |        | 
+1453C84DF2556FBD82FB98937C2E9968A511A507 |  cs-CZ |        | 
+C1474C72C86DF1DA4D928A270698CCBA83432EEC |  hu-HU |        | 
+07799A6E0D953359C2431001339B4618CB2740C0 |  pl-PL |        | 
+
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/DirectX/DXSETUP.exe, Working Dir: $INSTALL_DIR/Support/DirectX/
+Arguments: /silent, Description: DirectX
+Identifier: directx, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/DirectX/D3D11Install.exe, Working Dir: $INSTALL_DIR/Support/DirectX/
+Arguments: /quiet, Description: Direct3D
+Identifier: direct3D, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/dotNetFramework/dotNetFx35setup.exe, Working Dir: $INSTALL_DIR/Support/dotNetFramework/
+Arguments: /q, Description: .NET Framework
+Identifier: dotNet, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/VCRedist/VS_2008_vcredist_sp1_x64.exe, Working Dir: $INSTALL_DIR/Support/VCRedist/
+Arguments: /Q, Description: VC++ 2008
+Identifier: vc++2008, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/VCRedist/VS_2010_vcredist_x64.exe, Working Dir: $INSTALL_DIR/Support/VCRedist/
+Arguments: /Q, Description: VC++ 2010
+Identifier: vc++2010, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/FirewallHelper/FirewallInstall.exe, Working Dir: $INSTALL_DIR/bin/
+Arguments: add "$INSTALL_DIR\bin\Watch_Dogs.exe" Watch_Dogs, Description: Adding Windows Firewall rule
+Identifier: firewallrule_add, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/GDFInstall/GDFInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: /silent /allusers /installpath "$INSTALL_DIR//" Support/GDFInstall/GDFWinVista.dll, Description: Adding Game to Game Explorer
+Identifier: gameux, Version: 1
+Platform: WindowsVista, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/GDFInstall/GDFInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: /silent /allusers Support/GDFInstall/GDFWin7.dll, Description: Adding Game to Game Explorer
+Identifier: gameux, Version: 1
+Platform: Windows7, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/GDFInstall/GDFInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: /silent /allusers Support/GDFInstall/GDFWin8.dll, Description: Adding Game to Game Explorer
+Identifier: gameux, Version: 1
+Platform: Windows8, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Watch_Dogs\Exe, Type: String
+Registry String Entry
+	Value | Language
+Watch_Dogs.exe  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Watch_Dogs\StartArguments, Type: String
+Registry String Entry
+	Value | Language
+        | 
+===========================================Install Registry===========================================
+
+Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Watch_Dogs\DefaultTextLanguage, Type: String
+Registry String Entry
+	Value | Language
+ en-US  | 
+ de-DE  | de-DE
+ es-ES  | es-ES
+ fi-FI  | fi-FI
+ fr-FR  | fr-FR
+ it-IT  | it-IT
+ ja-JP  | ja-JP
+ ko-KO  | ko-KO
+ nb-NO  | nb-NO
+ nl-NL  | nl-NL
+ pt-BR  | pt-BR
+ pt-PT  | pt-PT
+ sv-SE  | sv-SE
+ ru-RU  | ru-RU
+ zh-TW  | zh-TW
+ da-DK  | da-DK
+ pl-PL  | pl-PL
+ hu-HU  | hu-HU
+ cs-CZ  | cs-CZ
+===========================================Install Registry===========================================
+
+Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Watch_Dogs\DefaultAudioLanguage, Type: String
+Registry String Entry
+	Value | Language
+ en-US  | 
+ de-DE  | de-DE
+ es-ES  | es-ES
+ fr-FR  | fr-FR
+ it-IT  | it-IT
+ ja-JP  | ja-JP
+ pt-BR  | pt-BR
+ ru-RU  | ru-RU
+
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/Support/FirewallHelper/FirewallInstall.exe, Working Dir: $INSTALL_DIR/bin/
+Arguments: remove "$INSTALL_DIR\bin\Watch_Dogs.exe" Watch_Dogs
+Platform: WindowsXp, Platform Type: X86
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/Support/GDFInstall/GDFInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: /silent /u Support/GDFInstall/GDFWinVista.dll
+Platform: WindowsVista, Platform Type: X86
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/Support/GDFInstall/GDFInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: /silent /u Support/GDFInstall/GDFWin7.dll
+Platform: Windows7, Platform Type: X86
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/Support/GDFInstall/GDFInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: /silent /u Support/GDFInstall/GDFWin8.dll
+Platform: Windows8, Platform Type: X86
+
+==========================================Uninstall Registry==========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Watch_Dogs
+==========================================Uninstall Registry==========================================
+
+Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Watch_Dogs
+

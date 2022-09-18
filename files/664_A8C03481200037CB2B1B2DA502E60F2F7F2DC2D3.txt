@@ -1,0 +1,148 @@
+Total number of files   : 293
+Total size of files     : 9465401414 | 9,47 GB
+Total number of chunks  : 1
+Total bytes on disk     : 0 | 0,00 B
+Total bytes compressed  : 0 | 0,00 B
+
+Compression Method      : Deflate
+Version                 : 0
+GameVersion             : 
+Is Require Patch        : False
+Is file compressed      : False
+Chunk Version           : 1
+Legacy Installer        : 
+
+Max(?) Slice Size       : 0 (Depracted)
+Padded Slice Size:      : 0 (Depracted)
+Is encrypted            : False (Depracted)
+
+
+================================================Chunks================================================
+
+Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+
+===============================================Licenses===============================================
+
+Identifier: Game, Version: 1, Format: Html
+		SHA1			 |  Lang  |  Text  | Name
+5866A77ECB09A03A3A6549F30BFDA7850011DE68 |  da-DK |        | 
+8FE302A8F2137C68DCE413962D308A825F001062 |  de-DE |        | 
+34096944E3EE6F59F36AE7F84D5B4577634DFA80 |  en-US |        | 
+D1CC97499B33A6D82906B4958997CEBF350D495C |  es-ES |        | 
+5F44785DB859DC4F25538DA2D5DD3A8F29638CF7 |  fr-FR |        | 
+3C7A83BB037E7CC36079A2BB9B3A84C262B309E3 |  it-IT |        | 
+EA8133F1D8F4F757DAB7A9CD1B5BED859511B6E8 |  nl-NL |        | 
+1F1A83552995F4724FC718251189155051D2CD33 |  nb-NO |        | 
+EA419CF7C7997BB68B2426ABDE415106BC3C32F6 |  pl-PL |        | 
+DB879A76821C5DE21D98A7664456D377AA864C0A |  pt-BR |        | 
+DB879A76821C5DE21D98A7664456D377AA864C0A |  pt-PT |        | 
+FD4B1698DB2FB8B537B0E2667C96D493EA8AF34E |  fi-FI |        | 
+64B374EF1FEB07E66A17A205C6B3E1534FDA1AE1 |  sv-SE |        | 
+2F608AAB0113AF1FACC79E807E5A00061DDFA89D |  cs-CZ |        | 
+520D6AE4CCBCC9F36317CFA71B6D0F91BCB0EDAE |  hu-HU |        | 
+DB879A76821C5DE21D98A7664456D377AA864C0A |  ko-KO |        | 
+DB879A76821C5DE21D98A7664456D377AA864C0A |  zh-TW |        | 
+DB879A76821C5DE21D98A7664456D377AA864C0A |  ja-JP |        | 
+CC24AF95DF89859688FC84E16F430C751B485FA0 |  ru-RU |        | 
+
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Common/DirectX/DXSETUP.exe, Working Dir: $INSTALL_DIR/Support/Common/DirectX/
+Arguments: /silent, Description: DirectX
+Identifier: Directx, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Common/VCRedist/vcredist_x86_2008SP1.exe, Working Dir: $INSTALL_DIR/Support/Common/VCRedist/
+Arguments: /Q, Description: VC Redistributable 2008
+Identifier: vcredist2008, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Common/VCRedist/vcredist_x86_sp1.exe, Working Dir: $INSTALL_DIR/Support/Common/VCRedist/
+Arguments: /Q, Description: VC Redistributable
+Identifier: vcredist, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Common/Microsoft .NET Framework 4/dotNetFx40_Client_x86_x64.exe, Working Dir: $INSTALL_DIR/Support/Common/dotNetFramework/
+Arguments: /q /norestart, Description: .NET Framework
+Identifier: dotNet, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/GEFirewall.exe, Working Dir: $INSTALL_DIR/
+Arguments: , Description: Adding Windows Firewall Rule and Game Explorer
+Identifier: uplay_firewall, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $WINDIR/system32/wusa.exe, Working Dir: $INSTALL_DIR/Support/Common/KB971512/
+Arguments: "$INSTALL_DIR/Support/Common/KB971512/KB971512-x86.msu" /quiet /norestart, Description: KB971512 Windows Update
+Identifier: vista_update, Version: 1
+Platform: WindowsVista, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: True
+=============================================Install Runs=============================================
+
+Exe: $WINDIR/system32/wusa.exe, Working Dir: $INSTALL_DIR/Support/Common/KB971512/
+Arguments: "$INSTALL_DIR/Support/Common/KB971512/KB971512-x64.msu" /quiet /norestart, Description: KB971512 Windows Update
+Identifier: vista_update, Version: 1
+Platform: WindowsVista, Platform Type: X64
+Ignore All Exit Codes?: True, Restart Required?: True
+
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Freedom Cry\installdir, Type: String
+Registry String Entry
+	Value | Language
+$INSTALL_DIR  | 
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Freedom Cry\Language, Type: String
+Registry String Entry
+	Value | Language
+English  | en-US
+Danish  | da-DK
+ Dutch  | nl-NL
+French  | fr-FR
+German  | de-DE
+Italian  | it-IT
+Norwegian  | nb-NO
+Polish  | pl-PL
+Brazil  | pt-BR
+Spanish  | es-ES
+Swedish  | sv-SE
+Finnish  | fi-FI
+Portuguese  | pt-PT
+ Czech  | cs-CZ
+Hungarian  | hu-HU
+ChineseTrad  | zh-TW
+Korean  | ko-KO
+Russian  | ru-RU
+Japanese  | ja-JP
+===========================================Install Registry===========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Freedom Cry\SKU, Type: String
+Registry String Entry
+	Value | Language
+    WW  | 
+
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/GEFirewall_rem.exe, Working Dir: $INSTALL_DIR/
+Arguments: 
+Platform: WindowsXp, Platform Type: X86
+
+==========================================Uninstall Registry==========================================
+
+Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Freedom Cry
+==========================================Uninstall Registry==========================================
+
+Key: HKEY_CURRENT_USER\Software\Ubisoft\Assassin's Creed Freedom Cry
+

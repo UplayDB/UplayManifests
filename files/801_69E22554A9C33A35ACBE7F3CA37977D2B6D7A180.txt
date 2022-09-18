@@ -1,0 +1,79 @@
+Total number of files   : 142
+Total size of files     : 1888362498 | 1,89 GB
+Total number of chunks  : 1
+Total bytes on disk     : 0 | 0,00 B
+Total bytes compressed  : 0 | 0,00 B
+
+Compression Method      : Deflate
+Version                 : 0
+GameVersion             : 
+Is Require Patch        : False
+Is file compressed      : False
+Chunk Version           : 0
+Legacy Installer        : 
+
+Max(?) Slice Size       : 1048576 (Depracted)
+Padded Slice Size:      : 0 (Depracted)
+Is encrypted            : False (Depracted)
+
+
+================================================Chunks================================================
+
+Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+
+===============================================Licenses===============================================
+
+Identifier: Game, Version: 1, Format: Html
+		SHA1			 |  Lang  |  Text  | Name
+4CBDEAFEE35EA7CC2191BF45C95D7B2A1E854A44 |  de-DE |        | 
+D26F3D85F96F4994929F70AEAAB3F6B851810F16 |  en-US |        | 
+E4D9EB886CE3A7922A3233603F9F2E9E55897C48 |  es-ES |        | 
+58B9D10361DB6122ABCC4B191386F419E7C75817 |  fr-FR |        | 
+214527F56C02912861D0BBEC5F171408C98ABC2B |  it-IT |        | 
+2275E36A566DE9D91AFFC9E045883C2C33FD42E8 |  ja-JP |        | 
+3ACF0C01A36F1EED7C4A8656CEBD2B79B6CF95E1 |  pt-BR |        | 
+E17672BFD54DE3FB8AB201D7140B449CA87D8859 |  ru-RU |        | 
+
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/DirectX/DXSETUP.exe, Working Dir: $INSTALL_DIR/Support/DirectX/
+Arguments: /silent, Description: DirectX
+Identifier: directx, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/VCRedist/VS_2010_vcredist_sp1_x86.exe, Working Dir: $INSTALL_DIR/Support/VCRedist/
+Arguments: /Q, Description: VC++ 2010 SP1
+Identifier: vc++2010SP1, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/FirewallHelper/FirewallInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: add 'ChildofLight.exe' 'ChildofLightDemo', Description: Windows Firewall rule
+Identifier: firewallrule_add, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/GDFInstall/GDFInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: /silent /allusers Support/GDFInstall/GDFWin.dll, Description: Game to Games Explorer
+Identifier: gameux, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: False, Restart Required?: False
+
+
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/Support/FirewallHelper/FirewallInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: remove 'ChildofLight.exe' 'ChildofLightDemo'
+Platform: WindowsXp, Platform Type: X86
+============================================Uninstall Runs============================================
+
+Exe: $INSTALL_DIR/Support/GDFInstall/GDFInstall.exe, Working Dir: $INSTALL_DIR/
+Arguments: /silent /u Support/GDFInstall/GDFWin.dll
+Platform: WindowsXp, Platform Type: X86
+
+
