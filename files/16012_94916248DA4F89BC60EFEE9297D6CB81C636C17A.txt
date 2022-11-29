@@ -1,0 +1,106 @@
+Total number of files   : 1
+Total size of files     : 15060496 | 15,06 MB
+Total number of chunks  : 1
+Total bytes on disk     : 15060496 | 15,06 MB
+Total bytes compressed  : 13952319 | 13,95 MB
+
+Compression Method      : Zstd
+Version                 : 3
+GameVersion             : 
+Is Require Patch        : False
+Is file compressed      : True
+Chunk Version           : 0
+Legacy Installer        : 
+
+Max(?) Slice Size       : 3145728 (Depracted)
+Padded Slice Size:      : 3147264 (Depracted)
+Is encrypted            : False (Depracted)
+
+
+================================================Chunks================================================
+
+Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: executable
+		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+B5DE1D4BE45E660C4505885671E760D23C293E6A | 172ACBD3289C3E868B9FB114CAC0CBFCA50CDE90 |   15060496 |  3145728 |  2878875 | Support/Software/VC_redist.x64.exe
+A1C77AA376B78B2C4A264DF0576953C38AE77DE0 | BF0588458EC2E9685A445C6F95F8E3C759B31AF7 |   15060496 |  3145728 |  2373109 | Support/Software/VC_redist.x64.exe
+3A0167E9C3B2D84B2D5663BBAEB0737C1E7F2EF2 | E4CBF200263972A7C1D5929F83194C13207BEB5B |   15060496 |  3145728 |  3090190 | Support/Software/VC_redist.x64.exe
+8F434FA7311BFFD06E54F82C25BA0739A1C54739 | D8D0086A227E31A8102F13FA4D956BD6DFAD115C |   15060496 |  3145728 |  3143304 | Support/Software/VC_redist.x64.exe
+567B639A14D52F63F7E55EE7F057FDFB3F982DB1 | 8311A71BD6FAFB64B40C03DD6A15F4ABCE5CA996 |   15060496 |  2477584 |  2466841 | Support/Software/VC_redist.x64.exe
+
+===============================================Licenses===============================================
+
+Identifier: denuvo_eula, Version: 200, Format: Text
+		SHA1			 |  Lang  |  Text  | Name
+D19CF9FE18044DC799921136DCCB8CDA9B1135B7 |  en-CA |        | 
+5319AFA38CDB682B90CD167C3795161827C9F30C |  en-GB |        | 
+441CBB76CF6FC23A26642301C1C0A9D17BB3F293 |  fr-CA |        | 
+D67702A5413E5FE41456AB23E434C248914E2A22 |  en-US |        | 
+4A8E90F781DF12C799A0ADE4619093C05C1C211B |  fr-FR |        | 
+DD78E33DF54D18F6BE3855920B87B4F806C6DBFB |  it-IT |        | 
+78FE0248411581B866797961DBC3DF87DD26CE08 |  de-DE |        | 
+EF9F858DFF9420D3310FAAA4DED978BF7AA98CAA |  es-ES |        | 
+F6A7FE0FD65BDB1C68A4502541903287A2BFD011 |  ja-JP |        | 
+4756A538491D9EF525910198A76A404DE29D1813 |  ko-KR |        | 
+60DA36DCAC2B8E7210E21B5FCC48C258C9F7E765 |  pt-BR |        | 
+68A8EE60E42A8548DE629E14693E6CD75A100303 |  ru-RU |        | 
+72F615C8DB87B7B70E5036506AC55A8E3D6FD249 |  zh-CN |        | 
+AC9B12DABE0F3155B6C78A26AF2650DEE16A33D5 |  zh-TW |        | 
+0C5BE856BF50578E0941B3359D211D89E7E7BAC8 |  pl-PL |        | 
+0C004415917B7FEDEA9E4003D724EC3D4D0531CA |  cs-CZ |        | 
+
+=============================================Install Runs=============================================
+
+Exe: $INSTALL_DIR/Support/Software/VC_redist.x64.exe, Working Dir: $INSTALL_DIR/Support/Software/
+Arguments: /quiet /install /norestart, Description: x64 VCRedist
+Identifier: vcredistx64, Version: 1
+Platform: WindowsXp, Platform Type: X86
+Ignore All Exit Codes?: True, Restart Required?: False
+
+
+========================================Install Firewall Rules========================================
+
+Name: The Settlers®, Exe: $INSTALL_DIR/The_Settlers.exe, Profile: All, Protocol: Tcp
+Ports: Any, Version: 1
+
+
+
+
+==============================================Languages===============================================
+
+Code: en-US, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: fr-FR, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: it-IT, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: de-DE, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: es-ES, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: ja-JP, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: ko-KR, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: pt-BR, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: ru-RU, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: zh-CN, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: zh-TW, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: pl-PL, UplayIds Count: 0
+==============================================Languages===============================================
+
+Code: cs-CZ, UplayIds Count: 0
