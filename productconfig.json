@@ -7694,5 +7694,13 @@
   {
     "ProductId": 62488,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62322,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Roller Champions™\r\n  sort_string: Roller Champions\r\n  background_image: 971630c11d68f305d2a776c3774cc28e.jpg\r\n  thumb_image: 97766662fc43533636352612af88187e.jpg\r\n  logo_image: 5fc41bdaaab8bf5bd889f36169250149.png\r\n  splash_image: eb56b40cb581cb7db8b23e3d0041eade.png\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      steam_app_id: 2211280\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2211280\\Installed\r\n      arguments: -uplay_steam_mode on\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: Rollerball\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  app_id: 34c5530a-84e9-4a0d-a557-85e9d7f9d004\r\n  space_id: 20d5c466-84fe-4f1e-8625-f6a4e2319edf\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62329,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Roller Champions™\r\nlocalizations: {}\r\n"
   }
 ]
