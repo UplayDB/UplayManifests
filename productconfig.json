@@ -2981,7 +2981,7 @@
   },
   {
     "ProductId": 4504,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'South Park: The Fractured But Whole - From Dusk Till Casa Bonita'\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4505,
@@ -2989,7 +2989,7 @@
   },
   {
     "ProductId": 4506,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'South Park: The Fractured But Whole - Bring The Crunch'\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'South Park: The Fractured But Whole - Bring The Crunch'\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4507,
