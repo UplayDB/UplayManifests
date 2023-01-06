@@ -1,8 +1,8 @@
-Total number of files   : 304
-Total size of files     : 12523588179 | 12,52 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3933653587 | 3,93 GB
-Total bytes compressed  : 3933653587 | 3,93 GB
+Total number of files  : 304
+Total number of chunks : 1
+Total size of Files    :      12523588179 Bytes | 11,664 GB
+Total size of Slices   :       3933653587 Bytes | 3,664 GB
+Total size Downloaded  :       3933653587 Bytes | 3,664 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , es-MX , fr-FR , it-IT , ja-JP , nl-
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 573FA4933011007E9959DB8A769AAF63A8B37782 | 573FA4933011007E9959DB8A769AAF63A8B37782 |      92176 |    92176 |    92176 | GameuxInstallHelper.dll
 D5DC2D8F514636350AC85E1DCFA63302CC51535E | D5DC2D8F514636350AC85E1DCFA63302CC51535E |   16266968 |  1048576 |  1048576 | gdf.dll
 2DDF1C8DE2180F214B57FF7721D84CAFF868938D | 2DDF1C8DE2180F214B57FF7721D84CAFF868938D |   16266968 |  1048576 |  1048576 | gdf.dll
@@ -12227,17 +12227,16 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Rogue\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
- Dutch  | nl-NL
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Polish  | pl-PL
-Brazil  | pt-BR
-Spanish  | es-ES
-Mexican  | es-MX
-Japanese  | ja-JP
+English, en-US
+Dutch, nl-NL
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Polish, pl-PL
+Brazil, pt-BR
+Spanish, es-ES
+Mexican, es-MX
+Japanese, ja-JP
 
 ============================================Uninstall Runs============================================
 

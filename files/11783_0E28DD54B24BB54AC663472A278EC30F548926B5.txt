@@ -1,8 +1,8 @@
-Total number of files   : 825
-Total size of files     : 177864798 | 177,86 MB
-Total number of chunks  : 32
-Total bytes on disk     : 177864798 | 177,86 MB
-Total bytes compressed  : 136609317 | 136,61 MB
+Total number of files  : 825
+Total number of chunks : 32
+Total size of Files    :        177864798 Bytes | 169,625 MB
+Total size of Slices   :        177864798 Bytes | 169,625 MB
+Total size Downloaded  :        136609317 Bytes | 130,281 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -26,7 +26,7 @@ Name: THE SETTLERS - Manual-FR.pdf | Locale: fr-FR
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5262DB752936515842B6E42D083131EBBB7C695F | 71728E4D9B07CA396DED69994F0F930BABA3F106 |         39 |       39 |       41 | ANIMALS.TXT
 D2C3DB37E860A21FA128E2EF7BD15C8205FE33A4 | 771D2E8BF200E0D0C8265DE471B232A6434A6662 |        690 |      690 |      305 | config.json
 6FA00AF264E35DC9BF84B9777C58F2476E76A4BB | C489F83DC15A9FFC3C502707DA40E581EC79BFE6 |     265396 |   265396 |   143882 | DOS4GW.EXE
@@ -53,13 +53,13 @@ C2BCF81E57009AD0E33FACC5681EC7D58763EC1D | AEDF3CB4B898C25592273C30D477E66DC5F52
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 19AC7A1AB237EA75700EE3C074BA8AF23F0AC8A8 | 8026EFADE4AF8DE5CBA7265914CA09D9D957BA81 |     664576 |   664576 |   246727 | config\Newtonsoft.Json.dll
 87F36B432A07791796B5F1C88CACBDFD0147C90C | 6CB76C6FD9F29A8674CEFFD092156D4B46FC7C31 |    1487872 |  1487872 |   709664 | config\Settlers2Config.exe
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 45C5BACB98AD08187815BD7DD5C30033E5353BB2 | 41B5C1F63BDC47F9E2B0A30A8D67BABC9EC6CB58 |      41143 |    41143 |    16317 | DATA\BOOTBOBS.LST
 7ECC601D51050729E499694A39F938C5F0F9DEF8 | 589D95245D5F0700796825B32140D4204A005B9C |      41043 |    41043 |    16314 | DATA\BOOT_Y.LST
 492092DC453FDE0D6D330CBC6E92BD474E61C52D | 60BDC229E1186615C50282D14931C8F91B0F8BC1 |      65111 |    65111 |    26075 | DATA\BOOT_Z.LST
@@ -92,12 +92,12 @@ C1AE620EED1B223C0F12E7B69AF31E6CABAC005D | 438EFEE57D8527438DBEAAD8C1763DBFCDF25
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 994196FE991C28A139CBD0D22D7EA5082354AD3B | D64312BEDC78FF3169F8D101F58490D61A8F40CF |      38404 |    38404 |     7622 | DATA\ANIMDAT\ROM_ANIM.DAT
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 EAFF548E2F3D90C599F71ED1A91A93269E6D99B7 | 8AF99A597D5252D9D14124426239888A9B930E8D |      20784 |    20784 |     7904 | DATA\BOBS\BOAT.LST
 05446B65A6758E9C21791FE7C04094F4847C3A1E | 9DFE4C40548AF68AE3909DE67BE403E8DA5A3188 |      79988 |    79988 |    39555 | DATA\BOBS\CARRIER.BOB
 B62750B5425D8223D8BB529CB55153914AE7CA7C | 04CDF9FE33E27A966CB3DBA43ACD43A8505DBF08 |      91820 |    91820 |    44171 | DATA\BOBS\CARRIER2.BOB
@@ -105,12 +105,12 @@ B62750B5425D8223D8BB529CB55153914AE7CA7C | 04CDF9FE33E27A966CB3DBA43ACD43A8505DB
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 19A8BC8B4B9B922FCFDBBEF3C9FC3FBA76A48492 | 8F6823D94450B67EDDBCD1C2865019552A0AA961 |     496307 |   496307 |   160351 | DATA\CBOB\ROM_BOBS.LST
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E2225220BDD1878BF4FCC630D1C0BAFCF72508D4 | A745334F53A4E4B1C67AAE0D0244540918F8DCFD |     168394 |   168394 |    73320 | DATA\IO\EDITIO.DAT
 EE9DC748C69C43E222A87D02ACC49696C2CDDD8A | CB763331F13F9D351C70C2064F295307B6C3F69F |       4176 |     4176 |      887 | DATA\IO\EDITIO.IDX
 D36CD326D8E680E8EB969EE4BAC7DDB8E4651E1B | C106E85D64608FB773ED115CC7CCF686EAB602A4 |      16315 |    16315 |     4711 | DATA\IO\FONT14.FNT
@@ -119,7 +119,7 @@ D36CD326D8E680E8EB969EE4BAC7DDB8E4651E1B | C106E85D64608FB773ED115CC7CCF686EAB60
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C7E2EDB468042CD961AD72353EABF3D31490CCC8 | CB8967F074713613C84821C1E49D7C6539B47B4E |      59921 |    59921 |     6056 | DATA\MAPS\MISS200.WLD
 3CECC79EC8D7AB93838F7BE49AB7238C6D34A940 | 16C745F98863A8CD0F15C352ECE9458DF1344BBD |      88593 |    88593 |    12482 | DATA\MAPS\MISS201.WLD
 24D54825C9E2BA620FA81C9E18F43AE482B079A4 | AD1DC8A99BF42B937DC8E16016E749E2DDD92318 |     231953 |   231953 |    27219 | DATA\MAPS\MISS202.WLD
@@ -133,7 +133,7 @@ D9181EBE0C5536AFFBE76DD83D7908FBD353825C | 3A888BDCF415F89959D82B8FE053A8E321884
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C146BEE9763329F910059BAC35FA7F94C879A58E | 8FDFE6670774454C0C39DB69EB92D1D40D75761F |     608308 |   608308 |    60911 | DATA\MAPS2\AFRICA.WLD
 4C5DA6755A6513BB86F689A543B0A47559DE9087 | 82CCB765462F15B6467628A5B2B1FB4295DA8983 |     203281 |   203281 |    24267 | DATA\MAPS2\AUSTRA.WLD
 8747E2B3D7AABCEA93FAB6C17180E7AEC0101941 | D8A1FB9E4DE43CF3C1EDECD099BE12113F74DCAD |     705921 |   705921 |    98443 | DATA\MAPS2\EUROPE.WLD
@@ -146,7 +146,7 @@ CE82D65233DE31DDB62B7993D9799CBC4C284C74 | E049FD342F81B6CB7409D3D8FBD573C031A9D
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5DCFB637FC6E32A9829FA00038E2A0EF2E2A5794 | 683005AAC8C71267EF1FEE094DC303D0962A84BA |     292881 |   292881 |    35855 | DATA\MAPS3\AKARTE00.WLD
 A11BDFEA63A95202CD9E213FB78FA4DABF78B7CC | D08EE1E79C6B9231095A67F31EF732A2D8598521 |     228369 |   228369 |    26616 | DATA\MAPS3\AKARTE01.WLD
 B3E59E1BA22962A3727AB10DF4F5C4F1C346B98B | A2CFF218C13D4DE8047B8A5439457B06A48F10AF |     325137 |   325137 |    39773 | DATA\MAPS3\AKARTE02.WLD
@@ -168,7 +168,7 @@ C7F1DDFFF0C733B434EFA5A1E61009456D41FA8D | D7D9B2907C4D6E7D11DCE6A47984356F0D910
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0103F3601664705F85518FABF0382F60C7ED3AEB | 4D9858C8FBB84D4733123BD2C8FDB950A96A3D87 |     203281 |   203281 |    34887 | DATA\MAPS4\KARTE01.WLD
 DD8B0B03F63C8913D58F0F52FCE5DBB8E9E5DDE5 | 0F812C59CDB11E6D305CCFD7AC2F2745D5AABD14 |      60011 |    60011 |     8087 | DATA\MAPS4\KARTE02.WLD
 1B8CA7FB1BBD21C132D086D4196ACCA5FB3BF411 | 22568BB1F19DCDB83F1F5B9C0805C117476CD365 |     231988 |   231988 |    15679 | DATA\MAPS4\KARTE03.WLD
@@ -184,12 +184,12 @@ CA7952FD4850CB8D6D016097AB9A52C58BE86E6B | 38373FD6C7EC5ACC217DB208DA4FCEA68CF01
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5D3FF73197F3E426B75FBF45CE9A730F3BF3F6A3 | 86932D5459F80088AE4A7B1F53118C006713FA3C |         12 |       12 |       18 | DATA\MASKS\MASKS000.DAT
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E8C542E7C2F6E85D1B69EEC328B0E878A759576D | 1CFEB1607DE3B08F4612BB951747099EEE10EEED |     265314 |   265314 |   128714 | DATA\MBOB\AFR_BOBS.LST
 69E53D9DF91425EE48A386FE764F569C0D1492FE | BA5BB3542F56A3BC7A5B30F798AD3B72D2A48C3E |      21983 |    21983 |    16675 | DATA\MBOB\AFR_ICON.LST
 37E25A0BEB3A3B32CB434A8C5686C511BCB69C3F | 7144D8FE2BD2356A82764E1CAD2589595DAC654B |     254674 |   254674 |   122660 | DATA\MBOB\AFR_Y.LST
@@ -218,7 +218,7 @@ D4E769331F58CCC72A75682C362363574827A515 | A2514B136E8069820405D19E275D0CED355F1
 ================================================Chunks================================================
 
 Chunk ID: 13, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 BCFCDD18ECAAE51DCCE9F8D1AAF4A808AC76303E | E97D746ACB576B4B4D5C6326318E537534994093 |       4499 |     4499 |     1008 | DATA\MISSIONS\MIS_0000.RTX
 BEC537C9D8341002102B0AC10EA194965857077C | 9284C625BEEA7193BE281FA7F9CDF758AF261182 |       4759 |     4759 |      894 | DATA\MISSIONS\MIS_0001.RTX
 1ED6B699F517A016A2791CD7BB10BC5930FBDBAA | CCE7052E794829D4E40721666DA98D405EE66104 |       5801 |     5801 |     1134 | DATA\MISSIONS\MIS_0002.RTX
@@ -252,7 +252,7 @@ A85FDD7FA8534C9FC3EE8BB5C9288877F32FD82A | F7E609B53FDC1031A92A5F9DF25CEA94A3444
 ================================================Chunks================================================
 
 Chunk ID: 14, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3B00ABA3CF3754F2D4DDB56C8C3418352A397042 | FDA4182A7DA9F1ED6130F1EC15008565AA5CF488 |       5586 |     5586 |     1481 | DATA\music\01.mid
 D1DD09A2A716ED6AB99F3EAD955EF9402165827C | 75C22E971962DB599665D7B136FD71631A850562 |       7340 |     7340 |     3993 | DATA\music\02.mid
 61769C21CE90A305510E94A470C4D9C61279DBF5 | 7AC1CC5F880EDEFE756C31EFE16B482A313CB354 |       5489 |     5489 |     2609 | DATA\music\03.mid
@@ -270,7 +270,7 @@ CBC61EEDE10483F9039034236A9404892E58CB82 | 5D96B7F8FA570DCFCA2CCE895D0A81196A4E1
 ================================================Chunks================================================
 
 Chunk ID: 15, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4F32683C3008239068E006E0DF3098A74F162014 | ACCDC4BCC4E570851A391201DC233A6EF62CF2A5 |      10040 |    10040 |     4412 | DATA\sound\0001.WAV
 17D1BBF1C1CE6B9D3BFB892584D4BCD14C30E5C1 | 3D468389431302C2286ECC45842CA980C246745B |       5700 |     5700 |     2911 | DATA\sound\0002.WAV
 3C4630FD306FD75C73A36407E27E89DD9BA5368C | 474D380EF36D6B1C990BF586F56D98B7FE2570CA |       6342 |     6342 |     2577 | DATA\sound\0003.WAV
@@ -329,7 +329,7 @@ B6D99EFC15962A1FCDB259E8A4EEA58BADBFEC6D | 6FA5EB3BDF00A3DE97B054856DDF0A61FC655
 ================================================Chunks================================================
 
 Chunk ID: 16, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 901F6A304800458E23562914ABA78DFF5DAF4F5E | 4AAA839712760B4053EBC579AE1C587F86FA39B5 |      65536 |    65536 |     8886 | DATA\TEXTURES\GOU5.DAT
 6BDFD39AE523C0186FEF86C8B33E6A55AC09B724 | 177257D979212EFDEBF430C62E8F231DA2235FDA |      65536 |    65536 |     8852 | DATA\TEXTURES\GOU6.DAT
 D20368804151E7304285757C77E4FEE903731474 | EDED25A30FCF7BBAF2705B55E7DF9552ADD08AB1 |      65536 |    65536 |     8748 | DATA\TEXTURES\GOU7.DAT
@@ -339,12 +339,12 @@ D20368804151E7304285757C77E4FEE903731474 | EDED25A30FCF7BBAF2705B55E7DF9552ADD08
 ================================================Chunks================================================
 
 Chunk ID: 17, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F0E2B81A50E11B3D9146E4E55F437CAD77F86184 | 8F2B00E289F1B958B5D0600CD91AE2F14FFB7AC4 |       2707 |     2707 |     1289 | DATA\TXT3\ONGAME.ENG
 ================================================Chunks================================================
 
 Chunk ID: 18, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D22FB1C2E2809BFEA99807C4F4AC620F342E4F80 | 58A7E57FC484969F829C7BB2EEE7CA07C8803ADF |    3755520 |  3145728 |  1177832 | DOSBOX\DOSBox.exe
 9CF54A3AC42E90A324DB3EC19DA64DFD08B7DA1D | E257E7A1549626819F6F313445990B03A19A7C80 |    3755520 |   609792 |   325784 | DOSBOX\DOSBox.exe
 598D1DD9672F76BA9FF3B350BC3E15E4E34F5FEB | A6F2589A6878E7C3384D9592077900C747232B0D |     448231 |   448231 |   186754 | DOSBOX\SDL.dll
@@ -352,7 +352,7 @@ AB856E34CC595F850F35A3D8916C76AA73E84C19 | E8ADB7E4821D98BD26062C793288DBF7754F6
 ================================================Chunks================================================
 
 Chunk ID: 19, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A770DCDB2F2C58081C440D8572A624A435623727 | 1F19C757259CAC7B5F04281AC8830F8BECE3C8D2 |      14986 |    14986 |     4126 | DRIVERS\ADLIB.MDI
 969F162326068AECD078E7EB58C4FD9F59383331 | 14F61539BF8438F68ADD723FEF2EF76821FA9FD8 |      16377 |    16377 |     4581 | DRIVERS\ADLIBG.MDI
 07A451F9237E4E0264B5874DF50194EDD2223DFE | 255ECB5D649895D65BCA49BD6AFCBDF875E34BF2 |      11278 |    11278 |     1935 | DRIVERS\ADRV688.DIG
@@ -388,13 +388,13 @@ B61C72A2FB1E8F7B562252C1170032AB657A19EE | 01E3FFEF3AA6E9D312F190A9403FF8D167743
 ================================================Chunks================================================
 
 Chunk ID: 20, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C519A486E8DBD32FD9BA5D70DA0370152064CC0F | B4064AE81915AE93F65530AD4F7FDD95CD5A6587 |      14892 |    14892 |     1923 | GFX\PixelShader.cso
 B1DCE43BF52888BE00BFAB249B6D79421B19CF37 | E7931E6CAC995A4BB376362ADA75118870E917B9 |      12244 |    12244 |     1286 | GFX\VertexShader.cso
 ================================================Chunks================================================
 
 Chunk ID: 21, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9D6E760562DBAE32115CC79383F55AA7192249E4 | 1DCF34F3040D239B5FD66CE1E42155F2F0AD7465 |       1338 |     1338 |      838 | GFX\PALETTE\PAL5.BBM
 08EF382F2D1DD73FEBC50774390EFF0628781149 | B7A5772B9D68ACACB0F63E47863A95B6109FB4F1 |       1232 |     1232 |      821 | GFX\PALETTE\PAL6.BBM
 06562304F0EFE29533CB9226C22510709FE09407 | 93DDA293483608E4ECA2D8F95C0FE82826767DB1 |       1170 |     1170 |      816 | GFX\PALETTE\PAL7.BBM
@@ -404,7 +404,7 @@ F1F458B514F78DC33F6927BECEF45CB1F3D1308A | 3E573C89B5FB94C387CFDB1A96F1C98F649C4
 ================================================Chunks================================================
 
 Chunk ID: 22, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 84471C2B8D0D766008F49C003BDF6638181E5FB9 | 6EE1EAC6B5F6653AFCB00A4443336AFAF89AED29 |      60904 |    60904 |    49053 | GFX\PICS\INSTALL.LBM
 5E7D5B4A2E458B57D185FAE0917A8D8643B3420A | 64D306C000A7FBC6A8520702965160D473EC4386 |     177400 |   177400 |    27682 | GFX\PICS\SETUP000.LBM
 A28088C463D1CD6F6DB5F69C2134CCD35002229A | BC4DA223B800CE66D41A88FB5D1132DAE08BFF4C |     211978 |   211978 |    64324 | GFX\PICS\SETUP010.LBM
@@ -438,7 +438,7 @@ C34A57186DDE353DD4D1836110C20014C578DAC0 | 0934FB56D1890033498D088FEFC87C79ED183
 ================================================Chunks================================================
 
 Chunk ID: 23, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 BC374AF4E7E296B06966B0AB1D95260A3A81AE7D | 78937BC8DCCF82C4C3A4E2A46701BC917B961BDA |     195752 |   195752 |   123016 | GFX\PICS\MISSION\AFRICA.LBM
 A3BBAC87C5359E86664AA9C90484551036B9203F | B27388000A50022358DCB9D37B5705D743B8A9E8 |     244708 |   244708 |   152642 | GFX\PICS\MISSION\AUSTRA.LBM
 ED5261446A0BE516FAE969EAC33E2E85DBD8F84B | A8496DC212E45D002A54A4973F3DB154AD7B944E |     255064 |   255064 |   144604 | GFX\PICS\MISSION\EUROPE.LBM
@@ -451,7 +451,7 @@ F92F12D8AE14605DB60191CB14899412ACE1AD87 | 4AF4669A106D13862C83662CD6771FBE5F4C7
 ================================================Chunks================================================
 
 Chunk ID: 24, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 73DDF803E818DAEC1DEB5A797DD27ED4B0C907D2 | C439D792DF7AD30B0BE123404AA48E1930588095 |      45344 |    45344 |    24351 | GFX\TEXTURES\TEX5.LBM
 C1F63CD8F516FB2B862499BD0D92555CF200D759 | 694E3F429CFE85F56F3A4AEEE0A429C062FDF38F |      42638 |    42638 |    23212 | GFX\TEXTURES\TEX6.LBM
 DABAE6897343A627271C7606B2B79B05B6A8B4A1 | 51F214730057D1B1BD5255461E33312C6FBF84F2 |      41266 |    41266 |    23260 | GFX\TEXTURES\TEX7.LBM
@@ -460,7 +460,7 @@ DABAE6897343A627271C7606B2B79B05B6A8B4A1 | 51F214730057D1B1BD5255461E33312C6FBF8
 ================================================Chunks================================================
 
 Chunk ID: 25, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1358C0FCE6404DA4C24710C5BAC692F2D6E085B2 | B5B89DE9C721A8DC10DAFB01FA7732205E961903 |         28 |       28 |       36 | LOCA\ENG\CREDIT00.DAT
 1358C0FCE6404DA4C24710C5BAC692F2D6E085B2 | B5B89DE9C721A8DC10DAFB01FA7732205E961903 |         28 |       28 |       36 | LOCA\ENG\CREDIT00.ENG
 4634C983A086DD819CF50D58F74DB24A1C8329B1 | BB83DF58FBA56712618F44040B4BFEDC83E538A4 |         57 |       57 |       55 | LOCA\ENG\CREDIT01.DAT
@@ -628,7 +628,7 @@ D735B47D5DBDA72C61FD2CA78D372AB4BB7645E2 | 7327EC331B4C4066B89F6C4A96D27412CC1B8
 ================================================Chunks================================================
 
 Chunk ID: 26, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ADB484E032304325F2A92F80A7A14A055FAB9F4E | 653D56C7E4D19842CB98423C7619319A155F4600 |         31 |       31 |       36 | LOCA\FRE\CREDIT00.DAT
 1358C0FCE6404DA4C24710C5BAC692F2D6E085B2 | B5B89DE9C721A8DC10DAFB01FA7732205E961903 |         28 |       28 |       36 | LOCA\FRE\CREDIT00.ENG
 B4098890EE87E175D4B02DCC5BC72B949409C9EB | C8B4046B8391E2C03F3588E9A996B40B42F6740F |         60 |       60 |       59 | LOCA\FRE\CREDIT01.DAT
@@ -794,7 +794,7 @@ D735B47D5DBDA72C61FD2CA78D372AB4BB7645E2 | 7327EC331B4C4066B89F6C4A96D27412CC1B8
 ================================================Chunks================================================
 
 Chunk ID: 27, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3AECB08D947ED4981BDF7368A04AFBAED4A5E350 | 2D826B3C5695CAE359FB46C163431C7612DF3D95 |         23 |       23 |       31 | LOCA\GER\CREDIT00.DAT
 3AECB08D947ED4981BDF7368A04AFBAED4A5E350 | 2D826B3C5695CAE359FB46C163431C7612DF3D95 |         23 |       23 |       31 | LOCA\GER\CREDIT00.ENG
 179A103FF152989D4B5986BE71277071429EA8EF | 28F447F1BE41287BEA0B9A500D678CCE4FF5E844 |         56 |       56 |       51 | LOCA\GER\CREDIT01.DAT
@@ -960,7 +960,7 @@ DF7050FB24F8CB08066ECDB43AA4180C8EC6A02A | B37FA5D216DE89EED22D29A13521CF1235C56
 ================================================Chunks================================================
 
 Chunk ID: 28, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D9A5109E85D09CBA536BEEBB37E1AFE96E5E06F3 | 1489F923C4DCA729178B3E3233458550D8DDDF29 |          2 |        2 |       10 | SAVE\last.dat
 0320AFA2FEEAAB18B77329B9B2A95658013EC68A | 21ED4C7AF50D987589A9029FC0422151BE3A0FC2 |          2 |        2 |       10 | SAVE\RES.DAT
 1984BE2F00C6DE5E173F6A0D847734023CBEE04E | 69E9C502E9E4257A730BD05C8FBFB3A52B8F7759 |     208038 |   208038 |    11089 | SAVE\save_000.sav
@@ -970,7 +970,7 @@ C76CFB80FE2748BF8AB72B05A616ACBC3A98E7F1 | B02ABD7530BC0D749E04A29FB6304714F7E1C
 ================================================Chunks================================================
 
 Chunk ID: 29, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A17AF21A847F7DA66741201D49B942E1582B19D8 | 550F420B7A455D7B4A83149BE653A8AD6000E8FD |   14572000 |  3145728 |  2935075 | support\vc_redist.x64.exe
 177FEB1168C1038051FBE64F0425ECB8A241742A | 7CE46B69B15935EBC316DE461B823CB4C18CAEE0 |   14572000 |  3145728 |  3146694 | support\vc_redist.x64.exe
 19A97F201561EC655398F8B878251AD718DDDF3C | D30810E6DA1EB33A069BCBA9855F8BEF3CB13DF4 |   14572000 |  3145728 |  3146694 | support\vc_redist.x64.exe
@@ -984,7 +984,7 @@ A1B905FFDFE9515555442DB2B2AEAE845882D9CF | BF08830CC38D1DB2D5BF1BAA42658B7002C0C
 ================================================Chunks================================================
 
 Chunk ID: 30, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7CED23686320A8213F0B46E744153056ED8A5372 | 169D10646B1CF0615E5B6D073FD76F10EAA6EC88 |   19979346 |  3145728 |  3091871 | VIDEO\INTRO_EN.avi
 119E36CACA7830FE3F114E6BB660EA425F6C9FEF | DFE80C7CEBE8A917BB77DF71614115638CD66534 |   19979346 |  3145728 |  3114318 | VIDEO\INTRO_EN.avi
 EF9241F3C309A5D56D595CF951A43F7204F19F6E | ECB380C1995406FE38E949CA0701AF2243D84F8D |   19979346 |  3145728 |  3081363 | VIDEO\INTRO_EN.avi
@@ -1011,7 +1011,7 @@ E325F9F38B34232DDD99D77376A95E97AAB10D03 | 2BB250A74F20F0E2590EC0B7BFF2F2976B729
 ================================================Chunks================================================
 
 Chunk ID: 31, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2B4AE236B4083A608752FC4A3A106C61E0019EE5 | B858CB282617FB0956D960215C8E84D1CCF909C6 |          1 |        1 |        9 | WORLDS\user.maps
 
 ===============================================Licenses===============================================

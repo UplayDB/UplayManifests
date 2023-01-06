@@ -1,8 +1,8 @@
-Total number of files   : 353
-Total size of files     : 611424674 | 611,42 MB
-Total number of chunks  : 1
-Total bytes on disk     : 611424674 | 611,42 MB
-Total bytes compressed  : 451512592 | 451,51 MB
+Total number of files  : 353
+Total number of chunks : 1
+Total size of Files    :        611424674 Bytes | 583,100 MB
+Total size of Slices   :        611424674 Bytes | 583,100 MB
+Total size Downloaded  :        451512592 Bytes | 430,596 MB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: en-US ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A6E25FCA97FB123F2395827B4AF6D035939FACBE | E4D554E03BA91F6B53A2A80253B339F56E303C94 |      96264 |    96264 |    49491 | GameuxInstallHelper.dll
 86EB95685C8787744D94AAD67A8FB9B41E90167F | 00649914D51AC9F7320D0DD2504506FFD0119D71 |     123953 |   123953 |   115661 | gfw_high.ico
 A062F70A130562F61887ECBEF134BE785FA0A002 | 9EE9CB2845FF7AF90BB849078215D8B09A0DDA77 |        704 |      704 |      398 | gog_speedbusters.sdb
@@ -612,20 +612,17 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft\SpeedBusters\Exec, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\SpeedBusters.exe  | 
+$INSTALL_DIR\SpeedBusters.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft\SpeedBusters\Version, Type: String
 Registry String Entry
-	Value | Language
-  1.00  | 
+1.00, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft\SpeedBusters\install_dir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 446
-Total size of files     : 43790276027 | 43,79 GB
-Total number of chunks  : 38
-Total bytes on disk     : 840603067 | 840,60 MB
-Total bytes compressed  : 0 | 0,00 B
+Total number of files  : 446
+Total number of chunks : 38
+Total size of Files    :      43790276027 Bytes | 40,783 GB
+Total size of Slices   :        840603067 Bytes | 801,662 MB
+Total size Downloaded  :                0 Bytes | 0,000 B
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: cs-CZ , de-DE , en-US , es-ES , es-MX , fr-FR , it-IT , ja-
 ================================================Chunks================================================
 
 Chunk ID: 24, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 7B6DE3D982DCB3A014858E0D1528E34271635973 | 3767566336 |  2097152 |        0 | DataPC_ACU_Paris.forge
                                          | 35DDB611A58C3DEDCD4E9C1FA49A0683E5347C95 | 3767566336 |  2097152 |        0 | DataPC_ACU_Paris.forge
                                          | B4AD5B16FDB82099535B55B81E1DCD3C6B4012A0 | 3767566336 |  2097152 |        0 | DataPC_ACU_Paris.forge
@@ -1822,7 +1822,7 @@ Chunk ID: 24, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 25, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 39BF1959B923A5200DCCD4C36542926F358132F0 | 14847574016 |  2097152 |        0 | DataPC_ACU_Paris_gi.forge
                                          | AB95530E234863F72D46322520331E4C1DF9A618 | 14847574016 |  2097152 |        0 | DataPC_ACU_Paris_gi.forge
                                          | 7D76D48D64D7AC5411D714A4BB83F37E3E5B8DF6 | 14847574016 |  2097152 |        0 | DataPC_ACU_Paris_gi.forge
@@ -8906,7 +8906,7 @@ Chunk ID: 25, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 27, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 99E753FD0A1EAA6820C3F4BD42761FE1B5CBF404 |  254640128 |  2097152 |        0 | DataPC_ACU_RebirthRitual.forge
                                          | 7B8E2E25AEE9F5106A125F7DF45A6AB6BD8E0C15 |  254640128 |  2097152 |        0 | DataPC_ACU_RebirthRitual.forge
                                          | A59791D728499DBB10DFE8CE45B9D66334B8A7FC |  254640128 |  2097152 |        0 | DataPC_ACU_RebirthRitual.forge
@@ -9032,7 +9032,7 @@ Chunk ID: 27, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 21, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | D7FC689CA209EFFE2B9FAAD1A77F284253CA62D3 |  867283063 |  2097152 |        0 | sounddata/PC/sounds_sfx.pck
                                          | E4F8B63335296B6D6D40E28F739C5BFB961EF290 |  867283063 |  2097152 |        0 | sounddata/PC/sounds_sfx.pck
                                          | C24D6F618B4B8AF88EB8ED9A9446124A4C04E5E6 |  867283063 |  2097152 |        0 | sounddata/PC/sounds_sfx.pck
@@ -11036,7 +11036,7 @@ Chunk ID: 21, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 22, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 1544700EBFE7E32A28712D7234473D55581C01E0 |   44628140 |  2097152 |        0 | videos/COOP_LB010_SC000_CIN.bk2
                                          | 88D7FECD3F17A87D03C7BB138220DC01F38431C0 |   44628140 |  2097152 |        0 | videos/COOP_LB010_SC000_CIN.bk2
                                          | 253A6789DB47FB6413B037D697BC74F2118FBCC1 |   44628140 |  2097152 |        0 | videos/COOP_LB010_SC000_CIN.bk2
@@ -11568,7 +11568,7 @@ Chunk ID: 22, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 28, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 24B758D76CE4928648AF394806E5F99C0FA54265 |  207978496 |  2097152 |        0 | DataPC_ACU_RebirthRitual_gi.forge
                                          | C0C632D08B43F770E6E4DB986CBC161E94465BBA |  207978496 |  2097152 |        0 | DataPC_ACU_RebirthRitual_gi.forge
                                          | 1677272BEF106C4549EC5C4AF17A1BEB7E58C846 |  207978496 |  2097152 |        0 | DataPC_ACU_RebirthRitual_gi.forge
@@ -11672,7 +11672,7 @@ Chunk ID: 28, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 63458298D4E547A5C01D52E2C2A74DD2473139DB |     562718 |   562718 |        0 | ACU.ico
                                          | D72235F8448F5D56E8BB143791F1E58A69F32201 |     441560 |   441560 |        0 | bink2w64.dll
                                          | F4CFA9A4BEC7653D758C26FC0EA7B55A531A5CF3 |    3438296 |  2097152 |        0 | GFSDK_ShadowLib.win64.dll
@@ -12616,7 +12616,7 @@ Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 23FE7B714867288CFB61B063B364EB0259D6434B |  305922048 |  2097152 |        0 | DataPC.forge
                                          | EC13E531F68A3F0AB59793673FDC6F38697D3DEB |  305922048 |  2097152 |        0 | DataPC.forge
                                          | 3DDB01BDAA05BFD2A95671FD6FFD613546E99BAF |  305922048 |  2097152 |        0 | DataPC.forge
@@ -12766,12 +12766,12 @@ Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 55F2076CED5F875561CA5924F624BF76716AFF3D |      32768 |    32768 |        0 | DataPC_TitleScreenFPP_gi.forge
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | B46CECFAF0EC04D51CFDCF570D91F06249C13A1B |  117243904 |  2097152 |        0 | DataPC_TitleScreenFPP.forge
                                          | 3B181F11F20D981AD57C8D8DD8DDA874EA6B6062 |  117243904 |  2097152 |        0 | DataPC_TitleScreenFPP.forge
                                          | D63015C547FA15FB2437F6A8333E8A6FC97A3F1A |  117243904 |  2097152 |        0 | DataPC_TitleScreenFPP.forge
@@ -12831,7 +12831,7 @@ Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | A13EEC854AABDB180E859291DE34E841AC7A2E67 |  431357952 |  2097152 |        0 | DataPC_extra.forge
                                          | 5F3D5CCFA21B088385F277B458B546CBDAFDE5DE |  431357952 |  2097152 |        0 | DataPC_extra.forge
                                          | 9801D8465FACA85AADF1A7F0D8312EB49D5CF474 |  431357952 |  2097152 |        0 | DataPC_extra.forge
@@ -13041,7 +13041,7 @@ Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 38, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | AFCD218F6334E255F3B4780F5C55C879205BB216 |  175800320 |  2097152 |        0 | DataPC_ACU_LGS_WorldWar2_gi.forge
                                          | 3F9191DB725D7B9182F3F1A1B6496B198717CF2E |  175800320 |  2097152 |        0 | DataPC_ACU_LGS_WorldWar2_gi.forge
                                          | 2D46C69B4DB646FD5A8D6F2B07592D929FB5B1E2 |  175800320 |  2097152 |        0 | DataPC_ACU_LGS_WorldWar2_gi.forge
@@ -13129,7 +13129,7 @@ Chunk ID: 38, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | C5A9BCEDF1B406CD8E379E6CE26D0C11997832ED |  277807104 |  2097152 |        0 | DataPC_ACU_Prologue.forge
                                          | 65F4DD20AF1FB20FC1D899162F25798141E2C47E |  277807104 |  2097152 |        0 | DataPC_ACU_Prologue.forge
                                          | 87FDC4E9CC4D4CDACD7528AF08C0D392EF083F1D |  277807104 |  2097152 |        0 | DataPC_ACU_Prologue.forge
@@ -13266,7 +13266,7 @@ Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 77471DB26B53F99EBDE8F5043058A3B419474633 |  438737684 |  2097152 |        0 | sounddata/PC/sounds_sfx_install_2.pck
                                          | 976EC820ABDD43A62A839306923EC8248CD9A037 |  438737684 |  2097152 |        0 | sounddata/PC/sounds_sfx_install_2.pck
                                          | 2D9E0259956408747AC61AC35AA3B00ABF7DC9DA |  438737684 |  2097152 |        0 | sounddata/PC/sounds_sfx_install_2.pck
@@ -14449,7 +14449,7 @@ Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | D594DBFC780C3E4BFA553E47477D2A7670C291E5 |  225181696 |  2097152 |        0 | DataPC_ACU_Prologue_gi.forge
                                          | 51DA74D39B2E4D42B9EA22FD4DC97F2256CC17F1 |  225181696 |  2097152 |        0 | DataPC_ACU_Prologue_gi.forge
                                          | 48498FBC9F3A11AD4A4A35A96B508D233E00E36A |  225181696 |  2097152 |        0 | DataPC_ACU_Prologue_gi.forge
@@ -14561,7 +14561,7 @@ Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 15, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 0405C9D8F124F0FE38D4D840287D0287B66BEF96 |    5085256 |  2097152 |        0 | videos/Skill_AirAssassination.bk2
                                          | 041620062B94C54B6FD4B1F1139675B51CEC102C |    5085256 |  2097152 |        0 | videos/Skill_AirAssassination.bk2
                                          | AA2473AA3A6F403EA41A5BC791BA3CB16A6E9B59 |    5085256 |   890952 |        0 | videos/Skill_AirAssassination.bk2
@@ -14692,7 +14692,7 @@ Chunk ID: 15, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 14, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 7FE9B288FB9558629FCBCA23D30F1E1C131D9990 |  166546048 |  2097152 |        0 | sounddata/PC/sounds_sfx_install_3.pck
                                          | A694106C434869115199C8B9364D0E6F34CD1BAC |  166546048 |  2097152 |        0 | sounddata/PC/sounds_sfx_install_3.pck
                                          | E4FBF07920C9C907FDF168C7F7CBC2BC173C0D9A |  166546048 |  2097152 |        0 | sounddata/PC/sounds_sfx_install_3.pck
@@ -14831,7 +14831,7 @@ Chunk ID: 14, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 17, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | BD04FCCEA2EB0B20A726C30D61AA80F17957B367 |   55980996 |  2097152 |        0 | videos/SQ01_M030_SC008_CIN_Carriage.bk2
                                          | DB305215EDC129ECBA8ADA83E056B7CE260FB917 |   55980996 |  2097152 |        0 | videos/SQ01_M030_SC008_CIN_Carriage.bk2
                                          | 07E83F39E03A01912CB1F5B5AF1A8C554B12CA5F |   55980996 |  2097152 |        0 | videos/SQ01_M030_SC008_CIN_Carriage.bk2
@@ -14891,7 +14891,7 @@ Chunk ID: 17, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 19, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 2DCBE0CBA2035F610DE36BFBE7F719641282BB33 | 1409384448 |  2097152 |        0 | DataPC_ACU_Versailles_gi.forge
                                          | B69AB46F56FC2BE419B8EBEDB2CDE1E7B90C78C3 | 1409384448 |  2097152 |        0 | DataPC_ACU_Versailles_gi.forge
                                          | 54177016123359D05F187D7534AC4B551B787DEC | 1409384448 |  2097152 |        0 | DataPC_ACU_Versailles_gi.forge
@@ -15568,7 +15568,7 @@ Chunk ID: 19, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 18, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | CDC2A144EF6238E6F9C4D5DCD2E6AE829EF2D3B6 |  619413504 |  2097152 |        0 | DataPC_ACU_Versailles.forge
                                          | 7BAEA452D5E8C13EA9590F3079996B6FEAB48B56 |  619413504 |  2097152 |        0 | DataPC_ACU_Versailles.forge
                                          | 70E5402E75A81116302783FFCE15158DD038470A |  619413504 |  2097152 |        0 | DataPC_ACU_Versailles.forge
@@ -15868,7 +15868,7 @@ Chunk ID: 18, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 31, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 895D62F6A4E109B5AB3C69ED661C31D5EB0E3816 |  234848256 |  2097152 |        0 | DataPC_ACU_LGS_BelleEpoque.forge
                                          | A5E3ABDA5B59FC0B2B8B5B9C0CDDFE7B944E7041 |  234848256 |  2097152 |        0 | DataPC_ACU_LGS_BelleEpoque.forge
                                          | CAF5BC249121E3DB25EDB683784EECE06C240A0A |  234848256 |  2097152 |        0 | DataPC_ACU_LGS_BelleEpoque.forge
@@ -15984,7 +15984,7 @@ Chunk ID: 31, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 37, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 26922E21BA08974AA957A41C0D1470770AD9AA6F |  144670720 |  2097152 |        0 | DataPC_ACU_LGS_WorldWar2.forge
                                          | 6B8D880C47955A9D10A7A5746AAE1722CEF5AE74 |  144670720 |  2097152 |        0 | DataPC_ACU_LGS_WorldWar2.forge
                                          | 48A9F97E6DAA277CABF6523ECB3C8C65D4C59BB0 |  144670720 |  2097152 |        0 | DataPC_ACU_LGS_WorldWar2.forge
@@ -16057,7 +16057,7 @@ Chunk ID: 37, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 35, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 826BF7C56EF45C13E4BFEAACD25D3E1DC27CD725 |  642875392 |  2097152 |        0 | DataPC_ACU_LGS_Medieval_gi.forge
                                          | E21BC96D26B8DDCBA5840072FBC9731C04C35E19 |  642875392 |  2097152 |        0 | DataPC_ACU_LGS_Medieval_gi.forge
                                          | F894BFDD29806F39E5DA9D0821BDB1038DC93965 |  642875392 |  2097152 |        0 | DataPC_ACU_LGS_Medieval_gi.forge
@@ -16368,7 +16368,7 @@ Chunk ID: 35, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 34, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 6D68263F6ADE41B2E66922AA473126662FC1CA7B |  164003840 |  2097152 |        0 | DataPC_ACU_LGS_Medieval.forge
                                          | 8B5EFA8B42991A38539A5E7718E8994B608C033E |  164003840 |  2097152 |        0 | DataPC_ACU_LGS_Medieval.forge
                                          | 9D4A3537B6833F7F5C697C3311B5DFC1F1470D6F |  164003840 |  2097152 |        0 | DataPC_ACU_LGS_Medieval.forge
@@ -16451,7 +16451,7 @@ Chunk ID: 34, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 32, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 4A5B734C473AE3A5D54C6234460B5D6695AFC715 |  606404608 |  2097152 |        0 | DataPC_ACU_LGS_BelleEpoque_gi.forge
                                          | 3FAE0768A225A8F4C33AE5630063DAA56DF6E36C |  606404608 |  2097152 |        0 | DataPC_ACU_LGS_BelleEpoque_gi.forge
                                          | E080308D1AA781B160CB2C985AD9A8734FFACFCC |  606404608 |  2097152 |        0 | DataPC_ACU_LGS_BelleEpoque_gi.forge
@@ -16745,7 +16745,7 @@ Chunk ID: 32, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 16, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 750A8055517C0546751530C575F28BEDF46C8482 |  683081728 |  2097152 |        0 | DataPC_SharedGroup_01.forge
                                          | 51DCF70C914DAF1D2A45F5B4B04FDF412919181C |  683081728 |  2097152 |        0 | DataPC_SharedGroup_01.forge
                                          | A0E59951A7D86E1DD9820EF4460F0EB78EFD0456 |  683081728 |  2097152 |        0 | DataPC_SharedGroup_01.forge
@@ -17075,7 +17075,7 @@ Chunk ID: 16, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 30, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 25BEBB862E17C68230F99F92A9A416668081FC82 |   97222656 |  2097152 |        0 | DataPC_SharedGroup_03.forge
                                          | 30A63E3923B604AE6307E60200DC63FAEDA30460 |   97222656 |  2097152 |        0 | DataPC_SharedGroup_03.forge
                                          | 88C6DFB11A68BB731E98E05AC9B60D698A97477B |   97222656 |  2097152 |        0 | DataPC_SharedGroup_03.forge
@@ -17126,7 +17126,7 @@ Chunk ID: 30, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 76B635FE9C6AB6C743DD37B79EAE213064837895 | 1039630336 |  2097152 |        0 | DataPC_SharedGroup_00.forge
                                          | 0FCB7A7A609E2A786D2DAD2D1CB2DB45D4065699 | 1039630336 |  2097152 |        0 | DataPC_SharedGroup_00.forge
                                          | 04A9634F094EB33725DE4AC46DF8ECFA2AE110E7 | 1039630336 |  2097152 |        0 | DataPC_SharedGroup_00.forge
@@ -17626,7 +17626,7 @@ Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 23, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | DEDCACADC29C71C544B23505F7FA131F450B715B |  218660864 |  2097152 |        0 | DataPC_SharedGroup_02.forge
                                          | 765D1297B0E1C803553691B22BF489F18533664F |  218660864 |  2097152 |        0 | DataPC_SharedGroup_02.forge
                                          | 3AEB53721016EED6498A5D4B9D84C1053D17A9ED |  218660864 |  2097152 |        0 | DataPC_SharedGroup_02.forge
@@ -17735,7 +17735,7 @@ Chunk ID: 23, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 38, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 245A11F88D47CAB836B92542796D89A157EF9F93 |   45880952 |  2097152 |        0 | videos\ACUDLC_M05_Epilogue_CIN.bk2
                                          | 787DDD3BEAB7B15080D3BA5B316EB9B0B1F0BF60 |   45880952 |  2097152 |        0 | videos\ACUDLC_M05_Epilogue_CIN.bk2
                                          | 18C648220CC6051BAC48CC5B5E7D545EE7311EF6 |   45880952 |  2097152 |        0 | videos\ACUDLC_M05_Epilogue_CIN.bk2
@@ -17768,7 +17768,7 @@ Chunk ID: 38, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 26, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 059C0BF9B063CBAC6DAF763303AB4AF69F3935D6 | 5186093056 |  2097152 |        0 | DataPC_ACU_Paris_assets.forge
                                          | E95480F5DD1AC49CD50F7A8D9BFBB9B3224F3C6A | 5186093056 |  2097152 |        0 | DataPC_ACU_Paris_assets.forge
                                          | 2A9559644F45191495ADEC8B7E9EE4CFA20391AA | 5186093056 |  2097152 |        0 | DataPC_ACU_Paris_assets.forge
@@ -20245,7 +20245,7 @@ Chunk ID: 26, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 20, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 45A3E2AA28E97371327DE5735356E921D4D54B0D |  793411584 |  2097152 |        0 | DataPC_ACU_Versailles_assets.forge
                                          | E335C8F2AAA2CE3BDD3F37D1EB04BF9F03ACB36D |  793411584 |  2097152 |        0 | DataPC_ACU_Versailles_assets.forge
                                          | 7D76D48D64D7AC5411D714A4BB83F37E3E5B8DF6 |  793411584 |  2097152 |        0 | DataPC_ACU_Versailles_assets.forge
@@ -20628,7 +20628,7 @@ Chunk ID: 20, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 29, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 9C3DFCFBFE7E48CC5E6C7FFE491DF3535D537107 |   72220672 |  2097152 |        0 | DataPC_ACU_RebirthRitual_assets.forge
                                          | 79236C2AA49625F25795024B998FF845CD8BEAC0 |   72220672 |  2097152 |        0 | DataPC_ACU_RebirthRitual_assets.forge
                                          | 0B308F5CAAE42B5F2D539BB289FB7665DA5EDC46 |   72220672 |  2097152 |        0 | DataPC_ACU_RebirthRitual_assets.forge
@@ -20667,7 +20667,7 @@ Chunk ID: 29, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | E18B4813FE35CF2235BEAB8354E2FF4EAFFC2718 |   11567104 |  2097152 |        0 | DataPC_TitleScreenFPP_assets.forge
                                          | 721F73E52CF51353F0BE8C0DB403B211107E53B8 |   11567104 |  2097152 |        0 | DataPC_TitleScreenFPP_assets.forge
                                          | F59720F8204192A525E3B92313870BCB7813551E |   11567104 |  2097152 |        0 | DataPC_TitleScreenFPP_assets.forge
@@ -20677,7 +20677,7 @@ Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 39, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 59FD60D6BAFE0FE39714EDDC801703FBF13BB7F4 |  321519616 |  2097152 |        0 | DataPC_ACU_LGS_WorldWar2_assets.forge
                                          | 1F47B4A50C469A7A4378B7660571C1D49A10BCD8 |  321519616 |  2097152 |        0 | DataPC_ACU_LGS_WorldWar2_assets.forge
                                          | 7BF3E306F619C483F320E04B1DAF51C5F0D29C13 |  321519616 |  2097152 |        0 | DataPC_ACU_LGS_WorldWar2_assets.forge
@@ -20835,7 +20835,7 @@ Chunk ID: 39, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 13, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | E9D78DE7FCF3CB4B4183B79A63F517375B602FD6 |  143818752 |  2097152 |        0 | DataPC_ACU_Prologue_assets.forge
                                          | 6CBC7CFC092DFC7BA37A3E93FE4CD377F29BF245 |  143818752 |  2097152 |        0 | DataPC_ACU_Prologue_assets.forge
                                          | C59D6A31F17C7E7A761497C52249A9A7F842824F |  143818752 |  2097152 |        0 | DataPC_ACU_Prologue_assets.forge
@@ -20908,7 +20908,7 @@ Chunk ID: 13, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 36, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | F2D1336BACE5C6CE6584D01321A3913C1FC8BBAB |  391151616 |  2097152 |        0 | DataPC_ACU_LGS_Medieval_assets.forge
                                          | 1378D4462322C61163D338C94E8FFF885A1E8723 |  391151616 |  2097152 |        0 | DataPC_ACU_LGS_Medieval_assets.forge
                                          | F59BD4FD2766C0DE8E8707498E107E1A2FA2E31B |  391151616 |  2097152 |        0 | DataPC_ACU_LGS_Medieval_assets.forge
@@ -21099,7 +21099,7 @@ Chunk ID: 36, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 33, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | AAD17C41AD98DF6FE16D0C2101A7FA6BF8A42B22 |  504135680 |  2097152 |        0 | DataPC_ACU_LGS_BelleEpoque_assets.forge
                                          | D2DB39582E03DB43081D90CA7BA5F943C8C0BD68 |  504135680 |  2097152 |        0 | DataPC_ACU_LGS_BelleEpoque_assets.forge
                                          | 01A0197176C8221638186652448829D00877FFDD |  504135680 |  2097152 |        0 | DataPC_ACU_LGS_BelleEpoque_assets.forge
@@ -21387,33 +21387,30 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Unity\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Unity\Language, Type: String
 Registry String Entry
-	Value | Language
-English(US)  | en-US
- Dutch  | nl-NL
-French(France)  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Polish  | pl-PL
-Portuguese(Brazil)  | pt-BR
-Spanish(Spain)  | es-ES
- Czech  | cs-CZ
-Chinese(Trad)  | zh-TW
-Korean  | ko-KO
-Spanish(Mexico)  | es-MX
-Japanese  | ja-JP
-Russian  | ru-RU
+English(US), en-US
+Dutch, nl-NL
+French(France), fr-FR
+German, de-DE
+Italian, it-IT
+Polish, pl-PL
+Portuguese(Brazil), pt-BR
+Spanish(Spain), es-ES
+Czech, cs-CZ
+Chinese(Trad), zh-TW
+Korean, ko-KO
+Spanish(Mexico), es-MX
+Japanese, ja-JP
+Russian, ru-RU
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Unity\SKU, Type: String
 Registry String Entry
-	Value | Language
-    WW  | 
+WW, 
 
 ============================================Uninstall Runs============================================
 

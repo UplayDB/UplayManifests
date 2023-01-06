@@ -1,8 +1,8 @@
-Total number of files   : 13360
-Total size of files     : 6700782629 | 6,70 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2405815333 | 2,41 GB
-Total bytes compressed  : 2405815333 | 2,41 GB
+Total number of files  : 13360
+Total number of chunks : 1
+Total size of Files    :       6700782629 Bytes | 6,241 GB
+Total size of Slices   :       2405815333 Bytes | 2,241 GB
+Total size Downloaded  :       2405815333 Bytes | 2,241 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 70CD4CB2B4EA4CDF71F34C3F7FE0C2D2E676D9BA |     193024 |   193024 |   193024 | binkw32.dll
                                          | 850E0966B3649BB44BFD95F2E381E737CB212B91 |     495720 |   495720 |   495720 | dbghelp.dll
                                          | 66FACF391F558B374E2963184EFC22394899C658 |     139264 |   139264 |   139264 | eax.dll
@@ -14972,36 +14972,31 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Lockdown\Path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3BB33584-3860-4772-AEE9-D8E61F552896}\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-Tom Clancy's Rainbow Six: Lockdown  | 
+Tom Clancy's Rainbow Six: Lockdown, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3BB33584-3860-4772-AEE9-D8E61F552896}\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3BB33584-3860-4772-AEE9-D8E61F552896}\DisplayVersion, Type: String
 Registry String Entry
-	Value | Language
-1.02.000  | 
+1.02.000, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Lockdown\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    DE  | de-DE
-    IT  | it-IT
-    SP  | es-ES
+EN, en-US
+FR, fr-FR
+DE, de-DE
+IT, it-IT
+SP, es-ES
 
 ============================================Uninstall Runs============================================
 

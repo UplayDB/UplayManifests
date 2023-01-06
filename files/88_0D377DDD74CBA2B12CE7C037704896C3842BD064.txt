@@ -1,8 +1,8 @@
-Total number of files   : 3765
-Total size of files     : 6723322813 | 6,72 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2428355517 | 2,43 GB
-Total bytes compressed  : 2428355517 | 2,43 GB
+Total number of files  : 3765
+Total number of chunks : 1
+Total size of Files    :       6723322813 Bytes | 6,262 GB
+Total size of Slices   :       2428355517 Bytes | 2,262 GB
+Total size Downloaded  :       2428355517 Bytes | 2,262 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-CA , fr-FR , it-IT ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 986B212420E3B977068244E6BD916575BB0C15E5 |          1 |        1 |        1 | SI.bin
                                          | EE336CF75C1B9EBCE6A2BC8585E07E187320A0DD |     193024 |   193024 |   193024 | Binaries\binkw32.dll
                                          | B69F2F3E9F557BB5E0431AF63863EE227AE24C4A |    1689192 |  1048576 |  1048576 | Binaries\cg.dll
@@ -9444,71 +9444,62 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5731C0A8-B266-451A-8D3F-8066AA21836F}\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Vegas\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Vegas\Executable, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Binaries\R6Vegas_Launcher.exe  | 
+$INSTALL_DIR\Binaries\R6Vegas_Launcher.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Vegas\Language, Type: String
 Registry String Entry
-	Value | Language
-   int  | en-US
-   fra  | fr-FR
-   fra  | fr-CA
-   deu  | de-DE
-   ita  | it-IT
-   esp  | es-ES
+int, en-US
+fra, fr-FR
+fra, fr-CA
+deu, de-DE
+ita, it-IT
+esp, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Vegas\llang, Type: String
 Registry String Entry
-	Value | Language
-   int  | en-US
-   fra  | fr-FR
- fraca  | fr-CA
-   deu  | de-DE
-   ita  | it-IT
-   esp  | es-ES
+int, en-US
+fra, fr-FR
+fraca, fr-CA
+deu, de-DE
+ita, it-IT
+esp, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Vegas\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Binaries\R6Vegas_Game.exe  | 
+$INSTALL_DIR\Binaries\R6Vegas_Game.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Vegas\GameUpdate\Language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    fr  | fr-CA
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
+us, en-US
+fr, fr-FR
+fr, fr-CA
+de, de-DE
+it, it-IT
+es, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Vegas\GameUpdate\URLs\URL0, Type: String
 Registry String Entry
-	Value | Language
-http://patches.ubi.com/all_products_cab_files/rainbow_six_vegas.cab  | 
+http://patches.ubi.com/all_products_cab_files/rainbow_six_vegas.cab, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six Vegas\GameUpdate\Versions\rainbowsixvegas, Type: String
 Registry String Entry
-	Value | Language
-rainbowsixvegas_us_1.06.000  | 
+rainbowsixvegas_us_1.06.000, 
 
 ============================================Uninstall Runs============================================
 

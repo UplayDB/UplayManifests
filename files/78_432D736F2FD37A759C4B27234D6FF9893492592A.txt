@@ -1,8 +1,8 @@
-Total number of files   : 290
-Total size of files     : 3430744064 | 3,43 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3430744064 | 3,43 GB
-Total bytes compressed  : 3277857779 | 3,28 GB
+Total number of files  : 290
+Total number of chunks : 1
+Total size of Files    :       3430744064 Bytes | 3,195 GB
+Total size of Slices   :       3430744064 Bytes | 3,195 GB
+Total size Downloaded  :       3277857779 Bytes | 3,053 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT , ja-JP , ko-KO , nl-
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B682D7FC8A15469B1CBEEE6DFEBA2A3A67FB4AA3 | F8EB87A4F68F97BA2F898E09670167AA30BD6970 |      15464 |    15464 |     9808 | Trials_launcher.exe
 D49A6C6BF491AB6DBA60254ADA23B43D01904A63 | B62F72B847D0BCD99B8C5BC7182F0B37ABB1356E |   88195050 |  2097152 |  2046212 | build\data\data.pak
 2836F4FC53639890143E50EF836E07109422BF7E | 85617190C7BBD8A84E197F9D27CBD61797BB1745 |   88195050 |  2097152 |  2023024 | build\data\data.pak
@@ -1933,49 +1933,43 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Trials\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\datapack\trialsFMX.exe  | 
+$INSTALL_DIR\datapack\trialsFMX.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Trials\GameUpdate\installRootDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Trials\GameUpdate\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\datapack  | 
+$INSTALL_DIR\datapack, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Trials\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-9db2dd8969b2497181ff9f3ef6e451e8  | 
+9db2dd8969b2497181ff9f3ef6e451e8, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Trials\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | 
+us, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Trials\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
- Dutch  | nl-NL
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Brazil  | pt-BR
-Spanish  | es-ES
-Russian  | ru-RU
-Korean  | ko-KO
-Chinese  | zh-CN
-Chinese_Trad  | zh-TW
-Japanese  | ja-JP
+English, en-US
+Dutch, nl-NL
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Brazil, pt-BR
+Spanish, es-ES
+Russian, ru-RU
+Korean, ko-KO
+Chinese, zh-CN
+Chinese_Trad, zh-TW
+Japanese, ja-JP
 
 ============================================Uninstall Runs============================================
 

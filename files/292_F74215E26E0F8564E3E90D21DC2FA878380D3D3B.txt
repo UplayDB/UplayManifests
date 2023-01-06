@@ -1,8 +1,8 @@
-Total number of files   : 22644
-Total size of files     : 2676513178 | 2,68 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2676513178 | 2,68 GB
-Total bytes compressed  : 1795692325 | 1,80 GB
+Total number of files  : 22644
+Total number of chunks : 1
+Total size of Files    :       2676513178 Bytes | 2,493 GB
+Total size of Slices   :       2676513178 Bytes | 2,493 GB
+Total size Downloaded  :       1795692325 Bytes | 1,672 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -30,7 +30,7 @@ Name: SH3_MANUAL_EN.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 04F963400ED9E2FC4E5715BA742A28AFD4210C81 | 0CD2332C1E807E6A3CA93D7A67D42E727F377DBA |      16896 |    16896 |     7982 | anim.act
 4CEF5A97E262D452A888C67FD16B2658562A640C | 4B45CE0C0FC1D2CD115EE4E8315021DE17BA8C5A |      13312 |    13312 |     6077 | BezierWaypoint.act
 7265D93ADB766DF2318253F90B8E7E7B081A9276 | F81C81096E47C2EC7D5D57A1291B82C1A42249F5 |     377856 |   377856 |   151306 | binkw32.dll
@@ -23528,51 +23528,43 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Silent Hunter III\InstalledPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Silent Hunter III\Path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\sh3.exe  | 
+$INSTALL_DIR\sh3.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Silent Hunter III\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    DE  | de-DE
+EN, en-US
+DE, de-DE
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9720C029-0C2C-4D1E-9DE0-E89971C4C8C7}\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9720C029-0C2C-4D1E-9DE0-E89971C4C8C7}\URLInfoAbout, Type: String
 Registry String Entry
-	Value | Language
-www.ubisoft.com  | 
+www.ubisoft.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9720C029-0C2C-4D1E-9DE0-E89971C4C8C7}\Publisher, Type: String
 Registry String Entry
-	Value | Language
-Ubisoft  | 
+Ubisoft, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9720C029-0C2C-4D1E-9DE0-E89971C4C8C7}\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-Silent Hunter III  | 
+Silent Hunter III, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9720C029-0C2C-4D1E-9DE0-E89971C4C8C7}\DisplayVersion, Type: String
 Registry String Entry
-	Value | Language
-1.4.0000  | 
+1.4.0000, 
 
 ============================================Uninstall Runs============================================
 

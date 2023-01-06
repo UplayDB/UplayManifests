@@ -1,8 +1,8 @@
-Total number of files   : 1532
-Total size of files     : 910990092 | 910,99 MB
-Total number of chunks  : 1
-Total bytes on disk     : 910990092 | 910,99 MB
-Total bytes compressed  : 872306574 | 872,31 MB
+Total number of files  : 1532
+Total number of chunks : 1
+Total size of Files    :        910990092 Bytes | 868,788 MB
+Total size of Slices   :        910990092 Bytes | 868,788 MB
+Total size Downloaded  :        872306574 Bytes | 831,896 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: main
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B1EDFB0FCF06F6F51C265FA52346E1F145D7102F | DD29D5F7E44BD755E3CDD1FF315062895A50BCCD |   21078200 |  3145728 |  1306955 | Adobe AIR\Versions\1.0\Adobe AIR.dll
 0DE643F10D9831F13D0B0338FC7BD8988C06F0E8 | 4BCE8F8E26A2E0B03E87CB7B6F602FE2073B5CFF |   21078200 |  3145728 |  1465179 | Adobe AIR\Versions\1.0\Adobe AIR.dll
 B95492C56C65F96DDA950D5E45A58C364149A0AD | DB228F6C1AF846D1F95F17E33DC2377E00A8E89C |   21078200 |  3145728 |  1268541 | Adobe AIR\Versions\1.0\Adobe AIR.dll

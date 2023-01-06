@@ -1,8 +1,8 @@
-Total number of files   : 1633
-Total size of files     : 717414099 | 717,41 MB
-Total number of chunks  : 1
-Total bytes on disk     : 717414099 | 717,41 MB
-Total bytes compressed  : 493335275 | 493,34 MB
+Total number of files  : 1633
+Total number of chunks : 1
+Total size of Files    :        717414099 Bytes | 684,179 MB
+Total size of Slices   :        717414099 Bytes | 684,179 MB
+Total size Downloaded  :        493335275 Bytes | 470,481 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1DEAAE49F9A0714F14A3C24731B0F46BE5AB125E | 4E0E4DFE28454B0ADF834BB07101A39BE3E4FCD5 |    2379776 |  2379776 |  1018616 | Astrologaster.exe
 9899D81721957D2FCF946F238487F19F458802A0 | 6FF4C1C6F6A934082F6A4D3A69BB5749F3C9EB45 |     370176 |   370176 |    81124 | glew32.dll
 2074FE16306FEDB839ACD00B817A1D8AECE19C8E | 89650D6E8DEC08D86333244DEBC098E06BFCDA8C |    1190400 |  1190400 |   410314 | SDL2.dll

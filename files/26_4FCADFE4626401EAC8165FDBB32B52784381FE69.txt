@@ -1,8 +1,8 @@
-Total number of files   : 325
-Total size of files     : 9515709704 | 9,52 GB
-Total number of chunks  : 1
-Total bytes on disk     : 925775112 | 925,78 MB
-Total bytes compressed  : 4187136934 | 4,19 GB
+Total number of files  : 325
+Total number of chunks : 1
+Total size of Files    :       9515709704 Bytes | 8,862 GB
+Total size of Slices   :        925775112 Bytes | 882,888 MB
+Total size Downloaded  :       4187136934 Bytes | 3,900 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -52,7 +52,7 @@ Name: Support\Manual\Swedish\AssassinsCreed.pdf | Locale: Support\Manual\Swedish
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E0C01AB6A59DA70D03331B70F34A3DC414F3C836 | 72D73F444B35D7D21F696C74BA16DE04AF608EBB |   38376568 |  1048576 |   355067 | ACBMP.exe
 464BE3F80888AA29A8D1240E8D095A6F16F4BF9D | 2DBB81775A7194C429DA949E96EC91068686C433 |   38376568 |  1048576 |   343811 | ACBMP.exe
 71718731052E296BFCD6F76B0C8EB6D7A0AA657E | 5F869B160E71272DF8AFDFCD8AE713D2911ED0DA |   38376568 |  1048576 |   366435 | ACBMP.exe
@@ -9431,70 +9431,63 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Brotherhood\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Brotherhood\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Spanish  | es-ES
-Polish  | pl-PL
-Danish  | da-DK
- Dutch  | nl-NL
-Norwegian  | nb-NO
-Swedish  | sv-SE
-Portuguese  | pt-PT
-Korean  | ko-KO
-SimplifiedChinese  | zh-CN
-TraditionalChinese  | zh-TW
+English, en-US
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Spanish, es-ES
+Polish, pl-PL
+Danish, da-DK
+Dutch, nl-NL
+Norwegian, nb-NO
+Swedish, sv-SE
+Portuguese, pt-PT
+Korean, ko-KO
+SimplifiedChinese, zh-CN
+TraditionalChinese, zh-TW
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Brotherhood\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Brotherhood\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
-    us  | pl-PL
-    us  | da-DK
-    nl  | nl-NL
-    us  | nb-NO
-    us  | sv-SE
-    us  | pt-PT
-    us  | ko-KO
-    us  | zh-CN
-    us  | zh-TW
+us, en-US
+fr, fr-FR
+de, de-DE
+it, it-IT
+es, es-ES
+us, pl-PL
+us, da-DK
+nl, nl-NL
+us, nb-NO
+us, sv-SE
+us, pt-PT
+us, ko-KO
+us, zh-CN
+us, zh-TW
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Brotherhood\1.00\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Brotherhood\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\ACBSP.exe  | 
+$INSTALL_DIR\ACBSP.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Brotherhood\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-276053dc03304ad095b9adcdab7ab3f3  | 
+276053dc03304ad095b9adcdab7ab3f3, 
 
 ============================================Uninstall Runs============================================
 

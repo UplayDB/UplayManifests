@@ -1,8 +1,8 @@
-Total number of files   : 130
-Total size of files     : 150366897 | 150,37 MB
-Total number of chunks  : 1
-Total bytes on disk     : 150366897 | 150,37 MB
-Total bytes compressed  : 52183093 | 52,18 MB
+Total number of files  : 130
+Total number of chunks : 1
+Total size of Files    :        150366897 Bytes | 143,401 MB
+Total size of Slices   :        150366897 Bytes | 143,401 MB
+Total size Downloaded  :         52183093 Bytes | 49,766 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8FCBA3CED881DF93AE910564971E057E9C12A37C | 64B2A3152111907B24E4B637E0908E1A80607983 |     650752 |   650752 |   155086 | A Normal Lost Phone.exe
 70FD3F775026536E9C4B69BB2D6EE4BDA56551B6 | CE14CB8332D575F79673975AECDBA111829B8CB6 |    1094088 |  1094088 |   360945 | UnityCrashHandler64.exe
 3B2C51F95032C7A5D620E890A733021B09540E19 | 1DDAA314EB589E56E56E924182C60B596F5216BD |   25742280 |  3145728 |  1018571 | UnityPlayer.dll

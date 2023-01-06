@@ -1,8 +1,8 @@
-Total number of files   : 2917
-Total size of files     : 4926185640 | 4,93 GB
-Total number of chunks  : 7
-Total bytes on disk     : 631218344 | 631,22 MB
-Total bytes compressed  : 3385050148 | 3,39 GB
+Total number of files  : 2917
+Total number of chunks : 7
+Total size of Files    :       4926185640 Bytes | 4,588 GB
+Total size of Slices   :        631218344 Bytes | 601,977 MB
+Total size Downloaded  :       3385050148 Bytes | 3,153 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -28,7 +28,7 @@ Name: EIB_Manual_itt.pdf | Locale: it-IT
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3FB0565295928CE4B894A34CB1029A4DFD8A8D11 | 816E66C5F6808296AABDD93ADDABD7141E559837 |     761591 |   761591 |   548295 | Animation\a_cin_d00_Action_at_StMartin.ukx
 E729207EC7CEED470B530ED92F96C84FE2010034 | 6F0471F6BDD7FB09F34735BA893C04DBA45007E4 |     450608 |   450608 |   337234 | Animation\a_cin_d00_Roses_all_the_way.ukx
 F982E08E7D062DE75A3E2803B83B1628A5FD93EA | FFCB55E14C34A6FA7799AA43DAFE8C966599F7C0 |     365323 |   365323 |   268586 | Animation\a_cin_d00_Three_patrol_action.ukx
@@ -3090,7 +3090,7 @@ C940553FE69214DB7754CC8A79081E3B232BAB9B | CD0F460BCBBF299FA2E187CA16656FE2A2C66
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5923C65D6BA1D95581B80A7AA2D3D3A37B1EECB9 | 52398821DA97532B14CA6C7DF54E72C466504AC6 |      25302 |    25302 |     5245 | Media\closing_credits_CAPT.int
 6C43F02F2052439E7C7E74A71EFE60FC6C7F5139 | EC6A0CA039DB201D7694CC9782F0DA03026656E2 |       8623 |     8623 |     1999 | Media\training_CAPT.int
 A5826648BA92F62D466914A39849AB7E82EB08C5 | 92F6122B2758F2D57E1A9F063A0A6AFD6CE7762E |        260 |      260 |      173 | System\ALAudio.int
@@ -3181,7 +3181,7 @@ E99C315D2B0602F6B90644E52784803C37339972 | F58794992893EB5EDD9EF439ED9147D177AB6
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 89532282D8F9B448A97FF57734540F761F5F8F8F | 23C2A99550FEF9B35C9A7971C45D5A9C5F56C01D |      26172 |    26172 |     5435 | Media\closing_credits_CAPT.est
 F5A0F2D4BBF00FCA3771BD58CEEEDFB90F478EC1 | 09956E55830C8E5A125DAF36D5B90D3D07A7F986 |       9005 |     9005 |     2175 | Media\training_CAPT.est
 FC9C0E3D876F710276346D99921D82716014BB12 | D4028A68212C63CFD5BB0E945FDF92299AA68DD7 |   14649018 |  3145728 |  2922455 | Sound\BD_ALLEN.est_uax
@@ -3416,7 +3416,7 @@ A59702DEF8A91451954B7C29D50217290679A443 | C8FD055EAF3E3B30319588BF9E0A4A0F861B0
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E51C44545CEDC81438868A56B32BFD45D2E7B6DB | 6E39AA29D063CCAFE2DC48D68EC55844031D6FE0 |      25730 |    25730 |     5295 | Media\closing_credits_CAPT.frt
 FE4E39D963DB8D158D0275AD03FF0BA871E4B0C0 | BCE192C4096AC00976958DD2400390EF5862132D |       9263 |     9263 |     2279 | Media\training_CAPT.frt
 7AA3F77ED38D6F289B45AB3EA785599725D8DECA | D457505D949E90153A897FFC630890D78BDF8E09 |   15199324 |  3145728 |  2914403 | Sound\BD_ALLEN.frt_uax
@@ -3649,7 +3649,7 @@ D7D33921B9B8DB254117090A0CB02523F5521B17 | 9DDD729F7E518D36B32B5C44F7123EDBB206D
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 32D7A4643D28A5E7055B19D0B014BAB60724949D | 8097988A5E0A495B60A826321CCE712B06E6946E |      25497 |    25497 |     5282 | Media\closing_credits_CAPT.det
 40CF06D300367C55C1CE0C36EF54317A68A8D141 | 545A925430CE0AD292C4A4D4AEB0F6D4E3CB0FDB |       8912 |     8912 |     2219 | Media\training_CAPT.det
 495DE8B81ACF40374C02A779A759D37E412678F6 | 7E4B7B393437E5C13C041A0913C3097FC3F1610B |   17119302 |  3145728 |  2783040 | Sound\BD_ALLEN.det_uax
@@ -3885,7 +3885,7 @@ EF5C47599B6584D8EC43C65E0E4B505AE7B1502E | CCCA08A17322A4DBF8381DB2BEB736AEB893F
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 DB98A0AD4D5D10A77200A841ACEE3A594C4A2302 | 4E1700E1ACD082C47DBDB2F8608A02A5FE7FE62F |      25710 |    25710 |     5297 | Media\closing_credits_CAPT.itt
 9225B93CA4C4CB99F08EBE0DFC48DE93C1482E7B | 412D9FC6746F26EBB3569BDE8DDF69C058BD3EBD |       8686 |     8686 |     1988 | Media\training_CAPT.itt
 EF2E9C3284A6855CB0927D3A7BF657B2B71DE9EA | 8C3AB582DE4EA768489B6A53F94EF15FCC92C821 |   16205800 |  3145728 |  2855014 | Sound\BD_ALLEN.itt_uax
@@ -4122,7 +4122,7 @@ E04DCB357CB4EF53273BFE05EA9E18CD2A933CDF | DB580F771DE4B5959E41D2F2AE2E6015027F5
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 745BC2E2B819536C4DCDDF7A6F6082E547F921B2 | BD7085DA7492F8CA8FD1F59624A04DA6E58D689B |         53 |       53 |       47 | Support\copyConfig.bat
 03018145475EA856829B826645576E7E148B2616 | 8EA8E09597FE75FF75569AB74831217241CD827E |        456 |      456 |      257 | Support\InstallLang.bat
 077C6FC996AC80C24931000B494B9D3916FCEED4 | 807A4E54E9A1ABBE9233425819BCD28E177D6821 |   13767776 |  3145728 |  2935098 | Support\vc_redist.x86.exe
@@ -4211,24 +4211,21 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Gearbox Software\BrothersInArmsEiB\Folder, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Gearbox Software\BrothersInArmsEiB\Version, Type: String
 Registry String Entry
-	Value | Language
-EIBPCRC1.0  | 
+EIBPCRC1.0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Gearbox Software\BrothersInArmsEiB\InstallLang, Type: String
 Registry String Entry
-	Value | Language
-    en  | en-US
-    de  | de-DE
-    es  | es-ES
-    fr  | fr-FR
-    it  | it-IT
+en, en-US
+de, de-DE
+es, es-ES
+fr, fr-FR
+it, it-IT
 
 ========================================Install Firewall Rules========================================
 

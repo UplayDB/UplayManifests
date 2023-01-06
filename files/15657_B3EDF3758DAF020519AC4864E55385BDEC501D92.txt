@@ -1,8 +1,8 @@
-Total number of files   : 1703
-Total size of files     : 55491712187 | 55,49 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3952104635 | 3,95 GB
-Total bytes compressed  : 1982865873 | 1,98 GB
+Total number of files  : 1703
+Total number of chunks : 1
+Total size of Files    :      55491712187 Bytes | 51,681 GB
+Total size of Slices   :       3952104635 Bytes | 3,681 GB
+Total size Downloaded  :       1982865873 Bytes | 1,847 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: main
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2901AE2D3B9C4D5EB83A80ED9F8B65C6592853EA | A6B3E65FBCF216BF4E260FE3D5FECB0A99C3AF32 |   17201664 |  3145728 |  2129808 | agcp.dll
 4526E13154784665F4307216D231D528692D4182 | 4C0A528FE1098EF0772078647AC5753DE6BD7432 |   17201664 |  3145728 |  3134564 | agcp.dll
 7405758E0A8327BBEFCEA1A55D11EB24902BD530 | 95CBCA136C4CEC9D747C48ED3845248BECDE9A16 |   17201664 |  3145728 |  3134635 | agcp.dll

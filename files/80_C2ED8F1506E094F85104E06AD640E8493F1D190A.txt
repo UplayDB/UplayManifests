@@ -1,8 +1,8 @@
-Total number of files   : 206
-Total size of files     : 2618904938 | 2,62 GB
-Total number of chunks  : 2
-Total bytes on disk     : 2618904938 | 2,62 GB
-Total bytes compressed  : 2618904938 | 2,62 GB
+Total number of files  : 206
+Total number of chunks : 2
+Total size of Files    :       2618904938 Bytes | 2,439 GB
+Total size of Slices   :       2618904938 Bytes | 2,439 GB
+Total size Downloaded  :       2618904938 Bytes | 2,439 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: cs-CZ , de-DE , en-US , es-ES , fr-FR , hu-HU , it-IT , ja-
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 9D5882DA1BACFE45E9CDA9322AF2277087F860CC |     230792 |   230792 |   230792 | binkw32.dll
                                          | B0E1DAA40A9F7613848E6F8F0BBF19A03219FCAE | 2095558021 |  1048576 |  1048576 | GameData\bundle_PC.ipk
                                          | 422E8B4862E6A2CEA357A127B6AC863E8EB79CF0 | 2095558021 |  1048576 |  1048576 | GameData\bundle_PC.ipk
@@ -2452,7 +2452,7 @@ Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | DD51554DE86B0049055CB82FAAF90452BD68E852 |    1347354 |  1048576 |  1048576 | Support\directx\Apr2005_d3dx9_25_x64.cab
                                          | 57545E117CE3969B75844D97BD7734FE80477966 |    1347354 |   298778 |   298778 | Support\directx\Apr2005_d3dx9_25_x64.cab
                                          | 0CB43C8E40E4C6148FAC63209CBE68C6E14DE312 |    1078962 |  1048576 |  1048576 | Support\directx\Apr2005_d3dx9_25_x86.cab
@@ -2721,31 +2721,28 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rayman Origins\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rayman Legends\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Rayman Origins.exe  | 
+$INSTALL_DIR\Rayman Origins.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\RaymanOrigins\Settings\Language, Type: Number
 Registry Number Entry
-  Value | Language
-    13  | cs-CZ
-     3  | de-DE
-     0  | en-US
-     4  | es-ES
-     1  | fr-FR
-    14  | hu-HU
-     5  | it-IT
-     2  | ja-JP
-    12  | nl-NL
-    10  | pl-PL
-     8  | pt-BR
-    11  | ru-RU
+13, cs-CZ
+3, de-DE
+0, en-US
+4, es-ES
+1, fr-FR
+14, hu-HU
+5, it-IT
+2, ja-JP
+12, nl-NL
+10, pl-PL
+8, pt-BR
+11, ru-RU
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 468
-Total size of files     : 932330205 | 932,33 MB
-Total number of chunks  : 1
-Total bytes on disk     : 932330205 | 932,33 MB
-Total bytes compressed  : 640882727 | 640,88 MB
+Total number of files  : 468
+Total number of chunks : 1
+Total size of Files    :        932330205 Bytes | 889,139 MB
+Total size of Slices   :        932330205 Bytes | 889,139 MB
+Total size Downloaded  :        640882727 Bytes | 611,193 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -28,7 +28,7 @@ Name: Manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B09F476826012797EF884E0EFD952659CD705D7C | 9CB5BF9A5F449F9CB8BD7129D0A266B66EA81B71 |     147583 |   147583 |   140062 | Battlecry Armies.chm
 372A8EF685F7AE4DB89EF6B08DECBC53A9E8A55F | 63042C828D33DA47004007EE809C935495CC67B9 |     140694 |   140694 |   133258 | Battlecry Editor Help.chm
 666F91A8EC05A9C7F6C3B2B2E80B8C60AB46856A | 3B89C9BCCA9739DCA7FDA3301D0F942A92CAA515 |     155221 |   155221 |   147721 | Battlecry Spells.chm
@@ -911,14 +911,12 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\$INSTALL_DIR\Battlecry.exe, Type: String
 Registry String Entry
-	Value | Language
-$ DWM8And16BitMitigation  | 
+$ DWM8And16BitMitigation, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Warlords_Battlecry\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 
 ============================================Uninstall Runs============================================
 

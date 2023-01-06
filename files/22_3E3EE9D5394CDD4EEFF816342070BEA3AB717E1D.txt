@@ -1,8 +1,8 @@
-Total number of files   : 348
-Total size of files     : 6848947449 | 6,85 GB
-Total number of chunks  : 2
-Total bytes on disk     : 2553980153 | 2,55 GB
-Total bytes compressed  : 2553980153 | 2,55 GB
+Total number of files  : 348
+Total number of chunks : 2
+Total size of Files    :       6848947449 Bytes | 6,379 GB
+Total size of Slices   :       2553980153 Bytes | 2,379 GB
+Total size Downloaded  :       2553980153 Bytes | 2,379 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT , pl-PL ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | F628DAD524CF53096E31F47EC4967EE250075EE0 |   22424680 |  1048576 |  1048576 | Anno5.exe
                                          | 3B02F5F0008B9A043B4815A14B5197E67EF5BF52 |   22424680 |  1048576 |  1048576 | Anno5.exe
                                          | 230DD96A7CA143366EC8A847F7AD3AAE570B96FB |   22424680 |  1048576 |  1048576 | Anno5.exe
@@ -6403,7 +6403,7 @@ Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 679, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 0D0AA69CE42328B05C198A72B0A88222C9230669 |  296675321 |  1048576 |  1048576 | maindata\addon0.rda
                                          | 6F40FAD8A69550DD917041E56228A9F3AB1F4310 |  296675321 |  1048576 |  1048576 | maindata\addon0.rda
                                          | 026BF82BBCCCED2FE44B4778D3FDB6F1FA37D4BC |  296675321 |  1048576 |  1048576 | maindata\addon0.rda
@@ -6841,37 +6841,32 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5\Language, Type: String
 Registry String Entry
-	Value | Language
-   ENG  | en-US
-   FRA  | fr-FR
-   GER  | de-DE
-   ITA  | it-IT
-   POL  | pl-PL
-   ESP  | es-ES
+ENG, en-US
+FRA, fr-FR
+GER, de-DE
+ITA, it-IT
+POL, pl-PL
+ESP, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR/Anno5.exe  | 
+$INSTALL_DIR/Anno5.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5\GameUpdate\Info, Type: String
 Registry String Entry
-	Value | Language
-3937a2fd8d4c67120ce6735d1d8484ec  | 
+3937a2fd8d4c67120ce6735d1d8484ec, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5\GameUpdate\Language, Type: String
 Registry String Entry
-	Value | Language
-    Uk  | 
+Uk, 
 
 ============================================Uninstall Runs============================================
 

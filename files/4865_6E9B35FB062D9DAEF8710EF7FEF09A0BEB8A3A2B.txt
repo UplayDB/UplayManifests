@@ -1,8 +1,8 @@
-Total number of files   : 861
-Total size of files     : 58920949072 | 58,92 GB
-Total number of chunks  : 15
-Total bytes on disk     : 3086374224 | 3,09 GB
-Total bytes compressed  : 4199073132 | 4,20 GB
+Total number of files  : 861
+Total number of chunks : 15
+Total size of Files    :      58920949072 Bytes | 54,874 GB
+Total size of Slices   :       3086374224 Bytes | 2,874 GB
+Total size Downloaded  :       4199073132 Bytes | 3,911 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -26,7 +26,7 @@ Name: readme-en.txt | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2A5BFCCBF614E657CFD9CE93A0D6D1CC657881F8 | 7BAEBE645988DF438B0E78650282A77DB402CA23 |      85720 |    85720 |    46869 | Support/FirewallHelper/FirewallInstall.exe
 784B186AFCAF96527C1230938879E8DE58BA48E7 | EF24CC7B07B59CA5C3F0E73E5BEADF15CB8C28A8 |      55512 |    55512 |    27085 | Support/FirewallHelper/FirewallInstallHelper.dll
 F33030F7A4F8B6F3C8DEEBF2C67EF0D4A7EF0CFE | 702709BA405D23AFBDAA1C1CB2650AB399CF2975 |      12008 |    12008 |     6500 | Support/Cleaner/Cleaner.exe
@@ -2754,7 +2754,7 @@ A1288FE3331918647FDD8A1AB2754CC0215E25A4 | 2023AFDA78AD9BD5250713AD42479A4F96C00
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 48ED1036495466EF63E60D9A8367DA63C00B3799 | 53DEF9C83A08552AB53DE7CD6AE501A79F7DEF38 |     196608 |   196608 |    27148 | datapc64_merged_playgo_bnk_000000023_soundbank_en-us.forge
 4EF20A37C7B243A7A7D93F1B247856DD897AF630 | 6D9920DE7EAA80EA03ACE42A3527D96F0E443439 |   18251776 |  3145728 |  2930422 | datapc64_merged_playgo_bnk_000000023_soundmedia_en-us.forge
 C6D9964AA61350E8897CCD83DD9A67A32E5CFBDA | 18E642A20B229EE67D0B417F16D3ACB34F79F897 |   18251776 |  3145728 |  3087438 | datapc64_merged_playgo_bnk_000000023_soundmedia_en-us.forge
@@ -2888,7 +2888,7 @@ DEBC6858B23DE84C2818607B293EF023C09EA89B | 14B689CBEADD74AA1050DBAB4BE58A9CB3488
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 942A7264CB7D8B223D400403D3B11E8B125C76D0 | 5356199263F2F52747E5D3C5CD6BFE511BAB0627 |   56721408 |  3145728 |  2756496 | datapc64_ondemand_set01.forge
 00603647667697202F29665777038FF28B11B3AF | 84D0961DFB0D0ECA9C5C565BAB22E1A1B2B700F1 |   56721408 |  3145728 |  2866102 | datapc64_ondemand_set01.forge
 C20EA870BA84B6DBA2A90BFFD251423D8F7AA7D6 | 59100BEBE072602231E59FCF93895B518191B0D5 |   56721408 |  3145728 |  3126155 | datapc64_ondemand_set01.forge
@@ -3650,7 +3650,7 @@ DB6B5D22886C325863C185B9413457A0F0BDBB66 | 23D4401CF654A1C0A6C9E04325E2B9EBB8FB0
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 91967F81FA40053656A74DD48EDE5C548E1CC23E | F798B970BFBE67BB9DB790FB7C7B4F3D0D2F67C2 |      32768 |    32768 |    12134 | datapc64_merged_set01_bnk_000000023_soundbank_en-us.forge
 BCF2D09F65B4ED2EDD4545E9FB776202FA7DD637 | F5FFD923FC7E1C5839288FD19E79701822C83113 |    2490368 |  2490368 |  2082783 | datapc64_merged_set01_bnk_000000023_soundmedia_en-us.forge
 C783CC3C8C7BC4A6881BA80D467D7A5FE21FD60D | 96F0C5A08B675374149DB084CD008572E7C78F1A |     163840 |   163840 |   126730 | datapc64_merged_set01_bnk_000000024_soundbank_en-us.forge
@@ -3745,7 +3745,7 @@ ED0CBF2EDE6FF27144673F3DD1BFAD41D5A403F8 | B7F5CB1E7D207B05DE291D6D13009D22C6FB0
 ================================================Chunks================================================
 
 Chunk ID: 20, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 30B58E21619344D10941022DAC10F14E2F3FD350 | 8336906A572CB12D77908A0AB6ABFBDC17122887 |    6717440 |  3145728 |  2982707 | datapc64_pvp05_plane.forge
 07B0622CACBE38B6A98FD95AC849113DDE97B241 | BCA52F33938CC6A5E436802FDE9E3C783E8A40E8 |    6717440 |  3145728 |  3071038 | datapc64_pvp05_plane.forge
 6E3E77DB3D490E834D6A92DF6BD80903B8EB8A56 | 54E58834CB2C6D4110DDE41216AC7D590142F738 |    6717440 |   425984 |   365165 | datapc64_pvp05_plane.forge
@@ -3805,7 +3805,7 @@ CDC9786C08434DD97EE5CABA8187217F65EF5253 | A21E644376BCA3073534FF345DB5008A5CCE3
 ================================================Chunks================================================
 
 Chunk ID: 21, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7C688D4D651DF9E53F1486DDB3DFC0204280FE0F | D2F6A58B03264C5C8C6B1489EFB97C7CBE275B45 |   65478204 |  3145728 |  3142986 | videos/y0r6_training_m06.bik
 0C9FCE22922A3EF35FBE3D9FB3445B0113AC4CEB | 2CF3FEC1CE869652AA280E4AAE25E5B7D636BEEA |   65478204 |  3145728 |  3145813 | videos/y0r6_training_m06.bik
 2B96088426CB74B252E0ACB1565D4B4013E94B49 | C2B08647182AE411A7447FAAAD688A6A35D4649C |   65478204 |  3145728 |  3145813 | videos/y0r6_training_m06.bik
@@ -3830,7 +3830,7 @@ C223299C42989B18A7094689E3E62EF87010806B | A9C16F3D1954D95C2799676BCCA5EB883B40F
 ================================================Chunks================================================
 
 Chunk ID: 22, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D66C53B6CBEAD5872863860CE35FC52697A5B27F | B53793E15C99581C995A3F0EA06705A4B902D32A |   15499264 |  3145728 |  2879322 | datapc64_ondemand_set02.forge
 5917EAF4C888566F26C16DDB74847C72A2CCAA94 | E1F835150C868CAC931928B66ADA3EEB223545A2 |   15499264 |  3145728 |  2962438 | datapc64_ondemand_set02.forge
 FE34FD1AAF0389F451A5959CB8ABCA56FAEAA098 | CE4F9BFBAF11D8DDCFF3FAEC7B724D3A597C8461 |   15499264 |  3145728 |  3145813 | datapc64_ondemand_set02.forge
@@ -4911,7 +4911,7 @@ F0CD6EF5D8D748103E4013EFB75622327E134360 | 7BE6F5D90A669EEEDCC3420A9F8CCBB94E969
 ================================================Chunks================================================
 
 Chunk ID: 23, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1D2A612B81F72C154B485F5F6BD0B1EAB4C5B027 | 48AEA2C9A94AC5B0CD2BECB3E5AE30B2726F97A7 |      65536 |    65536 |    37519 | datapc64_merged_set02_bnk_000000023_soundbank_en-us.forge
 5C3DE3642BA6E97F2EF26C129F9E75047F8B9A33 | D00353CC615E33F87A5CD62BD51B3E53512FE0C9 |   22085632 |  3145728 |  2324382 | datapc64_merged_set02_bnk_000000023_soundmedia_en-us.forge
 D307D9719A54CE3783010B658E4293D38DA81217 | AAD88476086B439248CB39332E40DE5CE6BA3586 |   22085632 |  3145728 |  2850344 | datapc64_merged_set02_bnk_000000023_soundmedia_en-us.forge
@@ -4997,7 +4997,7 @@ C0F9F001513E55A44A80BFA666753706EA68407C | 846CDD3B9EA74331A7EB9BB9CE12742BDE7DF
 ================================================Chunks================================================
 
 Chunk ID: 32, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 15B984E460ED1BF33F80E9896318A08738A1F02F | 72B046D076491E16C75484F789342C0AAF56B7CC |   10780672 |  3145728 |  2967569 | datapc64_pvp12_russiancafe.forge
 CAB28EAFE13E0428E9ED0E548C021198557CFB18 | 525A3C546FC35FBC777C1D72F15BD338D0C0ED48 |   10780672 |  3145728 |  3107293 | datapc64_pvp12_russiancafe.forge
 B8CDDA014BC2408A3823CC6F75A44FD5A9D6F339 | 864A2807D43605C788766A4B6324940913293C43 |   10780672 |  3145728 |  3130139 | datapc64_pvp12_russiancafe.forge
@@ -5040,7 +5040,7 @@ FEC9597060C0D739BBA56ACAE6775FFE5F183CD3 | 10C1752BA34C80A2D181E29F2AF684D9A82C3
 ================================================Chunks================================================
 
 Chunk ID: 33, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 BE4584B459D4DE398F2FA2630324AD8839211F05 | 0EB0F850B45007286A21E4D63A0AE4B60C042172 |   11239424 |  3145728 |  3012260 | datapc64_pvp09_kanal.forge
 DB72188337222131473C2C0833BC6D3A9A53F925 | 069C3325522847556B99A50F3867122BA88F7241 |   11239424 |  3145728 |  3136392 | datapc64_pvp09_kanal.forge
 FD05AEA30D04445A464289ED6B07ACCEB7016C40 | DC570CA989AD7B36EC4F985BD239BB1060566926 |   11239424 |  3145728 |  3047740 | datapc64_pvp09_kanal.forge
@@ -5082,7 +5082,7 @@ E1BA4826D6809D2EFB4E2511B02972D8791F5CEB | 9EDB02D8458A83C060B02BD1CFC6947C9FD06
 ================================================Chunks================================================
 
 Chunk ID: 34, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5CABD4F7EA3E61964E5B3D6F3D0D70451856BE14 | 5AEEBF6CA7CA3738C40962F5EB2F557465FBDC2D |   12451840 |  3145728 |  2970357 | datapc64_pvp07_consulate.forge
 F8DA71ABF9FD41F6B328E9EB6D0B511E2B05CEDA | 395189E79D3C17A42C3109846F5D7A1B50B66653 |   12451840 |  3145728 |  3137791 | datapc64_pvp07_consulate.forge
 18ADD6BB38FD2EB4C191186BDA4FABDF95C25918 | 613528294985DCAD432C1D34F8FC02F1A383BD1B |   12451840 |  3145728 |  2989630 | datapc64_pvp07_consulate.forge
@@ -5147,7 +5147,7 @@ E91676E8B93D4B993E1A306D1C46816040DEDBDB | E4C3FFB2A007CCD0F062E494C0162C264473D
 ================================================Chunks================================================
 
 Chunk ID: 35, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3049AAEBA316DDC6B38CE5BACE3DF1C45E4703FD | E0F71D48A217E2E86A79282C6FDCCAF07E59EDFB |   11304960 |  3145728 |  3091819 | datapc64_pvp02_oregon_v2.forge
 7371F2495FFB4A27BB62D534B6A648B017C13664 | 8210EBA378A19AF35444BB12C80994505396AA48 |   11304960 |  3145728 |  3014259 | datapc64_pvp02_oregon_v2.forge
 48AE39A1414FC8C6C3EABEF0BDE3C3AC9F1204F6 | 68E1AC3DCC413B7EADE4D26247D3A45182FC05B6 |   11304960 |  3145728 |  3026876 | datapc64_pvp02_oregon_v2.forge
@@ -5189,7 +5189,7 @@ E63B7E697394191741489A0C41C7D971DA9E3982 | D724A9168125ADBA070787D3B75657CEAA605
 ================================================Chunks================================================
 
 Chunk ID: 36, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 238FF422376BA9606AC8170AC6EFCC121A2DB5B5 | 9750D1C8537E2DC7C77C0F62F861B57F6ED8E9D0 |   13565952 |  3145728 |  3093736 | datapc64_pvp10_chalet_v2.forge
 3E396D150E0D14F7BC36C1C249FB71F0FEB49CFD | 4AB6BD4CBC7369613BF026790DC907653108A176 |   13565952 |  3145728 |  3138932 | datapc64_pvp10_chalet_v2.forge
 0E9E16E71918EC0A6223CCAE7B2660F68A9CA939 | CA8A42A94827482A03AB158B0B81F18857FFF155 |   13565952 |  3145728 |  2907927 | datapc64_pvp10_chalet_v2.forge
@@ -5235,7 +5235,7 @@ B91C90D0C62440558476F41E724E0F9C7EA61498 | F3E2380F40AC0BF58DCAF08C27A3289F74E6B
 ================================================Chunks================================================
 
 Chunk ID: 37, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F22C380E41F3B400BDAEF7757A5958ADCE6193D3 | 4E0A23BB802E6F2B542ACE81426AE54932EF6075 |   12001032 |  3145728 |  3145813 | videos/y0r6_background_portailv07.bik
 E2A79C72326BF663183A304E17C9905AB312C633 | 3D36977DD74ACB96EA9CF8FE86513BC29A4A6111 |   12001032 |  3145728 |  3145813 | videos/y0r6_background_portailv07.bik
 F67CB26B33EEB3D5CEAF92E1D86BE0F9B6584791 | AA9D51B81553C05A012C0A371AB5FE2AB8DDA4B8 |   12001032 |  3145728 |  3145813 | videos/y0r6_background_portailv07.bik
@@ -19095,7 +19095,7 @@ F5F5124C500801BFD7ACE420BE45A15644759EEE | 5423FA72CCEC9A50CAD79EBF51836A7E82E35
 ================================================Chunks================================================
 
 Chunk ID: 38, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 20E9815D375523FE48D9C23871BB3F95DEDF1B73 | 704F7A692D0D2B8945A9E4F091A92F83D2EFC13F |     131072 |   131072 |   106580 | datapc64_merged_bnk_000000023_soundbank_en-us.forge
 E37B70B987E26528A8C8929D2A7A55BBA2A206BC | 1ED76711D561B862001CDF4E0E0FD2900FD2B4CA |   40730624 |  3145728 |  1562643 | datapc64_merged_bnk_000000023_soundmedia_en-us.forge
 A5556836E2ECE606957B3AF3185D1BCE74A89569 | 14142A48A9BF0EC525B45A339666F2596FB21548 |   40730624 |  3145728 |  2769151 | datapc64_merged_bnk_000000023_soundmedia_en-us.forge
@@ -19471,18 +19471,16 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six - Siege\TextLanguage, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | en-US
-     1  | en-GB
-     1  | en-CA
+1, en-US
+1, en-GB
+1, en-CA
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rainbow Six - Siege\AudioLanguage, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | en-US
-     1  | en-GB
-     1  | en-CA
+1, en-US
+1, en-GB
+1, en-CA
 
 ============================================Uninstall Runs============================================
 

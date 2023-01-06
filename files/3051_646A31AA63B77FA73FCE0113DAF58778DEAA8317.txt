@@ -1,8 +1,8 @@
-Total number of files   : 100
-Total size of files     : 223199343 | 223,20 MB
-Total number of chunks  : 3
-Total bytes on disk     : 223199343 | 223,20 MB
-Total bytes compressed  : 149926549 | 149,93 MB
+Total number of files  : 100
+Total number of chunks : 3
+Total size of Files    :        223199343 Bytes | 212,859 MB
+Total size of Slices   :        223199343 Bytes | 212,859 MB
+Total size Downloaded  :        149926549 Bytes | 142,981 MB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -29,7 +29,7 @@ Name: Imperialism II - Manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A6E25FCA97FB123F2395827B4AF6D035939FACBE | E4D554E03BA91F6B53A2A80253B339F56E303C94 |      96264 |    96264 |    49491 | GameuxInstallHelper.dll
 8D7A57255EAEBDE5EEFCB6CE8D3071C146C5A694 | 5EBC0744A8B68B5FC86F8D5237624322D98BD4C4 |    4024320 |  2097152 |   723340 | Imperialism II.exe
 ED951E83803E507DADEAC2DDFE687D447D2A6F07 | A225771287FA4D7D592A7FBDC794310D4DFC4B2D |    4024320 |  1927168 |   560143 | Imperialism II.exe
@@ -177,7 +177,7 @@ D05D9422A51A0FEECBD5FA0146477CB010E38535 | A3172EF8CF75ACF12DA82FBA17075C7906EAD
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CA94674D88FE7951894D98D050A477DDE3959AC6 | A99BFEAB6689BD9062425E870FE55983EC1CCFDC |    1018686 |  1018686 |   918962 | Support\Imperialism II - Manual.pdf
 66EE64BC7DF37FCC717016EDE9B6B8A1F4D50188 | 145D1254B14E67D79E52B86F9F947C069DB6C0E1 |    3390364 |  2097152 |  2067602 | Support\Imperialism II - Tech Tree.pdf
 6A05804C8786862192D43D99057858432271DA95 | 53B2204718A544C8D4630A6BFF126F087879A5CB |    3390364 |  1293212 |  1261538 | Support\Imperialism II - Tech Tree.pdf
@@ -189,7 +189,7 @@ A847137374B0DC91D07CAE398BF92357E7D30C83 | EF2C9B1990719910F7BE212181AE095489460
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 48D729339DF14FE5E1EE1AFC85A65BE9C5D799FF | 8BBD2241C19294738136AC6E32ED335D9CDB5A1E |    1252389 |  1252389 |  1014902 | soundtrack\Imperialism 2 soundtrack - Track No  02.mp3
 8A6D239B91135EA38F1D71754AB5D91475E85C43 | 2BBAB65B48A06F7841BA8B52B031E08A9685D19B |    2387776 |  2097152 |  1960730 | soundtrack\Imperialism 2 soundtrack - Track No  03.mp3
 7B3CB4C0FE3C85EB49819291440A96484501345A | 281A38B3B16D3E6F824DC1D63099C6CBD91B1E98 |    2387776 |   290624 |   188795 | soundtrack\Imperialism 2 soundtrack - Track No  03.mp3
@@ -233,8 +233,7 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\SSI\Imperialism II\1.0\Directory, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 
 ============================================Uninstall Runs============================================
 

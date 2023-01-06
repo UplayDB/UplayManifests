@@ -1,8 +1,8 @@
-Total number of files   : 310
-Total size of files     : 2184903563 | 2,18 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2184903563 | 2,18 GB
-Total bytes compressed  : 2113397083 | 2,11 GB
+Total number of files  : 310
+Total number of chunks : 1
+Total size of Files    :       2184903563 Bytes | 2,035 GB
+Total size of Slices   :       2184903563 Bytes | 2,035 GB
+Total size Downloaded  :       2113397083 Bytes | 1,968 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -28,7 +28,7 @@ Name: IT\IAA_manual.pdf | Locale: it-IT
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9CD98B3D7EC0748564DA219346AF86392CCF15B3 | 1FCB7262DD6EDB954EE1D15B04BDF3490ECF0452 |      15464 |    15464 |     9814 | IAmAlive_Launcher.exe
 B3DC96D46EBCA5AA3FD9139A975403383BF6BC4A | FB53E9590B150A83C5E299F3A9373C889A8BFA56 |        228 |      228 |      154 | data\AnimationsBundle\PC\AnimVFX.txt
 B3DC96D46EBCA5AA3FD9139A975403383BF6BC4A | FB53E9590B150A83C5E299F3A9373C889A8BFA56 |        228 |      228 |      154 | data\AnimationsBundle\PC\AnimVFX.txt.tmp
@@ -1352,56 +1352,49 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\IAmAlive\GameUpdate\installRootDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\IAmAlive\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\src\SYSTEM\IAmAlive_game.exe  | 
+$INSTALL_DIR\src\SYSTEM\IAmAlive_game.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\IAmAlive\GameUpdate\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\src\SYSTEM  | 
+$INSTALL_DIR\src\SYSTEM, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\IAmAlive\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-b9f6b8025c904a20a8fb95110320ba2c  | 
+b9f6b8025c904a20a8fb95110320ba2c, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\IAmAlive\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
+us, en-US
+fr, fr-FR
+de, de-DE
+it, it-IT
+es, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\IAmAlive\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Spanish  | es-ES
+English, en-US
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Spanish, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\IAmAlive\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    DE  | de-DE
-    IT  | it-IT
-    SP  | es-ES
+EN, en-US
+FR, fr-FR
+DE, de-DE
+IT, it-IT
+SP, es-ES
 
 ============================================Uninstall Runs============================================
 

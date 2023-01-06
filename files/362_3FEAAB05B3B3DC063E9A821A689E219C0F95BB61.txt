@@ -1,8 +1,8 @@
-Total number of files   : 61
-Total size of files     : 1572911501 | 1,57 GB
-Total number of chunks  : 2
-Total bytes on disk     : 1572911501 | 1,57 GB
-Total bytes compressed  : 1448897150 | 1,45 GB
+Total number of files  : 61
+Total number of chunks : 2
+Total size of Files    :       1572911501 Bytes | 1,465 GB
+Total size of Slices   :       1572911501 Bytes | 1,465 GB
+Total size Downloaded  :       1448897150 Bytes | 1,349 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -38,7 +38,7 @@ Name: _nl\Rayman Raving Rabbids Manual.pdf | Locale: nl-NL
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B5275AE5403F8D2F93032E2331374B71313C4562 | 73A2EE8EC4C074B6A5C5485C615EE7CE230137E0 |     375808 |   375808 |   150825 | binkw32.dll
 A5E25891EB7221F3E1EBC9A63D58704D1C967FA1 | 63D9C062D0E092DCBF8C1F00F17C8AD93087C616 |     325288 |   325288 |   154933 | CheckApplication.exe
 B95B9C5D3C77C9B6AD15A65F76E84B15C3C7FF70 | AA8440EC3B5BAC6594FD58D97C10C2AB7D419B2D |    2388176 |  2388176 |  1103433 | d3dx9_30.dll
@@ -547,7 +547,7 @@ A2B41134BA20DF17E47036FB923D4D16243FC981 | 9942C12CF5E56A9339F8917FF84A61C3A77D8
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 077C6FC996AC80C24931000B494B9D3916FCEED4 | 807A4E54E9A1ABBE9233425819BCD28E177D6821 |   13767776 |  3145728 |  2935098 | support\vc_redist.x86_2015.exe
 4E1981BAE231283E2C16E18CF65C600E491B570A | AC926F008BC690EFFF40D712B8003F69785F19A6 |   13767776 |  3145728 |  3146694 | support\vc_redist.x86_2015.exe
 29F63A7B35DAC8D7ED17B650DBA62B0C49E3FB32 | C32793FA1E6AC89954D4D1993C8491A2B8EBE575 |   13767776 |  3145728 |  3146694 | support\vc_redist.x86_2015.exe
@@ -623,14 +623,12 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{40A5DF56-329E-433C-8E79-99807E02F90F}\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{111E336D-30BF-4CD4-8D69-4541732AFB27}\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 
 
 ==========================================Uninstall Registry==========================================

@@ -1,8 +1,8 @@
-Total number of files   : 1488
-Total size of files     : 4219138177 | 4,22 GB
-Total number of chunks  : 5
-Total bytes on disk     : 4219138177 | 4,22 GB
-Total bytes compressed  : 3081405949 | 3,08 GB
+Total number of files  : 1488
+Total number of chunks : 5
+Total size of Files    :       4219138177 Bytes | 3,929 GB
+Total size of Slices   :       4219138177 Bytes | 3,929 GB
+Total size Downloaded  :       3081405949 Bytes | 2,870 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -28,7 +28,7 @@ Name: Manual_itt.pdf | Locale: it-IT
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E55102BA49A43EA8A180E210151FF9FC3E3E30F6 | 88E4DCDB516A160BB4124683D48991A9F6F85036 |     402536 |   402536 |   386192 | system\bia_gdf.dll
 3C230A48982FBE025D5D77AFAEFA0F5C14A843F6 | BF1FF9902BB65465F25B8645D041CCC1D61538F0 |    1565115 |  1565115 |  1166098 | Animation\a_cin_1d2_Nine_days_earlier.ukx
 6ACA30E8C415B4BC25994774B43696EA5B313C8C | 73F9CEA0783EEA9ACE03EF4C644AB845E6E90A7F |     205731 |   205731 |   151488 | Animation\a_cin_d0_Exit4.ukx
@@ -2120,7 +2120,7 @@ DC54EE08F30D9699FD8EF1E2878B199BE7E56BDD | 55EBC32131B62202F006619C5249EEAA4ED79
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 58EAE01B91DA3C9639CAAD8B2BB4D51B5E9B5CD8 | 8CAB53B5EC352E13671B5C4DDC84AE93D0784EAE |      90850 |    90850 |    15655 | Help\ReadMe.frt.rtf
 B92D7C7559115AE522DCA488BDF50ED98C38DFB7 | 84FC180FC7F6ED9879EF450A9B18BDD82E36157D |      26357 |    26357 |     5402 | Media\closing_credits_CAPT.frt
 77D859384026F35E534F9BD1DE74D5CEFE3B364D | 0AD4766EC3E35E202CDC10D6AB8EA3F78429FA92 |      29510 |    29510 |     7679 | Media\Extra_E3BiaDemo_CAPT.frt
@@ -2390,7 +2390,7 @@ AD685C1F29F4F1F74E0CAC16CE5D36DE49B50C77 | 565ED92061303575087DB3FA0D6F94ADBA444
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A73D7786EF15BA3E205578956BCB14B41405D88E | 96E19743E4C8CBCE1D90D68A8CACB6AE692CD7EF |      76453 |    76453 |    13967 | Help\ReadMe.itt.rtf
 ADFBF3142E7FB0108CFCA59E9BE7160C054B3A20 | AFDE42FC803ED1609FF9748B1141F32B60C7BEF1 |      26159 |    26159 |     5280 | Media\closing_credits_CAPT.itt
 93E84DF96CED1119FEA45FA55B23EB84EB99E78E | C16A169DF687BA740ADF54636AC81A963A16865D |      29244 |    29244 |     7537 | Media\Extra_E3BiaDemo_CAPT.itt
@@ -2678,7 +2678,7 @@ DF1F7D51D0A86B03BA5E11B529F9D5E33FE2F302 | 43CAC32272E5CF7B04E61EEB97A4CE1470C3C
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 84BEDB60CD4713CE1AA2CE264AA1B45D3AD668A4 | 324A06A8B3C701AEE4122A13C9A311D856837CB3 |      72729 |    72729 |    13855 | Help\ReadMe.est.rtf
 519841C9DB67CB7F68797FC3C8684E8202D043A7 | 93D17EF4A025DBAFEE8EE47C44B4E03A553BA598 |      26680 |    26680 |     5415 | Media\closing_credits_CAPT.est
 0FA645371AF41010D073103789DAF97E3A4EE9CE | CCE788ED1C7A8F9B598E002773AF3E1DEC8637D2 |      29412 |    29412 |     7797 | Media\Extra_E3BiaDemo_CAPT.est
@@ -2948,7 +2948,7 @@ DAC7FABFF753F8D562507B5763825592745AC17A | 061FE13634E44792D5B3BC21B511E6D9CCCFF
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 519D86F805093974DF952F15FC15DE8E01B3D06F | DC674FD6D833BE493B3C5C0CCE5767D715453C71 |      82036 |    82036 |    14668 | Help\ReadMe.det.rtf
 962DF57DE34C3B417198D15E6A16B990E45BF787 | 8EECE1829CE9E1D906AA232F4C7240EC21483D76 |      26100 |    26100 |     5331 | Media\closing_credits_CAPT.det
 6F5FE91B80F40E0533BE43E57A4611F2F238D57C | FC354FFB4456FD935D5DD198E7A3DAC2E32FB41E |      30070 |    30070 |     8160 | Media\Extra_E3BiaDemo_CAPT.det
@@ -3278,24 +3278,21 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Gearbox Software\BrothersInArms\Folder, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Gearbox Software\BrothersInArms\Version, Type: String
 Registry String Entry
-	Value | Language
-BRPCRC1.1  | 
+BRPCRC1.1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Gearbox Software\BrothersInArms\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    DE  | de-DE
-    IT  | it-IT
-    ES  | es-ES
+EN, en-US
+FR, fr-FR
+DE, de-DE
+IT, it-IT
+ES, es-ES
 
 ============================================Uninstall Runs============================================
 

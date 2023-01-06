@@ -1,8 +1,8 @@
-Total number of files   : 262
-Total size of files     : 7914907549 | 7,91 GB
-Total number of chunks  : 4
-Total bytes on disk     : 3619940253 | 3,62 GB
-Total bytes compressed  : 2848504098 | 2,85 GB
+Total number of files  : 262
+Total number of chunks : 4
+Total size of Files    :       7914907549 Bytes | 7,371 GB
+Total size of Slices   :       3619940253 Bytes | 3,371 GB
+Total size Downloaded  :       2848504098 Bytes | 2,653 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 18056A50F4F9439567E891EE862A1B483B834D5B | 9A72465CD5DC8BF35C10945EB379D6A746BA007B |         34 |       34 |       42 | assault.dat
 D1474BBD7A00C84A8E1035D6B005CB51FA8368D0 | 8C6B54168F1882323632F1D946417D2208DC8956 |     194560 |   194560 |   109990 | binkw32.dll
 E3B36B1F4867A409955055F74476D10A34BA4B76 | 55A832BFF5F74D821F255D1716E02FB215342557 |     645736 |   645736 |   304013 | dbghelp.dll
@@ -3473,7 +3473,7 @@ CA6DAE08899FD3149A632B308B4C42D366F90E16 | B1B2B01C57CE8FEC1FA103AE942DCC0BD22C5
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 91C61220A770EA4586AC51CCE75B719E032437E0 | 86ACF6E14AB3234FFEF89D431CA9C891B02832E0 |      49458 |    49458 |    17026 | support\inst\data\EN\readme.txt
 07EDAA32D2A2F16BE39F5A34777DE9E21C25451C | 80CC5E85818DE9F72E15BD891A72A49E4BBE6F00 |      46544 |    46544 |     9330 | support\inst\data\EN\update_notes.txt
 54AC29DAC0AA48423CBF04233ACF87C88076857F | 6D98601ABDB687DA5BCF62D6DB0DEDD31150ECD8 |         85 |       85 |       92 | support\inst\data\EN\WIC Registration.url
@@ -3628,7 +3628,7 @@ C716F1E233E46A260072BCCF354E0B1D99CD7F3E | 51B54300AE2D167ABF20978D69CEC0267ABCC
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 648832C2DD0E8DE05B7CBA754F37571CBDDAA488 | 893C97D4B22FF93255F56D850CF8ADBC99663B62 |      54805 |    54805 |    18346 | support\inst\data\ES\readme.txt
 F8EB5F2F43949E2874B299975E3450693E6C9D99 | AB627B1D10027602393E4E96E09BA73C5C446EBC |      61714 |    61714 |    10754 | support\inst\data\ES\update_notes.txt
 508100A21F034ABD134BE30DA3ED96F282AB754B | 1D7309159FD16AFB426CFB6D876C12C49DF1EE0A |         85 |       85 |       91 | support\inst\data\ES\WIC Registration.url
@@ -3818,7 +3818,7 @@ B9C976A37052A06D2663C92C6D166543929D454E | FE8C6783206479BAB4EFE455C5F3F7F5F9ED2
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9BC4C4A12FAC047DD4CB3A7D248DDFAD6CFFE312 | 0E993D703F3949783E0802F9624F1A01FCB11BF5 |      55060 |    55060 |    18797 | support\inst\data\FR\readme.txt
 4D8F3331CBB3DCD196E85F1FB7A7D931D40E6005 | AC8BCCB80C6B5D13A1F071EA2A18741ADE2D5937 |      61576 |    61576 |    11377 | support\inst\data\FR\update_notes.txt
 2E14B625BE2383DC0A1527801FD6E5F29AF2F8C9 | F8A64CBEAAB501E182908F54F44B7A7F2A979CA3 |         85 |       85 |       91 | support\inst\data\FR\WIC Registration.url
@@ -4064,60 +4064,51 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\Software\Massive Entertainment AB\World In Conflict\CDKEY, Type: String
 Registry String Entry
-	Value | Language
-UHKO-JNLA-DHHP-A6XY-UV6Y  | 
+UHKO-JNLA-DHHP-A6XY-UV6Y, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Massive Entertainment\World in Conflict\vv, Type: String
 Registry String Entry
-	Value | Language
-    vv  | 
+vv, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Massive Entertainment AB\World in Conflict\InstallPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Massive Entertainment AB\World in Conflict\InstallExePath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\wic.exe  | 
+$INSTALL_DIR\wic.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Massive Entertainment AB\World in Conflict\Version, Type: String
 Registry String Entry
-	Value | Language
-1.0.1.1  | 
+1.0.1.1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Massive Entertainment AB\World in Conflict\SovietAssault, Type: String
 Registry String Entry
-	Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Massive Entertainment AB\World in Conflict\OnlineOnly, Type: Number
 Registry Number Entry
-  Value | Language
-     0  | 
+0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Massive Entertainment AB\World in Conflict\LanguageCode, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    ES  | es-ES
+EN, en-US
+FR, fr-FR
+ES, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Massive Entertainment AB\World in Conflict\Localized, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-Spanish  | es-ES
+English, en-US
+French, fr-FR
+Spanish, es-ES
 
 ============================================Uninstall Runs============================================
 

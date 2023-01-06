@@ -1,8 +1,8 @@
-Total number of files   : 3284
-Total size of files     : 6068437101 | 6,07 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1773469805 | 1,77 GB
-Total bytes compressed  : 722331031 | 722,33 MB
+Total number of files  : 3284
+Total number of chunks : 1
+Total size of Files    :       6068437101 Bytes | 5,652 GB
+Total size of Slices   :       1773469805 Bytes | 1,652 GB
+Total size Downloaded  :        722331031 Bytes | 688,869 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2ABA44E4D125CE0BCE5A0C0A5E2CE90B923D762C | 0532D1607E1AACDC1BD76145A15CB8ABF4394CD2 |     499848 |   499848 |   246728 | .\baselib.dll
 E2B8CF264AA1B1DF3C72EB0E3F0EB847AB93A7F6 | DE3F9AA2480DCC9D01B79BACBC5831576771670A |   15120440 |  3145728 |  2895656 | .\Dependencies\vc_redist.x64.exe
 CA6213D23A5CC4D93191CD2DECA61BEECAE480FD | C3725A5EE9B6446B4B547CB635F1955208E8DA4C |   15120440 |  3145728 |  3146688 | .\Dependencies\vc_redist.x64.exe
@@ -4966,8 +4966,7 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Roller\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 
 ========================================Install Firewall Rules========================================
 

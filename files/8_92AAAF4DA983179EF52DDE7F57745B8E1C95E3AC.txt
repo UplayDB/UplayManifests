@@ -1,8 +1,8 @@
-Total number of files   : 300
-Total size of files     : 9198726094 | 9,20 GB
-Total number of chunks  : 1
-Total bytes on disk     : 608791502 | 608,79 MB
-Total bytes compressed  : 608791502 | 608,79 MB
+Total number of files  : 300
+Total number of chunks : 1
+Total size of Files    :       9198726094 Bytes | 8,567 GB
+Total size of Slices   :        608791502 Bytes | 580,589 MB
+Total size Downloaded  :        608791502 Bytes | 580,589 MB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT , nl-NL , pl-PL ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 7D7419F180F0C884E11F31C328EF629376B29CB7 |     155448 |   155448 |   155448 | The Settlers7.exe
                                          | 601147811D6FAEFC185377C6B9CB611540454D80 |    1112276 |  1048576 |  1048576 | Data\Base\BBA\Fonts.bba
                                          | CF1447C7E29E150159BF917FB3D116F9DA9DF617 |    1112276 |    63700 |    63700 | Data\Base\BBA\Fonts.bba
@@ -9066,50 +9066,44 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\The Settlers 7\Version, Type: String
 Registry String Entry
-	Value | Language
-1.12.1396  | 
+1.12.1396, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\The Settlers 7\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-519af56084f74f2d82ee964935d9f89c  | 
+519af56084f74f2d82ee964935d9f89c, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\The Settlers 7\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\The Settlers 7\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Data\Base\_Dbg\Bin\Release\Settlers7R.exe  | 
+$INSTALL_DIR\Data\Base\_Dbg\Bin\Release\Settlers7R.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\The Settlers 7\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    nl  | nl-NL
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    us  | pl-PL
-    es  | es-ES
+us, en-US
+nl, nl-NL
+fr, fr-FR
+de, de-DE
+it, it-IT
+us, pl-PL
+es, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\The Settlers 7\GameUpdate\llang, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    nl  | nl-NL
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    pl  | pl-PL
-    es  | es-ES
+us, en-US
+nl, nl-NL
+fr, fr-FR
+de, de-DE
+it, it-IT
+pl, pl-PL
+es, es-ES
 
 ============================================Uninstall Runs============================================
 

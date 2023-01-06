@@ -1,8 +1,8 @@
-Total number of files   : 492
-Total size of files     : 31030756841 | 31,03 GB
-Total number of chunks  : 12
-Total bytes on disk     : 965985769 | 965,99 MB
-Total bytes compressed  : 3495576875 | 3,50 GB
+Total number of files  : 492
+Total number of chunks : 12
+Total size of Files    :      31030756841 Bytes | 28,900 GB
+Total size of Slices   :        965985769 Bytes | 921,236 MB
+Total size Downloaded  :       3495576875 Bytes | 3,256 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -70,7 +70,7 @@ Name: Manual\Chinese(Traditional)\AssassinsCreed.pdf | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 90FD109B76597AE5D6247C75D0683A1C5CA4696D | 4652B5F66B8292E050ADC47766A721D61B360F2F |   30269344 |  2097152 |  1069146 | AC4BFMP.exe
 5C8A125C53B87228CD2D51393EFB4849768ED8AC | 345DE4F0B443FAE2638A41708AF5CFD274EE2037 |   30269344 |  2097152 |  1056111 | AC4BFMP.exe
 8EAC381E7AFB7505D003A37CA4A625663DB32729 | 65659F532D8E15F7CF09DD8F0789FD09F2B3EA56 |   30269344 |  2097152 |  1011291 | AC4BFMP.exe
@@ -13051,7 +13051,7 @@ E7D0BCFF44F666DA111A5B01FDA987534CD64B0B | DB2DAC664B2704C68E3DD1938E72AD332C63D
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 FAF01F806F2EB327F1FAD70CEC6CE1942934AB0F | A2A02A785E7030E7072C0233EC8BAA52C032BF27 |    1966080 |  1966080 |     2481 | dlc_1\DataPC_1_dlc.forge
 05C48155B4EC0C1801114101FE8A23FCF3141520 | C41DA181E4E3C9B6183FBA6BCE88F5840E7475AD |  673284096 |  2097152 |   211225 | dlc_1\DataPC_Aveline_1_dlc.forge
 709BB849DBD7132886CD823EFF842F248781C72C | 424E5204EB546507D2DA58BCC5A359A17F102308 |  673284096 |  2097152 |  1607791 | dlc_1\DataPC_Aveline_1_dlc.forge
@@ -13378,47 +13378,47 @@ AE9C10547F17381A0DD1714AFAB4E49696F4602D | 31A750860AEBE7F1BF175E5B0294EA1D4C4A8
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2A02D20E588FC27667DA6E992D586F0890D1D7BA | 8AD2D86A7D6533303EC97FBBB6CAD2647C0B57AC |    1966080 |  1966080 |     2482 | dlc_2\DataPC_2_dlc.forge
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5105E217DE6158C2E3DE38791E5B458316543D51 | 9B6292D4AAD4E008CE5AC558CC6C5A92822AB2FC |    1966080 |  1966080 |     2483 | dlc_3\DataPC_3_dlc.forge
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1B0E4C5C66E54695F13837FE8425EFFD1BF86931 | 801C7C883D243B365F1EC5011D3BC1AAC82D5EE1 |    1966080 |  1966080 |     2481 | dlc_4\DataPC_4_dlc.forge
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5BD615FA2DAF1651805BA37DF70C611494F7F840 | 3D90E25804DEF8C949FEA2F107CBFCFFAE96081D |    1966080 |  1966080 |     2483 | dlc_5\DataPC_5_dlc.forge
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 20A02E1E3B72AC1DA1956643F5F8F98AB6C8FF56 | FDD3DE6404F107F84E40A82ABCE166A3E8EF18F4 |    1966080 |  1966080 |     2482 | dlc_6\DataPC_6_dlc.forge
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B6EDF867A3153D88192142B9672B5A4BA6A1A675 | 329B171EE46E31432A94858465305B463ADFDB54 |    1966080 |  1966080 |     2484 | dlc_7\DataPC_7_dlc.forge
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1B4FD7870F980B23FDF5ED997127ED8400ADBA98 | B65527E5D3AF0235703CB0E0092F647AB6F630D9 |    1966080 |  1966080 |     2485 | dlc_8\DataPC_8_dlc.forge
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 FBE57F2BA52B6D811CC11EABF98157D7D178D9C9 | A0ACE86A73712F22C16CFB3269C44B18762B4381 |    1966080 |  1966080 |     2480 | dlc_9\DataPC_9_dlc.forge
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 FF6C3EBC9A129687D5C0E42856FB88C9FCF6125C | 0BFCE691D0BDFE6094C09DE5B0B0B2AD367501E6 |   45779085 |  2097152 |  1755419 | dlc_10\AC4_pc_dlc_cn_bra.pck
 B9960C96C64D4843EB6392F98975656322EF472D | 2B0337592A95C06999C6573CCB880B58811A856C |   45779085 |  2097152 |  1750414 | dlc_10\AC4_pc_dlc_cn_bra.pck
 66666949C73A88736EE97A95787E2E3E19ECD775 | D081CDDC451A70E3698D785D29138D4689533792 |   45779085 |  2097152 |  1737460 | dlc_10\AC4_pc_dlc_cn_bra.pck
@@ -15253,7 +15253,7 @@ CA813BCCCAEE102DFC058F0AE824E27AC97A00AC | 8143FED8F2331CE6DC4D561DDD192133C4C17
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 36D3D477D0DE0266794A8B26A9A9F43560227315 | 35F544B3055FA62FA49F775AE5E2FF95A664F4C7 |    1867776 |  1867776 |     2463 | multi\DataPC_skins_0006_00000040_dlc.forge
 
 ===============================================Licenses===============================================
@@ -15352,39 +15352,36 @@ Ignore All Exit Codes?: True, Restart Required?: True
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed IV Black Flag\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed IV Black Flag\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-Danish  | da-DK
- Dutch  | nl-NL
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Norwegian  | nb-NO
-Polish  | pl-PL
-Brazil  | pt-BR
-Spanish  | es-ES
-Swedish  | sv-SE
-Finnish  | fi-FI
-Portuguese  | pt-PT
- Czech  | cs-CZ
-Hungarian  | hu-HU
-ChineseTrad  | zh-TW
-Korean  | ko-KO
-SChinese  | zh-CN
-Russian  | ru-RU
-Japanese  | ja-JP
+English, en-US
+Danish, da-DK
+Dutch, nl-NL
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Norwegian, nb-NO
+Polish, pl-PL
+Brazil, pt-BR
+Spanish, es-ES
+Swedish, sv-SE
+Finnish, fi-FI
+Portuguese, pt-PT
+Czech, cs-CZ
+Hungarian, hu-HU
+ChineseTrad, zh-TW
+Korean, ko-KO
+SChinese, zh-CN
+Russian, ru-RU
+Japanese, ja-JP
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed IV Black Flag\SKU, Type: String
 Registry String Entry
-	Value | Language
-    WW  | 
+WW, 
 
 ============================================Uninstall Runs============================================
 

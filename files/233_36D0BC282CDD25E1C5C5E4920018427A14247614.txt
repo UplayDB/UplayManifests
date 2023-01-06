@@ -1,8 +1,8 @@
-Total number of files   : 432
-Total size of files     : 1709340474 | 1,71 GB
-Total number of chunks  : 2
-Total bytes on disk     : 1709340474 | 1,71 GB
-Total bytes compressed  : 1592190621 | 1,59 GB
+Total number of files  : 432
+Total number of chunks : 2
+Total size of Files    :       1709340474 Bytes | 1,592 GB
+Total size of Slices   :       1709340474 Bytes | 1,592 GB
+Total size Downloaded  :       1592190621 Bytes | 1,483 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -36,7 +36,7 @@ Name: Italian\Manual.pdf | Locale: it-IT
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0284B0ABC7206AF0547ABD5098022BE18EEC03FF | E7A2670C5E61D3645E39E7E9BA779EEA743DAEE7 |     338944 |   338944 |   133436 | binkw32.dll
 CAB84E9F1C54E04B2642E0A8EF61C1098F745913 | FC25C84C240A0B5F32B8B73D977F4813BD7383A2 |    3942056 |  3145728 |  1421963 | ColdFear_retail.exe
 C2343EF2CF58DF5F14A60A2AB0096A17EC9D3CAC | 0C76DEC495F2D76B96E9EEBE114A83D7A1293DFD |    3942056 |   796328 |   219393 | ColdFear_retail.exe
@@ -853,7 +853,7 @@ F8E965924395F875085937817E004B0DE00106EA | 14838EAE5BB9620D0954CEB30684F19686064
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 58E17379829F3A1377EE22C7361298D83A697FDC | 9C7EA70772B44B5A5214FF5B53BE4D0839F01B3C |        390 |      390 |      231 | Support\installLang.bat
 077C6FC996AC80C24931000B494B9D3916FCEED4 | 807A4E54E9A1ABBE9233425819BCD28E177D6821 |   13767776 |  3145728 |  2935098 | Support\vc_redist.x86.exe
 4E1981BAE231283E2C16E18CF65C600E491B570A | AC926F008BC690EFFF40D712B8003F69785F19A6 |   13767776 |  3145728 |  3146694 | Support\vc_redist.x86.exe
@@ -931,24 +931,21 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2C14901F-ED9D-40B5-8FE5-1BAF3D31F73B}\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Cold Fear\Folder, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Cold Fear\Language, Type: String
 Registry String Entry
-	Value | Language
-    en  | en-US
-    es  | es-ES
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
+en, en-US
+es, es-ES
+fr, fr-FR
+de, de-DE
+it, it-IT
 
 ============================================Uninstall Runs============================================
 

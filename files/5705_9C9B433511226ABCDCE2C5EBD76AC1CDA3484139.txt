@@ -1,8 +1,8 @@
-Total number of files   : 3131
-Total size of files     : 2048374731 | 2,05 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2048374731 | 2,05 GB
-Total bytes compressed  : 1582751229 | 1,58 GB
+Total number of files  : 3131
+Total number of chunks : 1
+Total size of Files    :       2048374731 Bytes | 1,908 GB
+Total size of Slices   :       2048374731 Bytes | 1,908 GB
+Total size Downloaded  :       1582751229 Bytes | 1,474 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: main
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CDDAA701F6D7F2722CBFC300E964050976F9A287 | 52B389618D5376FE6B88320DE0DE842C7F4C2216 |     533848 |   533848 |   177437 | dbdata.dll
 084CB8CC3A33F1CE792BCF1A09A3BEBC4812B53A | 26277B4E50F57859BE534800E195F9F312FCF385 |  409366864 |  3145728 |   977812 | Scott.exe
 617BAD79C69D5D671B8AD4012C1C5FE4A7AFD410 | B4D3356188D531A1CB7C3BB5536D7EDF5EF3CA1D |  409366864 |  3145728 |   855564 | Scott.exe
@@ -3726,12 +3726,11 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\ScottPilgrim\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- fr-FR  | fr-FR
- de-DE  | de-DE
- it-IT  | it-IT
- es-ES  | es-ES
+en-US, en-US
+fr-FR, fr-FR
+de-DE, de-DE
+it-IT, it-IT
+es-ES, es-ES
 
 ========================================Install Firewall Rules========================================
 

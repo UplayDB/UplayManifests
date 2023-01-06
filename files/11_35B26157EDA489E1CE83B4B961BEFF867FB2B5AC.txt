@@ -1,8 +1,8 @@
-Total number of files   : 224
-Total size of files     : 6685341615 | 6,69 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2390374319 | 2,39 GB
-Total bytes compressed  : 2390374319 | 2,39 GB
+Total number of files  : 224
+Total number of chunks : 1
+Total size of Files    :       6685341615 Bytes | 6,226 GB
+Total size of Slices   :       2390374319 Bytes | 2,226 GB
+Total size Downloaded  :       2390374319 Bytes | 2,226 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT , nl-NL ,
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 365D3126EBCB480B2639B5B550AE318806FBA1A7 |     176640 |   176640 |   176640 | binkw32.dll
                                          | B16CC54448D6B2B44D2E166919121800E1D01CDA |      85608 |    85608 |    85608 | FirewallInstall.exe
                                          | 3647A973868C033BA7352FF24F2E3593492191D7 |      92240 |    92240 |    92240 | GDFInstall.exe
@@ -6608,65 +6608,57 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia - The Forgotten Sands\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-German  | de-DE
- Dutch  | nl-NL
-Spanish  | es-ES
-Italian  | it-IT
+English, en-US
+French, fr-FR
+German, de-DE
+Dutch, nl-NL
+Spanish, es-ES
+Italian, it-IT
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia - The Forgotten Sands\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia - The Forgotten Sands\Version, Type: String
 Registry String Entry
-	Value | Language
-   1.0  | 
+1.0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia - The Forgotten Sands\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Prince of Persia.exe  | 
+$INSTALL_DIR\Prince of Persia.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia - The Forgotten Sands\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-86b1e68cbd164799b7188b743e7bcb1d  | 
+86b1e68cbd164799b7188b743e7bcb1d, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia - The Forgotten Sands\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia - The Forgotten Sands\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    de  | de-DE
-    nl  | nl-NL
-    es  | es-ES
-    it  | it-IT
+us, en-US
+fr, fr-FR
+de, de-DE
+nl, nl-NL
+es, es-ES
+it, it-IT
 ===========================================Install Registry===========================================
 
 Key: HKEY_CURRENT_USER\Software\ubisoft\Prince of Persia - The Forgotten Sands\1.0\Engine\LNG_Language, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | en-US
-     2  | fr-FR
-     5  | de-DE
-    13  | nl-NL
-     3  | es-ES
-     8  | it-IT
+1, en-US
+2, fr-FR
+5, de-DE
+13, nl-NL
+3, es-ES
+8, it-IT
 
 ============================================Uninstall Runs============================================
 

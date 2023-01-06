@@ -1,8 +1,8 @@
-Total number of files   : 1294
-Total size of files     : 9975248498 | 9,98 GB
-Total number of chunks  : 3
-Total bytes on disk     : 1385313906 | 1,39 GB
-Total bytes compressed  : 1385313906 | 1,39 GB
+Total number of files  : 1294
+Total number of chunks : 3
+Total size of Files    :       9975248498 Bytes | 9,290 GB
+Total size of Slices   :       1385313906 Bytes | 1,290 GB
+Total size Downloaded  :       1385313906 Bytes | 1,290 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: da-DK , de-DE , en-US , es-ES , fr-FR , it-IT , nb-NO , nl-
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 650150DCC850DABAA564181BC6E0FE259D01C91E |     181384 |   181384 |   181384 | src\system\binkw32.dll
                                          | F5E3E0BDC661407CC764BFEF1CB443AB3B3AA709 |       9041 |     9041 |     9041 | src\system\ConvictionInputs.ini
                                          | F3109F461EBC0451E87E3D1ABFE414E837759C59 |        560 |      560 |      560 | src\system\ConvictionUser.ini
@@ -3235,7 +3235,7 @@ Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | DA5C6709F1A14ABECBB0B60D65F9DCEF7A745C86 |   11446135 |  1048576 |  1048576 | data\Animations\MoveMgrNamed.bin
                                          | 176366C6305017E8279FB8505E914B6FB7CF69EB |   11446135 |  1048576 |  1048576 | data\Animations\MoveMgrNamed.bin
                                          | 5F882DA4898EEB8D491E3BE1BAC79BE84292766C |   11446135 |  1048576 |  1048576 | data\Animations\MoveMgrNamed.bin
@@ -10124,7 +10124,7 @@ Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 7537172FAA7FB938B1988CC0CA6E602D3A1DE260 |      18106 |    18106 |    18106 | Support\configs\Danish\Conviction.ini
                                          | 37376F982F2FB1F60F60A4E38F9B237E8B502907 |      18105 |    18105 |    18105 | Support\configs\Dutch\Conviction.ini
                                          | 3D25FE7007A6568664419DB36B862ADAA8D96550 |      18106 |    18106 |    18106 | Support\configs\English\Conviction.ini
@@ -10472,40 +10472,35 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell - Conviction\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell - Conviction\version, Type: String
 Registry String Entry
-	Value | Language
-  1.04  | 
+1.04, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell - Convictioninstalled, Type: String
 Registry String Entry
-	Value | Language
-  TRUE  | 
+TRUE, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell - Conviction\locversion, Type: String
 Registry String Entry
-	Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell - Conviction\Language, Type: String
 Registry String Entry
-	Value | Language
-Danish  | da-DK
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
- Dutch  | nl-NL
-Norwegian  | nb-NO
-Spanish  | es-ES
-Swedish  | sv-SE
+Danish, da-DK
+English, en-US
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Dutch, nl-NL
+Norwegian, nb-NO
+Spanish, es-ES
+Swedish, sv-SE
 
 ============================================Uninstall Runs============================================
 

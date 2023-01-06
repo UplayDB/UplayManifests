@@ -1,8 +1,8 @@
-Total number of files   : 253
-Total size of files     : 18207051525 | 18,21 GB
-Total number of chunks  : 9
-Total bytes on disk     : 1027182341 | 1,03 GB
-Total bytes compressed  : 3490654656 | 3,49 GB
+Total number of files  : 253
+Total number of chunks : 9
+Total size of Files    :      18207051525 Bytes | 16,957 GB
+Total size of Slices   :       1027182341 Bytes | 979,597 MB
+Total size Downloaded  :       3490654656 Bytes | 3,251 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -24,7 +24,7 @@ Name: English\Readme.txt | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B7405333500EE18B557C1D788343786BDF4BD69B | 930F48009731FF041D3A74457CDE1A9BE6EF2E9D |     123792 |   123792 |    66948 | AnselSDK64.dll
 D480E118C88D0152CAE8694C28CDD67C3EE30D32 | 5EE1E2B4ADEDF498C4507D75BCB45DF5F11C35A3 |    4470976 |  3145728 |  1478282 | d3dcompiler_47.dll
 5F5C9D4B053A7591ACEEB8A664C502EAB56C58B2 | B0340D368B900ADD354F31DDFC29A6AA94684D91 |    4470976 |  1325248 |   416137 | d3dcompiler_47.dll
@@ -2280,7 +2280,7 @@ F654C092F4B51463C3FD63F588FEC0DAD60D5D34 | 2E805AA46608D7F2443BE44D204C06C78389D
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3E3891C684F364F1BCE44A001D88FA834011CB5B | E81C3E0791B44178B46594F588194B6078BDCF78 |     923952 |   923952 |   922912 | compressed_oodle_compression_state.bin
 B9FC3446BD6B57A89A7A623CABB77B789299CAFE | F218AC3B072D022B5DF10B8A0D472BC6D3BDF002 |   58098728 |  3145728 |  3144433 | ProjectU.exe
 6D7D202A98D69451A60A67E98D111D95EDD7D0D8 | ED359E8DB5EC37D8C724805E765498474A513991 |   58098728 |  3145728 |  3146694 | ProjectU.exe
@@ -2325,7 +2325,7 @@ B3B59F4BAD5A1374EBEB1AADA267DD31A6AD5192 | DA9950B313D43828D5E43FFF7696C48A60BA3
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1483AC2FDFDAC13B38AAA1187AF04C767B0CDD0D | BDB214D19644E05BEA2B4E290F2DBFDA6DA1DE5E |  284590080 |  3145728 |   507788 | DataPC.forge
 2B2D1ADF4F3FA38B4D14358CC50D2A48401FB01F | 4EA381AB9BAC5E2A2A459CF1C3D48FD64C40C8D6 |  284590080 |  3145728 |  1295675 | DataPC.forge
 E9B59353A42DE7696B7C9DA2395AA28F98D52A57 | 7A689763335B5229EBB52CF03C9C2B9B0B4FDC44 |  284590080 |  3145728 |  2936915 | DataPC.forge
@@ -4466,7 +4466,7 @@ BDD7951B4DAA63AAAF710E2138A44161C3A30058 | 1E5F8DEF40BB0CB0F7156B9C2BAB9EFB49CFB
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 659CE3CC85B820D757F6FB173AA86ABE57F19395 | 6180A7D9FA6AEDDCBDBB5114A9354CC203DE6613 | 3074818048 |  3145728 |   612423 | DataPC_TGT_WorldMap.forge
 521917840BA415084469333D073215F1F4255CAE | 93B018BE1D3734D3844397114860BEF5FF52D0B7 | 3074818048 |  3145728 |  3006356 | DataPC_TGT_WorldMap.forge
 274F1EF793CC7FCA4D6D1AD4917119692AE7D1DE | 8D8D30A496E925BF0CBC685FEBE1500A0C106CC9 | 3074818048 |  3145728 |  3045901 | DataPC_TGT_WorldMap.forge
@@ -5466,13 +5466,13 @@ F94688DD0DC9F2DF4A307473F80103EEDC8768DF | 4A950A6DDB66C9460E84FA6DEAB6444CB8BF2
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 77CC854F3E926C664A5324C1164F21C05E5A2195 | 2539C40D20514797EF09626BA6A108F2EFB6275A |     262144 |   262144 |   198263 | DataPC_GRN_GhostRoom.forge
 D783DD512A525B9F046B877CA83FD9E8052FA719 | 7C772C476B2F6C4E67643DA6718D9E313A40E098 |    3047424 |  3047424 |  2765964 | DataPC_GRN_GhostRoom_vulkan.forge
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C86329525F242725A47A6C25FF555DB42BE4ECB1 | 40A8600F51D46BB4C7568C342FAE368A8C574537 |   10167612 |  3145728 |  3103632 | videos\Ubisoft_Logo.bk2
 BCC6BAA72E92E2B9A9B6DE56AE1E1DEBFFC4F1B3 | F1D9B6E82882B4C172C7D1D6505331655940D5BF |   10167612 |  3145728 |  3123370 | videos\Ubisoft_Logo.bk2
 8C7F4A8BE01135CC2C5E63B68B38210EEF3D5168 | 6CE5E933DDC04DD989A082B1C9A11E915B8E992E |   10167612 |  3145728 |  3123835 | videos\Ubisoft_Logo.bk2
@@ -5497,7 +5497,7 @@ B29E434787137B266C1070642C194579A23FBE02 | 0C5721AEEE65DD322C72CA963990D95DCC76B
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 91E7B1754B2A21DE18BF055F4B6D4CB6B0FFAC48 | CD0AF61A8C4AE216FC111FD84504DC15AD6BFAA0 |  202480723 |  3145728 |  1843884 | sounddata\pc\soundspc_eng.pck
 8BBAEB1F7DFEFACF424504610665FF7EB46C83CE | BD46DCE9252A7CE9267CF23FD14226A97D9E40EB |  202480723 |  3145728 |  2785577 | sounddata\pc\soundspc_eng.pck
 DF288D37456C088D21EFCC66164970EBA24030BA | F2CC1428D2CEBF280DEE5915F183D5D59D5F61D1 |  202480723 |  3145728 |  2778981 | sounddata\pc\soundspc_eng.pck
@@ -5871,7 +5871,7 @@ D30933EAE795BEDC7803040A9A4960B6F118ED3F | 3CE8DE6A0B8D516F32EA25513420CDCAA9F88
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 105770BB0A4B2B51EDEB901AE8AC31A200209AAC | 0830CC54ADEC654AB4394032EC4E046185BA01E5 |    1347354 |  1347354 |  1345055 | support\DirectX\Apr2005_d3dx9_25_x64.cab
 D229D6C60399D526E85676EBB3202AC93D9149A0 | 1ABE9F17489E389E7400DEA76A0386873446E9CC |    1078962 |  1078962 |  1074298 | support\DirectX\Apr2005_d3dx9_25_x86.cab
 AFF5F79327F9263C7F40CE76BAF9FD2F8BEE9F00 | 69091C7D92B1CC64F8D4E5B4042E418E2BC84F3B |    1397830 |  1397830 |  1395632 | support\DirectX\Apr2006_d3dx9_30_x64.cab
@@ -6043,7 +6043,7 @@ DE254BA2B1AFAA0AA2B83F0C6833D3E3B3B7686F | 409B8A9C1F3C9BFFAB90059FFA1242A81D362
 ================================================Chunks================================================
 
 Chunk ID: 99, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B88F0E0D516F8F745205983AF0DA3D7C0C8E8BB4 | CA18C3B28B3AFFE55326E4BD70421AADCF62BF94 |       4841 |     4841 |     1612 | support\Readme\Readme.txt
 805C7FE6BC7BB1C0F847365DB74DE8DE56209119 | 0054403B9ED44764CEC7DB51B51460ED336682B6 |       4839 |     4839 |     1612 | support\Readme\English\Readme.txt
 
@@ -6112,24 +6112,23 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Ubisoft\ProjectU\Language, Type: String
 Registry String Entry
-	Value | Language
-English(US)  | en-US
-French(France)  | fr-FR
-Italian  | it-IT
-German  | de-DE
-Spanish(Spain)  | es-ES
-Spanish(South America)  | es-MX
-Portuguese(Brazil)  | pt-BR
-Japanese  | ja-JP
-Russian  | ru-RU
- Dutch  | nl-NL
-Polish  | pl-PL
- Czech  | cs-CZ
-Korean  | ko-KO
-Chinese  | zh-CN
-Chinese(Trad)  | zh-TW
-Arabic  | ar-AA
-  Thai  | th-TH
+English(US), en-US
+French(France), fr-FR
+Italian, it-IT
+German, de-DE
+Spanish(Spain), es-ES
+Spanish(South America), es-MX
+Portuguese(Brazil), pt-BR
+Japanese, ja-JP
+Russian, ru-RU
+Dutch, nl-NL
+Polish, pl-PL
+Czech, cs-CZ
+Korean, ko-KO
+Chinese, zh-CN
+Chinese(Trad), zh-TW
+Arabic, ar-AA
+Thai, th-TH
 
 ========================================Install Firewall Rules========================================
 

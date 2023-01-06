@@ -1,8 +1,8 @@
-Total number of files   : 326
-Total size of files     : 993741333 | 993,74 MB
-Total number of chunks  : 1
-Total bytes on disk     : 993741333 | 993,74 MB
-Total bytes compressed  : 959627644 | 959,63 MB
+Total number of files  : 326
+Total number of chunks : 1
+Total size of Files    :        993741333 Bytes | 947,706 MB
+Total size of Slices   :        993741333 Bytes | 947,706 MB
+Total size Downloaded  :        959627644 Bytes | 915,172 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -28,7 +28,7 @@ Name: Heroes3_Manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 60BB51C8F4FB1A57A5F54FAE6DA5374E9463B701 | F5BA64ECBC488C7CE1661D7AACC3690D2B03853C |     126976 |   126976 |    57724 | BINKW32.DLL
 D83B61273B62ED40A172B10A40E5FF173DB77416 | 315A97BDE5B3C0B6F3D8F47AA2B4F0C846DD6815 |     154542 |   154542 |   112455 | boxart.bmp
 133B621575A6BB65594DDA89BE9B2E7D216D4D26 | C55BC25E65B2CBC5B940182A5160674F612ABBA6 |     108177 |   108177 |    97323 | gfw_high.ico
@@ -659,44 +659,37 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\$INSTALL_DIR\Heroes3.exe, Type: String
 Registry String Entry
-	Value | Language
-$ DWM8And16BitMitigation  | 
+$ DWM8And16BitMitigation, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A4D32DA-00F1-445E-9363-5A90BDADF616}_is1\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A4D32DA-00F1-445E-9363-5A90BDADF616}_is1\Publisher, Type: String
 Registry String Entry
-	Value | Language
-Ubisoft  | 
+Ubisoft, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A4D32DA-00F1-445E-9363-5A90BDADF616}_is1\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-Heroes of Might and Magic 3 Complete version 1.0  | 
+Heroes of Might and Magic 3 Complete version 1.0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A4D32DA-00F1-445E-9363-5A90BDADF616}_is1\URLInfoAbout, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A4D32DA-00F1-445E-9363-5A90BDADF616}_is1\URLUpdateInfo, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Heroes of Might and Magic® III\1.0\AppPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 
 ============================================Uninstall Runs============================================
 

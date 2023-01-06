@@ -1,8 +1,8 @@
-Total number of files   : 358
-Total size of files     : 1850426486 | 1,85 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1850426486 | 1,85 GB
-Total bytes compressed  : 1850426486 | 1,85 GB
+Total number of files  : 358
+Total number of chunks : 1
+Total size of Files    :       1850426486 Bytes | 1,723 GB
+Total size of Slices   :       1850426486 Bytes | 1,723 GB
+Total size Downloaded  :       1850426486 Bytes | 1,723 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | E0B4ED13FC2540B053FA0E43EA0DFE2DCCC70923 |      60728 |    60728 |    60728 | AIFunctionsMapping.txt
                                          | 29C4D2BFFBF4D53BEFC6AD6F17B1302EA133521A |     224768 |   224768 |   224768 | binkw32.dll
                                          | 5F8FE7356342B65E26EC27F50E2B77374EB744D0 |    5908912 |  1048576 |  1048576 | From_Dust.exe
@@ -2077,52 +2077,45 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Dust\Language, Type: Number
 Registry Number Entry
-  Value | Language
-     9  | en-US
-  1036  | fr-FR
-     7  | de-DE
-    16  | it-IT
-    10  | es-ES
+9, en-US
+1036, fr-FR
+7, de-DE
+16, it-IT
+10, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Dust\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\From_Dust.exe  | 
+$INSTALL_DIR\From_Dust.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Dust\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Dust\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
+us, en-US
+fr, fr-FR
+de, de-DE
+it, it-IT
+es, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Dust\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-e663f69de45d4671bcc5b036e48487a7  | 
+e663f69de45d4671bcc5b036e48487a7, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\From Dust\1.0.0\vv, Type: String
 Registry String Entry
-	Value | Language
-    vv  | 
+vv, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\From Dust\1.00.003\vv, Type: String
 Registry String Entry
-	Value | Language
-    vv  | 
+vv, 
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 28
-Total size of files     : 3414837630 | 3,41 GB
-Total number of chunks  : 3
-Total bytes on disk     : 3414837630 | 3,41 GB
-Total bytes compressed  : 2550826695 | 2,55 GB
+Total number of files  : 28
+Total number of chunks : 3
+Total size of Files    :       3414837630 Bytes | 3,180 GB
+Total size of Slices   :       3414837630 Bytes | 3,180 GB
+Total size Downloaded  :       2550826695 Bytes | 2,376 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: base
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 324B761242FFC2E9718ACA2DDD2AA1720377F007 | 630019D389BC1E3B0119CE2AC42EC98994D21224 |     436072 |   436072 |   169032 | upc_r2_loader64.dll
 F5E33C53F28022F0F4EB5B3CC94644BF1193CEFF | 652A9D449469FC9F17B072D6536FC52F8B25DF41 |     641024 |   641024 |   288384 | libwebp64.dll
 2E7FF11E22A83BD564A8A60629D89AB8D81E8C07 | 1A670C8FA69A4E3902052E62471D1DE7A122EF30 |    1151064 |  1151064 |   624128 | OpenAL64_bundled.dll
@@ -118,7 +118,7 @@ B105E518310B6A6B5A66776C9CB4498AFC20D2EB | 4AB3CC61F3B522F23B282268881AC47D57AD6
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: common
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 66E1B37816F310EADA771DE72E3A3786AE9CC75F | 052A9C368BE5B4BC158E63302166F83DDAC6A884 |  205272921 |  3145728 |  3084857 | Packs/Maniaplanet_Skins.zip
 F8852140F11EA019D53507E9E25DE30B0A0A27B1 | B89F797F7553B6D7ABED975A53D115D17A50186C |  205272921 |  3145728 |  3074912 | Packs/Maniaplanet_Skins.zip
 11D867973678982D805775633484FEF4C8B24C88 | D2E998480608FD3D067A409A3D9C4591A6C65957 |  205272921 |  3145728 |  3066288 | Packs/Maniaplanet_Skins.zip
@@ -380,7 +380,7 @@ C9A6BD0100EEEBB953B8F154EEBB327EBD6A1B7D | 37AB28D29150FE22B9A5CDF46AF8E80F253C0
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: stadium
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0BDF3703495223F396D1E3B1F2DE6E9501A73CC5 | 51A4B6CC39EE704FB2C2B8BB577CF7853E100507 |  759822664 |  3145728 |  3145812 | Packs/Trackmania.Title.Pack.gbx
 F5E3ACA56AE64D20AB4CBB428A47406BE4618E76 | 2A79400B717E3098572AA89BED8CCFE90598D175 |  759822664 |  3145728 |  3145812 | Packs/Trackmania.Title.Pack.gbx
 E8ACC64E38564150E7BFBC49A8191C08D77510A1 | 63AAAEBC6876D8B54FA71D210693A6DA8B4B21C2 |  759822664 |  3145728 |  3145812 | Packs/Trackmania.Title.Pack.gbx

@@ -1,8 +1,8 @@
-Total number of files   : 2855
-Total size of files     : 7873486430 | 7,87 GB
-Total number of chunks  : 6
-Total bytes on disk     : 3578519134 | 3,58 GB
-Total bytes compressed  : 2324213264 | 2,32 GB
+Total number of files  : 2855
+Total number of chunks : 6
+Total size of Files    :       7873486430 Bytes | 7,333 GB
+Total size of Slices   :       3578519134 Bytes | 3,333 GB
+Total size Downloaded  :       2324213264 Bytes | 2,165 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -34,7 +34,7 @@ Name: it\Manual.pdf | Locale: it-IT
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A0893440A1A153625BED8441DC751CD84DB437B8 | BAC7E49411330E0C787DC8A94DCE3B83784E40B2 |      14416 |    14416 |     7302 | Binaries\biahh.com
 10381B31250F872A23A20003E219C1F962389EA6 | 9B815FEBD45EE4F540042408D5F59E7D34F434BD |   25474728 |  3145728 |  1145796 | Binaries\biahh.exe
 FC4ED423C99F9DB30F28095BED35C9357C2F4A09 | C312116DDE764F49E8A89DD9BC51BBC0AB9CB0A9 |   25474728 |  3145728 |  1252386 | Binaries\biahh.exe
@@ -4206,7 +4206,7 @@ CD402DF29E20A72028C5E8F3DEDA2BD1AFB6DBF7 | 455583284DFF1CA6CA14FA7FD7E85AD3B5B49
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 147231FE544FC513FF272786624CDAD83457E77B | 1BC9DB08A2A9593A8EDBF161E43289F2A18D70A6 |       7603 |     7603 |     3061 | Support\Readme.txt
 B1ECC3842C3CE11F15E77B7A90EA449E1B7AB111 | 20E71E950778CE51209ABB0A0BCD05A3700B475C |         74 |       74 |       61 | Support\copyConfig.bat
 F66D5B37AD8F395267D1D2E73201D3A8B780B180 | 26C8CFFD4FD45254888C54462113A4E573C95E7A |        426 |      426 |      245 | Support\InstallLang.bat
@@ -4327,7 +4327,7 @@ E140466440DF57A24679B248248BFD5AAE1E4A77 | C15849AA0C58B941A480C5C8363BF1D43BC50
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D8B293E5FFBD5C6797B07DFBF61C8CBC4D8DA3BF | DE0B8AC079F050B50E37D0F047593E8B52BBD96D |         22 |       22 |       30 | Support\installFr.bat
 5CBB800198B191CF1F666197C563E8DEB8934706 | A9661F0836195226D6D769B2BE5B8EF8CD64CED1 |       8721 |     8721 |     3304 | Support\LisezMoi.txt
 FF2F8C68252FAA1B46CE275A275977068D6D2313 | C19DD81FD5A66AA59AB1F5A11284F0ABDA044FD6 |   15418395 |  3145728 |  2855353 | SumacGame\CookedPC\Startup_fra.upk
@@ -4518,7 +4518,7 @@ AAEAD45FE0953162255FEDE1E7CDDF756CA69910 | 09E99C9FC0236CAC3EE544C071303B3A650C2
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8C06343A12DCECC0063951588EDFDC9AA6843216 | 68513B252CA34A3FE27D362604D2A19A93662BE6 |         22 |       22 |       30 | Support\installEs.bat
 E6D35A03BAB4962D015F0179E3D5406A948FABA8 | D194698FC5F2589361E4A99306791350E08A929E |   17764652 |  3145728 |  2853999 | SumacGame\CookedPC\Startup_esn.upk
 85DE985343144884B41975A5984ADC833808E6A9 | 230FFF22DA4CDF6263C7BB2960622DC0BE780C7B |   17764652 |  3145728 |  3027595 | SumacGame\CookedPC\Startup_esn.upk
@@ -4711,7 +4711,7 @@ C87121BA29E63D707F9E79D9097AD833BEFD0E07 | 0B8F6DEBAAEA1AE661E9341315A135E2D7488
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 52356D6B36B9EC4CE0FA3188051A954EC16E4261 | F628DFD90C405CB9353EE4B83830F674D045C39A |         22 |       22 |       30 | Support\installIt.bat
 AA6147816A6A64C738F99160F2D3039483459B9D | 2F3BB6AE39AE56F9D84C71C0DF95CC7645605137 |       8452 |     8452 |     3305 | Support\Leggimi.txt
 8617015F4B8F02DB291BEEF91C678770ECF148ED | FD5D3D227646DBFC879CDEBC513DCD4045682973 |   16534139 |  3145728 |  2854811 | SumacGame\CookedPC\Startup_ita.upk
@@ -4902,7 +4902,7 @@ DF47BECE7CD3E48F5B11DD6C2A1ABD7EA075F8D5 | 769439C36536D5096D9D96809B982E250AE00
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4CA03E36D589E772A533704823D3F84744826287 | B96B6C4341DD08756E4E8898701B0E520A744B0C |         22 |       22 |       30 | Support\installEn.bat
 927B800D2F7C7655D4DE8DFE0BFA83FD2451406E | AE38100848D3C0250C5AA1A6E07D2B6EA0218E09 |    2172499 |  2172499 |  1568625 | Support\Manual\en\Manual.pdf
 578DE368A961FAB8711A164602667198D36FBA3F | 331B2C438702D3DE95CABEE8CB9C7FAEC59842AA |      21004 |    21004 |     5229 | Support\config\en\DefaultEngine.ini
@@ -4956,23 +4956,20 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Brothers in Arms - Hell's Highway\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Gearbox Software\BrothersInArmsHH\Folder, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Gearbox Software\BrothersInArmsHH\Language, Type: String
 Registry String Entry
-	Value | Language
-    en  | en-US
-    es  | es-ES
-    it  | it-IT
-    fr  | fr-FR
+en, en-US
+es, es-ES
+it, it-IT
+fr, fr-FR
 
 
 ==========================================Uninstall Registry==========================================

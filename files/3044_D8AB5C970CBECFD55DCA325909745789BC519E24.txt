@@ -1,8 +1,8 @@
-Total number of files   : 454
-Total size of files     : 384981033 | 384,98 MB
-Total number of chunks  : 1
-Total bytes on disk     : 384981033 | 384,98 MB
-Total bytes compressed  : 302724468 | 302,72 MB
+Total number of files  : 454
+Total number of chunks : 1
+Total size of Files    :        384981033 Bytes | 367,147 MB
+Total size of Slices   :        384981033 Bytes | 367,147 MB
+Total size Downloaded  :        302724468 Bytes | 288,701 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -24,7 +24,7 @@ Name: manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7A4E6A1B617677F3463BE52DAD15647C0B75B13C | F5944DF4142983714A6D9955E6E393D9876C1E11 |    1998168 |  1998168 |   892337 | D3DX9_43.dll
 A6E25FCA97FB123F2395827B4AF6D035939FACBE | E4D554E03BA91F6B53A2A80253B339F56E303C94 |      96264 |    96264 |    49491 | GameuxInstallHelper.dll
 F365AF745127AC4BDBE0F36308BEB55BF5B49731 | 4A1DEA038FB9D25E95EE5F9B754FCED88BB49334 |     161384 |   161384 |    79819 | glide2x.dll
@@ -614,34 +614,29 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\1207658970_is1\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-POD GOLD  | 
+POD GOLD, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\1207658970_is1\DisplayVersion, Type: String
 Registry String Entry
-	Value | Language
-2.1.0.24  | 
+2.1.0.24, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.iv41, Type: String
 Registry String Entry
-	Value | Language
-ir41_32.dll  | 
+ir41_32.dll, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\POD GOLD\install_dir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\POD GOLD\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    DE  | de-DE
+EN, en-US
+FR, fr-FR
+DE, de-DE
 
 ============================================Uninstall Runs============================================
 

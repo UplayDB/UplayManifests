@@ -1,8 +1,8 @@
-Total number of files   : 2106
-Total size of files     : 534948495 | 534,95 MB
-Total number of chunks  : 2
-Total bytes on disk     : 534948495 | 534,95 MB
-Total bytes compressed  : 534948495 | 534,95 MB
+Total number of files  : 2106
+Total number of chunks : 2
+Total size of Files    :        534948495 Bytes | 510,167 MB
+Total size of Slices   :        534948495 Bytes | 510,167 MB
+Total size Downloaded  :        534948495 Bytes | 510,167 MB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT ,
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 003B533EA750D8D44772FE356182DC8E8F423509 |     154542 |   154542 |   154542 | boxart.bmp
                                          | A6C715E423924BEF4C0E1C95D6EAB914875FEE7B |      49051 |    49051 |    49051 | EULA.txt
                                          | E745F702D8BC512CC5C823D0A9E044E1A483D824 |        223 |      223 |      223 | game.cmd
@@ -2226,7 +2226,7 @@ Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 22DD804C4FA874D2F6AD469EF5A7117F97943FA4 |     317229 |   317229 |   317229 | ddraw.dll
                                          | D9BF2DF417E5C6AA9E381484A12B977E2BF066ED |    1259917 |  1259917 |  1259917 | libwine.dll
                                          | EB0DB8BEFC20FDC61531B750EE6F364AC8A5D106 |     832813 |   832813 |   832813 | wined3d.dll
@@ -2288,8 +2288,7 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{88D80FB8-F301-4FA7-BB99-CE10A704FE00}_is1\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 
 ============================================Uninstall Runs============================================
 

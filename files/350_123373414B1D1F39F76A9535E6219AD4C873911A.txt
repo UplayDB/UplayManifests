@@ -1,8 +1,8 @@
-Total number of files   : 311
-Total size of files     : 1204366543 | 1,20 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1204366543 | 1,20 GB
-Total bytes compressed  : 811385769 | 811,39 MB
+Total number of files  : 311
+Total number of chunks : 1
+Total size of Files    :       1204366543 Bytes | 1,122 GB
+Total size of Slices   :       1204366543 Bytes | 1,122 GB
+Total size Downloaded  :        811385769 Bytes | 773,798 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -28,7 +28,7 @@ Name: MANUAL.PDF | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C5CA7EA396FCE5EB4ECFA53D7EC003F9C1F38A4C | EDBC3D31505BB3D6C2852B3F1EC9BB13179AC626 |        870 |      870 |      497 | fix_mm9.sdb
 3648024BE9479199F27FF0E8B00427A585227545 | 2DCF4E210E8771AEB01425F3BE4C580CC7DED44B |      87656 |    87656 |    46349 | Am18.dll
 9411B090280F042EE11C8C1C9F529D4735851E21 | C7BBE337003986DE224462D4F70AD90D3AB3DD08 |       2957 |     2957 |      719 | autoexec.lith
@@ -896,68 +896,57 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-Might and Magic IX version 1.0  | 
+Might and Magic IX version 1.0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\Publisher, Type: String
 Registry String Entry
-	Value | Language
-Ubisoft  | 
+Ubisoft, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\URLInfoAbout, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\HelpLink, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\URLUpdateInfo, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\DisplayVersion, Type: String
 Registry String Entry
-	Value | Language
-   1.0  | 
+1.0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\MajorVersion, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\MinorVersion, Type: Number
 Registry Number Entry
-  Value | Language
-     0  | 
+0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\NoModify, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DBBA0D1-AD8C-4045-9C3B-9CF891335A75}_is1\NoRepair, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 
 ============================================Uninstall Runs============================================
 

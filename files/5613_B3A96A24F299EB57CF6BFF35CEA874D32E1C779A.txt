@@ -1,8 +1,8 @@
-Total number of files   : 56
-Total size of files     : 1109746271 | 1,11 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1109746271 | 1,11 GB
-Total bytes compressed  : 537146084 | 537,15 MB
+Total number of files  : 56
+Total number of chunks : 1
+Total size of Files    :       1109746271 Bytes | 1,034 GB
+Total size of Slices   :       1109746271 Bytes | 1,034 GB
+Total size Downloaded  :        537146084 Bytes | 512,262 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: main
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6829CE705DB422E7905813B088CC57F81C7F2801 | AC06ECA795FE0F2E63547FA67F7F731B2C56A276 |     656824 |   656824 |   445420 | Chess_Royale.exe
 E962F1B9D96F661348E34E529EE421A9981030F6 | 4650072F98134F2CAB4202B2EE859FE3F7D9B22E |   44478464 |  3145728 |  1061692 | GameAssembly.dll
 6D5BC4D86147F84640EB7F0C7BE50E4D2071BB63 | 03804AAFCD1134634CA09DC39A5A9115E72982D1 |   44478464 |  3145728 |  1293145 | GameAssembly.dll

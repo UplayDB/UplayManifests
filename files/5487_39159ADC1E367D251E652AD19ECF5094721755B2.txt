@@ -1,8 +1,8 @@
-Total number of files   : 153
-Total size of files     : 29386740261 | 29,39 GB
-Total number of chunks  : 3
-Total bytes on disk     : 3616936485 | 3,62 GB
-Total bytes compressed  : 3616936485 | 3,62 GB
+Total number of files  : 153
+Total number of chunks : 3
+Total size of Files    :      29386740261 Bytes | 27,369 GB
+Total size of Slices   :       3616936485 Bytes | 3,369 GB
+Total size Downloaded  :       3616936485 Bytes | 3,369 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3A005FAD1659BCB71768A815FD2AFDC175A382BC | 3A005FAD1659BCB71768A815FD2AFDC175A382BC |    4173928 |  3145728 |  3145728 | d3dcompiler_47.dll
 F3CDE9BEEFD3CE36A9E17377250A8ACFB203C091 | F3CDE9BEEFD3CE36A9E17377250A8ACFB203C091 |    4173928 |  1028200 |  1028200 | d3dcompiler_47.dll
 D92DDF06D63A42A70587768A3A36E6ED8318EE26 | D92DDF06D63A42A70587768A3A36E6ED8318EE26 | 2686358156 |  3145728 |  3145728 | DataPC.forge
@@ -9183,7 +9183,7 @@ F1F387AB9248C086C99E2D9F9555379235AE5E87 | F1F387AB9248C086C99E2D9F9555379235AE5
 ================================================Chunks================================================
 
 Chunk ID: 103, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E3D9FB95CC4B58E02BA0F0482C21EB5A04063DDA | E3D9FB95CC4B58E02BA0F0482C21EB5A04063DDA |  405127415 |  3145728 |  3145728 | sounddata\pc\sounds_fre.pck
 5BBD7D2324B290EC625250EDD67707C90FD8332C | 5BBD7D2324B290EC625250EDD67707C90FD8332C |  405127415 |  3145728 |  3145728 | sounddata\pc\sounds_fre.pck
 7836863CA0D557C3D59DA4122F441125A8C62EAC | 7836863CA0D557C3D59DA4122F441125A8C62EAC |  405127415 |  3145728 |  3145728 | sounddata\pc\sounds_fre.pck
@@ -9316,7 +9316,7 @@ CF2F4CB0FFBBC7C96950DB132FF657A1C26A0EE4 | CF2F4CB0FFBBC7C96950DB132FF657A1C26A0
 ================================================Chunks================================================
 
 Chunk ID: 104, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1F8D9BBDBE3D75E3CC3D59317AA8F4DC134B5A63 | 1F8D9BBDBE3D75E3CC3D59317AA8F4DC134B5A63 |  443395855 |  3145728 |  3145728 | sounddata\pc\sounds_ger.pck
 C2A8DE094BBFE59727F96615231038D19A3F8188 | C2A8DE094BBFE59727F96615231038D19A3F8188 |  443395855 |  3145728 |  3145728 | sounddata\pc\sounds_ger.pck
 416D92595B7ED623DDA4DE642E209C29D1C51922 | 416D92595B7ED623DDA4DE642E209C29D1C51922 |  443395855 |  3145728 |  3145728 | sounddata\pc\sounds_ger.pck
@@ -9498,19 +9498,18 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\RidersRepublic\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- pt-BR  | pt-BR
- fr-FR  | fr-FR
- de-DE  | de-DE
- it-IT  | it-IT
- es-ES  | es-ES
- ja-JP  | ja-JP
- ru-RU  | ru-RU
- zh-CN  | zh-CN
- zh-TW  | zh-TW
- pl-PL  | pl-PL
- ko-KR  | ko-KR
+en-US, en-US
+pt-BR, pt-BR
+fr-FR, fr-FR
+de-DE, de-DE
+it-IT, it-IT
+es-ES, es-ES
+ja-JP, ja-JP
+ru-RU, ru-RU
+zh-CN, zh-CN
+zh-TW, zh-TW
+pl-PL, pl-PL
+ko-KR, ko-KR
 
 ========================================Install Firewall Rules========================================
 

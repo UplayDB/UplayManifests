@@ -1,8 +1,8 @@
-Total number of files   : 2759
-Total size of files     : 11378752351 | 11,38 GB
-Total number of chunks  : 3
-Total bytes on disk     : 2788817759 | 2,79 GB
-Total bytes compressed  : 3681399729 | 3,68 GB
+Total number of files  : 2759
+Total number of chunks : 3
+Total size of Files    :      11378752351 Bytes | 10,597 GB
+Total size of Slices   :       2788817759 Bytes | 2,597 GB
+Total size Downloaded  :       3681399729 Bytes | 3,429 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -36,7 +36,7 @@ Name: ita\Manual.pdf | Locale: it-IT
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A0887A01DFFDCB872BF03EC2CA2166440D703974 | CAD9CDA7A20C5EE7058F0FC5BA74548BD714A6BF |     349680 |   349680 |    30957 | media\Autorun_en.dds
 8A3BC0A41D7B685A2AA817634534C9755C4DB6D6 | 77FB9DA76D696CB6F5809B74FA308A1F557DC3E6 |     349680 |   349680 |    33024 | media\Autorun_fr.dds
 E663B629521D4EF34D4D4CACA31A6B1E5B9041BA | 1058D321104B02DA298A3E7EBB3E41361AF3B83C |     349680 |   349680 |    32905 | media\Autorun_ge.dds
@@ -3721,7 +3721,7 @@ B95B9C5D3C77C9B6AD15A65F76E84B15C3C7FF70 | AA8440EC3B5BAC6594FD58D97C10C2AB7D419
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 176DA2FB47C8A9786422E76103D05C4D1027D6FF | 7E7060DD2C6826E6663F16FE7EC137FFFA38C28A |       4534 |     4534 |     1474 | SCDA-Online\Help\heat.ico
 53A7DD16D99A34A2BFDAA04674D1358B2063E4BE | 0AE6C4E55D1C8EB63DFF41D8126F437DD2E6276E |      29286 |    29286 |    11977 | SCDA-Online\Help\Logo.bmp
 AD5F8CC96527FE6165174AE1CA823B57F872771C | 513E9E23D8D60C5D61431929E4D6484E487A708B |       3774 |     3774 |     1322 | SCDA-Online\Help\mplayer.ico
@@ -6049,7 +6049,7 @@ F3AD5E4E429FC644677730DFE2F392A11D453344 | 56C9CC6C80099DF53F2D3B5A92F28003B2E61
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CD7082F3221117C946F7E74DC3FF11B039D7D382 | 4851D59CC10D98D15366D8EA7A55EAB117634DB2 |      18057 |    18057 |     5033 | support\Detection\Default_highGPU_highCPU.ini
 CD7082F3221117C946F7E74DC3FF11B039D7D382 | 4851D59CC10D98D15366D8EA7A55EAB117634DB2 |      18057 |    18057 |     5033 | support\Detection\Default_highGPU_lowCPU.ini
 3B1DC00BA6B12A72DBF869AB8945383C284DEE06 | 2EB31429CCE6D4D2CB0A6D34878A2C2AECE088E4 |      18052 |    18052 |     5028 | support\Detection\Default_lowGPU_highCPU.ini
@@ -6230,48 +6230,41 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Double Agent\Executable, Type: String
 Registry String Entry
-	Value | Language
-system\splintercell4.exe  | 
+system\splintercell4.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Double Agent\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Double Agent\Language, Type: String
 Registry String Entry
-	Value | Language
-englishemea  | 
+englishemea, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Double Agent\1.00.000\Product_Executable, Type: String
 Registry String Entry
-	Value | Language
-system\splintercell4.exe  | 
+system\splintercell4.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Double Agent\1.00.000\Product_Path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Double Agent\1.00.000\System_Path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\System  | 
+$INSTALL_DIR\System, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Double Agent\lang, Type: String
 Registry String Entry
-	Value | Language
-   eng  | en-US
-   fra  | fr-FR
-   ita  | it-IT
-   deu  | de-DE
-   esp  | es-ES
+eng, en-US
+fra, fr-FR
+ita, it-IT
+deu, de-DE
+esp, es-ES
 
 ============================================Uninstall Runs============================================
 

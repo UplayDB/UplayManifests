@@ -1,8 +1,8 @@
-Total number of files   : 21240
-Total size of files     : 5672728688 | 5,67 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1377761392 | 1,38 GB
-Total bytes compressed  : 4252687774 | 4,25 GB
+Total number of files  : 21240
+Total number of chunks : 1
+Total size of Files    :       5672728688 Bytes | 5,283 GB
+Total size of Slices   :       1377761392 Bytes | 1,283 GB
+Total size Downloaded  :       4252687774 Bytes | 3,961 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -32,7 +32,7 @@ Name: FR\support\SilentHunter4 Manual.pdf | Locale: fr-FR
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 756879A0F623BD9A801EDA0F45930297A49C33EB | 9C582FD096B8D744991367D6F15E7868BCEDA876 |     135168 |   135168 |    58963 | anim.act
 5AD7DE90236BBC1CE5176CCFF0429B314F68951B | 0DAFB936A6BEC64D592A80AA9D57A9E1FAF8EC27 |      14336 |    14336 |     6520 | BezierWaypoint.act
 7265D93ADB766DF2318253F90B8E7E7B081A9276 | F81C81096E47C2EC7D5D57A1291B82C1A42249F5 |     377856 |   377856 |   151306 | binkw32.dll
@@ -23007,92 +23007,78 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Silent Hunter Wolves of the Pacific\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Silent Hunter Wolves of the Pacific\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\sh4.exe  | 
+$INSTALL_DIR\sh4.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Silent Hunter Wolves of the Pacific\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-d63c9a7bbfa56b5258e4ed782cafedd1  | 
+d63c9a7bbfa56b5258e4ed782cafedd1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Silent Hunter Wolves of the Pacific\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    es  | es-ES
+us, en-US
+fr, fr-FR
+es, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Silent Hunter Wolves of the Pacific\1.05.0000\vv, Type: String
 Registry String Entry
-	Value | Language
-    vv  | 
+vv, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\SilentHunter4\{0D005F09-A5F4-473B-A901-5735C6AF5628}\Installation path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\SilentHunter4\{0D005F09-A5F4-473B-A901-5735C6AF5628}\Language, Type: Number
 Registry Number Entry
-  Value | Language
-     9  | en-US
-  1036  | fr-FR
-    10  | es-ES
+9, en-US
+1036, fr-FR
+10, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\SilentHunter4\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    SP  | es-ES
+EN, en-US
+FR, fr-FR
+SP, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\SilentHunter4\{0D005F09-A5F4-473B-A901-5735C6AF5628}\Urls\url, Type: String
 Registry String Entry
-	Value | Language
-http://patches.ubi.com/all_products_cab_files/silent_hunter_4.cab  | 
+http://patches.ubi.com/all_products_cab_files/silent_hunter_4.cab, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\SilentHunter4\{0D005F09-A5F4-473B-A901-5735C6AF5628}\Versions\ver, Type: String
 Registry String Entry
-	Value | Language
-silenthunter4_int_1.05.0000  | 
+silenthunter4_int_1.05.0000, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0D005F09-A5F4-473B-A901-5735C6AF5628}\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0D005F09-A5F4-473B-A901-5735C6AF5628}\URLInfoAbout, Type: String
 Registry String Entry
-	Value | Language
-www.ubisoft.com  | 
+www.ubisoft.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0D005F09-A5F4-473B-A901-5735C6AF5628}\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-Silent Hunter Wolves of the Pacific  | 
+Silent Hunter Wolves of the Pacific, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0D005F09-A5F4-473B-A901-5735C6AF5628}\Publisher, Type: String
 Registry String Entry
-	Value | Language
-Ubisoft  | 
+Ubisoft, 
 
 ============================================Uninstall Runs============================================
 

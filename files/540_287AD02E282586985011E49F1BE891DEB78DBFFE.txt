@@ -1,8 +1,8 @@
-Total number of files   : 1
-Total size of files     : 94125920 | 94,13 MB
-Total number of chunks  : 1
-Total bytes on disk     : 94125920 | 94,13 MB
-Total bytes compressed  : 93585133 | 93,59 MB
+Total number of files  : 1
+Total number of chunks : 1
+Total size of Files    :         94125920 Bytes | 89,765 MB
+Total size of Slices   :         94125920 Bytes | 89,765 MB
+Total size Downloaded  :         93585133 Bytes | 89,250 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: main
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5CDD2353404431839AF02AF57E84CE4D9FAADECF | 1A7B18E19DFF4C2D93E4AF63A5D71ACCEB3DAB81 |   94125920 |  3145728 |  2799859 | Maniaplanet_UplaySetup.exe
 FF1E97EB44D8CB3323A12CE07B7B3C93E55B0B0E | 5E0115985275F99D8A25939F57150C5978D83A79 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe
 B3FF56D19B0DC1959DD45C9EC67EE85770E6019D | D74478FBE3996A7ABDD5BF54595346DBFCE83E56 |   94125920 |  3145728 |  3146694 | Maniaplanet_UplaySetup.exe

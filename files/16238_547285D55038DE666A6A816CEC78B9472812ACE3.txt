@@ -1,8 +1,8 @@
-Total number of files   : 295
-Total size of files     : 13714837550 | 13,71 GB
-Total number of chunks  : 11
-Total bytes on disk     : 829935662 | 829,94 MB
-Total bytes compressed  : 350542207 | 350,54 MB
+Total number of files  : 295
+Total number of chunks : 11
+Total size of Files    :      13714837550 Bytes | 12,773 GB
+Total size of Slices   :        829935662 Bytes | 791,488 MB
+Total size Downloaded  :        350542207 Bytes | 334,303 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: bin
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 912D4FE59F4237D043EA45BEFCFE9F94BA0D8AA2 | 64E2DBEE1DEC4026F173F6E9E0264114F09BB803 |   99423295 |  3145728 |  3090925 | ahe\a3he0.rda
 B53E7BB0636728919129A4BC5CD416FC59DC1141 | 2987F28A0150EDED1AF7AFE24335A99248D35682 |   99423295 |  3145728 |  2805996 | ahe\a3he0.rda
 0357865FB0F8B73784BF3B71B1A66058AA7B9F82 | 632018EF36E2C34B48BD6A69879AA4A3708F80C0 |   99423295 |  3145728 |  3146086 | ahe\a3he0.rda
@@ -1001,7 +1001,7 @@ F4B78FD7C553369B173B9E373E7B897B25B03D7E | 8A90086597EAAC6A119EC24289E21EEEFE965
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: support
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 105770BB0A4B2B51EDEB901AE8AC31A200209AAC | 0830CC54ADEC654AB4394032EC4E046185BA01E5 |    1347354 |  1347354 |  1345055 | Support\DirectX\Apr2005_d3dx9_25_x64.cab
 D229D6C60399D526E85676EBB3202AC93D9149A0 | 1ABE9F17489E389E7400DEA76A0386873446E9CC |    1078962 |  1078962 |  1074298 | Support\DirectX\Apr2005_d3dx9_25_x86.cab
 AFF5F79327F9263C7F40CE76BAF9FD2F8BEE9F00 | 69091C7D92B1CC64F8D4E5B4042E418E2BC84F3B |    1397830 |  1397830 |  1395632 | Support\DirectX\Apr2006_d3dx9_30_x64.cab
@@ -1169,7 +1169,7 @@ A1B905FFDFE9515555442DB2B2AEAE845882D9CF | BF08830CC38D1DB2D5BF1BAA42658B7002C0C
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: bonus_content
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5EA726CB17000A96BD603E81CE3138FF8053D4B0 | 224502864790AADD917FCE7741FD07A188D3ACF7 |   20168777 |  3145728 |  3010522 | BonusContent\production_chain_poster_1701.jpg
 4A37AE864F51B0735E970727F2E045B8ADCD6417 | EC70538482ADB66FAF236709E71AD6C108C97BB3 |   20168777 |  3145728 |  3126070 | BonusContent\production_chain_poster_1701.jpg
 76D148F3D2F940BBE91ED65C7FD25520C893E11E | D845DF87BC257E3AD5F5867210B58960A4426E19 |   20168777 |  3145728 |  3129563 | BonusContent\production_chain_poster_1701.jpg
@@ -1241,7 +1241,7 @@ AE9EF6F00C3440703196327E1097B5C747E33763 | 1CA195CC90C15A4005F8CE1877D56CD880C05
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US,en-GB, Chunk Tags: English
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 30D86939961A2BBA6E7933D4DE6FB8FC59B7A9B3 | 6BA54628DAA97B063B01301CE661888A3821F0D5 | 1145857412 |  3145728 |  3101068 | data2_eng.rda
 086831638E94286CC333089EE8F4BA25E5A21B79 | DB7D403D468910D7F0FD233AB03426E1545FA226 | 1145857412 |  3145728 |  3101454 | data2_eng.rda
 2286496FD10ABEE376F46472F93749988D62DBC4 | A945E996470900E15EC2871EF71C39892FB28A28 | 1145857412 |  3145728 |  2954614 | data2_eng.rda
@@ -1688,7 +1688,7 @@ AF9E812265C44060BFB2B8917CDB90AA26BB2DD5 | 09C011C307DE2F4153450B2215BEA39E28947
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: German
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6BEE549472A52F6B3DEFEF1F5703353F767DCCE6 | 1E5B6A19FA912335F476AB0346EF6839F5440BCA |  910155147 |  3145728 |  3100751 | data2_ger.rda
 387E2AB50755AF8601BDDCC8F1B85B9E3A2D660B | F03327C44E03F59858B253AE595A13E7B488BA00 |  910155147 |  3145728 |  3101048 | data2_ger.rda
 B4930EF0C2DEFABF9B3F22B5A3D105B962A87C69 | A72D064D6ECAAA0FFB041C4D4FDFBDA14A985CA7 |  910155147 |  3145728 |  3000762 | data2_ger.rda
@@ -2065,7 +2065,7 @@ A5B8F388241DF1CD3EED9192CD22DCF6D8D61905 | 4898876BE5A1B1FA4C6A918592750A16885D7
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: cs-CZ, Chunk Tags: Czech
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1B3784EC5C371ABE3FD9AA0431A35A0C123126F7 | AD11EA0E6046D10107EDC1B3C6633473943EA556 | 1129836913 |  3145728 |  3101123 | data2_cze.rda
 B8610AB57AF8571561AA3BAC83D3C38380A74AAE | 32B50E9E82AA5CB4D593D3453C7E59490AD0CAD7 | 1129836913 |  3145728 |  3101473 | data2_cze.rda
 0098AC0303BF241E11F5D4934EE63B05D67CB93B | C68439B76EB87FC75ECAD2B9A88F95279AA8AD49 | 1129836913 |  3145728 |  2983148 | data2_cze.rda
@@ -2507,7 +2507,7 @@ E737006CF522F5A8D976898C061A6F9D324974E8 | 297E48758C360F4625334E99A9C042A6F9B37
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: Italian
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 BA9A30E9E0DB57EAC729F915F77B365DB2349191 | ADF4295B4EF970C1E5406E23C73722B6BB135CBE | 1095557527 |  3145728 |  3101119 | data2_ita.rda
 9B2799DB97E4240E65BD39DF64978290BEB3B6D2 | 451065245229FD30CB45B435A7FFD6F31724D270 | 1095557527 |  3145728 |  3101458 | data2_ita.rda
 9862D4EDE39EE8FC451A03BF00CE88A1A1513A82 | 75173F41EC2BDDDA385CDFBCB27E394375FBC4FA | 1095557527 |  3145728 |  2958855 | data2_ita.rda
@@ -2937,7 +2937,7 @@ DBFF7DA6AC7216CAAFBC2F77D7CD147242E7DEFD | E68DF92943F39A99470E78BD55233CAFD009B
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: hu-HU, Chunk Tags: Hungarian
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 EE2ED7E96E0E405D56D42B320BD29F2C8B1AE4E2 | F4818D926C606A61441CCB60A45AD52E91760D82 | 1095572608 |  3145728 |  3101193 | data2_hun.rda
 6885605DBB74A170E49D17E4DA2F4A856024798A | F1CBBA7252D48985971B1E3FF6E5079E921CBBBA | 1095572608 |  3145728 |  3101485 | data2_hun.rda
 0A628A22D9201DDE73F1A20D7DABDA0F4E5157EB | 976813622B0B87B5256A023F28FF926EB973692D | 1095572608 |  3145728 |  2971005 | data2_hun.rda
@@ -3367,7 +3367,7 @@ C862AF92B94092495D676880A4DAFAD5FACADECA | C59A85DFF6ACE38D468F9B2440B3ECB6FBB29
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: Spanish
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6E7777BD558D5FE47D7398E0790E4CDB04DE1AD3 | DB4722814ADEFB4B57039F016108ABEF015C3349 | 1147254289 |  3145728 |  3101200 | data2_spa.rda
 DB927C483A62C739F1212E616D6807B6A3D90AA1 | 074A9659CE5E394104C5C70F15666658FD711FC3 | 1147254289 |  3145728 |  3101515 | data2_spa.rda
 18624F7AA444FB54352833CD2FAC16FE8D4B0AC9 | D6C6434DAF3E6841372908F2BEABB18617DF6D17 | 1147254289 |  3145728 |  3001055 | data2_spa.rda
@@ -3813,7 +3813,7 @@ A98F310D411CF3294EADBF2A066A3A792EB8BBF6 | D8DD767420A70AE292A6F5AA809EBF745DB39
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pl-PL, Chunk Tags: Polish
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 71E1889F7DBE14F992EF069E4C7103028215D0E0 | 7AD84037564E0DC81A8DF04331173B5D9458DB40 | 1090797953 |  3145728 |  3101056 | data2_pol.rda
 12CD4707D056C3FADEA26FE11F434C49BDED398D | 4993F2EDB0B79CEF28426D6A3EC21235AEFCA58B | 1090797953 |  3145728 |  3101357 | data2_pol.rda
 A23BC3D6C9552E94376BA9E923091D8719CA3986 | 79BBD378E118B01FF62E2D50098E7839FCA0AD21 | 1090797953 |  3145728 |  2966548 | data2_pol.rda
@@ -4242,7 +4242,7 @@ A356B8FD4C4FD2A8C9896E2DEE7ADE3AF69442B7 | 2B5CD211B09A8E35832E85CA4FC2B950A9DBA
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: French
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2DB478EFEBE9E430F28F889959CF184BF7045FB4 | 756C02963CA8B2CBCA71A6F937DCE8C75C50A5EE | 1038292548 |  3145728 |  3101002 | data2_fra.rda
 68D32BC22DA0F76FD4A8D22E5F7171DE95E5EEA2 | 73F5CB455A2F7213B76F1147527662DEE51A8B2E | 1038292548 |  3145728 |  3101359 | data2_fra.rda
 E650CFEF606AC31D3DA65C0F9FE82382AD8F0A1F | 0164B30177FE8D5D2A7FC26FDD36ACE66FD5014C | 1038292548 |  3145728 |  3099719 | data2_fra.rda
@@ -4688,21 +4688,19 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Anno1701HistoryEdition\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Anno1701HistoryEdition\Language, Type: String
 Registry String Entry
-	Value | Language
-   eng  | en-US
-   ger  | de-DE
-   fra  | fr-FR
-   cze  | cs-CZ
-   hun  | hu-HU
-   pol  | pl-PL
-   esp  | es-ES
-   ita  | it-IT
+eng, en-US
+ger, de-DE
+fra, fr-FR
+cze, cs-CZ
+hun, hu-HU
+pol, pl-PL
+esp, es-ES
+ita, it-IT
 
 ============================================Uninstall Runs============================================
 

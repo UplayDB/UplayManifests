@@ -1,8 +1,8 @@
-Total number of files   : 2617
-Total size of files     : 2213694578 | 2,21 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2213694578 | 2,21 GB
-Total bytes compressed  : 1008497242 | 1,01 GB
+Total number of files  : 2617
+Total number of chunks : 1
+Total size of Files    :       2213694578 Bytes | 2,062 GB
+Total size of Slices   :       2213694578 Bytes | 2,062 GB
+Total size Downloaded  :       1008497242 Bytes | 961,778 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4236A6BF29677C581BE06A4518AB99AAEE602324 | DAA17C2B667597211C0527362785196655E75C4D |     650752 |   650752 |   317819 | Lake.exe
 C324993F7FFB684AA3D892771E70A940948EE9E1 | 623A9C15FF5AD0ED8BEF5C3178BC9D292D3E7B8D |    1096280 |  1096280 |   362152 | UnityCrashHandler64.exe
 AAFCC3505EDC890B539EA67E43E72C0447802809 | FB8D2CC235999D4C61C4B0BF20FEAC577CF8E3DF |   26032728 |  3145728 |  1022126 | UnityPlayer.dll

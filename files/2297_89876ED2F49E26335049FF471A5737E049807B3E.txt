@@ -1,8 +1,8 @@
-Total number of files   : 5979
-Total size of files     : 1076682049 | 1,08 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1076682049 | 1,08 GB
-Total bytes compressed  : 1076682049 | 1,08 GB
+Total number of files  : 5979
+Total number of chunks : 1
+Total size of Files    :       1076682049 Bytes | 1,003 GB
+Total size of Slices   :       1076682049 Bytes | 1,003 GB
+Total size Downloaded  :       1076682049 Bytes | 1,003 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: en-US ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 35C1D6087D92AF3944B1D3574D49EB249D72303B |     168824 |   168824 |   168824 | dbghelp.dll
                                          | D90A3751706E7805C7CE241C31619737C47F87BC |      41576 |    41576 |    41576 | drvmgt.dll
                                          | 3CC3B11FA59472D2C4BFAD9582807FB6B0E86782 |     463464 |   463464 |   463464 | grgdf.dll
@@ -6207,32 +6207,27 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Tom Clancy's Ghost Recon_is1\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Tom Clancy's Ghost Recon_is1\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-Tom Clancy's Ghost Recon  | 
+Tom Clancy's Ghost Recon, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Ghost Recon\1.00.000\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Ghost Recon\1.30.000\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Ghost Recon\1.40.000\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 
 ============================================Uninstall Runs============================================
 

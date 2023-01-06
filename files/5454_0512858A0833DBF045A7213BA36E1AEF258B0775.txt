@@ -1,8 +1,8 @@
-Total number of files   : 310
-Total size of files     : 4580485710 | 4,58 GB
-Total number of chunks  : 4
-Total bytes on disk     : 285518414 | 285,52 MB
-Total bytes compressed  : 128543364 | 128,54 MB
+Total number of files  : 310
+Total number of chunks : 4
+Total size of Files    :       4580485710 Bytes | 4,266 GB
+Total size of Slices   :        285518414 Bytes | 272,292 MB
+Total size Downloaded  :        128543364 Bytes | 122,589 MB
 
 Compression Method      : Lzham
 Version                 : 3
@@ -33,7 +33,7 @@ Name: Chinese\Readme.txt | Locale: zh-CN
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 44BF3CC290EA6A8E6DEDC7950C0BD133130DFB62 | 903143EC9BB30B4507A57110A2FB81E37ABC01DB |     608995 |   608995 |   608420 | build\data_pc\config.pak
 47A15CDBA82F5B2D679D96B1C5392D5B61AF6E4C | FB987BFB9D9D77802A201C5D48A2F3A82A9B8190 |  188111326 |  3145728 |  3123801 | build\data_pc\data.pak
 64DE566ED66743754E631288B42A8D44D9FB7438 | D946F6205B62527E7856B929000C8AE8787763C1 |  188111326 |  3145728 |  3149575 | build\data_pc\data.pak
@@ -1465,7 +1465,7 @@ E5073D4F093ACF196F06D7C553EA5BDA47CD4B65 | 8F7ACF86C440201DE3F899AB6D63966F47A1A
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack1\displayname
 AA8B2CD406D22D36CE9E027B558115B2D6914276 | B528E64E37D725E1F26CD43795764FEF8D985201 |      10748 |    10748 |    10732 | datapack\DLCContent\pack1\data\configs.pak
 A7E54FFB42A130F8ACFBAA1BDDFB097D10EA8F41 | BE587CA7E78C4D4E1D999AD6DA7B1484448C9B31 |   19659777 |  3145728 |  3143990 | datapack\DLCContent\pack1\data\data1.pak
@@ -1626,7 +1626,7 @@ F7974871685E59117697AE5C33543C9462C8668E | 71AA69E9D65AE4BC57EFA6F03FB5CB4B86005
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack9\displayname
 77D58CE50B421022D61937C21DD4B6C3C375F845 | B36A328D79FE74E5FBC636F06781D675A618418C |      19876 |    19876 |    19849 | datapack\DLCContent\pack9\data\configs.pak
 F7254CD9095A88732129E326C88929D5D02F4CF3 | 788B1A9591A5E382226D6E262E98673EA130FDD4 |   35626417 |  3145728 |  3146022 | datapack\DLCContent\pack9\data\data9.pak
@@ -1746,7 +1746,7 @@ E6B5FC3AE8E2529B2BF859147A9A967DCC647F4B | F87457D12DDF8BF3919432DFEDB4BC17F5116
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack11\displayname
 2C0940275CF789C6369BEBC66B2CA8B32A04381B | 4E588E6CBADF1803D301A50C3FF8D2A4F4301B84 |      10689 |    10689 |    10670 | datapack\DLCContent\pack11\data\configs.pak
 ED823CA0BFEFC3871340DFCCACFA089C1533F99C | CE5457F16DF030C65A2948A701BD1514808025F3 |        694 |      694 |      706 | datapack\DLCContent\pack11\data\data11.pak
@@ -1797,23 +1797,22 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Trials Rising\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- en-US  | en-GB
- en-US  | en-CA
- de-DE  | de-DE
- es-ES  | es-ES
- fr-FR  | fr-FR
- fr-FR  | fr-CA
- it-IT  | it-IT
- ja-JP  | ja-JP
- nl-NL  | nl-NL
- pt-BR  | pt-BR
- pt-BR  | pt-PT
- ru-RU  | ru-RU
- zh-CN  | zh-CN
- zh-TW  | zh-TW
- ar-AA  | ar-AA
+en-US, en-US
+en-US, en-GB
+en-US, en-CA
+de-DE, de-DE
+es-ES, es-ES
+fr-FR, fr-FR
+fr-FR, fr-CA
+it-IT, it-IT
+ja-JP, ja-JP
+nl-NL, nl-NL
+pt-BR, pt-BR
+pt-BR, pt-PT
+ru-RU, ru-RU
+zh-CN, zh-CN
+zh-TW, zh-TW
+ar-AA, ar-AA
 
 ========================================Install Firewall Rules========================================
 

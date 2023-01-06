@@ -1,8 +1,8 @@
-Total number of files   : 217
-Total size of files     : 9755195721 | 9,76 GB
-Total number of chunks  : 32
-Total bytes on disk     : 1165261129 | 1,17 GB
-Total bytes compressed  : 1046613479 | 1,05 GB
+Total number of files  : 217
+Total number of chunks : 32
+Total size of Files    :       9755195721 Bytes | 9,085 GB
+Total size of Slices   :       1165261129 Bytes | 1,085 GB
+Total size Downloaded  :       1046613479 Bytes | 998,128 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -31,7 +31,7 @@ Name: zh-CN\ReadMe.txt | Locale: zh-CN
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D92182B0A6CA29A04D1D2619F4FD8ABF01C03802 | 06BD28652209F7EE691DE144929A127A4ABF96B5 |     318976 |   318976 |   161744 | bink2w32.dll
 E958E848BBE7E953013C22C8AEF2D1C50E0EBC65 | 66720159FF2A35FF9CE5FF09CD0E061AC7C68962 |    1751424 |  1751424 |  1683603 | CoA.exe
 9BC7E165B1D68E8D8A20DEA7F88FC345093E98B2 | 1445139D9F1D163229C8828890962B8452C27F9A |  143915952 |  2097152 |   739841 | CoA1.bin
@@ -294,7 +294,7 @@ DF558BFF4A3CBDF6A8F7D44EF4F1A8D4EC8A9E7E | FA26A4DAADBC4D7B663DBB83D6EDE264653C8
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A74E30E05B57A8DDDC27470B5CE7FBF829DDB85A | C2C1163BD5A303B55A22AF52E5E3E96B810FB4C2 |  394985472 |  2097152 |  2076526 | bba\base.bba
 BC3E719D5F808093B2D718822FC8383121FE74FC | 3BA4F433DF2AE8666A44672D3FF2510C377938E0 |  394985472 |  2097152 |  2094371 | bba\base.bba
 3BB3C22D8E3C0A06B881764892C91A047313D49D | A738ABE2587FF791504D960154699F9992FBD586 |  394985472 |  2097152 |  2094917 | bba\base.bba
@@ -487,13 +487,13 @@ C36DE6375CEFE297A1DBD5BD3F5F7DFD796A9724 | 7AC5F9129C81A569D867F7A22DB8134E0EE86
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8B402B61498E3707DDC12EA1848F2F76DB13E451 | 02134717D380830DC4E94AA8945715A5F42E5C4A |    4141056 |  2097152 |  2020431 | bba\script.bba
 438719A192C0C613D2C62009021834F84779C744 | 09BD8AAAF3454FE3ACCA4B828D4459E3AFB02009 |    4141056 |  2043904 |  2014180 | bba\script.bba
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 AA4596125A5F4B87A2909F2B172D51F19F4008B3 | 6BB7B3F39C9BD8BE97FBD83714B4E7BC51DEDE44 | 1614954496 |  2097152 |  2097798 | bba\video.bba
 40F086CF72C56A94AD1F00712E31EE0739853C98 | 687183B8CFC53D840851A72CA03B65F28BE45ED8 | 1614954496 |  2097152 |  2097798 | bba\video.bba
 5AC15156359ECE7F4177BA4FE22DBDBC22E073FD | C36AA558ABF47DC2EE17A9E7F97B07347D0389CD | 1614954496 |  2097152 |  2097798 | bba\video.bba
@@ -1268,7 +1268,7 @@ FAADBD9C820EAC057DDABB54FC94EA52501C4288 | 47A908B41193BE68264C6EF2120F4AB5A6CAD
 ================================================Chunks================================================
 
 Chunk ID: 14, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3BA73395686D492E48BC426F6F8146C90800CF72 | 4AE10236EE009C4EE29D4FCD3EC5E201E45FEB6D |  451162112 |  2097152 |  1597521 | bba\sound.bba
 75D932720D52C5C65890215D92C685F06A13B820 | E0ECF3462F7069F301F4E005799A79D2B4B8AB68 |  451162112 |  2097152 |  2087851 | bba\sound.bba
 B8EBC33B77DC59395C0FF6CB0DCA0739E0B83B99 | 2F54A705023D27F8C4253379555085F236B9D9FD |  451162112 |  2097152 |  2078667 | bba\sound.bba
@@ -1488,7 +1488,7 @@ DD5AC944170BDD7D03CF1E4DD23F5956EBA011DA | 96D5593FB387C3EC7969C5FC7208937A8618B
 ================================================Chunks================================================
 
 Chunk ID: 16, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2B37EB6B393BD1D74EA0F6E737CDDAB36D10FDBD | 09C933968A2B712EC4BD5A3ECE7E7A3DEB8BF82E |   46731264 |  2097152 |  1950945 | bba\fullgame.bba
 5A8BA4153F836622C695D664CD5A9C463101ECDB | EBFA2C7094763C5205824AA32BD1DE4ED94570E0 |   46731264 |  2097152 |  2079717 | bba\fullgame.bba
 890C0B95397207B4F7212B3226510E593987C162 | B3A010408FAA5DEDF51225A6A1F41A224D71900C |   46731264 |  2097152 |  2094477 | bba\fullgame.bba
@@ -1515,7 +1515,7 @@ E4DA67DD8D1077DB3C1211EB4FBB925F0379A092 | A532C73B67DC7ACC7772B18FAF242D9487E27
 ================================================Chunks================================================
 
 Chunk ID: 17, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 03225049388D5D9A0B1BBD27D25D3A07C9404379 | 32B148CFE3323DBDE4FE232B6131F470DF308509 | 1921249280 |  2097152 |  2096888 | bba\fullgame_video.bba
 F609173B5DF2B6C69E9F6008087C302A039F7031 | F37FED5CEBCC5714AB8E0FEAD125D4FD646F7633 | 1921249280 |  2097152 |  2097798 | bba\fullgame_video.bba
 03AD8CECB1FE0B35CA78CCA18DB342566B1DA52C | F0D4234A1F63FEF5A706D232467DD98D40439364 | 1921249280 |  2097152 |  2097798 | bba\fullgame_video.bba
@@ -2436,7 +2436,7 @@ AD80CD4B1A1DCE86EFAB93003D20B5E9A985B1DD | A6F5DD603853ABD37CCF19CDF4C624E11D9B9
 ================================================Chunks================================================
 
 Chunk ID: 19, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 53E18174EF78FC9A0D49246139F51F755EE5FDD7 | 7B538DAC4E95AFA1F1F32500273A6A6555F83CFA |   30531584 |  2097152 |  2090254 | bba\shared.bba
 306AF4CEE3D239E04B3545488BD5ADF20C59FB6C | 7EE83F90C8ECABC48065E7DEBB67CA56132D4252 |   30531584 |  2097152 |  2093950 | bba\shared.bba
 A34E78E157087820D0456192152387DA420014C6 | FCF4135F4B60DD5AB06CE52A758B481AA6CB3D9F |   30531584 |  2097152 |  2088572 | bba\shared.bba
@@ -2455,7 +2455,7 @@ B86CEBE46472EB41CA9E480E6A2AC7354355CB31 | 7629A19249CF6AC3F513DA122F48D6AAA318C
 ================================================Chunks================================================
 
 Chunk ID: 20, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 110A456AD0345E310EE7B139644081FA66F3ECEB | AFE5400601F012E3877B637F9A62B41B5EC6C0D6 |  147820544 |  2097152 |  1688023 | bba\base_startup.bba
 A7D1575A30C23897155E22F6120D229224BF38EE | EA0B0C98DE5C7D2D57862996657BF1B844F37B30 |  147820544 |  2097152 |  2090975 | bba\base_startup.bba
 0B557D02DB21273AD91A403A67C637EF0AB8D671 | 5B57B638F66DE5E5AA9B392BADB578CEBE5B80A4 |  147820544 |  2097152 |  2043822 | bba\base_startup.bba
@@ -2530,7 +2530,7 @@ E61B03194C94245DB38788E4E3676265B3C1705C | A7A4B409E4FD64E7B7B9C04B961141CC9F2FB
 ================================================Chunks================================================
 
 Chunk ID: 21, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1D8E32E66E3C5C4D11DA5F026F841AA9868C2F00 | 478AC299B8724357682B9BC946CD33147008E25B |   20340736 |  2097152 |  2091190 | bba\fullgame_startup.bba
 036694BA2C5BFD14D1F892599768366B7E96149B | DCE98621994CFC8367A0710B0CC50A9DED85B303 |   20340736 |  2097152 |  2074555 | bba\fullgame_startup.bba
 DDD875E47C6E51F5B96137AEEFACC6370833344A | BC60884ABA2E90E01A5BE46A2C33C2062D55B577 |   20340736 |  2097152 |  2079303 | bba\fullgame_startup.bba
@@ -2544,7 +2544,7 @@ D83C75A7CBCAB18C9F6BAC8B409910961C134DC5 | 5B7E7B7FE9274A31948887596A6564EBFF253
 ================================================Chunks================================================
 
 Chunk ID: 22, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 45387E7F489477E390D4222F7A35165B1855CC89 | 2DC08B367CBAFCD715C0EE5EBFC3446AAF1CD88B | 2154090496 |  2097152 |  2096886 | bba\base_pages.bba
 F2AC9325BF5EDAC9F6B7F99951D131D4C7685353 | B806F0F9DFC1150E8E5118F50F3F70EC7B4B375E | 2154090496 |  2097152 |  2093820 | bba\base_pages.bba
 4FD6F3E72A1DD1DECABC0BB9DBABF8F39A8F80F3 | 4E61BCEF92AACA150AC8483B3FF501524CADF00E | 2154090496 |  2097152 |  2087303 | bba\base_pages.bba
@@ -3576,7 +3576,7 @@ CEEDA76A8ECE006991F02FFF6EADB01DCF4047A3 | C5D4159F569B1F8EDC6821EBBA12153102C07
 ================================================Chunks================================================
 
 Chunk ID: 23, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 96EACB543A826B753581662108730DC593FE605B | C83E57D320661413ABBBB00CEA819F1FF7BCF7AB |  475848704 |  2097152 |  2086999 | bba\fullgame_pages.bba
 98D2BAD8045832F4596BE320B783682D03F75EED | EEAF51F95C4B6802EB2932F2C8E8039601F4A6B6 |  475848704 |  2097152 |  2090258 | bba\fullgame_pages.bba
 E367774F84DB0F9A8344BB2AE72D88A9D8870E6B | F835D5268AE29D0A25819BA8DC01F8122DEF515D |  475848704 |  2097152 |  2086418 | bba\fullgame_pages.bba
@@ -3807,7 +3807,7 @@ DF951EEED13E153E4610C2F002F2F7DC99C5604C | 5EC977ACFE55BBFA26B5EC6910600D9D3EE3F
 ================================================Chunks================================================
 
 Chunk ID: 24, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 292B198327F98D9631457BFCC9AA64B19225AC40 | AA312068FADA05E0152A8D5A7C7B1A530B4953FE |   34099200 |  2097152 |  2085814 | bba\base_maps.bba
 C2E854CA8162A0042708801A93214B9C2198C545 | 7166F593B5A1CB25539FA0AD3F8BDEEA849B2B34 |   34099200 |  2097152 |  2096461 | bba\base_maps.bba
 474EF5DE5B6EC1A8FB2DFF9A179ED4494F783FB0 | A2B57E4D80B06A332840EF13AB2D03CB0B8B995C |   34099200 |  2097152 |  2097546 | bba\base_maps.bba
@@ -3828,7 +3828,7 @@ BC50C90552921EFD2C16DBD5F9BE64AA5AE4A102 | F3D6E118B279E41CC3F1C3383075E227A2CC9
 ================================================Chunks================================================
 
 Chunk ID: 25, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4F4169A0F349B64792670233ED6D78AB5E7C08C9 | AB8933B229CB28991499BA9CB4919F186D1C3941 |   56930304 |  2097152 |  2088600 | bba\fullgame_maps.bba
 BE1720157FEF887BE896B1E0551668834A8C28BF | B1474AEDCBDA4535DD502CD418BA1EF6ABA93688 |   56930304 |  2097152 |  2093895 | bba\fullgame_maps.bba
 0A8143358F751795115760325F46077379D1D237 | 6B939FF39CC2D1D7A39DC0CCB62EE9BAC0396325 |   56930304 |  2097152 |  2090090 | bba\fullgame_maps.bba
@@ -3860,7 +3860,7 @@ EF278A91AFE667DA6A2AEAE29A2D016EA8F120EC | B1697293FE9571407EC5C6CF90D57DC1D7BD5
 ================================================Chunks================================================
 
 Chunk ID: 26, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 837C83842CA0650AE1D81F64FE26F41D56B7F012 | 39491DF06743AB0AF7A9763452E0EF740943C8A0 |  161730560 |  2097152 |  2084939 | bba\base_geometry.bba
 3E837C696944E3161CF9EAF963CF87078807563B | 725B27F56A2B42C3C4A9916768E39531EC0B6A3D |  161730560 |  2097152 |  2096007 | bba\base_geometry.bba
 D819277F0D48BFCEA42C7B0CC7606480489C8039 | 057E16A70866404C3B3DC8D3F20BF0C3EAF02CC3 |  161730560 |  2097152 |  2093448 | bba\base_geometry.bba
@@ -3942,7 +3942,7 @@ D0595249CF7CBFD09E8A073C1F834582391D585F | A704E4720C1AE9A6C98392F6F8498FB73CB53
 ================================================Chunks================================================
 
 Chunk ID: 27, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A0946FC0F8DB07BDFBA986812BF8870CBC6A2C68 | 34786C1C8F4A7CE92D8BB0C7EBDDC8A57D829975 |   21262336 |  2097152 |  2083739 | bba\fullgame_geometry.bba
 316DAA1471938F5E55BF2890F4ECDA5B04C57BBE | F04D8B22590CF6FA8742B55F5FE90E4D889F2082 |   21262336 |  2097152 |  2086766 | bba\fullgame_geometry.bba
 16165676A08ABB50160FF129DF9AE399A078CA60 | 1F2A99E8F9F700F1814988AB63CDA60A53626CB6 |   21262336 |  2097152 |  2088171 | bba\fullgame_geometry.bba
@@ -3957,7 +3957,7 @@ F06D61C5F3FFBC27A2DD5CBE827085B073CE345C | 4BE60C57BC7D6C52360BC020222BBF60D97C9
 ================================================Chunks================================================
 
 Chunk ID: 28, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 91F0BDB42FCADD2DBE2BCA4C930D50F28972BB72 | B9DBEA2828DB95DBCEEF26CF65BA6F5E193A521F |  735080448 |  2097152 |  2072817 | bba\music.bba
 4E39AF5046D73894F763B3F8896A6A249255D05C | 66E47712BCA00327F093E26485CAB02737C3148D |  735080448 |  2097152 |  2079274 | bba\music.bba
 78B2D37DF319E41A6056F3A0072265CECA8C9E2F | 204E863C3BF52006323D6DEC140C4EAE473ED66E |  735080448 |  2097152 |  1974351 | bba\music.bba
@@ -4312,7 +4312,7 @@ F84C6A069429B78EB6544B3B91DFB00F20332654 | F623639E19B2E223F0EEEF68A4873356308B3
 ================================================Chunks================================================
 
 Chunk ID: 29, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 37B5A41EE2A9A5E10C8F2C1232F33BF48B4361F2 | 9B8403A380348A2DE7F603F94AB61851C09701FB |  421920768 |  2097152 |  2077612 | bba\base_elders.bba
 D45BEC9274593F43F293D04AA94043BC5E9DD491 | AA8387A9AA885CAB8F2AAE7231581634B4E8B9AD |  421920768 |  2097152 |  2097612 | bba\base_elders.bba
 BF94FB609A554BCE231C9536CC06968191544EE0 | 5ED16BE79900C9774CFB18E33D3FC48F623CC629 |  421920768 |  2097152 |  2097340 | bba\base_elders.bba
@@ -4518,7 +4518,7 @@ EDF98293AEBD374748178BDA962C64D81079AD3A | 8F61B3293E2A8F430B2444F0B8F46EDE8DCBF
 ================================================Chunks================================================
 
 Chunk ID: 30, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9D333DC5659A6D74E71525C7AC847B5DB202C473 | 507EE0D7B97BF4962BEC911DF588F5E3A7D93922 |   87298048 |  2097152 |  2076257 | bba\base_ui.bba
 8971CB01442C861C06ACA4857898F20F9661F565 | C063BABA25D28E9130F31210982F39C389A6224F |   87298048 |  2097152 |  2081226 | bba\base_ui.bba
 734EFE34A7D4D9F4D433F65F07688AC1803C9CE0 | F0674B53996F35DBD2403833AD72F02798B7C8F1 |   87298048 |  2097152 |  2096282 | bba\base_ui.bba
@@ -4564,7 +4564,7 @@ F42E33FDA4FBB59CC5B879A58BC7CFCD892EC0F6 | FF1CE4BB9391A1218BB55430D397301393EF3
 ================================================Chunks================================================
 
 Chunk ID: 31, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B1FB04C8EE246E26A388F523847A94E441D7373C | FBEF77F3F31E22CBB60D55F7727171E4455FEEA1 |   46395392 |  2097152 |  1950946 | bba\fullgame_elders.bba
 0E0042425B4B86DF1E9178870C92D924E4DC6C9A | B20A56EC75B5428B22C7A6F7A3D9880FDB797D0A |   46395392 |  2097152 |  2097695 | bba\fullgame_elders.bba
 A21E613E7E4A103FD14223D42A8FDE388575ECCF | FA961E072E60D62708C39618913D7D9A5CB53685 |   46395392 |  2097152 |  2094073 | bba\fullgame_elders.bba
@@ -4591,7 +4591,7 @@ BCEECE3AC2971F9BB89564D378F0859F3B098301 | 3CD49233B0D78B02B097095C714ABF8D393D0
 ================================================Chunks================================================
 
 Chunk ID: 32, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6EDB33CE7A05B094113681F7AC3A0CF3CF216937 | BB7609646C4A86BE1FCE9C2D2EB6BEDAEE3AEF2E |   70438912 |  2097152 |  1884488 | bba\sound2.bba
 E9AFCDF24D2070BD222B6C866D1414E8C7C3858F | 40048D73B5BEE2C423D7476BB960287206A54F6F |   70438912 |  2097152 |  2089394 | bba\sound2.bba
 D7E21076D306E6B50373B4A2359C6D030BD8B7F0 | 63CE8AAF18F8E030F7E124CC31CF552FC16BB386 |   70438912 |  2097152 |  1751519 | bba\sound2.bba
@@ -4629,7 +4629,7 @@ CE37DF6F84DAFD0E015B1044B4B2BEFFFEF7ABBD | 5FED4C74366AF3B891511E680ABCF43B52692
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 53F09240EEA6AAD0CE737ACC24DD993A6FE17BE1 | 6917BCB9E1921BE57B3BE3E52A2CB2B58022063F |   61796352 |  2097152 |  2085212 | bba\dlc_desert.bba
 1226CB8431A4CF23B0ED9D11A578A539BE146B9D | A6CD205CACEB22973C23D5ED35F2CD97E102C2CA |   61796352 |  2097152 |  2094808 | bba\dlc_desert.bba
 B112D6573203B405120C58EFAE002F20DA0DD621 | 33554480749FA08C6844B62B2EC51867414426A9 |   61796352 |  2097152 |  2091831 | bba\dlc_desert.bba
@@ -4663,7 +4663,7 @@ E9FD4A39DEB4545C7619D4148BF48732D8E9A694 | CD4765D8E0B91EFA07E94FFF949434E90AB83
 ================================================Chunks================================================
 
 Chunk ID: 13, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 685FB2FC3B07EF2C4CA15EE1342FBEACF541FFBE | C9DB51B3521FDFD5A300A6F50FDF7F667528095A |  110759936 |  2097152 |  2090195 | bba\dlc_greenland.bba
 67950CDE41C4AD57A05D16ECCA242B99F75D8DD6 | 28AB3FE1859CE39DACE63540B5277A365220C9D2 |  110759936 |  2097152 |  2088758 | bba\dlc_greenland.bba
 DEFACF51E06A1C0F9F4B0B6AF5ED92E98B008D21 | 1D1B2256BB180DB14116AD3EBB720B2E91118F10 |  110759936 |  2097152 |  2085555 | bba\dlc_greenland.bba
@@ -4720,7 +4720,7 @@ AB4BEC8F7DF201702C6878BFA3476F0CCA1D187D | 1D2871B41243DF357ED4EDDC065D1E7127D80
 ================================================Chunks================================================
 
 Chunk ID: 18, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C93F9E3F92427BBB5066C686CB2C14C2C08F123D | 4E4D7A872A5FDCEAE41DC840607FD470B4ADB723 |   51478528 |  2097152 |  2080242 | bba\dlc_northland.bba
 70843C4D20716CBE6B4B9FCDD6E39C304D62D08D | 7DEA2A86EF98A3A827F941961D677E4913D22E47 |   51478528 |  2097152 |  2093678 | bba\dlc_northland.bba
 096D43D024A2A4B764A797A13209BE0F63D594F1 | 4AB610C873334609E8FF9298CCC881BDE1637AFB |   51478528 |  2097152 |  2092224 | bba\dlc_northland.bba
@@ -4749,7 +4749,7 @@ A0A61690DBC4EB2653BA6E1AEFA4CDB672E0FFA5 | 6BEB28BA8F6ADEEF5EEE9A57C19AD50F31BC7
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A1564E0ED7277B7F789E79C877ACCAC35DD4F3F6 | 1D7CFBD1376190975E5547C6A7F141DC00E2C58C |   47472640 |  2097152 |  2001408 | bba\lpus.bba
 447F93B65EB51800B2DC2BEF44976D5BE1AA89AD | F899A5CAA8A51BB1AE7F57F0572624BE9B0FA3AF |   47472640 |  2097152 |  2002958 | bba\lpus.bba
 4776CCACB66C66A9C1E1680568878DABEBC6CC41 | A332D4F17C11EFBE79B15D044F41B62F759EFB44 |   47472640 |  2097152 |  2005010 | bba\lpus.bba
@@ -4776,7 +4776,7 @@ C2BCBEB94CEF878A53A025518DAD1B7C58ECC52D | D0EBFA91487BA063E5AA58B575AF53E1097F6
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E7CADBDC97DFFC382CF52F9C4B93E72FEE2295C8 | F6C6FFCE657D7E136BC7FB9825E290B339BAD5F7 |   47439872 |  2097152 |  2002888 | bba\lpes.bba
 35662414CADB5E33F2D39C433FDFC76AC2C7E676 | 064F6D87E21E5546DAA79C841823C48957FE23AC |   47439872 |  2097152 |  2003043 | bba\lpes.bba
 3578AE0E24BF23A83F676F36EAED186190C44855 | 510C6D149AE1B05D80E5C73D403CC96EA4C27955 |   47439872 |  2097152 |  2005156 | bba\lpes.bba
@@ -4803,7 +4803,7 @@ FC77E8A3F2EDCF4F77A3BB0CD3295CDAF0FA56A5 | 45FB1A56F70AF1653FB14BAC4A0B11A505C2E
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B3DE73AE21EB8ACE1794693748576650352C481F | 378074B30CFDEE2E0483153FC8CE94A69A14A8A4 |   47673344 |  2097152 |  2001053 | bba\lpde.bba
 2DD2B4511EEC19F5075C5676E00A0F6BD68279A2 | 330929C402B0D066D3AD214FD0298D65B9B7B606 |   47673344 |  2097152 |  2003029 | bba\lpde.bba
 95CC755FEB2DC1CC83E5B5FAA2535CC2E9881FEC | BCCCE7E56DBBAE45851E121DDD8830D86B130B22 |   47673344 |  2097152 |  2006351 | bba\lpde.bba
@@ -4830,7 +4830,7 @@ A099D73D8C84152974B524E51121B5AE44AA04C7 | 5F81BF8D4A7B0269629C062E5EBE0706DC0DF
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 DFD70CD3853AB39C2A5FC083552BD80C196C009B | E13E7D1CEA1B364306D5E0ACB098DAF7F2251E5E |   46026752 |  2097152 |  1999786 | bba\lpfr.bba
 EC6A660B322683C9906E432754C3AE159B4F2E73 | E0B0FC261264E73342AC5B153BD9B7D023BFA783 |   46026752 |  2097152 |  2003258 | bba\lpfr.bba
 98FDF7DAF08061CF262C6714DD6CDB8E91F1DEA7 | 1F1B29252D59319CD8A3D6B77623B6C4E9E2B615 |   46026752 |  2097152 |  2005041 | bba\lpfr.bba
@@ -4856,7 +4856,7 @@ F7821ACAA02E90BAD74B6A071CFF1C9AEA7A7348 | 4223DFA8E85ADB01F117680A3CF787B3417E9
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E5BE02302E45F07C9F73505561B39FA97BD2DFDA | 6A34281AB0C6B160AEC46A1153207867094AC557 |   47443968 |  2097152 |  2003423 | bba\lpit.bba
 4909054F4754BD05BC80A48260DCE4800AC61755 | 1E48F23AB2273190DE3059A8596FA4E1E1D7BAA5 |   47443968 |  2097152 |  2003087 | bba\lpit.bba
 256271922CE01EE9229AC1A93199FCD5F15D0C0E | D05D33BF6790B146CCAA81DB43EC88EF3AFEE4B9 |   47443968 |  2097152 |  2005134 | bba\lpit.bba
@@ -4883,7 +4883,7 @@ F49AA860121F6381A7C70BDFBCCB4B46DA6D1F55 | 12A0D1CB7D1E446E61EAC15F1FD38F20C02B9
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pl-PL, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1D0DC5833E0E65FB3E8B4B8C6ED49380BD08D2E7 | 759AE5B110CA79E931B645B930A58CC9058F109E |   47976448 |  2097152 |  1998356 | bba\lppl.bba
 6AB345F64C5AFFDEB36F751B6C3012364A9F6872 | 43EAE784B4F72123E5E73EDA5F4023CCB5D6E20C |   47976448 |  2097152 |  2001090 | bba\lppl.bba
 45C085432B1CDC1A3F6C879D8CCEAEDD277E864D | B3D1F29997FCC13586836EB2C53097E85A5942C8 |   47976448 |  2097152 |  2003897 | bba\lppl.bba
@@ -4910,7 +4910,7 @@ C34A958B5EF43B6955C96F9E6E58D8EF52A5D736 | B3E0A09E5D6A3DA9DC795842533FA1ED9B9F1
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F66C043DE97EDDA11710BF73E4D43B3FC2A91F1A | AFF5F084C70A1B808DD03DA65F0FE2F9F5874AA5 |   44015616 |  2097152 |  1991710 | bba\lpru.bba
 D6B87DFE57B881D02B684091BCF6D096A2EBC771 | 565A5B8F7EFF96D3B6CA476B97F2243405D830FC |   44015616 |  2097152 |  1998211 | bba\lpru.bba
 43CE79E73C7F885E0E8F37B23373DF421F3EFC9C | 68C96CCFA155A89840BA43071CBB818586CFC616 |   44015616 |  2097152 |  1999009 | bba\lpru.bba
@@ -4935,7 +4935,7 @@ A4E310D55962AC9FD420AA926B44899E61A6757B | 7FD03786E662CA959E36F5EA4BB245A647377
 ================================================Chunks================================================
 
 Chunk ID: 15, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-CN, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E292F4A84E4F557BE433B15AE0474092C8AB2CC9 | CB9B4C0E983753582698F6672132124B44DC9B27 |   47439872 |  2097152 |  2002124 | bba\lpzh.bba
 2654B8D12CCFF2B2683F9D1C3E0CBEA5A1B08993 | C3DC2D659FCC4EC19E67BC8F3E93621C3A4F477E |   47439872 |  2097152 |  2002988 | bba\lpzh.bba
 1230A14CA5014DF7BE66E3ABDFE9DC74A656175B | 14D9E1CE5C26BF43E0414995534CF18F804C2ADB |   47439872 |  2097152 |  2005074 | bba\lpzh.bba
@@ -4995,21 +4995,19 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Champions of Anteria\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Champions of Anteria\Language, Type: String
 Registry String Entry
-	Value | Language
-    en  | en-US
-    de  | de-DE
-    fr  | fr-FR
-    es  | es-ES
-    it  | it-IT
-    ru  | ru-RU
-    pl  | pl-PL
-    zh  | zh-CN
+en, en-US
+de, de-DE
+fr, fr-FR
+es, es-ES
+it, it-IT
+ru, ru-RU
+pl, pl-PL
+zh, zh-CN
 
 
 ==========================================Uninstall Registry==========================================

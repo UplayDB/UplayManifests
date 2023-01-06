@@ -1,8 +1,8 @@
-Total number of files   : 3184
-Total size of files     : 30531111369 | 30,53 GB
-Total number of chunks  : 10
-Total bytes on disk     : 466340297 | 466,34 MB
-Total bytes compressed  : 2211808866 | 2,21 GB
+Total number of files  : 3184
+Total number of chunks : 10
+Total size of Files    :      30531111369 Bytes | 28,434 GB
+Total size of Slices   :        466340297 Bytes | 444,737 MB
+Total size Downloaded  :       2211808866 Bytes | 2,060 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -34,7 +34,7 @@ Name: Russian\Readme.txt | Locale: ru-RU
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_a
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6E63FFF90B6EED157C9F3CE700025B27C7947A23 | 093B7A6C18F1752737F39D665838E8B311CF81BB |     369664 |   369664 |   190456 | .\bink2w64.dll
 86CD686A8BCBE8D4A937558793069AF578AD59A7 | E97499080AED35A5FECE5FEF051E1D39D333C70B |     392704 |   392704 |   138473 | .\cudart64_30_14.dll
 FF5551B9F377672B75002C5FC40747A1C2183643 | 962C94E42F3C15A18C615BD5AC79B3AF01B52B0C |    3873224 |  2097152 |   847500 | .\d3dcompiler_46.dll
@@ -7393,7 +7393,7 @@ FFB5A5C08E36422020575D95A6D0E57B5C5D8C4B | 331CA99138EB6D0C50D2810E5FEEE4647B11F
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_a_fr-FR
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5A07BECC9969EB79BFE836EE7CDC938840A1C3C9 | C590323E7A39A3054091A8C0D18554BC0F4C5D27 |   76466647 |  2097152 |  1896469 | .\camel\sdf\pc\data\sdf-A-0110.sdfdata
 E8A1017D75C0FBE56095621CDFB67F276E0836EE | 7905453EA906A1D5868B440F5E8CC3487D38ABC0 |   76466647 |  2097152 |  2049561 | .\camel\sdf\pc\data\sdf-A-0110.sdfdata
 72B4CDD17AE51E4846912E85966F4B9DD72325BF | F7867C3373F6A041491F10F4AE63E1EABE1F8322 |   76466647 |  2097152 |  2035618 | .\camel\sdf\pc\data\sdf-A-0110.sdfdata
@@ -7921,7 +7921,7 @@ AE2B48140AA767646B04CA243C0CC3B17E78BFAA | F46DAE444C423FD5774F773D755D7C2FD4067
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_a_en-US
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F4CAC1BC441706DA9F2560DA315754A7553F0A0E | 5CB89EAFB7CCAAE1F0F5E3D331A91D98E9895087 |  103033930 |  2097152 |  2012193 | .\camel\sdf\pc\data\sdf-A-0100.sdfdata
 35C34DE255EB0B5B073AA1DD195E63A3AE4671C6 | FBBEBCDCE792EE10D02473D57D9F07C5E4E45950 |  103033930 |  2097152 |  2040603 | .\camel\sdf\pc\data\sdf-A-0100.sdfdata
 D0C69CDB1858B45C4975A70E36A64D010D5F0177 | 01F450A9633D271B1BAE99DF3CB72FE88BB9ADBB |  103033930 |  2097152 |  2062318 | .\camel\sdf\pc\data\sdf-A-0100.sdfdata
@@ -8466,7 +8466,7 @@ B8ECB64F2A12BDA1CDC12745418478CF2BD95900 | A233C97947339839F84C8787AF96C6B01109A
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_a_it-IT
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5CC83AA8266BF97E908916A04EB27DD23E8A7645 | 04AFD9FAD18F8A1C3AA88E0C77A31DC22FFCE012 |  218714036 |  2097152 |  2011021 | .\camel\sdf\pc\data\sdf-A-0130.sdfdata
 DCC596C126B5B057A2784B482DF097CF22D2749F | CE1AB0C11EEDC72C580AD4DE72ED10DE279094F9 |  218714036 |  2097152 |  2042281 | .\camel\sdf\pc\data\sdf-A-0130.sdfdata
 CEDAFEE4465D7AFD9ED98A93AED18E6CA19CBA46 | C90E0016EDF1539E6A551F3DD0BA4FE699D537DB |  218714036 |  2097152 |  2013985 | .\camel\sdf\pc\data\sdf-A-0130.sdfdata
@@ -9005,7 +9005,7 @@ A21681D51C7F32D3BF7369FB415502A89816B600 | DE4FBD8DE3DAB85A19275479B771325BFF7D3
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_a_de-DE
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1E5ADF1F295B2A5DFA2161AF1B1E02F4DD685BB6 | 3021CEB83F35C2424C1F509A48C85139702FA7BB |  160324473 |  2097152 |  2043917 | .\camel\sdf\pc\data\sdf-A-0120.sdfdata
 FEBAAE56BCCFC9EE72630E8899D6E47085743C4F | 616268D5FFA24599247807AB076330AA0A86E34E |  160324473 |  2097152 |  2053142 | .\camel\sdf\pc\data\sdf-A-0120.sdfdata
 E1AFF28F1F00D38D988E1B74B5878568AA7D8CD6 | 9863FD94D7CBDA1D7B7E8867949143A33BC76986 |  160324473 |  2097152 |  2059857 | .\camel\sdf\pc\data\sdf-A-0120.sdfdata
@@ -9506,7 +9506,7 @@ BE4D96057059D95B87406E5B39EF56F85BFE62BF | CF80E0EDC8BB574DF99E2A6D0C0AFC1B79280
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_a_es-MX
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9916AFE6D8C83A9852C4A1D1114D3FB72F42AA32 | 1DB5EDD532AA6D94C4672488B1CA0EBD8E659445 |  275003537 |  2097152 |  2040226 | .\camel\sdf\pc\data\sdf-A-0150.sdfdata
 F68CA1DAC253A7C23890E9CBDC0471198629276F | 0D7B6ACCCECA5008DDB7A73F48F4EF9556B42110 |  275003537 |  2097152 |  2059708 | .\camel\sdf\pc\data\sdf-A-0150.sdfdata
 57A27F8849899DB758928F8535B96F7CD08C8A89 | 112A02F0F25410CE7A644F9423C0D89EBA951CC8 |  275003537 |  2097152 |  2047994 | .\camel\sdf\pc\data\sdf-A-0150.sdfdata
@@ -10054,7 +10054,7 @@ CB44F941350BE81A483CE005EE815EFBA79AF03E | 40313F9A9D3FB8FA9EC4745248059A228EB43
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_a_pt-BR
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 DA73A50B72FD70997EE59A63B13464AED0779646 | 4A1A8F1B3E3D77281A15D1E4D9DF0EB44D896282 |  367900973 |  2097152 |  1905838 | .\camel\sdf\pc\data\sdf-A-0140.sdfdata
 6839C12360C219202EBE8C1667960B7CDB8EA31B | 70BFFCB91413ED0E23479CC7E4F8F1859C26CDE8 |  367900973 |  2097152 |  2056500 | .\camel\sdf\pc\data\sdf-A-0140.sdfdata
 DEEE1A8A32DE7093245131845C94F5A7692CE75D | DA197CE916CF4F76E122E7EE08F871E7B40E39A1 |  367900973 |  2097152 |  2047426 | .\camel\sdf\pc\data\sdf-A-0140.sdfdata
@@ -10591,7 +10591,7 @@ CBDBF1FEC6D956F58994ACB4DD5F5C956E47A8E3 | FD690F74C7C7129AC581051C96997876628D1
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_a_es-ES
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 26798BC261E57A12EF4616D515E98675C4FD0053 | 2E5C6F90DDE62290EC83AD88EECF9F76B9D460A6 |  216431390 |  2097152 |  2035529 | .\camel\sdf\pc\data\sdf-A-0160.sdfdata
 D4D0DAD87C33C044745470B11E564AC830308DAC | 30E183F53AEFAB4FBFCC135200D0F4FE6998E054 |  216431390 |  2097152 |  2033939 | .\camel\sdf\pc\data\sdf-A-0160.sdfdata
 7E7B7CD94B59A4F93ED5B3AABFC02ADD0BFDAB07 | A31E8EF93018C1AFF5E3CE59A781C9FF6856CCDA |  216431390 |  2097152 |  2066717 | .\camel\sdf\pc\data\sdf-A-0160.sdfdata
@@ -11151,7 +11151,7 @@ E1238E6D86768516F6864912B545802337B81947 | 9A460E8928F8225ABED0118AB7512C963B086
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_b
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C0834EECC2B00AB6032AA2F26E09C5987A8E0244 | 7C0B5E0041646E886BC595B20039579AF88480CA |   25087548 |  2097152 |  1869414 | .\camel\sdf\pc\data\sdf-B-1000.sdfdata
 46D449A194E30754E2681E935085C428B75BEE2A | E6422231BC824586A7E4805705F779B98C0F7202 |   25087548 |  2097152 |  1916727 | .\camel\sdf\pc\data\sdf-B-1000.sdfdata
 042373ED289EE3203F8E621664C9594D1FFFFB3E | 84BB998BB74B195154F2267BCE193286EAD43C87 |   25087548 |  2097152 |  1890009 | .\camel\sdf\pc\data\sdf-B-1000.sdfdata
@@ -16241,7 +16241,7 @@ CB81248CBA460E2727BD9D2656FFC870EC4238CE | 6497E96CE08D948A69A5DDA61DDC84896E39D
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: 1, Chunk Language: , Chunk Tags: part_c
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0C3DBBC41B557F8B38252A5B02174631EFCD3D27 | D002530D21EE5A3441784F9D7B5B13D042476857 |        172 |      172 |      138 | .\camel\sdf\pc\data\sdf-C-2000.sdfdata
 6E3231D8F28DD847133FCF5F881F8D6673DC4B7B | 829C3804401B0727F70F73D4415E162400CBE57B |          5 |        5 |       13 | .\camel\sdf\pc\data\sdf-C-2001.sdfdata
 6E3231D8F28DD847133FCF5F881F8D6673DC4B7B | 829C3804401B0727F70F73D4415E162400CBE57B |          5 |        5 |       13 | .\camel\sdf\pc\data\sdf-C-2002.sdfdata
@@ -17294,23 +17294,21 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\SPTFBW\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\SPTFBW\Language, Type: String
 Registry String Entry
-	Value | Language
-German  | de-DE
-English  | en-US
-Spanish  | es-ES
-Mexican  | es-MX
-French  | fr-FR
-Italian  | it-IT
-Polish  | pl-PL
-Brazilian  | pt-BR
-Portuguese  | pt-PT
-Russian  | ru-RU
+German, de-DE
+English, en-US
+Spanish, es-ES
+Mexican, es-MX
+French, fr-FR
+Italian, it-IT
+Polish, pl-PL
+Brazilian, pt-BR
+Portuguese, pt-PT
+Russian, ru-RU
 
 
 ==========================================Uninstall Registry==========================================

@@ -1,8 +1,8 @@
-Total number of files   : 320
-Total size of files     : 49198562639 | 49,20 GB
-Total number of chunks  : 14
-Total bytes on disk     : 1953922383 | 1,95 GB
-Total bytes compressed  : 3484420487 | 3,48 GB
+Total number of files  : 320
+Total number of chunks : 14
+Total size of Files    :      49198562639 Bytes | 45,820 GB
+Total size of Slices   :       1953922383 Bytes | 1,820 GB
+Total size Downloaded  :       3484420487 Bytes | 3,245 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -38,7 +38,7 @@ Name: Readme_TCH.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5BD58BCD303ED4DB5D69B144A80FCBBEBF3AFBF5 | 69459E56AF013424925391195DF4F13A8D5E4245 |     124736 |   124736 |    42403 | bin/FarCryNewDawn.exe
 A0CEBCA9E6E4221CDB7FD3A977C7034D3EBC221E | 38819FF56350D6C16CD43656A2229EA1CF5780E8 |  457920832 |  3145728 |   217649 | bin/FC_m64.dll
 7AE272AE9EA70C24BAD4541A8DDA5170B2FA592E | 5F851F2114E6D3B15551652686537C1051E7C22A |  457920832 |  3145728 |   112519 | bin/FC_m64.dll
@@ -393,7 +393,7 @@ F2B7A6F87BCEEB9C1A62673D9184378D5693F220 | D2C165D4F752F863DDA697A160C97713154FC
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C0DC28BC7CF52527B3853DB3C6BA489B93D8CD10 | 26DE3E3D945964C9D2E82333D6FD857CBFE76194 |   88688576 |  3145728 |  2991502 | Support/Software/GameLauncher/UplayInstaller.exe
 1E067590D69172E83D032034D9896CCFDD2D1600 | 90ACD5642C436983962493EF5AD2C52E6747AAF4 |   88688576 |  3145728 |  3145812 | Support/Software/GameLauncher/UplayInstaller.exe
 B64EA3BA5631FD781B3D8B597F8A63AD487D3B6A | 72DCAAB83DA3609F2404BB2D77DDE47875EAC3A0 |   88688576 |  3145728 |  3144589 | Support/Software/GameLauncher/UplayInstaller.exe
@@ -441,7 +441,7 @@ B0D1E1355DDCA04F10E832820FEE16A9CEE3D9EC | B0E2E14B7E61BF56A52D2616E88D227C9B501
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: big_files
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B3208EBF859D692BB70C91AF5A7C1D18A3D6BF5F | 6A2C764D4B7DEEE5EE69702600E1D4A96F256A45 |  175831687 |  3145728 |  2426978 | data_final/pc/common.dat
 74CB952984D636C108013129CFE19E287DB898CF | 9E3197EA11C75A5633396ABA35176820D4045715 |  175831687 |  3145728 |  2171503 | data_final/pc/common.dat
 FCE6E6771757F211B81C4D822C783341A8857DF6 | 639C24058DE9289E673E909AE9F7F965774E53EF |  175831687 |  3145728 |  2444512 | data_final/pc/common.dat
@@ -3664,7 +3664,7 @@ F59B6A28C068749B6DEC3309C892AFC1E4C727FD | F3D0F58EC1E245E5FF9B4A4E44FA8EE0396C5
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: core
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D2D97916DF20E138BF82889E57CDBDFD20A63636 | 341B77A7797F40F66E52A89DA8C947C0F91DB3BB | 9595423480 |  3145728 |  2383355 | data_final/pc/worlds/fcbworlds.dat
 56D1FFB49AA06BA86B5E98C9F34F1151BAF88132 | 440A8B34E6071636305F17D9258A428C047ED8ED | 9595423480 |  3145728 |   527749 | data_final/pc/worlds/fcbworlds.dat
 AB6F499520C1D753267DC2D27C4649BD184A63F6 | 0124C1BD1A9D3E70CAB11A0D65E1F85EA6D9AC28 | 9595423480 |  3145728 |   572428 | data_final/pc/worlds/fcbworlds.dat
@@ -6721,7 +6721,7 @@ AE87B76B06059C771FB870B6F9F4BCCDF81B4343 | 1416FE63A40FC52BA6B6DC66EBC3E83DB8FBE
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: HD_textures
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5126B3292344050D1E48E083010AC888B424B580 | 5EC718AC3D12CB81081BB17AEB71F852DA409799 | 21393432015 |  3145728 |  2390635 | data_final/pc/worlds/fcbworlds_hd.dat
 1F092063DDD40B62776FE1767DF18092F4236405 | 33564410843EBF1DC4E1CF5D33E38D8AA21ED797 | 21393432015 |  3145728 |  2705263 | data_final/pc/worlds/fcbworlds_hd.dat
 AD6EFD71E730CE8401FC06E2FCE76A4AA285AE00 | 74A587AFABDFF58EC66EA29A62EF2067392CAABA | 21393432015 |  3145728 |  2533893 | data_final/pc/worlds/fcbworlds_hd.dat
@@ -13527,7 +13527,7 @@ F8BDBA27546517B17E32A38AA8A0D37228BEB13E | 879028EA7138E1E928CDFD093EFB98EE9B858
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US,ar-SA,zh-TW,cs-CZ,ko-KO,nl-NL,pl-PL,zh-CN, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A08B79A6CF313E731D47F55AA1A01B62E10F6946 | 17056A14828F1555C4E235C82B25907770010CA5 |  392277685 |  3145728 |  2553782 | data_final/pc/worlds/fcbworlds_english.dat
 E56FB4525029F8EAE796502F67176B6A278A8A01 | 9E78AF0EFB01C6DB1B7819BE8A4F4BAF83FE1E12 |  392277685 |  3145728 |  2300779 | data_final/pc/worlds/fcbworlds_english.dat
 0E5A6D0A019C1686260E778CF850C129F06749C8 | 700F5E644225751342441A4D41918C44BF43F18F |  392277685 |  3145728 |  2250321 | data_final/pc/worlds/fcbworlds_english.dat
@@ -13778,7 +13778,7 @@ A185248F45A3D16E547B01F46313128D06822863 | B92CF94119B8699DE50237FD89B773F7A4EC6
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 327518DEC46AA47E23868ABE0387DA6C9BFF05D0 | 500FB6276E17716D447CDE24D693220DB5B44514 |  390667541 |  3145728 |  3105666 | data_final/pc/worlds/fcbworlds_french.dat
 F4E368DA5E61602A4466D3CB66349945D6DDF3D0 | AFC9CFF677A96212254D1394C18096311C3B956C |  390667541 |  3145728 |  3090239 | data_final/pc/worlds/fcbworlds_french.dat
 957692F67915AFBBD7BFB8F41B5BA90A672C6702 | 76E8407003CE09FF97441DC01F20C705E4A68C4E |  390667541 |  3145728 |  3104467 | data_final/pc/worlds/fcbworlds_french.dat
@@ -14034,7 +14034,7 @@ E0A7F1B573FFB76C95DB6422E4952AF3BE5A100C | 9B591FECE0FEAC596022CE406C252630975C1
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B401FBC1714C26EE1A972570252B91E38E1D402F | 2B94873B2E8C56A8AF5F48426E2898123E8A10ED |  384619370 |  3145728 |  3110445 | data_final/pc/worlds/fcbworlds_german.dat
 719DF7D34E48C2D7C23CEF02B53DBBDE11E0359B | E566F25E713203D7C0FE77016B312B54A499BE1E |  384619370 |  3145728 |  3091167 | data_final/pc/worlds/fcbworlds_german.dat
 347A112BD2149F2F4356760C599952814D80D093 | 393015F9CA7C78B05B13027C1993F485625C5A61 |  384619370 |  3145728 |  3095948 | data_final/pc/worlds/fcbworlds_german.dat
@@ -14285,7 +14285,7 @@ A185248F45A3D16E547B01F46313128D06822863 | B92CF94119B8699DE50237FD89B773F7A4EC6
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8FF13E0A104323E8AE4E2F4A21CAB3BD03AD5BFF | 83E109C3AC868D31389BD15D9F9EEC507971DFEF |  413548903 |  3145728 |  3109894 | data_final/pc/worlds/fcbworlds_italian.dat
 9C0AF20A9017A526F2721B26FA325E1FAD677882 | E832A8D1985F69C3634E64CB34577FC0E3090C42 |  413548903 |  3145728 |  3092706 | data_final/pc/worlds/fcbworlds_italian.dat
 F77474607A6E684DD9D492557315B73E7D51F26A | 714CCADF7EFFEAF6CB81AE8D76207D7BF112B38B |  413548903 |  3145728 |  3093995 | data_final/pc/worlds/fcbworlds_italian.dat
@@ -14558,7 +14558,7 @@ FFF6A63315E14A88CE8376FF5DC41F8B802A2098 | BC8CBA14295E662CCBCB3B592006E90C011A2
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5BF4905760CFD955E7B61AC4F529CD797BE85093 | DFF1FDC71DB60D135B9BB24FBEA5630C720EE8C3 |  422753582 |  3145728 |  3099850 | data_final/pc/worlds/fcbworlds_spanish.dat
 AD4CF6F761794DF9E47D49B3B451AA6FE898A31D | F53246899E3CEB7DA8399CC85C45F1A92E996568 |  422753582 |  3145728 |  3080487 | data_final/pc/worlds/fcbworlds_spanish.dat
 5AF900DD81C4421D72A62BC92969E2D2F31E190D | 6CCB1B25A8396EA68EC00AE67145FC27E7346D1F |  422753582 |  3145728 |  3093232 | data_final/pc/worlds/fcbworlds_spanish.dat
@@ -14835,7 +14835,7 @@ A185248F45A3D16E547B01F46313128D06822863 | B92CF94119B8699DE50237FD89B773F7A4EC6
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ja-JP, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 81809CC6DA3881565FE9535B0C97ADC7A8EC1FE2 | 971A3D2B2FCCC063B3010C2B901DB0B859BDCEB6 |  403677514 |  3145728 |  3102541 | data_final/pc/worlds/fcbworlds_japanese.dat
 F4F6FAA89DD8946CB2D7E53896FA59A24BA10945 | 8BF576C693E794435AC4256CC778E3FB96DAA3FE |  403677514 |  3145728 |  3091316 | data_final/pc/worlds/fcbworlds_japanese.dat
 7D34F27B10A6DE2231E2AD5E949A0BB8A93A69AD | 408A89CB1248949CD068EC3709451E4BDF8D2A47 |  403677514 |  3145728 |  3083909 | data_final/pc/worlds/fcbworlds_japanese.dat
@@ -15088,7 +15088,7 @@ A185248F45A3D16E547B01F46313128D06822863 | B92CF94119B8699DE50237FD89B773F7A4EC6
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pt-BR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F4DCA3E49AF405AD6AFD688A6391A73258666166 | 76AACB85EF54DA6FD716C591DC96B328F337B59A |  403042859 |  3145728 |  3099324 | data_final/pc/worlds/fcbworlds_brazilian.dat
 CFB5C9740CEF2631F1C98237324F8876892B6E3A | 99E004A4224A54380BECD16879F1BFF33762DC0D |  403042859 |  3145728 |  3093013 | data_final/pc/worlds/fcbworlds_brazilian.dat
 550997AC17684B73CD3266F4E9F159BDFF76307D | FEED4308139153023258B45768754F3522A56534 |  403042859 |  3145728 |  3100725 | data_final/pc/worlds/fcbworlds_brazilian.dat
@@ -15520,7 +15520,7 @@ A185248F45A3D16E547B01F46313128D06822863 | B92CF94119B8699DE50237FD89B773F7A4EC6
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1F9A1E565DAC53753223A121BD0EE93E80D96A57 | C6AB95069F398F789E1C7DCF622F298A27F2F3B8 |  382933788 |  3145728 |  3098865 | data_final/pc/worlds/fcbworlds_russian.dat
 F957103D582E882070A7F9684A5842BB8EEE6575 | 66D7837B0BF3645BA13C4844C8F93D829E7D01DD |  382933788 |  3145728 |  3079156 | data_final/pc/worlds/fcbworlds_russian.dat
 69E29E75D520909CF17B3461C279EA36FC618C18 | B8A4EDFFEF675E0337FDD807E80EC909FB4D3AA4 |  382933788 |  3145728 |  3092314 | data_final/pc/worlds/fcbworlds_russian.dat
@@ -15778,7 +15778,7 @@ D617285D21C0202DD4CEAA835B43309EB8BBF433 | 002F05C3C3967AE95D3EF672775D40BF1FF98
 ================================================Chunks================================================
 
 Chunk ID: 14, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CC0651E96469D05040D1FF9AA8F924E6EACBEB61 | 0830CC54ADEC654AB4394032EC4E046185BA01E5 |    1347354 |  1347354 |  1344743 | Support/Software/DirectX/Apr2005_d3dx9_25_x64.cab
 86979F02026F490C24DBF189B7CDBB9B771FA8B6 | 1ABE9F17489E389E7400DEA76A0386873446E9CC |    1078962 |  1078962 |  1073855 | Support/Software/DirectX/Apr2005_d3dx9_25_x86.cab
 F8A7D56FD43800980ADF70585B099BA9DDB5B166 | 69091C7D92B1CC64F8D4E5B4042E418E2BC84F3B |    1397830 |  1397830 |  1395153 | Support/Software/DirectX/Apr2006_d3dx9_30_x64.cab
@@ -16030,22 +16030,21 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\FarCryNewDawn\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- fr-FR  | fr-FR
- ar-SA  | ar-SA
- pt-BR  | pt-BR
- zh-CN  | zh-CN
- zh-TW  | zh-TW
- cs-CZ  | cs-CZ
- de-DE  | de-DE
- it-IT  | it-IT
- ja-JP  | ja-JP
- ko-KO  | ko-KO
- nl-NL  | nl-NL
- pl-PL  | pl-PL
- ru-RU  | ru-RU
- es-ES  | es-ES
+en-US, en-US
+fr-FR, fr-FR
+ar-SA, ar-SA
+pt-BR, pt-BR
+zh-CN, zh-CN
+zh-TW, zh-TW
+cs-CZ, cs-CZ
+de-DE, de-DE
+it-IT, it-IT
+ja-JP, ja-JP
+ko-KO, ko-KO
+nl-NL, nl-NL
+pl-PL, pl-PL
+ru-RU, ru-RU
+es-ES, es-ES
 
 ========================================Install Firewall Rules========================================
 

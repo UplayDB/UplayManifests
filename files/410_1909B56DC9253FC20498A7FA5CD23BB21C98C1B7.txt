@@ -1,8 +1,8 @@
-Total number of files   : 252
-Total size of files     : 5997777209 | 6,00 GB
-Total number of chunks  : 2
-Total bytes on disk     : 1702809913 | 1,70 GB
-Total bytes compressed  : 1702809913 | 1,70 GB
+Total number of files  : 252
+Total number of chunks : 2
+Total size of Files    :       5997777209 Bytes | 5,586 GB
+Total size of Slices   :       1702809913 Bytes | 1,586 GB
+Total size Downloaded  :       1702809913 Bytes | 1,586 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: da-DK , de-DE , en-US , es-ES , fi-FI , fr-FR , it-IT , nb-
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | B07DD67F2AD6E5E3DDCCCE4DDF481372A278817C |     334648 |   334648 |   334648 | uplay_r1_loader.dll
                                          | 445004FC9501E7B5F89D3AB78B0F244BC3DF2EC0 |    1584048 |  1048576 |  1048576 | secure_fat.gf
                                          | 34FCAC5982276F2C7B2D8225E736EF2164AE1E78 |    1584048 |   535472 |   535472 | secure_fat.gf
@@ -5718,7 +5718,7 @@ Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 902B47332CF540D75FAB7296CFAD7F32FCD88D62 |     177328 |   177328 |   177328 | support\GameExplorerInstaller.exe
                                          | F6B5D384F873870B1EEE8F3AC6016BC24E0FD60B |    5073240 |  1048576 |  1048576 | support\vs2010\vcredist_x86_2010.exe
                                          | 0B8DC07756C4B86CB5E5E0322791A0856BAFF80F |    5073240 |  1048576 |  1048576 | support\vs2010\vcredist_x86_2010.exe
@@ -5973,38 +5973,34 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rayman Legends\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rayman Legends\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Rayman Legends.exe  | 
+$INSTALL_DIR\Rayman Legends.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rayman Legends\GameUpdate\guPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Rayman Legends.exe  | 
+$INSTALL_DIR\Rayman Legends.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rayman Legends\Settings\Language, Type: Number
 Registry Number Entry
-  Value | Language
-    13  | da-DK
-     3  | de-DE
-     0  | en-US
-     4  | es-ES
-    16  | fi-FI
-     1  | fr-FR
-     5  | it-IT
-    12  | nl-NL
-    14  | nb-NO
-    10  | pl-PL
-    17  | pt-BR
-    11  | ru-RU
-    15  | sv-SE
+13, da-DK
+3, de-DE
+0, en-US
+4, es-ES
+16, fi-FI
+1, fr-FR
+5, it-IT
+12, nl-NL
+14, nb-NO
+10, pl-PL
+17, pt-BR
+11, ru-RU
+15, sv-SE
 
 ============================================Uninstall Runs============================================
 

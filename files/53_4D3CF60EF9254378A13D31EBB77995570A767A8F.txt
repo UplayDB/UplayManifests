@@ -1,8 +1,8 @@
-Total number of files   : 919
-Total size of files     : 19021994163 | 19,02 GB
-Total number of chunks  : 7
-Total bytes on disk     : 1842124979 | 1,84 GB
-Total bytes compressed  : 1842124979 | 1,84 GB
+Total number of files  : 919
+Total number of chunks : 7
+Total size of Files    :      19021994163 Bytes | 17,716 GB
+Total size of Slices   :       1842124979 Bytes | 1,716 GB
+Total size Downloaded  :       1842124979 Bytes | 1,716 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: da-DK , de-DE , en-US , es-ES , fr-FR , it-IT , nb-NO , nl-
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | AEF049E315AD419FE9F72B718FF81144BB1404C5 |    4485976 |  2097152 |  2097152 | Support\vcredist_2008SP1_x86.exe
                                          | 0C347C96A608F754DA425A80C72D428CE8FFED60 |    4485976 |  2097152 |  2097152 | Support\vcredist_2008SP1_x86.exe
                                          | F5643E756AD5CA920C3F151191BC9907D9CDE178 |    4485976 |   291672 |   291672 | Support\vcredist_2008SP1_x86.exe
@@ -208,7 +208,7 @@ Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 27E7AB41AF6DA1075DABA27D06E78FEF93E04972 |      21018 |    21018 |    21018 | COMMON\SAVE\ICON0.PNG
                                          | BC2848A1E70A137A7A73A2DA4EB8499F69C256BE |    1929216 |  1929216 |  1929216 | COMMON\SAVE\ICON1.PAM
                                          | 0C2181325E5A56CEA84C745500CE3A9EE195B2C3 |     771402 |   771402 |   771402 | COMMON\SAVE\PIC1.PNG
@@ -8504,7 +8504,7 @@ Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 115, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | B29B68B6898E3AEBF307E198AC34DD58D1B25A70 |       8549 |     8549 |     8549 | DLC\dlc1\Language\Oasis_Brazil.inf
                                          | 218C62F2D9A819939FD54E7D27BCC1D144150E24 |       7295 |     7295 |     7295 | DLC\dlc1\Language\Oasis_Chinese.inf
                                          | AE873EFF62DBB1F248F031BBE80BB20C9A49E1BF |       8799 |     8799 |     8799 | DLC\dlc1\Language\Oasis_Czech.inf
@@ -8791,7 +8791,7 @@ Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 115, Chunk Disc: , Chunk Langu
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 204, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 8BBCCD8642914F74E4AA7B2D41209BA38B4EA59C |      30826 |    30826 |    30826 | DLC\dlc2\Language\Oasis_Brazil.inf
                                          | FC6FD1D2C191C0F4C0ECFD9C8ED6762B660F3B8E |      30338 |    30338 |    30338 | DLC\dlc2\Language\Oasis_Czech.inf
                                          | 077635ED4173B79CB0C8EB305149C338E7F0D027 |      29757 |    29757 |    29757 | DLC\dlc2\Language\Oasis_Danish.inf
@@ -9373,7 +9373,7 @@ Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 204, Chunk Disc: , Chunk Langu
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 257, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 44E2A6144261F017CD5C35C3C25C5F4109691A83 |       3161 |     3161 |     3161 | DLC\dlc3\Language\Oasis_Brazil.inf
                                          | 2E70A81F6DD9DDC76C57A17BEBBA01307B26ED13 |       2656 |     2656 |     2656 | DLC\dlc3\Language\Oasis_Chinese.inf
                                          | 6F64077138D032352F1CAFEC73F613408E3D698A |       3168 |     3168 |     3168 | DLC\dlc3\Language\Oasis_Czech.inf
@@ -9913,7 +9913,7 @@ Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 257, Chunk Disc: , Chunk Langu
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | CBB8002E3FC1C72FCFB29342D7099BE7CBDAF01B |    9848595 |  2097152 |  2097152 | Support\KB971512-x64.msu
                                          | B9F9AF8B0627D76807FDE70298B3FA6E3025FA4A |    9848595 |  2097152 |  2097152 | Support\KB971512-x64.msu
                                          | F2AB3163BDB90947B6CB19CE0440D4F8F5BD8E33 |    9848595 |  2097152 |  2097152 | Support\KB971512-x64.msu
@@ -9922,7 +9922,7 @@ Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 787951C5028D9E036E3BFD6B1C40414132215303 |    4814058 |  2097152 |  2097152 | Support\KB971512-x86.msu
                                          | 93D12292051DCB597C6BC43DC84B245269F55691 |    4814058 |  2097152 |  2097152 | Support\KB971512-x86.msu
                                          | 081BC60099C0C40CFADA54C970CE8CB034E3F8C5 |    4814058 |   619754 |   619754 | Support\KB971512-x86.msu
@@ -10004,64 +10004,57 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Ghost Recon Future Soldier\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Ghost Recon Future Soldier\SKU_Name, Type: String
 Registry String Entry
-	Value | Language
-PC_Digital_WW  | 
+PC_Digital_WW, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Ghost Recon Future Soldier\langId, Type: Number
 Registry Number Entry
-  Value | Language
-    17  | da-DK
-     3  | de-DE
-     1  | en-US
-     5  | es-ES
-     4  | fr-FR
-     6  | it-IT
-    16  | nb-NO
-    13  | nl-NL
-    11  | pl-PL
-     9  | pt-BR
-    15  | sv-SE
+17, da-DK
+3, de-DE
+1, en-US
+5, es-ES
+4, fr-FR
+6, it-IT
+16, nb-NO
+13, nl-NL
+11, pl-PL
+9, pt-BR
+15, sv-SE
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Ghost Recon Future Soldier\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-a1d7ac497d594a7dbfde81aff595b9fc  | 
+a1d7ac497d594a7dbfde81aff595b9fc, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Ghost Recon Future Soldier\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Future Soldier.exe  | 
+$INSTALL_DIR\Future Soldier.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Ghost Recon Future Soldier\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Ghost Recon Future Soldier\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | da-DK
-    de  | de-DE
-    us  | en-US
-    es  | es-ES
-    fr  | fr-FR
-    it  | it-IT
-    us  | nb-NO
-    nl  | nl-NL
-    us  | pl-PL
-    us  | pt-BR
-    us  | sv-SE
+us, da-DK
+de, de-DE
+us, en-US
+es, es-ES
+fr, fr-FR
+it, it-IT
+us, nb-NO
+nl, nl-NL
+us, pl-PL
+us, pt-BR
+us, sv-SE
 
 ============================================Uninstall Runs============================================
 

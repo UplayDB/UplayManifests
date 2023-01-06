@@ -1,8 +1,8 @@
-Total number of files   : 225
-Total size of files     : 6757666756 | 6,76 GB
-Total number of chunks  : 14
-Total bytes on disk     : 2462699460 | 2,46 GB
-Total bytes compressed  : 662580435 | 662,58 MB
+Total number of files  : 225
+Total number of chunks : 14
+Total size of Files    :       6757666756 Bytes | 6,294 GB
+Total size of Slices   :       2462699460 Bytes | 2,294 GB
+Total size Downloaded  :        662580435 Bytes | 631,886 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 786FEE278562FEC00E44605B48B752E1E09F9ADB | DD839741302E4253EE422A557A8DCCA97A9B1158 |     498776 |   498776 |   222886 | baselib.dll
 5F9AB6E56128C61EEFBBDB71733C25ECBA614934 | 181215562D24CDECC0E7AC1554FE8ABD663B4390 |     413256 |   413256 |   154356 | dbdata.dll
 B6BD68B51EFA5BECB1E8AD8DF830289518CCB10F | 862638F5DDA3928B62397E43EE9E23E133F2798B |  445330472 |  3145728 |   796769 | GameAssembly.dll
@@ -2038,7 +2038,7 @@ CA73B3066D1A4A8105E5A8C8EB0F85E05ECB6C08 | 17024B2942517C1E02FA1C50E5AAD4BC12E71
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pt-BR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3D7DA848ED35DA4268E287126720B5EC97A0564E | 604EFA0DE5633D58D397CF024C86150AF02A1A34 |  113049723 |  3145728 |  2426240 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Brazilian Portuguese\VO.bnk
 26B0382137872EC2F22FB586323D94B5BF804A8F | AB9A0536EDBA7F37C5B0C5D4CE9A8BFA37F73284 |  113049723 |  3145728 |  2465334 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Brazilian Portuguese\VO.bnk
 07AE2663D632AEEA8F9480380FC30C85B00ED97A | D1555A45FD01C771A7DBDF2585C0A77CCE8DF356 |  113049723 |  3145728 |  2541638 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Brazilian Portuguese\VO.bnk
@@ -2079,7 +2079,7 @@ EC708A860C1D6615AECDAAD5E102C68CBF09DD1C | 833A7364880265B3C5464A0AB1D7612A3F9A0
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F4D82332651D1B56A47CB18C855139B4829FD0F6 | 8E5CD386B1E4545D4F51F317F44DC34FD304A01B |  112828492 |  3145728 |  2448774 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\French\VO.bnk
 E79F75D2F32EEF296F35FC8297A5B9A2C80977CA | B1290B9A00D7F9D5F43D7418694E27A273446853 |  112828492 |  3145728 |  2368502 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\French\VO.bnk
 8417A8A47311911F23022A9E24089F1F23B1D8F9 | B0DE4408779B844C290DD46283AF30FCAD87D0B0 |  112828492 |  3145728 |  2547700 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\French\VO.bnk
@@ -2120,7 +2120,7 @@ FEEA2A2B04D28CBB14A6AC796C0F695B0702EC3F | 51B6B2B11434610F243CF1035183F1DA24703
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D4257683315023A1BEE75944D18CA2E4F303DA32 | F266CA2259AEA4D914CDA1C9E69E460BF7E7BC1E |  122120459 |  3145728 |  2507962 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\German\VO.bnk
 0B56714A8B9E2BB449715B39BC1C21A91946D853 | C9A470857643C30C61E6F9D1FFB5518F32AE37E8 |  122120459 |  3145728 |  2460729 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\German\VO.bnk
 956846635ECF2DA3E155146C9A5C4C3C85915195 | FA09A646D0C8D6672CE6DA6C65DE225DD3F5D0C1 |  122120459 |  3145728 |  2574790 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\German\VO.bnk
@@ -2164,7 +2164,7 @@ C277FCD1EC603DC6556B806EEAD8D47903E92072 | 4F1564D3D6F44785577D75F830E0F0C695DF5
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3825B4B6C25FA1B3E2982ABBECCBBF6C27E0E746 | C3FC1047F470E6C1F68334D7E613E2078746F55B |  115559880 |  3145728 |  2501494 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Italian\VO.bnk
 2CABA83F4E23F642AD0639F44360789F70E1498C | 32F3D452A92E9135A7E4A99B07415AE40DD19E68 |  115559880 |  3145728 |  2530171 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Italian\VO.bnk
 FCB839D91B97EA30E1EF11374081BC9BE9A675F0 | 093AC21FF1A1ED65BA9F7AD6F5BFF0631ED7F056 |  115559880 |  3145728 |  2572582 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Italian\VO.bnk
@@ -2206,7 +2206,7 @@ B9C67BDB2A62E9240155E46C5CF1AFD7894C57C3 | 24CE34D6B1B8F8A994FBEAE199A8D759D61D1
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ja-JP, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6809CC9CB3921021503C44DE2367AB5927942620 | D691C6D2BAC94ABB38A1C8946D75C56E55EEB7FB |  110863705 |  3145728 |  2516806 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Japanese\VO.bnk
 1A582EC5A71904B42AE30D27A5D90AD5DD3BA913 | 2ED5DF3011A7991383A647E5B46A83DD12B9703E |  110863705 |  3145728 |  2550248 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Japanese\VO.bnk
 5948B1B0A50CE190E80B88201C6A2B7A0343071E | EC6A62D6D5D4697E74019FCDD7FFFCE47EFB040C |  110863705 |  3145728 |  2543648 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Japanese\VO.bnk
@@ -2247,7 +2247,7 @@ CC06A991BB387787B46E0DE2B022D9396D2F606E | 64565E589C59D176CD2579F0F597374D32FA8
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-MX, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4A1F9A92D0FB7B89C5989F281635089A119BEF7B | E49BF7C3C3EFC853945A4420BAF5D541F480CC6F |  113523252 |  3145728 |  2555251 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Latin American Spanish\VO.bnk
 831431B29E310D2F870487E07D0BE611DF93E1D7 | BE65D33F886C449AFC95511972DFCD91CDCCF959 |  113523252 |  3145728 |  2551841 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Latin American Spanish\VO.bnk
 14AD35EACC137CF7D3A42C12153F86B7907C07FB | 597AD29FACCA988DF20F10A64ADE4E0F6F833A28 |  113523252 |  3145728 |  2427490 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Latin American Spanish\VO.bnk
@@ -2289,7 +2289,7 @@ A961C5A780499D97D143244C28A03FD4886E4866 | 3B5BB8B34DFB7F61B07B167D7E7D3444F1F84
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8DD9DC2F553ECC0F91B34D3B700507F766DF8563 | 802AC774CC7EB1EDC95F270CA7E2B98BFDC7EDB7 |  111030253 |  3145728 |  2473623 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Russian\VO.bnk
 978569BB2840411FD5898ABA1566C109911AAD64 | 440676B6DB0139F38ABA83935137D17722FB0C43 |  111030253 |  3145728 |  2445983 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Russian\VO.bnk
 27D39FF96B11A1A6DF0AF4CBC6A06A7902BC0B86 | 1160F54CC9C413DCB74709F2DBAE6D2B83C9D7AD |  111030253 |  3145728 |  2597413 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Russian\VO.bnk
@@ -2330,7 +2330,7 @@ D93D2206893F083BC0AB7E9E7D4C2FE90A1494DC | B76A9B655EF27070C6A72791B30156E938799
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5923E3E1F1FD38694512986CAA9AEBF43BC9A43D | 8F9D2252D6EBA9D471CA5DB6A27BD3AB74B7356F |  113164997 |  3145728 |  2587632 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Spanish\VO.bnk
 6016C59E76454A840A17BEDDD164B74E61F56F38 | 7D0602D97A40E234E83A68C5FA8FDADAA54B1654 |  113164997 |  3145728 |  2384495 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Spanish\VO.bnk
 DC60202FA1B3E16AD6DFFED29C6D6704607BC556 | 34AE6CB3D9C58CB0FA860296CD8B0773E3D07334 |  113164997 |  3145728 |  2553511 | MonopolyMadness_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Spanish\VO.bnk
@@ -2371,31 +2371,31 @@ A148FA136E068DF689A631B22BD8C90774E064CD | 47685DC9A12CE11D7247D591D59327545A663
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: nl-NL, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Dutch\VO.bnk
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Dutch\VO.txt
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ko-KO, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Korean\VO.bnk
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Korean\VO.txt
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pl-PL, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Polish\VO.bnk
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Polish\VO.txt
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-CN, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Simplified Chinese\VO.bnk
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Simplified Chinese\VO.txt
 ================================================Chunks================================================
 
 Chunk ID: 13, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-TW, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Traditional Chinese\VO.bnk
 29DD10B1ACF9266B52287031A70C1D08CD7AD443 | E7016EE1E3560755AC6BE344AA70F608A5AEF4A3 |     131145 |   131145 |    11398 | MonopolyMadness_Data\StreamingAssets\Audio\DefaultSoundBanks\Traditional Chinese\VO.txt
 
@@ -2475,30 +2475,28 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\EngineSoftware\MonopolyMadness\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_CURRENT_USER\SOFTWARE\EngineSoftware\MonopolyMadness\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- en-GB  | en-GB
- en-CA  | en-CA
- fr-CA  | fr-CA
- fr-FR  | fr-FR
- it-IT  | it-IT
- de-DE  | de-DE
- es-ES  | es-ES
- ru-RU  | ru-RU
- pt-BR  | pt-BR
- ja-JP  | ja-JP
- pl-PL  | pl-PL
- ko-KO  | ko-KO
- zh-TW  | zh-TW
- zh-CN  | zh-CN
- es-MX  | es-MX
- nl-NL  | nl-NL
+en-US, en-US
+en-GB, en-GB
+en-CA, en-CA
+fr-CA, fr-CA
+fr-FR, fr-FR
+it-IT, it-IT
+de-DE, de-DE
+es-ES, es-ES
+ru-RU, ru-RU
+pt-BR, pt-BR
+ja-JP, ja-JP
+pl-PL, pl-PL
+ko-KO, ko-KO
+zh-TW, zh-TW
+zh-CN, zh-CN
+es-MX, es-MX
+nl-NL, nl-NL
 
 ========================================Install Firewall Rules========================================
 

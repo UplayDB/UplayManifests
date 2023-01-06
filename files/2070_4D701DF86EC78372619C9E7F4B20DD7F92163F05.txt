@@ -1,8 +1,8 @@
-Total number of files   : 67
-Total size of files     : 4147328431 | 4,15 GB
-Total number of chunks  : 3
-Total bytes on disk     : 4147328431 | 4,15 GB
-Total bytes compressed  : 3555071462 | 3,56 GB
+Total number of files  : 67
+Total number of chunks : 3
+Total size of Files    :       4147328431 Bytes | 3,863 GB
+Total size of Slices   :       4147328431 Bytes | 3,863 GB
+Total size Downloaded  :       3555071462 Bytes | 3,311 GB
 
 Compression Method      : Lzham
 Version                 : 0
@@ -25,7 +25,7 @@ Name: ReadMe.txt | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 70BB1FF05AF47B553332EFD5F698023D07DD3F64 | 5872B10A44E538C1AD784CA03050B55931D75BC0 |     223928 |   223928 |   111315 | audiomotors_shared_mt.dll
 471975D6754C6D44B230EA979FE83B681CCC9AE2 | 24CE79A2588B26C33D309E3D0846EBE9010C4F45 |     266560 |   266560 |   126125 | openvr_api.dll
 82E2E2A95D4DA487DD457B40C78A4983ABBB5BDE | 0A1997F174DD1D910D0313603D23DCB5905E69B3 |    3231688 |  1048576 |   342794 | d3dcompiler_46.dll
@@ -4014,7 +4014,7 @@ A54CDE084E5B6CFCD34D087073E31213526E1793 | BCE9F21CDB1E101C7223C9E62ECA61EC22D6B
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, en-US, es-ES, fr-FR, it-IT, ja-JP, pl-PL, pt-BR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A6046ABA48049ADBDF275910B4486F4B2F8C97D4 | 98069B7E58BE17A2C58868DEA7664669F23E2C82 |     486744 |   486744 |   161877 | GameData\Translations\de.mo
 C85072C77935CBEE1B36AA5F1A49B79ED4AA8EC0 | AE767BFE69FDEC85DCD9763330DD2711FD5EA58A |     434625 |   434625 |   143144 | GameData\Translations\en.mo
 CA4A1DFEDA42085EF511217C912198EE092E1172 | 002FB90695F5C371D1C22F10CE1795A60E120B70 |     468158 |   468158 |   154956 | GameData\Translations\es.mo
@@ -4028,7 +4028,7 @@ D18E564B0092A16DCF67812795521ABEB52BA6FB | 6DC0823ACF305AA1BFEC3B43E79DA06F816A2
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 05F8EF395642B9F2756EA900757DE583297D122B | 42B231476DACBE2B75F36E60BA1EBB1CC033BB8B |     637705 |   637705 |   177499 | GameData\Translations\ru.mo
 C85072C77935CBEE1B36AA5F1A49B79ED4AA8EC0 | AE767BFE69FDEC85DCD9763330DD2711FD5EA58A |     434625 |   434625 |   143144 | GameData\Translations\eng.mo
 
@@ -4068,22 +4068,20 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\TrackmaniaTurbo\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\TrackmaniaTurbo\Language, Type: String
 Registry String Entry
-	Value | Language
-German  | de-DE
-English  | en-US
-Spanish  | es-ES
-French  | fr-FR
-Italian  | it-IT
-Japanese  | ja-JP
-Polish  | pl-PL
-Brazilian  | pt-BR
-Russian  | ru-RU
+German, de-DE
+English, en-US
+Spanish, es-ES
+French, fr-FR
+Italian, it-IT
+Japanese, ja-JP
+Polish, pl-PL
+Brazilian, pt-BR
+Russian, ru-RU
 
 
 ==========================================Uninstall Registry==========================================

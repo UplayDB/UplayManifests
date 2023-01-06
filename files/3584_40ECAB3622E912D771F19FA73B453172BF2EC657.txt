@@ -1,8 +1,8 @@
-Total number of files   : 947
-Total size of files     : 6236360715 | 6,24 GB
-Total number of chunks  : 7
-Total bytes on disk     : 1941393419 | 1,94 GB
-Total bytes compressed  : 642235124 | 642,24 MB
+Total number of files  : 947
+Total number of chunks : 7
+Total size of Files    :       6236360715 Bytes | 5,808 GB
+Total size of Slices   :       1941393419 Bytes | 1,808 GB
+Total size Downloaded  :        642235124 Bytes | 612,483 MB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -45,7 +45,7 @@ Name: SPSOT_readme-CHT.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 94750B1C7C313AA1CB8CE9C4F344F9D0D1E246C2 | 5EF59B01BBD974C6AFA574776B4339277061463B |   13042864 |  1048576 |   544195 | SouthPark-TheStickofTruth.exe
 01CBFCEF0D7AEA0E5DC870BA188C244ECFDEF0A3 | FDC4526F2A24DCD3B9F0118AEE67BBB280CE5E69 |   13042864 |  1048576 |   492011 | SouthPark-TheStickofTruth.exe
 C54200CD2F28790A961F9FDAAEFC4EFB43DB4690 | E15AB6A52E24A76A45BCD33C33F9F43E21CE1FFB |   13042864 |  1048576 |   489865 | SouthPark-TheStickofTruth.exe
@@ -2319,7 +2319,7 @@ D98CF5384BE0FB33B05CA56FB75FC289707F1B34 | 34BFBF4CDD6FD2A11F04B88C74E46478B6F16
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 942E817CE08E7F8D27ADDF0D52796F6E04E8FCC1 | 28B31A6B32B0BD592F8C36512CA998FDC94F98BE |    3070656 |  1048576 |  1026005 | data/movies/000_autodesk.bk2
 ADF1AB16C96128E18F29DFAD2453217C87EF1580 | 56FF72C9ADCBF22F751745E25189A8476A76C92A |    3070656 |  1048576 |  1030297 | data/movies/000_autodesk.bk2
 CAC003DF76C17A3C1BD86D39FE83F4403A51128B | 2B040226033840BCADD82C79FF787EE1810E9848 |    3070656 |   973504 |   948467 | data/movies/000_autodesk.bk2
@@ -3219,7 +3219,7 @@ F380116348A9C86CE446E6EF5A0711CA1A221C88 | 77B220979DA68411B31D55BB502081591F6FB
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6AA6CAA6F666986FCDC0C042026CD7CBD25154C0 | E51DCB10ADE4BA3E3F5F4E98A4F2D2DDC1D73283 |   23134136 |  1048576 |  1031624 | data/movies/206_news.bk2
 C156A6CEE1A98AAD14F7952CC1E4107356CF2690 | 7BEA4D52ADDF3B0B7115E4EF6C1C3AFADFD3524F |   23134136 |  1048576 |  1029318 | data/movies/206_news.bk2
 002FBA27F91451A9D1EAEE98D098E27439CC238B | 148302A516F136DECE4E7D1493C64945B3F7FB8D |   23134136 |  1048576 |  1024905 | data/movies/206_news.bk2
@@ -5504,7 +5504,7 @@ BE37FB89DA19B11AC702CDC6A4163940D9516A66 | DDDFFD1C48B31309CEB571B27A911A9126042
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1A233E945DBBECA924B3B22C1E91F64EE11A3094 | 7BAD648514B73545BD4F4C9C77535405DCA921FB |   14934670 |  1048576 |  1038598 | data_archive_uncensored.oaf
 A1FA6B4EC0712DA3FBBD7AFB8A9089BCB8F06798 | 1FB0BFB3517997F08B70EA04091BA60B4F620618 |   14934670 |  1048576 |  1034319 | data_archive_uncensored.oaf
 25F7856F77D1EED43347D524380E4811D50149D1 | 4CE63EE3C4649A9F1EA8C0587DA5BBA05A3ECD82 |   14934670 |  1048576 |   893493 | data_archive_uncensored.oaf
@@ -5523,7 +5523,7 @@ C21DE1E43CF4944DDC3180E28E7E407DD00012E3 | C3D6F976C1C09CB2638C99A3520A52577C878
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7C1E32572594A52DCA1641E3B30ABD7086EAA520 | FDD6576ACB7E46FCB1FD11F1B04EE5324C514BA8 |   14869741 |  1048576 |  1038538 | data_archive_censored_unnazi.oaf
 8F7248C6A5FF9FF340ABC4407D53A170FB6C5B8C | 96D9EBBED6D8E0C2C81106A134B53E97D583A7CF |   14869741 |  1048576 |  1034285 | data_archive_censored_unnazi.oaf
 2458320E48B389FA8A6E9B046CF4391EB4BE532C | F4768B6427C19794C8F96BAB2D384C2C096F15D1 |   14869741 |  1048576 |   893344 | data_archive_censored_unnazi.oaf
@@ -6165,7 +6165,7 @@ DB3048B409912D844B217E9FCE09675E85652AA2 | 8E12008E83370556F2F3BC46780713143949C
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 36FABA9688AE8DDEF5E39CC0F976C6703DD4DD06 | B1AC22A253BE74965174BDD9E1F38BB9EB7A9AE9 |   13021935 |  1048576 |   858342 | data_archive_censored.oaf
 F754A8D56DC4B604C5FB27606E5E7ED681C2681E | A594CA09E357B13B7BE5A26438B9AB5BDF039A7E |   13021935 |  1048576 |   901231 | data_archive_censored.oaf
 AE83051D44E8DD4E5ECE0021B0C7E1A21DED67FB | 9609D660246059A052974E54C687622A411C3A90 |   13021935 |  1048576 |  1038591 | data_archive_censored.oaf
@@ -6182,7 +6182,7 @@ C14E41CA018348ECC7F3A9BB952C7728C48877BF | C6379CAEF6921CCE99E6839CB41AC3B27FEA6
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 70F415FEA96D03054FFA15B61B444ABC67A2F25E | BF1B65FBBED6E2DED93A844AE2AA096FC6D9BC0A |   29444872 |  1048576 |  1042572 | data/movies/223_cartman.bk2
 969FDCAA4614FF5625A4460C994F59B5BE5EC8CB | F133303DCA586EB4F1975DDB9F661863DD5BC4E1 |   29444872 |  1048576 |  1045591 | data/movies/223_cartman.bk2
 3C49518FFFB5282B6633E2B65408EF839BA1CAE0 | 98E9F4F7EE597BD2F18E06B927CD0B0FA9D0F40F |   29444872 |  1048576 |  1046789 | data/movies/223_cartman.bk2
@@ -6847,21 +6847,19 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\SPTSOT\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\SPTSOT\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Spanish  | es-ES
-Italian  | it-IT
-Brazilian  | pt-BR
-Russian  | ru-RU
-Polish  | pl-PL
+English, en-US
+French, fr-FR
+German, de-DE
+Spanish, es-ES
+Italian, it-IT
+Brazilian, pt-BR
+Russian, ru-RU
+Polish, pl-PL
 
 ========================================Install Firewall Rules========================================
 

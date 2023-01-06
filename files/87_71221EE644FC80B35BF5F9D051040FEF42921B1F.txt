@@ -1,8 +1,8 @@
-Total number of files   : 1815
-Total size of files     : 4417884371 | 4,42 GB
-Total number of chunks  : 12
-Total bytes on disk     : 122917075 | 122,92 MB
-Total bytes compressed  : 4209861506 | 4,21 GB
+Total number of files  : 1815
+Total number of chunks : 12
+Total size of Files    :       4417884371 Bytes | 4,114 GB
+Total size of Slices   :        122917075 Bytes | 117,223 MB
+Total size Downloaded  :       4209861506 Bytes | 3,921 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -39,7 +39,7 @@ Name: IT\Game Manual.pdf | Locale: it-IT
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 44803205E76C8CC3712535A95323A7725EFAE21B | 1C02FC255B2967A846A9863E0E2CE8BA4B9AF157 |     246728 |   246728 |   136709 | hof_launcher.exe
 DF416BD3196969BD25C501EDCD571C9244EEE948 | 90EB2F131D75D9657B5976057D6DC58C5BFA99D7 |     921656 |   921656 |   767763 | splash.bmp
 26C084C1B7CF457FF213DA092B4ED70794856375 | A61D66BB8DD8DB1EFFADD00DF1B5FBC696E26767 |     719360 |   719360 |   329754 | bin\dbghelp.dll
@@ -1601,7 +1601,7 @@ E3196A89C02ACEEA5932238906952204CD6AAC1F | 224BF07DEDF53C914F8ECCF4403BE62D42003
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B06741CDE87E6BB3EAA69AED915D2034A29F7B81 | 33B0713C09B5CFA80371D8BFACDE820889B49218 |    1145051 |  1145051 |  1091958 | support\inst\data\EN\Game Manual.pdf
 6D59952C07305B788E49B3CA738DA3AE14DD8E4F | DD135947CEC89430BC1B6882866356184910B61A |      24496 |    24496 |     6090 | support\inst\data\EN\readme 1.6.txt
 83C3097A66C8563FB4B3D1FC3CCEB59630684895 | 7CC8782236ADA9CEF5E356E43CF231545624E59B |    4653845 |  3145728 |  1052473 | support\inst\data\EN\data\p3-texts.pak
@@ -1699,7 +1699,7 @@ E5E23E801797567F5208448929234347AB4BD580 | AD4C6016CE57134959057FC89A3D2603A9EB2
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9029B2715525FFA21D3170AAED865F2A2ED55709 | 1FB8079AFFB3E225B80DE0A883C32675D58E66A8 |    1173193 |  1173193 |  1116976 | support\inst\data\FR\Game Manual.pdf
 1C32BEDE29F956D51B7F8BFC8104A8AE83E9B664 | B3CAF9FAF7339CAF96B2067825F418F1E3282A2E |      27162 |    27162 |     6493 | support\inst\data\FR\Readme 1.6.txt
 0F46CA564EC87D1F3CAC35893D60D35A82798325 | F31A2260D23D2DFF121B8305EB41911AD9AB54FA |    4758078 |  3145728 |  1087779 | support\inst\data\FR\data\p3-texts.pak
@@ -1797,7 +1797,7 @@ B66E7815B09770822F7ACE3EDBFEF8380A9C5D56 | 330968FA9FBE5F6D0B1B47D0A3A6C88FEABC7
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 19F06E717FB1E947EE9663906B9F4ED2B286086D | 55CCDF735243D9A5DEF6FC29C3BACBFDCFED2BE4 |    1251580 |  1251580 |  1143009 | support\inst\data\DE\Game Manual.pdf
 8CED26E95B437530BE41BA821A5A755EF6451103 | 7151C1E9B6025812E03333CDE19A4241B3EBE818 |      23336 |    23336 |     5806 | support\inst\data\DE\Readme 1.6.txt
 CE9846D71DC0953394490688601F8994BEED355D | B5780A0A957187C78E5E7C9A39027F2C50500D3D |    4618594 |  3145728 |  1132837 | support\inst\data\DE\data\p3-texts.pak
@@ -1901,7 +1901,7 @@ BCB93C5E2B030DB5446082836C95CE0B0C1F2ED4 | 56E42313E57CF8585782061C2BC75BE5A9DEC
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9CD6C70A822846F72BBDBB980D3BEA9B8A62A26D | 2A865D22A6E951B52EABF58B7577019DB235338D |      13504 |    13504 |     5427 | support\inst\data\IT\Readme 1.6.txt
 F1A8E731935135DE8C904275390D49FF636A7FB5 | 73611B04BC2EA53B089DC5454F287B4D76A7E187 |    1180531 |  1180531 |  1099370 | support\inst\data\IT\Game Manual.pdf
 A584BEFBF07F835E145AA794E8CA24DDC91D3B55 | 83A3FF66E9D45EC5125593EC4C321FABDEE78B8E |    4834215 |  3145728 |  1025417 | support\inst\data\IT\data\p3-texts.pak
@@ -2001,7 +2001,7 @@ F5688AAA6B1FB2922B08DED7B6E4FB6A17B1A5BE | CA4472C0D26E3EC1B9AA453929B8F0CA6B01B
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A8F0A754E6503D6BE6217EB4D60BC73E599F0FE2 | 11583FA3311B377A8BD1C540E0853FEF881F41F2 |      25688 |    25688 |     6012 | support\inst\data\SP\Readme 1.6.txt
 8F63FC4265AE6ED289F4716389F79A01487B65E1 | B3BD6D634F30F5ECE932560CA9326C440E892AFB |    4713866 |  3145728 |  1096384 | support\inst\data\SP\data\p3-texts.pak
 88907CECF8A8067D779763E7DB817D23B21BE2FA | 392B1327F0766F2E2C5915B8FD7EB5D0089EB149 |    4713866 |  1568138 |   288279 | support\inst\data\SP\data\p3-texts.pak
@@ -2100,7 +2100,7 @@ B05B357C80BE8303FE5FD170449330B3C3BE3330 | 2B2969BD24998B9BF95BF07943C2B74D7EB81
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F372FFA67EF30A09F4588825FC912A7F766ED9F4 | 28EE59FA8549A8EF5A6B1168D82D956E207AB7F0 |     782456 |   782456 |   653649 | splasha1.bmp
 7E9C64C0453D60C83DE6746B29C6F79740EAE879 | 44DC6F0048D7F2E040DC9F1403290F61AAB09037 |   12619432 |  3145728 |  1388682 | bina1\H5_Game.exe
 4EA86FCF7EA03B97F4E2FB530E9F9C5AE8DE621D | 80A599D7AEEB0CA24C5C1F5464435C2799B2C122 |   12619432 |  3145728 |  1423077 | bina1\H5_Game.exe
@@ -2792,7 +2792,7 @@ E5EB86E509FA562F50AB9CD494277CAD838544E6 | 66899F2A3FF3EE0B7F63FFFDFA8B1B36D0069
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6EEB8D381E4B182FB4FAA9012F992543FCA79F2A | CE8BEF9A27FF15324A67710931342274DEEDDD6F |      15618 |    15618 |     4116 | support\inst\data\EN\Readme 2.0.txt
 005201B9F6499536E4CB16A74915BF4B902634EC | 875E889D48CC5E9848236F88A28CF7C69EA4D987 |      24564 |    24564 |     6306 | support\inst\data\EN\Readme 2.1.txt
 F9BF6F7E6BD2A44B7E5C0C85819E822C8B507EF1 | 3CD15E70B0A6A6C3E7A4389D2AAD7768B08EDE52 |    1096580 |  1096580 |   925729 | support\inst\data\EN\Game Manual 2.0.pdf
@@ -2869,7 +2869,7 @@ DB2AB598743F6F9254247320000D40822D0D52BE | D94EB34E1995372CF506F5E9A5F03F6650184
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 195289CA48353A95F2FC57BBF135FE02B4C6C378 | 0C614D8DABEE343349A63ECE07DDFCA36D70CBF2 |      15340 |    15340 |     3978 | support\inst\data\FR\Readme 2.0.txt
 CCCC56ADE3ACDC36FC8211CD6349C50919746B09 | EEBF5BD20DD056E8923C6103ECAEF8D4F4F8CC83 |      26474 |    26474 |     6402 | support\inst\data\FR\Readme 2.1.txt
 852A51A8B872D12F4DC68A32662E4653105C1C5F | 7D5100AD38D8ADA16BC8FE3847AE70751442D956 |     659442 |   659442 |   620208 | support\inst\data\FR\Game Manual 2.0.pdf
@@ -2946,7 +2946,7 @@ C540B2A7C1FBC58E063EE21C5DAB51E1A33669FF | 7737A6F805118F0CC111707A8E87D3FE3A94E
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 691B83A73F5DB252BE88A7A407DB4F4C8503E22D | 58F530BAD3636AD886ECC512C1370DCEC88B4D51 |      17428 |    17428 |     4481 | support\inst\data\DE\Readme 2.0.txt
 836400E66E5088523EACB02128D1EC3EEEFD2F6A | EA9408CC00516A3A72D8DF4FBFBEE13B5B793341 |      23678 |    23678 |     5956 | support\inst\data\DE\Readme 2.1.txt
 D27B43B2A189D0871EACBF46A0887A645A2FF9DC | 46F112D3C5C8ADD1D6E08B335E4B29EABC66B42D |     661664 |   661664 |   625106 | support\inst\data\DE\Game Manual 2.0.pdf
@@ -3026,7 +3026,7 @@ CBDDBBBA65F8DF41EAA4F6BF87E607601613CBE5 | A4F2FE3DF11088DB97C85FC672B5D70D410FE
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D68DD3ED4CD4AE211892E6BD5A737508FE735022 | D265FEED9B41926AE66E298CC8D1C84183D67A68 |      17134 |    17134 |     4280 | support\inst\data\IT\Readme 2.0.txt
 CD7D4F9B33D1FE1A3751831112F96C07CC40EFDA | 64F621008E129674B9C7C700ECFAD4612BD83518 |      25164 |    25164 |     6055 | support\inst\data\IT\Readme 2.1.txt
 7A3C48C386463EC9195B307251F47CBA999E213D | AB51E72FCEDF1663909B4A336FB615F56ECCA4B2 |     653878 |   653878 |   616796 | support\inst\data\IT\Game Manual 2.0.pdf
@@ -3103,7 +3103,7 @@ C1EB7C94754A10A9BC3AFCAAA5955CA77AD5F007 | 78574746224F0217C02B314DBEE79119E7C58
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0BCD3257AE41F7E7F7C1F4B56307D7243960423B | 47CA80FA1DF2935A2CE48882B30AB670B6451723 |      18686 |    18686 |     4547 | support\inst\data\SP\Readme 2.0.txt
 307C6EE199FE93EB2A2CD0F3C51E9C1B7A970593 | 8796C673063F2E9CF9C05121C7090C34F6526D91 |      28598 |    28598 |     6815 | support\inst\data\SP\Readme 2.1.txt
 43EC133CDFA66F68415A9BE0556A0A38FC7CE851 | 0845F0E07029814F0CE74843231BAFDEA540BBB2 |     707772 |   707772 |   667831 | support\inst\data\SP\Game Manual 2.0.pdf
@@ -3228,48 +3228,41 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Heroes of Might and Magic V\European\InstallPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Heroes of Might and Magic V\European\Version, Type: String
 Registry String Entry
-	Value | Language
-     7  | 
+7, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Heroes of Might and Magic V\European\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    DE  | de-DE
-    IT  | it-IT
-    SP  | es-ES
+EN, en-US
+FR, fr-FR
+DE, de-DE
+IT, it-IT
+SP, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Heroes of Might and Magic V\European\UninstallCommand, Type: String
 Registry String Entry
-	Value | Language
-"C:\Program Files (x86)\InstallShield Installation Information\{20071984-5EB1-4881-8EDB-082532ACEC6D}\setup.exe" -l0x9   | 
+"C:\Program Files (x86)\InstallShield Installation Information\{20071984-5EB1-4881-8EDB-082532ACEC6D}\setup.exe" -l0x9 , 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Heroes of Might and Magic V\European\URLs\VersionFile, Type: String
 Registry String Entry
-	Value | Language
-http://patches.ubi.com/all_products_cab_files/heroes_might_magic_5.cab  | 
+http://patches.ubi.com/all_products_cab_files/heroes_might_magic_5.cab, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Heroes of Might and Magic V\European\Versions\CurrentVersion, Type: String
 Registry String Entry
-	Value | Language
-Heroes5_European_p6  | 
+Heroes5_European_p6, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Heroes of Might and Magic V Patch 1.6\1.00.000\d, Type: String
 Registry String Entry
-	Value | Language
-     t  | 
+t, 
 
 ============================================Uninstall Runs============================================
 

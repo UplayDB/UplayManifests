@@ -1,8 +1,8 @@
-Total number of files   : 816
-Total size of files     : 22798061834 | 22,80 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1323225354 | 1,32 GB
-Total bytes compressed  : 3983112876 | 3,98 GB
+Total number of files  : 816
+Total number of chunks : 1
+Total size of Files    :      22798061834 Bytes | 21,232 GB
+Total size of Slices   :       1323225354 Bytes | 1,232 GB
+Total size Downloaded  :       3983112876 Bytes | 3,710 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -44,7 +44,7 @@ Name: ZOMBI_Manual_PC_RU.pdf | Locale: ru-RU
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C99872E8D38234336FB2954B5CA12492C2F5A851 | CC162C14465D9AE3CBCDC02A459C5E17898D251E |   10841424 |  2097152 |   817451 | ZOMBI.exe
 85838AD9CAFAAB6828F5DE87B058F6C271CA1759 | A703B728E957A81C0CA2898CEE1AC91DD138024F |   10841424 |  2097152 |   534032 | ZOMBI.exe
 964CB3BF23D6778C8694E377E3113F12BB02856C | D34C05FDDC23C05EC39D80B17A63EFAEC586B648 |   10841424 |  2097152 |   692155 | ZOMBI.exe
@@ -11509,23 +11509,21 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ZOMBI\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ZOMBI\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-English  | en-GB
-French  | fr-FR
-Italian  | it-IT
-Spanish  | es-ES
-German  | de-DE
- Dutch  | nl-NL
-Brazilian  | pt-BR
-Japanese  | ja-JP
-Russian  | ru-RU
+English, en-US
+English, en-GB
+French, fr-FR
+Italian, it-IT
+Spanish, es-ES
+German, de-DE
+Dutch, nl-NL
+Brazilian, pt-BR
+Japanese, ja-JP
+Russian, ru-RU
 
 ============================================Uninstall Runs============================================
 

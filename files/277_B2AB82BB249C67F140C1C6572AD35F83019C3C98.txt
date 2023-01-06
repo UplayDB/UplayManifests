@@ -1,8 +1,8 @@
-Total number of files   : 225
-Total size of files     : 8504855886 | 8,50 GB
-Total number of chunks  : 1
-Total bytes on disk     : 4209888590 | 4,21 GB
-Total bytes compressed  : 3367313837 | 3,37 GB
+Total number of files  : 225
+Total number of chunks : 1
+Total size of Files    :       8504855886 Bytes | 7,921 GB
+Total size of Slices   :       4209888590 Bytes | 3,921 GB
+Total size Downloaded  :       3367313837 Bytes | 3,136 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -38,7 +38,7 @@ Name: Dutch\PrinceOfPersia.pdf | Locale: nl-NL
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F243CD0670E76D5E120F11CBC7B80C94810C234B | EE336CF75C1B9EBCE6A2BC8585E07E187320A0DD |     193024 |   193024 |   109584 | binkw32.dll
 D7A034309E4C6A4284492C06D2ED56B9F6D02519 | 2763A7FCBB61BB242118C25CD52AFC7A4DCDD979 |        185 |      185 |      153 | DARE.INI
 73523CE5EE038759C2B34DAE9CCE8D915341E1E4 | BB0EEAB65886C13FDD3083EE8D5BC864E5E70C97 |   64552960 |  2097152 |   204357 | DataPC.forge
@@ -4313,72 +4313,62 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia\Executable, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\PrinceOfPersia_Launcher.exe  | 
+$INSTALL_DIR\PrinceOfPersia_Launcher.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
- Dutch  | nl-NL
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Spanish  | es-ES
+English, en-US
+Dutch, nl-NL
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Spanish, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia\1.0\vv, Type: String
 Registry String Entry
-	Value | Language
-    vv  | 
+vv, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Prince of Persia.exe  | 
+$INSTALL_DIR\Prince of Persia.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-08a0f1c01d540ee143f7ee48a91898fa  | 
+08a0f1c01d540ee143f7ee48a91898fa, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    uk  | nl-NL
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
+us, en-US
+uk, nl-NL
+fr, fr-FR
+de, de-DE
+it, it-IT
+es, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7C11154F-3539-4CB5-979D-EF7913473E53}\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7C11154F-3539-4CB5-979D-EF7913473E53}\URLInfoAbout, Type: String
 Registry String Entry
-	Value | Language
-www.ubisoft.com  | 
+www.ubisoft.com, 
 
 ============================================Uninstall Runs============================================
 

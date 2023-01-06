@@ -1,8 +1,8 @@
-Total number of files   : 1
-Total size of files     : 15060496 | 15,06 MB
-Total number of chunks  : 1
-Total bytes on disk     : 15060496 | 15,06 MB
-Total bytes compressed  : 13952319 | 13,95 MB
+Total number of files  : 1
+Total number of chunks : 1
+Total size of Files    :         15060496 Bytes | 14,363 MB
+Total size of Slices   :         15060496 Bytes | 14,363 MB
+Total size Downloaded  :         13952319 Bytes | 13,306 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: executable
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B5DE1D4BE45E660C4505885671E760D23C293E6A | 172ACBD3289C3E868B9FB114CAC0CBFCA50CDE90 |   15060496 |  3145728 |  2878875 | Support/Software/VC_redist.x64.exe
 A1C77AA376B78B2C4A264DF0576953C38AE77DE0 | BF0588458EC2E9685A445C6F95F8E3C759B31AF7 |   15060496 |  3145728 |  2373109 | Support/Software/VC_redist.x64.exe
 3A0167E9C3B2D84B2D5663BBAEB0737C1E7F2EF2 | E4CBF200263972A7C1D5929F83194C13207BEB5B |   15060496 |  3145728 |  3090190 | Support/Software/VC_redist.x64.exe

@@ -1,8 +1,8 @@
-Total number of files   : 322
-Total size of files     : 7415825255 | 7,42 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3120857959 | 3,12 GB
-Total bytes compressed  : 2399762218 | 2,40 GB
+Total number of files  : 322
+Total number of chunks : 1
+Total size of Files    :       7415825255 Bytes | 6,907 GB
+Total size of Slices   :       3120857959 Bytes | 2,907 GB
+Total size Downloaded  :       2399762218 Bytes | 2,235 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -52,7 +52,7 @@ Name: Support\Manual\Swedish\AssassinsCreed.pdf | Locale: Support\Manual\Swedish
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8BFA845D95391EA651A4B07C6D7BB9CB612A8FBD | 69E3D50A8CB7B36BAE11F48572083D2EA6F49445 |      13416 |    13416 |     7602 | AssassinsCreedII.exe
 C348D9DBC541183B5BF1382885A0E39B791D8363 | 75A6BB903F7D22E7FF7A4739DB270FF79DC73492 |   34703304 |  1048576 |   363004 | AssassinsCreedIIGame.exe
 9E40FE1301497E4C5A46779D57EC558135C18310 | 4BD79CB8A53F219EDE373C3E41F0919AE7EE3EC3 |   34703304 |  1048576 |   379929 | AssassinsCreedIIGame.exe
@@ -7398,63 +7398,57 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed II\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed II\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Spanish  | es-ES
-Polish  | pl-PL
-Danish  | da-DK
- Dutch  | nl-NL
-Norwegian  | nb-NO
-Swedish  | sv-SE
-Korean  | ko-KO
-SimplifiedChinese  | zh-CN
-TraditionalChinese  | zh-TW
+English, en-US
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Spanish, es-ES
+Polish, pl-PL
+Danish, da-DK
+Dutch, nl-NL
+Norwegian, nb-NO
+Swedish, sv-SE
+Korean, ko-KO
+SimplifiedChinese, zh-CN
+TraditionalChinese, zh-TW
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed II\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed II\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
-    us  | pl-PL
-    us  | da-DK
-    nl  | nl-NL
-    us  | nb-NO
-    us  | sv-SE
-    us  | pt-PT
-    us  | ko-KO
-    us  | zh-CN
-    us  | zh-TW
+us, en-US
+fr, fr-FR
+de, de-DE
+it, it-IT
+es, es-ES
+us, pl-PL
+us, da-DK
+nl, nl-NL
+us, nb-NO
+us, sv-SE
+us, pt-PT
+us, ko-KO
+us, zh-CN
+us, zh-TW
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed II\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\AssassinsCreedIIGame.exe  | 
+$INSTALL_DIR\AssassinsCreedIIGame.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed II\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-e38edce0bdc64d1797fb046781edd6ff  | 
+e38edce0bdc64d1797fb046781edd6ff, 
 
 ============================================Uninstall Runs============================================
 

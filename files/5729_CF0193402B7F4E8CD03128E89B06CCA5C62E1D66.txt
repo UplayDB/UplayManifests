@@ -1,8 +1,8 @@
-Total number of files   : 969
-Total size of files     : 25816719117 | 25,82 GB
-Total number of chunks  : 4
-Total bytes on disk     : 46915341 | 46,92 MB
-Total bytes compressed  : 2808747097 | 2,81 GB
+Total number of files  : 969
+Total number of chunks : 4
+Total size of Files    :      25816719117 Bytes | 24,044 GB
+Total size of Slices   :         46915341 Bytes | 44,742 MB
+Total size Downloaded  :       2808747097 Bytes | 2,616 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: release,retail
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7DAEB185D9F6FA17331451E45AA85F5C066B6C08 | 79FFF62DDCD695FD891A9A9B2E0B7848CACD7F95 |   72878120 |  3145728 |  3136435 | Heartland.exe
 90D4B889169EA0A770C27279627809B4AD259445 | ADB213045C5AF1E9C29E8D1AEDAFD4C3CB8794D6 |   72878120 |  3145728 |  3145812 | Heartland.exe
 B8988495384D8DB8C7E58E427C6F2E07B239024A | 6FACC442322100C5381F995BABD9676685392326 |   72878120 |  3145728 |  3145812 | Heartland.exe
@@ -478,7 +478,7 @@ BDCEBCCCB9B604B6B3BC65132B5E4AF8D3CE085D | 73FC46BBFB5A7B04A4B2AF203B6B058840880
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: retail,release
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 901E7C2181CE9B0982A6090390D3FFAEA48ED90F | E911418D93CE2021E72C4C8AE829F80AB929B432 |    7186992 |  3145728 |  2940203 | Tools\VC_Redist\vcredist_x64_2012.exe
 DBE93936D48C5AFE7FD111212A56B1F07DECC4A9 | 5A59CBA7D2C2EFF83C9E67D2E731B514A50EE4FE |    7186992 |  3145728 |  3141783 | Tools\VC_Redist\vcredist_x64_2012.exe
 F04B50427F93CED1772F004982C214B62D49AFE3 | 76A20FE8A2FD92119B719A7C2FAD9BDB742A7C49 |    7186992 |   895536 |   888447 | Tools\VC_Redist\vcredist_x64_2012.exe
@@ -653,7 +653,7 @@ A2188B4CCA2FFFAF13F3757AF86951BD85ED5E8F | CD32752CF1522BC527E77B987D99C5991FF28
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: data,release,retail
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A8392D790947DA201234DF679ABEECD0A20DE9B6 | FE9BF9DD830643130BEFCCD20B13D118B2E81AB8 |   21037559 |  3145728 |  2811414 | hunter\sdf\pc\data\sdf.sdftoc
 D0E9BCB9E65D08D1251A68EC6CC187A0305C73D6 | 21FD570E0AFE6D8FEC23B4F70A4986D1367E1A79 |   21037559 |  3145728 |  3145812 | hunter\sdf\pc\data\sdf.sdftoc
 4DA69FA0BFA6782B026775F499215D4D3EFE41AC | 231B11EF1653C176ABD83725253A80DB0F70B12E |   21037559 |  3145728 |  3145812 | hunter\sdf\pc\data\sdf.sdftoc
@@ -8588,7 +8588,7 @@ F98CC7BCF54CAA45FABCD00EB1AE305E65967DFE | 704531392A4B873E2964F33F7D81AD5510433
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: data
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9287CB98FD4118B9ADEDE819A762A69660372735 | 0229D884D8AFD9433D7CDA28F5AC67FA47693807 |        225 |      225 |      146 | hunter\sdf_streaming\pc\Reaper\tileconfig.txt
 7D243164F7B5BA1B4DFFCE801A26585C6CEDDD72 | 142EA8A2BD1DFEEB4AEA777FD578B439824E4382 |   15047190 |  3145728 |   924954 | hunter\sdf_streaming\pc\Reaper\global\data\sdf-A-0000.sdfdata
 3E6FA42220C5B991651F22A4BFC56D141A16ECC9 | 1625D5F320AF416E7D9183B142792955697A28D3 |   15047190 |  3145728 |  1679954 | hunter\sdf_streaming\pc\Reaper\global\data\sdf-A-0000.sdfdata

@@ -1,8 +1,8 @@
-Total number of files   : 183
-Total size of files     : 2415509850 | 2,42 GB
-Total number of chunks  : 2
-Total bytes on disk     : 2415509850 | 2,42 GB
-Total bytes compressed  : 1966971681 | 1,97 GB
+Total number of files  : 183
+Total number of chunks : 2
+Total size of Files    :       2415509850 Bytes | 2,250 GB
+Total size of Slices   :       2415509850 Bytes | 2,250 GB
+Total size Downloaded  :       1966971681 Bytes | 1,832 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -39,7 +39,7 @@ Name: Dutch\BeyondGoodAndEvil.pdf | Locale: nl-NL
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7C7ACD031769FB3A1D67F7649661EE721160CC7E | 2241DCEEC5DA19E9B3BA108D2B13E3C9E7DC9336 |    7489200 |  2097152 |   887709 | BGE.exe
 4922B2D66E8961A168CD0FED1BA4017F88C1E294 | AF7926A937984CD1A1CBB38031E7F11D372E713B |    7489200 |  2097152 |   849996 | BGE.exe
 1AE2A3EB70C537BB5BE762C4D52DA4186042EBFE | AA17D9149E138CF7C43CDB7B2B637513F638A1DD |    7489200 |  2097152 |   839202 | BGE.exe
@@ -1104,7 +1104,7 @@ A2FC045D77AD6EDEECC766D7675FD3596380F93C | 0A6F5018E8F5AD1E4C8D7DFFBB78A62E807B9
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0F857D2C0BB1653229C3E67769E0A25FC6BA5B8A | A1E08297C8420BE1B3149B3B4008DEAAD9657D64 |     569920 |   569920 |   374590 | support\EAX4Unified_redist_4001.exe
 74A2A9F2DAF624C1A6A86B6C591F4823DBD8DFA9 | 320907CA19734F29727E23DCD034389CF690DDF0 |        329 |      329 |      183 | support\support.bat
 A2F8B2B293324899F3B20E437AAB88EE6B0CD118 | C47B722A6927765880C285269EC40E71FBCD59AF |       3630 |     3630 |      857 | support\settings.reg
@@ -1364,8 +1364,7 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Beyond Good & Evil\Install path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 
 
 ==========================================Uninstall Registry==========================================

@@ -1,8 +1,8 @@
-Total number of files   : 230
-Total size of files     : 1268798160 | 1,27 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1268798160 | 1,27 GB
-Total bytes compressed  : 1236288287 | 1,24 GB
+Total number of files  : 230
+Total number of chunks : 1
+Total size of Files    :       1268798160 Bytes | 1,182 GB
+Total size of Slices   :       1268798160 Bytes | 1,182 GB
+Total size Downloaded  :       1236288287 Bytes | 1,151 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -32,7 +32,7 @@ Name: FR\MANUAL.PDF | Locale: fr-FR
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 64F161A05B4D0463CC7D87397BF13422D6C4C469 | 3951DF90B00B499564DDCBE15BB1D3CF32FF1407 |     512000 |   512000 |   248804 | audiere.dll
 4F806C365ECCDA0E01DE766ED842130AD27A99FB | A949E6C5BD87C564D0ED72368D523D5DA0001A70 |      43624 |    43624 |    16455 | audio.dll
 731CA566A7A99A5DA16DBA62159F14D17893221B | 163BC598078663C72E24C534669C97793259840A |     338944 |   338944 |   132708 | Binkw32.dll
@@ -854,132 +854,111 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-Might and Magic VIII - Day of the Destroyer version 1.0  | 
+Might and Magic VIII - Day of the Destroyer version 1.0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\Publisher, Type: String
 Registry String Entry
-	Value | Language
-Ubisoft  | 
+Ubisoft, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\URLInfoAbout, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\HelpLink, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\URLUpdateInfo, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\DisplayVersion, Type: String
 Registry String Entry
-	Value | Language
-   1.0  | 
+1.0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\MajorVersion, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\MinorVersion, Type: Number
 Registry Number Entry
-  Value | Language
-     0  | 
+0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\NoModify, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EA8C9E0-4D79-40E3-A9CF-582C45DA9EA2}_is1\NoRepair, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\AppPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\CDDrive, Type: String
 Registry String Entry
-	Value | Language
-    F:  | 
+F:, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\language_file, Type: String
 Registry String Entry
-	Value | Language
-english  | en-US
-french  | fr-FR
-german  | de-DE
+english, en-US
+french, fr-FR
+german, de-DE
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    DE  | de-DE
+EN, en-US
+FR, fr-FR
+DE, de-DE
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\TurnDelta, Type: Number
 Registry Number Entry
-  Value | Language
-     3  | 
+3, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\VideoQ, Type: Number
 Registry Number Entry
-  Value | Language
-     0  | 
+0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\Disable3DSound, Type: Number
 Registry Number Entry
-  Value | Language
-     0  | 
+0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\Use D3D, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\Ran once, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\New World Computing\Might and Magic Day of the Destroyer\1.0\2dacceloff, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 
 ============================================Uninstall Runs============================================
 

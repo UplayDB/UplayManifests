@@ -1,8 +1,8 @@
-Total number of files   : 315
-Total size of files     : 3408439477 | 3,41 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3408439477 | 3,41 GB
-Total bytes compressed  : 2971972605 | 2,97 GB
+Total number of files  : 315
+Total number of chunks : 1
+Total size of Files    :       3408439477 Bytes | 3,174 GB
+Total size of Slices   :       3408439477 Bytes | 3,174 GB
+Total size Downloaded  :       2971972605 Bytes | 2,768 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -52,7 +52,7 @@ Name: Chinese_traditional\FC3_Blood_Dragon.pdf | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0C216E05EDF40AE5D22B6AB7DED427BB35A8381D | 29C4D2BFFBF4D53BEFC6AD6F17B1302EA133521A |     224768 |   224768 |   124307 | bin\binkw32.dll
 68EEBC356A28FEF37FD77759F4D47F74E9A6DF63 | 36B130AD566C29845180CE977BA62D1F3B08FF6D |      97907 |    97907 |    73449 | bin\farcry3.ico
 82026535C10B50A84AB312ED546FFE9124392930 | 3BF66A96226D396BF297189A6CBD9EA36307E552 |   28626432 |  2097152 |  1056903 | bin\FC3.dll
@@ -1986,128 +1986,115 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-Chinese_simplified  | zh-CN
-Chinese_traditional  | zh-TW
- Dutch  | nl-NL
-French  | fr-FR
-French  | fr-CA
-German  | de-DE
-Italian  | it-IT
-Portuguese  | pt-BR
-Spanish  | es-ES
-Russian  | ru-RU
-Japanese  | ja-JP
-Korean  | ko-KO
+English, en-US
+Chinese_simplified, zh-CN
+Chinese_traditional, zh-TW
+Dutch, nl-NL
+French, fr-FR
+French, fr-CA
+German, de-DE
+Italian, it-IT
+Portuguese, pt-BR
+Spanish, es-ES
+Russian, ru-RU
+Japanese, ja-JP
+Korean, ko-KO
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\llang, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-Chinese_simplified  | zh-CN
-Chinese_traditional  | zh-TW
- Dutch  | nl-NL
-French  | fr-FR
-Frenchca  | fr-CA
-German  | de-DE
-Italian  | it-IT
-Portuguese  | pt-BR
-Spanish  | es-ES
-Russian  | ru-RU
-Japanese  | ja-JP
-Korean  | ko-KO
+English, en-US
+Chinese_simplified, zh-CN
+Chinese_traditional, zh-TW
+Dutch, nl-NL
+French, fr-FR
+Frenchca, fr-CA
+German, de-DE
+Italian, it-IT
+Portuguese, pt-BR
+Spanish, es-ES
+Russian, ru-RU
+Japanese, ja-JP
+Korean, ko-KO
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\ExecutableName, Type: String
 Registry String Entry
-	Value | Language
-bin\FC3BDUpdater.exe  | 
+bin\FC3BDUpdater.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\SKU, Type: String
 Registry String Entry
-	Value | Language
-    WW  | 
+WW, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\Version, Type: String
 Registry String Entry
-	Value | Language
-  1.02  | 
+1.02, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\1.00\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\bin\FC3BDUpdater.exe  | 
+$INSTALL_DIR\bin\FC3BDUpdater.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-b596e83084bd4510a38e7a902a399a26  | 
+b596e83084bd4510a38e7a902a399a26, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3 Blood Dragon\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    tw  | zh-TW
-    cn  | zh-CN
-    nl  | nl-NL
-    fr  | fr-FR
-    fr  | fr-CA
-    de  | de-DE
-    it  | it-IT
-    us  | pt-BR
-    es  | es-ES
-    us  | ru-RU
-    jp  | ja-JP
-    ko  | ko-KO
+us, en-US
+tw, zh-TW
+cn, zh-CN
+nl, nl-NL
+fr, fr-FR
+fr, fr-CA
+de, de-DE
+it, it-IT
+us, pt-BR
+es, es-ES
+us, ru-RU
+jp, ja-JP
+ko, ko-KO
 ===========================================Install Registry===========================================
 
 Key: HKEY_CURRENT_USER\Software\Ubisoft\Far Cry 3 Blood Dragon\ExecutableName, Type: String
 Registry String Entry
-	Value | Language
-bin\fc3_blooddragon_d3d11.exe  | 
+bin\fc3_blooddragon_d3d11.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_CURRENT_USER\Software\Ubisoft\Far Cry 3 Blood Dragon\StartArguments, Type: String
 Registry String Entry
-	Value | Language
- -language=English  | en-US
- -language=Chinese_traditional  | zh-TW
- -language=Chinese_simplified  | zh-CN
- -language=Dutch  | nl-NL
- -language=French  | fr-FR
- -language=French  | fr-CA
- -language=German  | de-DE
- -language=Italian  | it-IT
- -language=Portuguese  | pt-BR
- -language=Spanish  | es-ES
- -language=Russian  | ru-RU
- -language=Japanese  | ja-JP
- -language=Korean  | ko-KO
+ -language=English, en-US
+ -language=Chinese_traditional, zh-TW
+ -language=Chinese_simplified, zh-CN
+ -language=Dutch, nl-NL
+ -language=French, fr-FR
+ -language=French, fr-CA
+ -language=German, de-DE
+ -language=Italian, it-IT
+ -language=Portuguese, pt-BR
+ -language=Spanish, es-ES
+ -language=Russian, ru-RU
+ -language=Japanese, ja-JP
+ -language=Korean, ko-KO
 
 ============================================Uninstall Runs============================================
 

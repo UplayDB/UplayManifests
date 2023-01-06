@@ -1,8 +1,8 @@
-Total number of files   : 491
-Total size of files     : 7362909697 | 7,36 GB
-Total number of chunks  : 2
-Total bytes on disk     : 3067942401 | 3,07 GB
-Total bytes compressed  : 2106924021 | 2,11 GB
+Total number of files  : 491
+Total number of chunks : 2
+Total size of Files    :       7362909697 Bytes | 6,857 GB
+Total size of Slices   :       3067942401 Bytes | 2,857 GB
+Total size Downloaded  :       2106924021 Bytes | 1,962 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -47,7 +47,7 @@ Name: Swedish\Manual.pdf | Locale: sv-SE
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 896494CC23014D942C5F53B236BB23DAEF18021C | 8CCC2FEC996BD81CF6F289E02AB7CB91D76DF4C3 |     187392 |   187392 |   107419 | binkw32.dll
 6236A1B41E7966AD45F44EE6A65B2E28342689D2 | 868D419B78493C0E5818272BA3DBF82E9D3195BD |   20545833 |  1048576 |     2692 | DataPC.forge
 E969F7F688E5B3E1B3316C710DA0BFE9D3E7A0FE | 6AE802DCC5F5AA43F3F811DFFBFEE70B38A0CDD7 |   20545833 |  1048576 |   241667 | DataPC.forge
@@ -6918,7 +6918,7 @@ F4FC0163D212E9C32D3C4BD17001B896D3B81738 | AE34C03F42DE94F8D2583CE60E6FDC67C1E2B
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9CCD095BEFDCC6854418748AB0A5A676E2BDCA8A | 612A522978FFA805CAE6150AAACFDFBBCAB6713F |        820 |      820 |      418 | Support\inst.bat
 29293CB556041C5C8388E770C431D1BB40A4B595 | DD51554DE86B0049055CB82FAAF90452BD68E852 |    1347354 |  1048576 |  1048872 | Support\DirectX\Apr2005_d3dx9_25_x64.cab
 EB79C5D92F7F0AC53551D84366674DF5EC66A6B7 | CAE5BE6E7D675FE4DD6C44FD3979F93740378B3C |    1347354 |   298778 |   296218 | Support\DirectX\Apr2005_d3dx9_25_x64.cab
@@ -7434,29 +7434,26 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Shaun White Skateboarding\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Shaun White Skateboarding\Version, Type: String
 Registry String Entry
-	Value | Language
-   1.0  | 
+1.0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Shaun White Skateboarding\Language, Type: String
 Registry String Entry
-	Value | Language
-Danish  | da-DK
- Dutch  | nl-NL
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Norwegian  | nb-NO
-Polish  | pl-PL
-Spanish  | es-ES
-Swedish  | sv-SE
+Danish, da-DK
+Dutch, nl-NL
+English, en-US
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Norwegian, nb-NO
+Polish, pl-PL
+Spanish, es-ES
+Swedish, sv-SE
 
 ============================================Uninstall Runs============================================
 

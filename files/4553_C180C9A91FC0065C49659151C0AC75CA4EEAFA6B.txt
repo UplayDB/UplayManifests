@@ -1,8 +1,8 @@
-Total number of files   : 293
-Total size of files     : 78630643158 | 78,63 GB
-Total number of chunks  : 9
-Total bytes on disk     : 1321231830 | 1,32 GB
-Total bytes compressed  : 163834413 | 163,83 MB
+Total number of files  : 293
+Total number of chunks : 9
+Total size of Files    :      78630643158 Bytes | 73,230 GB
+Total size of Slices   :       1321231830 Bytes | 1,230 GB
+Total size Downloaded  :        163834413 Bytes | 156,245 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: bin
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9BA772E9DECF95827A495BE8A36F1538EC9924CC | 05F1AD1FB5E10A1E7B9F1117E0C34BDD1C0AC18B |  462408704 |  3145728 |   948605 | Bin\Win64\Anno1800.exe
 FA26A049494BD939DEE1FC6D1F528C52AE736A3D | 477F3F6D44A2322A373D572D687DF8EE43B76487 |  462408704 |  3145728 |  1106756 | Bin\Win64\Anno1800.exe
 87CBA0D0BD942F288262773FB5E215E357914895 | BB2E9E12B521BEB63D9CFA438735A075143722B5 |  462408704 |  3145728 |  1099423 | Bin\Win64\Anno1800.exe
@@ -418,7 +418,7 @@ AA3AE5109C80084532E9745816FC270391FD7CA1 | 7944CB56CFF7936075C32AB4B7604F088D351
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: data
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 25194CD0369EE1619C30ABF431D5749F7E5DBA8D | 874A7C8EBC62C2C1DC323261023F1FF8C798F02C |  228816703 |  3145728 |   165354 | maindata\data0.rda
 91B9713B0D7B43133B61A22CC380F6402A786B02 | 63D9F8EE02B32AB60DD342DDCE32695DA4C10872 |  228816703 |  3145728 |   145579 | maindata\data0.rda
 BB775B70EAE129AA4B46081A5BEC45230D76A436 | C30CB58280B26BB599E73C740FC4AAC209BD3FE7 |  228816703 |  3145728 |   101801 | maindata\data0.rda
@@ -23592,7 +23592,7 @@ CEBE4F3182D26CF02FCB988D4D39BCC0C6481E13 | 0A20E5991B54762AAF062708E29FC14E802F0
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: support
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CC0651E96469D05040D1FF9AA8F924E6EACBEB61 | 0830CC54ADEC654AB4394032EC4E046185BA01E5 |    1347354 |  1347354 |  1344743 | Support\DirectX\Apr2005_d3dx9_25_x64.cab
 86979F02026F490C24DBF189B7CDBB9B771FA8B6 | 1ABE9F17489E389E7400DEA76A0386873446E9CC |    1078962 |  1078962 |  1073855 | Support\DirectX\Apr2005_d3dx9_25_x86.cab
 F8A7D56FD43800980ADF70585B099BA9DDB5B166 | 69091C7D92B1CC64F8D4E5B4042E418E2BC84F3B |    1397830 |  1397830 |  1395153 | Support\DirectX\Apr2006_d3dx9_30_x64.cab
@@ -23760,7 +23760,7 @@ B968A44E5EFF64EB901FE0B13E880FF53D25B8FA | 1EC9FA7A59B3051C611F5043169C80192E814
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US,es-ES,pl-PL,ja-JP,it-IT,ko-KO,zh-CN,zh-TW, Chunk Tags: English
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1E59F1A43E2B4E058A537CCEF04F5E13A1D9E010 | 11724AFD70632129BDA4DBDD06FF8A1E2B6E7358 | 1086856021 |  3145728 |  2579970 | maindata\en_us0.rda
 6A7DF3E86B579370D51B1CF26DEE76B70B71CA84 | 648975F5A978237DE39B33E1D76D306E92AD325B | 1086856021 |  3145728 |  2540336 | maindata\en_us0.rda
 3EEBC76BF1464FDA780A1019CBFCFAB10473B674 | A5116E2ED0F360B402DB3586F4D3842A4B8397D9 | 1086856021 |  3145728 |  2656297 | maindata\en_us0.rda
@@ -24110,7 +24110,7 @@ ED1947042827E21D7BA4082978A63112640E9A6A | 6308AA93780D6663FB7577BB19441743D55AF
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: French
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 DB563D39692FCC2CE205C45AD4004B86717623AF | 87ED4E7E63281DE1F76A3E7247277E5D9EC5B287 | 1054753180 |  3145728 |  2505910 | maindata\fr_fr0.rda
 7027FAE81DEC1F3F54890E4DCE7BC8C8CC2BFB24 | 59F3FA878FA6726C6B3320C096C28E1F70AB6B04 | 1054753180 |  3145728 |  2476736 | maindata\fr_fr0.rda
 D4A41A7E814EEBF4EF538535D4A5D5C8757F6A17 | 0D0C1E7F14B3880F541F131D4F65CEA29FE0B22B | 1054753180 |  3145728 |  2497540 | maindata\fr_fr0.rda
@@ -24450,7 +24450,7 @@ A92B3A1E02299CB3938C63E44F01079C171EF792 | F3DB84E52B852F8D4E1839E8AD905BBF916B4
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: Russian
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E1729862368C55E874F67678C279E07D57C71D83 | 8DFA32D844D6340C9FC86D30CDFB346FF87208C8 | 1006014406 |  3145728 |  2505531 | maindata\ru_ru0.rda
 27A5A26B00D653222309A6E390A638F756BAEE51 | 13CEAE141FA7D0CFD2FD8CD8B77CE7D775D29206 | 1006014406 |  3145728 |  2554720 | maindata\ru_ru0.rda
 C8B6C3AFED70DFF489E8EF85274A9CDF7AE9DF7B | 5F62CCBB08A0CF4352103472782CE8BC607C6E59 | 1006014406 |  3145728 |  2437632 | maindata\ru_ru0.rda
@@ -24774,7 +24774,7 @@ DD30E526056C4F67F0D4E3CAEAD836F98588BC52 | 6851B35D6190BBD0CB9D4C821778D0AD4CD2C
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: German
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C80EC1593F990A10395E3D605C1B94B7322BB67E | 2A84C591CE587CBA26A9BD4AB4764C05D525EB2F | 1129363827 |  3145728 |  2740403 | maindata\de_de0.rda
 6F2F622F0027560E9CF85DB7D335E00C7647BC37 | 22ABA5B468F6CDC4C086D0E1C286260569DD4F47 | 1129363827 |  3145728 |  2756738 | maindata\de_de0.rda
 490AE146230FD28E19412D16B58443222A7EF7EB | 71787F21B9794F00CF8F531C8CF4F59B68EB6FF1 | 1129363827 |  3145728 |  2743164 | maindata\de_de0.rda
@@ -25138,7 +25138,7 @@ DA638CC6DC0BC0FD5823E1CE57F3C338B566CD17 | 68D5255DE93E23AF44293C6121BBB45986DA9
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: bonus_soundtrack
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1E2EFBC2F27DC0AACAA8227D8E6F10C356A6EEDA | 67A02D8C5C00A8AEF4976FC412C22F63AECE3437 |    8746996 |  3145728 |  3127635 | BonusContent\Soundtrack\Anno 1800 Soundtrack - Disc01 - 01 Robber baron suite.mp3
 13B20525AAD65826284EF5F9EBE6B71C17BF16AA | 9A725855A78B05CC42B091C560179BA6BD0D9E11 |    8746996 |  3145728 |  3132947 | BonusContent\Soundtrack\Anno 1800 Soundtrack - Disc01 - 01 Robber baron suite.mp3
 DD617EFB0C1E5638B087C33761403D2F51BDE24B | 9855F33C05E2BA6A0C30E73EE3C8C88DE2F277F0 |    8746996 |  2455540 |  2447830 | BonusContent\Soundtrack\Anno 1800 Soundtrack - Disc01 - 01 Robber baron suite.mp3
@@ -25238,7 +25238,7 @@ AAA6086EEF21EFFE29972C611CF3E71A7FC9898E | 81CC1B9F553875F4F5BF02FAF802EA086CD66
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: bonus_artbook
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B3ACCC9855697F723A6C2CB6ED02EC5EB886419E | F70A086DC56D182FBC12A111EEDA965426025C4F |   31009995 |  3145728 |  3107267 | BonusContent\Artbook\Artbook_Anno_1800.pdf
 5F15A276B6DE437C88DCD12EF7A98B2A173A07DE | EEE24FB5448DA9B88E566095A9CB8E6C47F1C69B |   31009995 |  3145728 |  3060423 | BonusContent\Artbook\Artbook_Anno_1800.pdf
 EFEC0BDEB4302B94D7508A18A58F3DBC89EC311B | 1DC2F72F54A5A9AA023B121EA27B58F1779DB83B |   31009995 |  3145728 |  2998122 | BonusContent\Artbook\Artbook_Anno_1800.pdf
@@ -25295,24 +25295,22 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Anno 1800\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Anno 1800\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- de-DE  | de-DE
- fr-FR  | fr-FR
- ru-RU  | ru-RU
- it-IT  | it-IT
- es-ES  | es-ES
- pl-PL  | pl-PL
- ja-JP  | ja-JP
- ko-KR  | ko-KO
- zh-CN  | zh-CN
- zh-TW  | zh-TW
+en-US, en-US
+de-DE, de-DE
+fr-FR, fr-FR
+ru-RU, ru-RU
+it-IT, it-IT
+es-ES, es-ES
+pl-PL, pl-PL
+ja-JP, ja-JP
+ko-KR, ko-KO
+zh-CN, zh-CN
+zh-TW, zh-TW
 
 ========================================Install Firewall Rules========================================
 

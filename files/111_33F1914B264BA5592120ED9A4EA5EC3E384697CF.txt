@@ -1,8 +1,8 @@
-Total number of files   : 282
-Total size of files     : 1952460251 | 1,95 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1952460251 | 1,95 GB
-Total bytes compressed  : 1952460251 | 1,95 GB
+Total number of files  : 282
+Total number of chunks : 1
+Total size of Files    :       1952460251 Bytes | 1,818 GB
+Total size of Slices   :       1952460251 Bytes | 1,818 GB
+Total size Downloaded  :       1952460251 Bytes | 1,818 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 73A2EE8EC4C074B6A5C5485C615EE7CE230137E0 |     375808 |   375808 |   375808 | BinkW32.DLL
                                          | 259C49F6848BE810BDDF094DF21ADF910A54554C |     202344 |   202344 |   202344 | detectionapi.dll
                                          | 31F39E785516475651C164A8427A04D772DB28B0 |      67176 |    67176 |    67176 | directx8tests.dll
@@ -1202,40 +1202,35 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Sands of Time\1.00.181\Product_Path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Sands of Time\1.00.181\Product_Executable, Type: String
 Registry String Entry
-	Value | Language
-PrinceOfPersia.exe  | 
+PrinceOfPersia.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Sands of Time\1.00.181\Product_Language, Type: String
 Registry String Entry
-	Value | Language
-     9  | en-US
-  1036  | fr-FR
-     7  | de-DE
-    16  | it-IT
-    10  | es-ES
+9, en-US
+1036, fr-FR
+7, de-DE
+16, it-IT
+10, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Sands of Time\1.00.181\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    DE  | de-DE
-    IT  | it-IT
-    SP  | es-ES
+EN, en-US
+FR, fr-FR
+DE, de-DE
+IT, it-IT
+SP, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Sands of Time\1.00.181\Product_Release, Type: String
 Registry String Entry
-	Value | Language
-Retail EMEA  | 
+Retail EMEA, 
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 422
-Total size of files     : 26147318651 | 26,15 GB
-Total number of chunks  : 48
-Total bytes on disk     : 377514875 | 377,51 MB
-Total bytes compressed  : 1856351941 | 1,86 GB
+Total number of files  : 422
+Total number of chunks : 48
+Total size of Files    :      26147318651 Bytes | 24,352 GB
+Total size of Slices   :        377514875 Bytes | 360,026 MB
+Total size Downloaded  :       1856351941 Bytes | 1,729 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: cs-CZ , da-DK , de-DE , en-US , es-ES , fi-FI , fr-FR , it-
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D58E548D7C1EDDC0FF685B1CBFDC83F827A6DD1F | AA57EFB95ABFED29C7588ACA4B4164EE4C755532 |     476248 |   476248 |   177702 | TheCrewLauncher.exe
 DDBD73F760B9E849F9E6370D470B45C286172147 | 43A86B2F7E8E2A926B6F84E738CBD87B06262D64 |     354904 |   354904 |   147433 | Support\TheCrewRegister.exe
 D107A3EA4C33E5ADBF05D24B41678F50B4CB74DF | FECE77ABDAEB7E11DAFEAC3D3B376BEA4C4896CC |     363096 |   363096 |   150460 | Support\TheCrewManual.exe
@@ -503,7 +503,7 @@ A1626EB50C222EC11F533C31B9C1CD301172D099 | 39A22C70F5FB1851E54E6A621A73B97852A3E
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E031BACFF06F8668E4B01F3AC099A245E526D08E | 6547B4CA9FE0186D79806C17B3A3F8CCBF411B39 |  387869098 |  1048576 |   859480 | data_win32/world.dat
 AB7821DDC59C6346777C6CA546179849E5E7A44C | F005418678B13F57DCB4550E57258C4074BBA002 |  387869098 |  1048576 |   829789 | data_win32/world.dat
 223EB1EBF49945690E5E3D8B369F6D42A3870B56 | F11FDF22D543175970CEEF60FC411A6C8BD5BC41 |  387869098 |  1048576 |   768023 | data_win32/world.dat
@@ -3465,7 +3465,7 @@ EB8788CCC8656E7C8C4C9503B0FCBE7D097415E3 | B4FF324AC28E9BCB4CB139ED5F7495E3F2CFA
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4A0FD36EEA893190046BD4095BF11DAB7D9343A4 | B868FD827890F40BA7569F76FF14AD75AB274698 |    6372227 |  1048576 |   922843 | data_win32/pc_ww/localization_patch.dat
 DCE8E653F7230883D13642618401C5CAE2759644 | 642703289831F6C173FCBCBE2C92D90A9B12727E |    6372227 |  1048576 |   919715 | data_win32/pc_ww/localization_patch.dat
 1AC8905EA46360D9330B220DDC665E6D2A066EFA | 29374B3F63420BC1DEAB2A1C84D04ED934A8C55A |    6372227 |  1048576 |   924392 | data_win32/pc_ww/localization_patch.dat
@@ -3477,7 +3477,7 @@ D0B1C0C2633578E655A4843E7617C5B6D36AF743 | DCF3A59D2B88527547C2440DA07CF51A4B334
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 093B23C2C091C46B4FE2B5803AA300977FD8DC16 | A6F2B9A1F89AF303651E248CF1348A4C5D141E5D |  228450624 |  1048576 |   897063 | data_win32/gui_patch.dat
 8A49F1B145C5EC5937FA1ED43898038521FFD462 | DB9401EF46D6B7DC269D4D5E9A06A6A3A4B821BD |  228450624 |  1048576 |   899827 | data_win32/gui_patch.dat
 FEB7B4A3A100E215220BE452AEAB8F98871FB071 | B2E4E913BA4FA4F3DCA40AB1C8054213BD097804 |  228450624 |  1048576 |   879327 | data_win32/gui_patch.dat
@@ -3700,7 +3700,7 @@ FCF935EEBB64C51EBB9C359E8509D00D1FCD4629 | EBF0342A695474EC183BAFB3DFD1B842E2A4C
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C15FCD3D4916CBF5CD7A28FB7CEB1E3D4B5EF936 | 69BD6CCC410CE16DCB76B4948D6A4A4370A54EC3 |   30020651 |  1048576 |   904042 | data_win32/global_db_patch.dat
 F0C6278C411A2D23F0EAFBD67902B6DD511ED761 | 116E3C348A5964E0E7D6D61E1C0593CFAAFD6834 |   30020651 |  1048576 |   905380 | data_win32/global_db_patch.dat
 34F61D8B8F318D02851B2E2E6370DB5595F52E16 | 613BA18EAE4095F36762E10D01D8B721DD58E0A5 |   30020651 |  1048576 |   907058 | data_win32/global_db_patch.dat
@@ -3734,7 +3734,7 @@ F9557ABB57A3CD5293DF6BCA3AECB9C55088410B | 44CE4EE344F7C01EE2F4CB80AF091650D7BBA
 ================================================Chunks================================================
 
 Chunk ID: 13, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6BA92BF65FBD5E2E534FAC43F0676109E87FBC51 | 5BB815A11865433207DFF8CCC5C718CDE394B0A6 |  186557385 |  1048576 |   873191 | data_win32/global_patch.dat
 5737D5E4F6C318CE3BB01BDB59EB9D3CFCC6F0D9 | 4354DB7AEE3B1729F9900D1C074D02BD4B12EC27 |  186557385 |  1048576 |   935265 | data_win32/global_patch.dat
 57C043A5214A0B0D9ED7EA3675D77B675B1F1A0A | 0EC28B7960690D8B9E39805C86F6E05BDF1DBCEC |  186557385 |  1048576 |   875287 | data_win32/global_patch.dat
@@ -3917,7 +3917,7 @@ B80A3322AA7EFABFCE72C7C2922BC0D1792AA423 | 2A0795D1A2E7EC1937919BE4718D681CECC17
 ================================================Chunks================================================
 
 Chunk ID: 14, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 57BAFAE11203342E4FABEB76227B1BA6C7B1E8C8 | 1D09DF5592A11C6897118248AB8FA9411130EA94 |   32449440 |  1048576 |  1042149 | data_win32/global_sounds_patch.dat
 7437CB5F883E54460EE694DA8E4522337D8DA59B | D2D323508621513A29FDA24F12CA683D7C65E9D6 |   32449440 |  1048576 |  1043780 | data_win32/global_sounds_patch.dat
 123A1FCD59B70FDD2385A997AF99F8B2F4611F8F | CC0E8CE5A59656883A6AABA295EB61D0A289BF8B |   32449440 |  1048576 |  1043529 | data_win32/global_sounds_patch.dat
@@ -3953,7 +3953,7 @@ FA073E033516112B6CD18EB1E94F8CD0CDDAEACA | A5074C4AC469533EBE4508FDD23BE65E7446B
 ================================================Chunks================================================
 
 Chunk ID: 15, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7EA9838F221FC9394B9EA81106AD1B1AA67C6F21 | 731866952187E328E1C8DE352ABBF68D42FEB81C |    3933323 |  1048576 |  1040669 | data_win32/pc_ww/global_voices_patch.dat
 39CA5672D086BC1CC6BC4EFDD5752B21250548CF | 38E5EFD24073770692876B349A3936065F7A677E |    3933323 |  1048576 |  1036917 | data_win32/pc_ww/global_voices_patch.dat
 19D05F292916A6B9F02CB049AB935175AB67F3B4 | 44662B89779DB2F1B3A09E2F0B227ECA8E7D9583 |    3933323 |  1048576 |  1031902 | data_win32/pc_ww/global_voices_patch.dat
@@ -3962,7 +3962,7 @@ C91E1CFFC930B62B0D84E725F0557A3F91A0938F | 5283CBA9C297A023675A5D44D0A120C064B32
 ================================================Chunks================================================
 
 Chunk ID: 16, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 021C3D54807542260FF016D70A592750EABB0F84 | DA818BB96241A34C27D00C7285AFA340C38F4BE5 | 1010506265 |  1048576 |   909550 | data_win32/startchunk_patch.dat
 E32B0AADE9CFC8E109CA6028881CC07D7C7EF174 | 1DA7F8930541613F60ACB7085515B824D0CEDB29 | 1010506265 |  1048576 |  1011361 | data_win32/startchunk_patch.dat
 F6FFC2F1125E5249A09D4D9E165553E0473CACCC | 271368397C55592B885EC2DDC72A1CA846F33475 | 1010506265 |  1048576 |   976033 | data_win32/startchunk_patch.dat
@@ -4931,7 +4931,7 @@ FF3E391FD33BE11620BDFB641FABF2791602923A | B5D8C8668466069DC58B09E6ADE3C4604398A
 ================================================Chunks================================================
 
 Chunk ID: 17, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A9052F169008D4D43BAF83BC29E98799600C316B | 277E89B92C16438170FBA516B871B78541FD86E9 |   72116717 |  1048576 |  1034349 | data_win32/startchunk_sounds_patch.dat
 3F40E675DE0D9980B4FD9801D01896895680F4F9 | B7E49B9E76E6F550E2232B5497FF6D048E28DCB2 |   72116717 |  1048576 |  1041267 | data_win32/startchunk_sounds_patch.dat
 4D6839B12CADB7D5BE0A1BFD959C48BC9D577418 | 5EAA080C8A7E05BB9C9EEF20589BC237FBC52C1E |   72116717 |  1048576 |  1044383 | data_win32/startchunk_sounds_patch.dat
@@ -5005,7 +5005,7 @@ B313D0752E58216CCCCE79A3B82E6A43D57499E6 | BA4A7A22E891E5C3ED8D088A0613E9CBA6401
 ================================================Chunks================================================
 
 Chunk ID: 19, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 304E798BFE8AA258E870E2178E44A66A01C18D68 | DA731727B0A50FAB554BCCCC603021E2D589C156 |   10103756 |  1048576 |  1020186 | data_win32/pc_ww/global_videos_patch.dat
 07C92FF4ACA64DDE80E589598B0C42BA68534E98 | ED56310B1CD34F6337BB1B19E499DCDE0602CBF4 |   10103756 |  1048576 |  1032970 | data_win32/pc_ww/global_videos_patch.dat
 CDE50072C5286C98936F47EBF5572F27D34CDAD6 | 3C5442BF8E00BF959471FAED9A4A950C55633436 |   10103756 |  1048576 |  1030799 | data_win32/pc_ww/global_videos_patch.dat
@@ -5020,7 +5020,7 @@ D079F833AF3D0262BA3A5ADB18A62521D15CE2E7 | F4BF282CEBB2E6D904A2A12A8BBAEC25AD43A
 ================================================Chunks================================================
 
 Chunk ID: 20, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0B9946D4653BEA64060C26E303DC45239EE67B0F | B3F339F304CE36EA025272D9161E35A8EEC7BB6C |   22601041 |  1048576 |   887226 | data_win32/centralplains_patch.dat
 A5B0EC703EDA501741AD07569A97B2C17BB61068 | 8FD843DA3DB517AB7EF7A4DD2C2D07C9E1225635 |   22601041 |  1048576 |   879019 | data_win32/centralplains_patch.dat
 3A5550259DE530692DB7543ADD8BCCB4BED30ED0 | 46923C2805C3B372D0EC3BAA91D3B655428F15BF |   22601041 |  1048576 |   866060 | data_win32/centralplains_patch.dat
@@ -5370,7 +5370,7 @@ D40B1B161AD26A8894A1932F7079C1A1C924A918 | 60D12B5D0A76535EAB2968CEBCF117ED001D3
 ================================================Chunks================================================
 
 Chunk ID: 34, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A3F9E62C60D328AB5339F5FA049609DEC21F7072 | 1D5B84D6E2EF512AB9280B46A5242E222AC91064 |    5781334 |  1048576 |   898932 | data_win32/pc_ww/localization_patch_1.dat
 2C38130E7D0F76B961AF9B3E86010FBB9163BEC9 | 2A43A77FF54FF1B31EFB5B667EC8E292CF7A1140 |    5781334 |  1048576 |   920517 | data_win32/pc_ww/localization_patch_1.dat
 47553492EF38BA985FABA1CD1D75356173CA185D | 7AEE2039F2B79BB603851EA75803AF92A3849F33 |    5781334 |  1048576 |   922451 | data_win32/pc_ww/localization_patch_1.dat
@@ -5381,7 +5381,7 @@ D23D2C3EC0DC2D4F314C68C43A8D2D1949960F9F | 745D29554B3901322F3C775ECCD672F37BF49
 ================================================Chunks================================================
 
 Chunk ID: 35, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 41D886B574CAE7D46A4C4903551E11973FC77975 | 58EF0C3478D22E9301B3CDB715AACA4023E63904 |   99813576 |  1048576 |   884380 | data_win32/gui_patch_1.dat
 4EA01B546CC48C627145CFBA520B460CE51BD1C1 | 00C54F69A946D9B699940BF4CC74499E5A38672A |   99813576 |  1048576 |   909013 | data_win32/gui_patch_1.dat
 44BA6EE5153A3E1AF79DE6A0FEDD4B2E536929F3 | CBC9DCBAFDCB8DEAFAC1050FC082B9FAA3A742F8 |   99813576 |  1048576 |   880847 | data_win32/gui_patch_1.dat
@@ -5482,7 +5482,7 @@ E76A72B7B857D5DD828D1C23B23FBBA67B078311 | 58B470B6A811E07F0270195835C91A876A5CB
 ================================================Chunks================================================
 
 Chunk ID: 36, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8F300BA8363692CF8D92F62B6C0391DFE7163B82 | AB65B02C6902B39053EB0B0F9DD1C8B95F1B2928 |    7918862 |  1048576 |   932743 | data_win32/global_db_patch_1.dat
 EAA0933AECC0ECFFCD356EBC2C88730A16BB8803 | 4FFE5EF98144C1C6BE6AFF8727B095874B46A545 |    7918862 |  1048576 |   947683 | data_win32/global_db_patch_1.dat
 1DC443F2AD13ACF6C25C4637AA85F34DC364FD12 | 2007B7A3E13D6522BEECEFFE8BED0DA8831C42EF |    7918862 |  1048576 |   953110 | data_win32/global_db_patch_1.dat
@@ -5495,7 +5495,7 @@ E3208546A8EF5F716BADD48CE3180A6C3A82CE14 | 8798F6F8D4F2792317EB0C39AC98FA716FA2A
 ================================================Chunks================================================
 
 Chunk ID: 37, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9EF31C843EB72F2826DC26DA6892E01814AFDA0E | FD248624C4D699D0AD5AE8ECC9B11849BAF5A02C |   41326451 |  1048576 |   913983 | data_win32/global_patch_1.dat
 D9DE187196BD44417E8B636AC37A9C0F7AE61951 | FF76B01DCA85B1DFFFD61BC651D1C5F9BB4D1D8A |   41326451 |  1048576 |   911187 | data_win32/global_patch_1.dat
 7DE0E2D1E0DE68983070152F0396500843386ABB | CA9C437310F2476D85C4C12EAFBA403168B157D7 |   41326451 |  1048576 |   926050 | data_win32/global_patch_1.dat
@@ -5540,7 +5540,7 @@ C8B2F0D21454F790C90A2CF4EBB861766A27C835 | 450B445AB691DE19CB584B589CCD5616CA3B6
 ================================================Chunks================================================
 
 Chunk ID: 38, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 504879BCFE5A876D80DF4815BD2D8C47060DA0EA | 31BA8F8328D2319B02C8E96192FCF5BDE56DD1A9 |   16641875 |  1048576 |  1042730 | data_win32/global_sounds_patch_1.dat
 69BB5F4193537CD4467D5AABD2F9A6E256B1C0A2 | 749207D3001B12073F7DD7330B152B874F7D220C |   16641875 |  1048576 |  1045350 | data_win32/global_sounds_patch_1.dat
 5A04FF471BE27956FD083EE4782BC4D833CBFD61 | 9A1B65A7DE3D0AC0A39FD94B4C41C07F740E8EDB |   16641875 |  1048576 |  1042787 | data_win32/global_sounds_patch_1.dat
@@ -5561,7 +5561,7 @@ CECEC7F19489E94D3016D5F13FD59A7AE867C2C9 | BF51683F320FE57ACE26892AA8C6801F8B55D
 ================================================Chunks================================================
 
 Chunk ID: 39, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 DA7B183D5FEDB8C429EEDC15FBED02B36FEC756E | 23FB7722875BBA8B97F846518487CCC8969BDE65 |    3662745 |  1048576 |  1042631 | data_win32/pc_ww/global_voices_patch_1.dat
 36F9A09A8C83B6009508BE7DE0CC02954956531E | C1B928DF9AD82282D376AF66FEFAD71CFDC0B448 |    3662745 |  1048576 |  1034334 | data_win32/pc_ww/global_voices_patch_1.dat
 9CA3E853DF4F08FFA090FBAF350CEC705B0452DD | 22DCCD868CE63FDAA755CF47617B71CAC9A83C4B |    3662745 |  1048576 |  1040636 | data_win32/pc_ww/global_voices_patch_1.dat
@@ -5570,7 +5570,7 @@ F98E04CF4628B8B90965D4A9EAA1424AC873399A | 757EFCC3D0B38D7BDCE6CBDF9A5EEBA073C2C
 ================================================Chunks================================================
 
 Chunk ID: 40, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 AF88BE325E9285C42868D527E40BDB5E51428CDC | 06D7721054F4807331921B84AF13BD956A311CF2 |   50229730 |  1048576 |   896176 | data_win32/startchunk_patch_1.dat
 A6C8A45B7138126870C0F8B419F7AF631F8E8F45 | 9207F335B9160644E7B941D96D2BB4624FE65924 |   50229730 |  1048576 |   886751 | data_win32/startchunk_patch_1.dat
 E47031C5CE5C5AC762A76FB114C68D31E0A8BBE1 | CF29259B244D60ED8F00E087387220A6F31A840A |   50229730 |  1048576 |   979223 | data_win32/startchunk_patch_1.dat
@@ -5623,7 +5623,7 @@ D322C6173D55A47FFE074996F6938CFC960DEE87 | 2533F2E4D9AC3E48F9C352D869DAE47C1B59E
 ================================================Chunks================================================
 
 Chunk ID: 41, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C9D42F6F4F6942A850DF73A30CF0F0C61FDEB037 | AAEC2874A0C286A7F4A2F31974987FF9557C0B37 |    5272766 |  1048576 |   701643 | data_win32/startchunk_sounds_patch_1.dat
 C9447B83A3A0BC33C880E5E2B389E3A096A00DA0 | 28655E13FB803BA986D46CA57C1F2A030DA0071A |    5272766 |  1048576 |   674705 | data_win32/startchunk_sounds_patch_1.dat
 AC99B19A5F05F530107038E6BE2E28E32F924F55 | 08F2449AE07B3AEC6379F813A6EC1B103B9F84C5 |    5272766 |  1048576 |   803818 | data_win32/startchunk_sounds_patch_1.dat
@@ -5634,7 +5634,7 @@ A201E70DF2AE199D9B28103B71536CF19E526898 | 48FF344CCE96C90840EA6CC80CF0863E122A0
 ================================================Chunks================================================
 
 Chunk ID: 43, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 69E69CDBE6462461C6ABA339795B0E1A3FE1DA1E | 452EC6E08DFFED868C80C2C358207B93DE124EE8 |   26382360 |  1048576 |  1042770 | data_win32/pc_ww/global_videos_patch_1.dat
 DF38D4D95ECEB1AFC0F42863D7D97A191FF7FF75 | 16BDCA5B3D694D38FDCDAD1810DF7F6A891CBD27 |   26382360 |  1048576 |  1041588 | data_win32/pc_ww/global_videos_patch_1.dat
 C8C468A905F1B7F31327B4B63DEE3B29F6C5D7D8 | DD8DDD5AC02B1FC99B918C0E8BA5BC9CC0E68D73 |   26382360 |  1048576 |  1044512 | data_win32/pc_ww/global_videos_patch_1.dat
@@ -5665,7 +5665,7 @@ BC49EDE947A0D4857A7132B2389D780F487EF322 | 37A7CC1CB42A2A1C0ABBF734D5399F5AADFB5
 ================================================Chunks================================================
 
 Chunk ID: 44, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E3B3CA0CF1EAA0A125998B4752DBB8C4C82FA788 | 87BD400165346BCF73E84E4774218B2C4304BF2D |       3220 |     3220 |     2797 | data_win32/centralplains_patch_1.dat
 EE5E79E90488E2665A1A6855C34B911510A854FA | 7F8C809C5831A8164AEA2A34E1CF9430D02F4D33 |         40 |       40 |       35 | data_win32/centralplains_patch_1.fat
 6356C480F2BAE862F40395CF1593967042640114 | F778E7D0385E5C3D5E07654549CC1889E9A7E4B9 |     128527 |   128527 |   102337 | data_win32/citycentralplains_patch_1.dat
@@ -5686,7 +5686,7 @@ A9CDF15F87C721C640B18E2FBD9D088ED1D1C817 | 0E914870DFF44E1CAAD86EE7B9053D6616DE9
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 73295529F593E321409514948629333AD555779E | F26583D62648E3DFDB2D8A8BEA6D725C4F3C650D |   33671780 |  1048576 |   939913 | data_win32/cityfarwest.dat
 2C6BD3A83CBE3ABED9ACF457F38D7DED0F666311 | BDD3FC3205BD95367EEA1318476BF7011028399E |   33671780 |  1048576 |   952320 | data_win32/cityfarwest.dat
 7F73BC3479B12B310F68B203E7B9200901224333 | 3185F4BA1DA04D39DA5DC0C603AB91113097DFAE |   33671780 |  1048576 |   899594 | data_win32/cityfarwest.dat
@@ -18800,7 +18800,7 @@ AC1FC062F8CB07580DB20E26A497A672D47120D5 | 93D22827C539E759878DEF68C22C2AA85C187
 ================================================Chunks================================================
 
 Chunk ID: 21, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 205E943839A5CE74AFC8F296969F7F2C4D97FEE7 | 85738A1572239367F6572D29D2FE7D09F7950A36 |  104425651 |  1048576 |   930341 | data_win32/common_patch.dat
 FE4534BDEDB013BF4C73998F71A2AFEDBAED92A0 | D9CCC892DD05D2003E9DB868FF7A82CC2912EB01 |  104425651 |  1048576 |   984688 | data_win32/common_patch.dat
 E62982EF6AB454DAB0A0D8593A3F25667B94D32E | 6C971592804A5032F1617688B8FFF32FDBEE3340 |  104425651 |  1048576 |   954776 | data_win32/common_patch.dat
@@ -18905,7 +18905,7 @@ FDF30D5F0A1CDD6B20BE8D6E267C6881405CC4A6 | 59336663F6C458C56460B3D7CDF5DF60D85B0
 ================================================Chunks================================================
 
 Chunk ID: 22, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3CECD52058429C966AF435DFBB935C902A1916AA | 9D5F946B0AB45424D41A862C25195FDD98116370 |  153068586 |  1048576 |  1040578 | data_win32/common_sounds_patch.dat
 54765317D470B7C89AB269001E2FE6AF7E48363E | 1A250F9E9310A5ABB0A36AADA7E505BF3BEA6F68 |  153068586 |  1048576 |  1040915 | data_win32/common_sounds_patch.dat
 44C81AEFCCC8D7AA4B2266CA0CB2DF00D5444B5C | AB13FF09022C841C9D7FB1DEE1E697C81F596704 |  153068586 |  1048576 |  1039783 | data_win32/common_sounds_patch.dat
@@ -19056,14 +19056,14 @@ D87460544761AB17A6FE9DCE126B9C88DEFD7002 | 0272FDC2B6BDFC6DCF2790666C10459BBC530
 ================================================Chunks================================================
 
 Chunk ID: 23, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 EC83C0B414A79283744A000B8CC0EA01ED9CFEDB | BF4B22DDE449DFC53410F5C2666DCB205355D31D |    1928605 |  1048576 |  1041044 | data_win32/pc_ww/common_voices_patch.dat
 DA543A7835FFEA9D9C9CBE02F300AD9BC348874E | 2709085DFDC6345287BBB13870967C473983ED26 |    1928605 |   880029 |   870706 | data_win32/pc_ww/common_voices_patch.dat
 CE09AD1AACF9CAAAD847A8E4F40062E3B5AE481B | EBB7D5792F2393FA68B7520A17A37B59A34FD76F |       2320 |     2320 |     1523 | data_win32/pc_ww/common_voices_patch.fat
 ================================================Chunks================================================
 
 Chunk ID: 24, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4F81F9387A6946A68ECDBF410413BCDC51330862 | C7105AC89F21213241B0B5CE4CA98F361F7D71E7 |  104258668 |  1048576 |  1032019 | data_win32/pc_ww/common_tutorials_patch.dat
 88C62B2F51B8B310ADDAA0573EEB662886D7F49D | 074B65FB4855804AA8B73ACB689EC6850C49D14A |  104258668 |  1048576 |  1043307 | data_win32/pc_ww/common_tutorials_patch.dat
 B6149CB08C4893C25766BD950E279B1C96C09739 | ADD75FEC2B934148DB5E457BFA6A5AA1C1EC2402 |  104258668 |  1048576 |  1041973 | data_win32/pc_ww/common_tutorials_patch.dat
@@ -19279,7 +19279,7 @@ A269AA5D43F0979C74AD13865C3585B4C622EF6F | F0C1AB78421066DF49577AB41AFF23F00C4D0
 ================================================Chunks================================================
 
 Chunk ID: 25, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B5DE6EF87802BA1A344D5A33CB61E674478A1FCF | 6514283742E8E4796252EF0C160AFCC4232172B9 | 1510022267 |  1048576 |   925934 | data_win32/vehicles_patch.dat
 B6D70F9FCA060CD793F730FEF574CF6DABCC44C3 | 0C58DE97C6B82A5951773CB8488E7D1501C00889 | 1510022267 |  1048576 |   939745 | data_win32/vehicles_patch.dat
 8148191FB555CE3B0455164F270AE0F238217F4C | A6606EA24B846094CA094CD4EC6149BBBC01D3E7 | 1510022267 |  1048576 |   952541 | data_win32/vehicles_patch.dat
@@ -20725,7 +20725,7 @@ AA4F75FA187E18CB5ED77FA52DAC4FAEE1417943 | B2AAAEFFF82F4026AAC1440F49DCB82B17D2B
 ================================================Chunks================================================
 
 Chunk ID: 26, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9F701E4DEF8C6200966E53CE5E2A7FBAFF1436A7 | B8276F14A61CBBBE4338A26CF408594CABCF6C7B |  130279190 |  1048576 |  1034741 | data_win32/vehicles_sounds_patch.dat
 3B93D1FEF7016729459B15A71A964C302A649487 | AD64E2B3FD5BFCD916967D135918D1266611CA09 |  130279190 |  1048576 |  1041110 | data_win32/vehicles_sounds_patch.dat
 92062FC2AC25FE63AD6982F55D504B5F69694284 | 1717948BE18A2D7D32A2256EBD432B8854A9D56D |  130279190 |  1048576 |  1044309 | data_win32/vehicles_sounds_patch.dat
@@ -20855,7 +20855,7 @@ D088252633F75EA3CF543C30D5D5CD2088285BF8 | C0EF47B29EA1D6B98E6EF95125B76106CE2AA
 ================================================Chunks================================================
 
 Chunk ID: 27, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D6A6E4CB73496227B355C69256378510CCDD3E2D | 2E07459CB6415B8E9E0B297455939C62EA59C440 |  652682996 |  1048576 |   910866 | data_win32/zone_00_00_06_05_patch.dat
 D6EE6FE8320F7D23EFEA26B79C521A3162088852 | 8CAE72C99D22DD0E7E7CB9CC4D78EA6DD7525B1F |  652682996 |  1048576 |   949283 | data_win32/zone_00_00_06_05_patch.dat
 CE9CD7D118B34D7E299B24C8689BBE5B11BCDEA3 | 41D7081273246438C0C27837E9031155D982D6A1 |  652682996 |  1048576 |   939753 | data_win32/zone_00_00_06_05_patch.dat
@@ -21483,7 +21483,7 @@ AB94A09886E0A44B52E5382A216BAEE78BE01429 | D35F5228BA9FE986890B03CE2A6BEB9AE2254
 ================================================Chunks================================================
 
 Chunk ID: 28, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 694447BBA467040A509E16A92132A4FA5355ADA1 | 58F2FE99C43C36ECE4DFF549E34A2737225B71DB |  672008348 |  1048576 |   871784 | data_win32/zone_07_00_12_05_patch.dat
 5670AAF3B212AE0A7C5825A18F0512BCAAE4159B | C8B72C7AF32ABCB493964FE44708D7F2CD3634A8 |  672008348 |  1048576 |   977021 | data_win32/zone_07_00_12_05_patch.dat
 D85BBCE56810A0B81736EC56DE749261F8E4F14A | A8761365A175EFFEA6A86721D7DF22416C068A47 |  672008348 |  1048576 |   983938 | data_win32/zone_07_00_12_05_patch.dat
@@ -22129,7 +22129,7 @@ EF636B8F7ABC8DD788AA5CEFF9C7009FE859ED43 | 09A8F22CC6886A8B91B852DB3BE0CF31E896E
 ================================================Chunks================================================
 
 Chunk ID: 29, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D9884C20A7A9070EC516D52CE396899B6950B1BA | 3E57CAFA0544760179BF8AF71A3798918819CDEF |  527133093 |  1048576 |   884185 | data_win32/zone_13_00_18_05_patch.dat
 F4CEFD773C0D569579A243599A825FE7B37E58DC | 36FC47E3EE5001D62B0CA8F67051A4E5F13C44F1 |  527133093 |  1048576 |   950843 | data_win32/zone_13_00_18_05_patch.dat
 E58AA79E74083199C0DA21CE825EFDF13074C9E8 | 591D2284A1750E7D9D750F92C273B4EC5C1040E3 |  527133093 |  1048576 |   900163 | data_win32/zone_13_00_18_05_patch.dat
@@ -22637,7 +22637,7 @@ F9879BAD737E3179E61A3E7FD222F24E2184BFA6 | 2CF62EAA678E499DE2116AAABD9E7E1944751
 ================================================Chunks================================================
 
 Chunk ID: 30, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 891F35DBEE5AD1D6EDD377F5BB04EFCFB379E683 | 80A836165F85485C29C471CD5A97E16F419884F7 |  718146415 |  1048576 |   933338 | data_win32/zone_00_06_06_10_patch.dat
 C99FCB3CB86DEF1A2830F0D53AABE141357A55B2 | 0033515B4E2C8E0E2D835B00816FBB768EB91011 |  718146415 |  1048576 |   931621 | data_win32/zone_00_06_06_10_patch.dat
 55B5AF16A0FF5D221B29B88E040BD04AA411ACFE | 4A6A63BD9E0F72CCB1CE2E0A520F34F83E3CCB59 |  718146415 |  1048576 |   809035 | data_win32/zone_00_06_06_10_patch.dat
@@ -23327,7 +23327,7 @@ CC81E9D8E49350C5FC753C9955E6AC7BE3E2598F | 6B18503063A9FDF7AF6E468C93C2EE415BB10
 ================================================Chunks================================================
 
 Chunk ID: 31, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9B7F380F59F796E1269A21BD8DA6D4912F9DB14C | 26F7D147413DC93E1EB48032746C9CE570703314 |  625445955 |  1048576 |   982658 | data_win32/zone_07_06_12_10_patch.dat
 D5AB8F3C321AFA37A7AD2BBDE73EE72BCBA24D4E | FF97FC93123861DF4F6B03D9AD1EC363D1601D59 |  625445955 |  1048576 |   841930 | data_win32/zone_07_06_12_10_patch.dat
 FA30EC13BD30788F4EC73695604C952A13A6FAD7 | BBBDF006FF764AC7E31F678C6751BA3B18CC3C51 |  625445955 |  1048576 |   878453 | data_win32/zone_07_06_12_10_patch.dat
@@ -23929,7 +23929,7 @@ A7B87CFAB2F7B5CA79911A45298CBDCCACFB45DD | ECDC5B54924CDE9037961E3CC77CECA9CF8BB
 ================================================Chunks================================================
 
 Chunk ID: 32, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A6CE0876249305D0CB74AB3837506296F41E54EE | A90515A36D4B9DA7A65BA282D893C5F00664AE4B |  443584207 |  1048576 |   844362 | data_win32/zone_13_06_18_10_patch.dat
 3AD13279E1C52315189E7DCE5F05ED6929E07622 | 9A398A561755EB9E9581973F3DDA054F6958F922 |  443584207 |  1048576 |   840592 | data_win32/zone_13_06_18_10_patch.dat
 763CBC88490A6400C85E9F3FE1950CBAF7F915C6 | BC459DAD6C294B756A8A7425A837AD85B624E7B5 |  443584207 |  1048576 |   860805 | data_win32/zone_13_06_18_10_patch.dat
@@ -24358,7 +24358,7 @@ EDCA39C699893D8E881C41250BCF7D4B55C9C9D3 | 27A4D9C13E086CF72F25EB6BCFAABB275FF74
 ================================================Chunks================================================
 
 Chunk ID: 33, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3931BA3B6CEC8F7337273A535D28555059ED4CAC | 67BFB52501634490138E39F5247D54CE58B63A4D |   25967828 |  1048576 |   946734 | data_win32/cityfarwest_patch.dat
 CB61D5B66DE5BC4DE330AF057DF26AC8895463E8 | C35D95FB144EBE57826E9B9642825CBAD0D77D82 |   25967828 |  1048576 |   819899 | data_win32/cityfarwest_patch.dat
 9B26BC19DE9DE8D4F9E0DE25D05D4D3BC32D85EC | F7CF3F7C57713007D640CFBD97E6636593D7E75F |   25967828 |  1048576 |   811251 | data_win32/cityfarwest_patch.dat
@@ -24741,7 +24741,7 @@ DB67F56D2499A1418A6CE8F9CD1DD5CEFA2CD599 | 201486532A346B677D6A245FB3C424AD516E7
 ================================================Chunks================================================
 
 Chunk ID: 45, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 213084B6DA98F95A0062EB7F236208CA932AA25C | CE5C69A148045374F035D8667D5B8C76BA20F1EB |    2286055 |  1048576 |   913675 | data_win32/common_patch_1.dat
 7F2E362F3A70B18869EC8840A8071FB6B2C92B5C | DDCA1E7376A9D8E4D278CE91D4D23E8E4DBEA36A |    2286055 |  1048576 |   830381 | data_win32/common_patch_1.dat
 5AAEB0A306D1C13640A505D439038FFEE5B0592B | 62BAD35198056700C54CE0852B1EDF94C8A5BEA4 |    2286055 |   188903 |   122146 | data_win32/common_patch_1.dat
@@ -24749,13 +24749,13 @@ Chunk ID: 45, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Langua
 ================================================Chunks================================================
 
 Chunk ID: 46, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 18BB9230B497C7D448CD714A2FC55FF00136CD87 | 3B62D8633BB76D609A2C91798EA8BC87730DA731 |     542796 |   542796 |   538540 | data_win32/common_sounds_patch_1.dat
 66502895732BAEA1C66A09527AA0BC7301F3D3C6 | 3A561EDC4FCD17A9D36985B93B8680A626009E99 |        136 |      136 |      113 | data_win32/common_sounds_patch_1.fat
 ================================================Chunks================================================
 
 Chunk ID: 47, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C3C23B290880899058B86870D24C56B625EC0B11 | 2317F0313CFC97B28BA8A49115F09C8D47CF3DB5 |   27925148 |  1048576 |  1043649 | data_win32/pc_ww/common_voices_patch_1.dat
 CA8DCCC8A1D59E288E3672559A102E31A03368D9 | 1299DA841411166459AE4AAEEBF66E87022813BB |   27925148 |  1048576 |  1043575 | data_win32/pc_ww/common_voices_patch_1.dat
 73B393501A72E23DF20D46C8D768179611D92354 | ECB13C118BB143F236A24F8946D4992CD35735B3 |   27925148 |  1048576 |  1043770 | data_win32/pc_ww/common_voices_patch_1.dat
@@ -24787,7 +24787,7 @@ AE44F7C15559B624F8D927C5A16A6F1431BC4AE3 | 3078F87ACAABE43F666407019A9D75915A834
 ================================================Chunks================================================
 
 Chunk ID: 48, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 BD2027326BC8CB82D09E937AD83C102CA50221C9 | 75C2677EAE3831FB2601F1B5FBE45C15BBD57154 |   56948452 |  1048576 |   995213 | data_win32/pc_ww/common_videosb_patch_1.dat
 A78DF48D50D8C9C61BE6E2DB0F02B05667D0EF19 | 07C0D57EDF195D0696AF3DF60EC3C8E26306AA58 |   56948452 |  1048576 |  1014700 | data_win32/pc_ww/common_videosb_patch_1.dat
 CD0E0B711FF2D5BCEF077BD052956F7B5696499A | 86FD829CAC043FAA6BC78A67852B3AA25EAE3C72 |   56948452 |  1048576 |  1016103 | data_win32/pc_ww/common_videosb_patch_1.dat
@@ -24847,7 +24847,7 @@ A60935F194461828AF3BBAAF149ADF081B9AABBB | BC785BF0E24DB8E1967A40B46373D08227A16
 ================================================Chunks================================================
 
 Chunk ID: 49, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 82610195D260CF4C37A1BC3DB74564F9622C0248 | C6723FD911571F2FB571E5DA8626B215CEA5F555 |  541554218 |  1048576 |   914239 | data_win32/vehicles_patch_1.dat
 5C8D5638DFF90DE8B59A0E4F2C6B935DC6B172FB | FA43F847D439E6992937A5C4E9980F4D26BFEFA9 |  541554218 |  1048576 |   936336 | data_win32/vehicles_patch_1.dat
 34D6164F4037F236CC9C65D5B674C3239CD227C9 | 3A86990CA00CF55F591E54AF416932E2166AFAA5 |  541554218 |  1048576 |   927093 | data_win32/vehicles_patch_1.dat
@@ -25369,7 +25369,7 @@ D9DC87D56E1D262A46C471BF5BA6122CFE4D5902 | C6B2339485270AB01701DDEEE624221230A99
 ================================================Chunks================================================
 
 Chunk ID: 50, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 27A2B6C3DB37C50380FEEEC3BC9A1BB2EDB66003 | 842C100823D162AE0E009787961892655D4441D7 |   31493477 |  1048576 |  1041570 | data_win32/vehicles_sounds_patch_1.dat
 9C082A233630B43066EAD05B639B16CE19847D67 | 4C7A281BB94695463E354160224D14AA124DCADE |   31493477 |  1048576 |  1041557 | data_win32/vehicles_sounds_patch_1.dat
 1960D3D5D61E6CCCDFA37A1F03D827938A3AF022 | 71D79247571C6B2E71C0C636A6364AF33E0EDB4D |   31493477 |  1048576 |   949769 | data_win32/vehicles_sounds_patch_1.dat
@@ -25405,37 +25405,37 @@ DC5DB61DCCECC1D024EBDD7757921E66FBBE24E7 | 8A4E069F604B27CAB7877079133A34B800F96
 ================================================Chunks================================================
 
 Chunk ID: 51, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3670835366868A7D48CC2210FC6EE684675EBA12 | FEC921B0D2A63B31E696F13F60BEC9FF0FF87ACF |      12551 |    12551 |    10044 | data_win32/zone_00_00_06_05_patch_1.dat
 34102D09E51AFC79D62E8A6264A22C7F23CA5343 | 4D17BB211C4FA71D569132841914BA285CC1131D |        256 |      256 |      194 | data_win32/zone_00_00_06_05_patch_1.fat
 ================================================Chunks================================================
 
 Chunk ID: 52, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 44F2C24FB055611C0D2BE609BD67E54E818CB783 | 77080DFAD02ACB946DEBCB1BAAB130DA3DE7CF0D |     169285 |   169285 |   159892 | data_win32/zone_07_00_12_05_patch_1.dat
 77BF068C07A928D8AA3FA4D2796A566E29B5A669 | D2E828B76672C161FD4D7FF6CF6BD5EDA1D79DBF |        160 |      160 |      127 | data_win32/zone_07_00_12_05_patch_1.fat
 ================================================Chunks================================================
 
 Chunk ID: 53, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1219A7E866EEE1929EF533176B7CA45CB7B99A7F | 179DCB1AB32F2E0808BC0B17A4CF4DD409B9510B |      21139 |    21139 |    17092 | data_win32/zone_13_00_18_05_patch_1.dat
 E9F36BDD5319D840EB22ABA989FAE039A827B83F | 36673675DF6A961C79AB3409D3AC9030D82D6791 |        256 |      256 |      190 | data_win32/zone_13_00_18_05_patch_1.fat
 ================================================Chunks================================================
 
 Chunk ID: 54, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B3305CC8420B5C55FEF7986C045100F997D1F013 | A1C7FB0F45229DFB2F1AD5C24FB6B08CE0E3D63D |        499 |      499 |      294 | data_win32/zone_00_06_06_10_patch_1.dat
 89B3D9F289097512E49688A4960B6E7E5DBED87F | 58F7A94C94A3F7ECAF0609CF6D10465993269540 |         64 |       64 |       50 | data_win32/zone_00_06_06_10_patch_1.fat
 ================================================Chunks================================================
 
 Chunk ID: 55, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 89141464135B087A50CC2FC4E79EE5AF6AD9F3FA | EE79B7A1F671A2CE48ECDC8A1AF7E39734F19351 |     198399 |   198399 |   174734 | data_win32/zone_07_06_12_10_patch_1.dat
 29BE86DB58E5AC1B72DED414B74D8019A7207FC9 | 5C0ACFD1BE25EF187A626331FC9F48ED44690281 |        184 |      184 |      157 | data_win32/zone_07_06_12_10_patch_1.fat
 ================================================Chunks================================================
 
 Chunk ID: 56, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8E09D29699B3920EDCD13AB9E8AAFA05534F4A7C | AE5A95D3AA9B465AFD6D8CFCA4FC9318D0D1AC1F |       2669 |     2669 |     2108 | data_win32/zone_13_06_18_10_patch_1.dat
 13175B26306A0FC4F92328FCF02E7E5ED733B2BE | 2B7AF2E09DE1AA1DC937A56E53139804D5C9E5BD |        160 |      160 |      123 | data_win32/zone_13_06_18_10_patch_1.fat
 
@@ -25508,26 +25508,22 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\TheCrew\413\Install, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\TheCrew\413\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\TheCrew\413\ExecutableName, Type: String
 Registry String Entry
-	Value | Language
-TheCrew.exe  | 
+TheCrew.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\TheCrew\413\Version, Type: String
 Registry String Entry
-	Value | Language
-1.1.8.0  | 
+1.1.8.0, 
 
 ============================================Uninstall Runs============================================
 

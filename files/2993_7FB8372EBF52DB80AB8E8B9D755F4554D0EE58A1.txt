@@ -1,8 +1,8 @@
-Total number of files   : 1221
-Total size of files     : 649073221 | 649,07 MB
-Total number of chunks  : 1
-Total bytes on disk     : 649073221 | 649,07 MB
-Total bytes compressed  : 577021121 | 577,02 MB
+Total number of files  : 1221
+Total number of chunks : 1
+Total size of Files    :        649073221 Bytes | 619,004 MB
+Total size of Slices   :        649073221 Bytes | 619,004 MB
+Total size Downloaded  :        577021121 Bytes | 550,290 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -24,7 +24,7 @@ Name: manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4070BD749DB032B91A4D3CD7C735473BC8257F1B | 9FE7E94D8628D6C2B3F5F6052A32A234263AD645 |         20 |       20 |       26 | BLANK.TXT
 3D3801CAC2D3B23BE64690C9CA1664AEDDC224D7 | E72B152E67DAAC45D49DEB0D0E803E5FB37C18EB |      95056 |    95056 |    45768 | CHATSOCK.DLL
 9AC61D327A18B32F72B01D73E650E27A07D3A0E3 | 993708CA492FE98B30087BDB4DADFC1459AFA1E5 |     266416 |   266416 |   121580 | CLUBDLL.DLL

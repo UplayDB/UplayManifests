@@ -1,8 +1,8 @@
-Total number of files   : 201
-Total size of files     : 2625226693 | 2,63 GB
-Total number of chunks  : 2
-Total bytes on disk     : 2625226693 | 2,63 GB
-Total bytes compressed  : 2353699439 | 2,35 GB
+Total number of files  : 201
+Total number of chunks : 2
+Total size of Files    :       2625226693 Bytes | 2,445 GB
+Total size of Slices   :       2625226693 Bytes | 2,445 GB
+Total size Downloaded  :       2353699439 Bytes | 2,192 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -50,7 +50,7 @@ Name: Russian\manual.pdf | Locale: ru-RU
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 14E85FD9868F172659FC70E0A927F7014133DC66 | 9D5882DA1BACFE45E9CDA9322AF2277087F860CC |     230792 |   230792 |   129234 | binkw32.dll
 BC05D9A0A49C270F0EA8B9B68E2636923C94562E | 6827C26455AB1A0C3DD53C6AB7B4522D9F90EF7D |    3207048 |  3145728 |  2212253 | gdfdata.dll
 00A74C9D3A23A494986AD01F9DD37427BF121669 | 7E0E927EF6F40CF6B1CF49C95F72D06C80EACDF9 |    3207048 |    61320 |    47833 | gdfdata.dll
@@ -875,7 +875,7 @@ BA001599332F1C101AC476FAAFE9F1ED9DD9DBDA | 052E1E76308156FED9247224D31293ABC23B4
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 46B195F93C6510ED1340CE691FD35273C74D8900 | 902B47332CF540D75FAB7296CFAD7F32FCD88D62 |     177328 |   177328 |    90641 | Support\GameExplorerInstaller.exe
 2036AD6C1E762E10F54B68CFA531D79FB5038E2D | E1BAA5263762F06FEFFE8A14B1CEE1ED60D767FE |    4216840 |  3145728 |  3128399 | Support\vcredist_x86.exe
 B3EAAD0C9750BB2767FB2313A670266D156B40E7 | F16E1EF06011D0F8FFFF73130FBC9BB4B55D5043 |    4216840 |  1071112 |  1066474 | Support\vcredist_x86.exe
@@ -1110,31 +1110,28 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rayman Origins\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rayman Legends\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Rayman Origins.exe  | 
+$INSTALL_DIR\Rayman Origins.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\RaymanOrigins\Settings\Language, Type: Number
 Registry Number Entry
-  Value | Language
-    13  | cs-CZ
-     3  | de-DE
-     0  | en-US
-     4  | es-ES
-     1  | fr-FR
-    14  | hu-HU
-     5  | it-IT
-     2  | ja-JP
-    12  | nl-NL
-    10  | pl-PL
-     8  | pt-BR
-    11  | ru-RU
+13, cs-CZ
+3, de-DE
+0, en-US
+4, es-ES
+1, fr-FR
+14, hu-HU
+5, it-IT
+2, ja-JP
+12, nl-NL
+10, pl-PL
+8, pt-BR
+11, ru-RU
 
 ============================================Uninstall Runs============================================
 

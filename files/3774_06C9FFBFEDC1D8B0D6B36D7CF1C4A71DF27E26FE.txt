@@ -1,8 +1,8 @@
-Total number of files   : 1017
-Total size of files     : 1685406717 | 1,69 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1685406717 | 1,69 GB
-Total bytes compressed  : 1412437019 | 1,41 GB
+Total number of files  : 1017
+Total number of chunks : 1
+Total size of Files    :       1685406717 Bytes | 1,570 GB
+Total size of Slices   :       1685406717 Bytes | 1,570 GB
+Total size Downloaded  :       1412437019 Bytes | 1,315 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -33,7 +33,7 @@ Name: TraditionalChinese\Readme.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 863D720B34A4C9B8BCF3CC55EB035413BC1B314D | 1F527302E606C2A6D4FAEF7377D48D84B5F6A2EB |     131672 |   131672 |   128252 | All.psc
 14CF0D0E70A1EBE2340E98A25A5CA73C739E584B | B4A9A64E3D5D93E84B2DEEE6932F9508EB1B9524 |     226304 |   226304 |   128205 | binkw32.dll
 C141797563BF0D34F406EDDC744366FFA9767CB3 | 98BE17E1D324790A5B206E1EA1CC4E64FBE21240 |    2106216 |  2106216 |   924738 | D3DCompiler_43.dll
@@ -1538,21 +1538,19 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\MonoPoly\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\MonoPoly\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Spanish  | es-ES
-Italian  | it-IT
-Brazilian  | pt-BR
-Russian  | ru-RU
-Polish  | pl-PL
+English, en-US
+French, fr-FR
+German, de-DE
+Spanish, es-ES
+Italian, it-IT
+Brazilian, pt-BR
+Russian, ru-RU
+Polish, pl-PL
 
 ========================================Install Firewall Rules========================================
 

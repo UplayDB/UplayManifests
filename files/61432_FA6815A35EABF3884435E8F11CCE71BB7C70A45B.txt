@@ -1,8 +1,8 @@
-Total number of files   : 370
-Total size of files     : 1382312175 | 1,38 GB
-Total number of chunks  : 2
-Total bytes on disk     : 1382312175 | 1,38 GB
-Total bytes compressed  : 1095622376 | 1,10 GB
+Total number of files  : 370
+Total number of chunks : 2
+Total size of Files    :       1382312175 Bytes | 1,287 GB
+Total size of Slices   :       1382312175 Bytes | 1,287 GB
+Total size Downloaded  :       1095622376 Bytes | 1,020 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D6F0C6D9BFE6845E00645C87A96690431051426E | 1B946C37AA1CE1D9864F47F3944E797A0DA9D73A |     650752 |   650752 |   195384 | Fell Seal.exe
 DDAF6C5D5F8146F802864FB197444B843334ACCE | BA533D18888D718CC487DFDC951B5CCAA2C464C0 |   25201152 |  3145728 |  1047706 | GameAssembly.dll
 C3943E283FAF1B3101D0C1B5B4713AD5E6601B6D | 26902EA00AC28EF0B383AABEEC87101FE8266CFD |   25201152 |  3145728 |   983048 | GameAssembly.dll
@@ -627,7 +627,7 @@ AD3138848A9F0F2FAF05F5E75E437AF1E8153991 | 0464F17AE6CA4CB3E40CD48C02B6A18D3BC9A
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1F95245488CC648DE8D4E7D82A44FCC9757198D4 | 9DCFB68416019E2387E1D161178A3BB0C81D45F7 |    4348846 |  3145728 |  2589706 | Fell Seal_Data\StreamingAssets\assetbundles\dlc1\arena02
 ABA1AAB03F1196E33CD0289905C4A6087E290BFA | 349DE161E20643CE629B772902153CE31B159AAD |    4348846 |  1203118 |  1040538 | Fell Seal_Data\StreamingAssets\assetbundles\dlc1\arena02
 7D39BCFC9FB332D23A51A9A9D9852AD03468748F | 9101CAEA684B1179EC822592074EB04A49E85DD6 |       1643 |     1643 |     1382 | Fell Seal_Data\StreamingAssets\assetbundles\dlc1\arena02.xml

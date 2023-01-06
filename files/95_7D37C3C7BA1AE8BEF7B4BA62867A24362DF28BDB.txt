@@ -1,8 +1,8 @@
-Total number of files   : 950
-Total size of files     : 5001603140 | 5,00 GB
-Total number of chunks  : 5
-Total bytes on disk     : 706635844 | 706,64 MB
-Total bytes compressed  : 706635844 | 706,64 MB
+Total number of files  : 950
+Total number of chunks : 5
+Total size of Files    :       5001603140 Bytes | 4,658 GB
+Total size of Slices   :        706635844 Bytes | 673,900 MB
+Total size Downloaded  :        706635844 Bytes | 673,900 MB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT ,
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 58FE72120F6AEFA28FB9F551471D85005FE3DE75 |     537238 |   537238 |   537238 | Data\Maps\00_Training_COOP.scl
                                          | E040D87A845B9E9856D4C39F3392CEBA4C1AE3E0 |       7380 |     7380 |     7380 | Data\Maps\00_Training_COOP_sound.occ
                                          | EC74C5058B4A52AA645743939CA7662A52E4B481 |     494324 |   494324 |   494324 | Data\Maps\00_Training_COOP_sound.uns
@@ -3961,7 +3961,7 @@ Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 4984C50979415F7797783AC49833191837CED804 |         47 |       47 |       47 | Support\english\Settings.ini
                                          | 39C925879E94996DC866DABB1E60F1D99043B08B |       1970 |     1970 |     1970 | Support\english\utils\detection\interpreter_local.ini
                                          | DFEBFD75BCCA6B8FE2DBA43743A5469FDD7B1461 |     300648 |   300648 |   300648 | Support\english\utils\detection\local.dll
@@ -4064,7 +4064,7 @@ Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 9ED26BADA3A8AACA59FB90E87F384AFEB405D58C |     437628 |   437628 |   437628 | System\01_lighthouse.dem
                                          | 163BC598078663C72E24C534669C97793259840A |     338944 |   338944 |   338944 | System\binkw32.dll
                                          | 279C0C328B69388C0526BCCC5F8D8BCEB419D8F9 |      49531 |    49531 |    49531 | System\Core.u
@@ -4699,7 +4699,7 @@ Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 4988B8C70EEA0D562EB21FF12947A6B5C8A74243 |        121 |      121 |      121 | Utils\Detection\config.ini
                                          | 1CBD55E7E7DDA8E2520233335F20B9839FF42B0E |     173672 |   173672 |   173672 | Utils\Detection\detectionapi_rd.dll
                                          | C1B4E3D07FC885D403B4EF79B9005723A0D18AC3 |     136808 |   136808 |   136808 | Utils\Detection\detectionui_r.exe
@@ -4717,7 +4717,7 @@ Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 608E89D39EB4F5A15B434BB380C46C823A1BF738 |    1096514 |  1048576 |  1048576 | Versus\Menus\common.mgm
                                          | 4A9DEEAD7A1653DCF51A419CD25692CDBE713B51 |    1096514 |    47938 |    47938 | Versus\Menus\common.mgm
                                          | 6BD3CDA92D36FF3C8A813DCB8F92F17CA18776C8 |       6049 |     6049 |     6049 | Versus\Menus\Fonts\Arial Regular 20.mft
@@ -5526,48 +5526,41 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\Executable, Type: String
 Registry String Entry
-	Value | Language
-system\splintercell3.exe  | 
+system\splintercell3.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\Language, Type: String
 Registry String Entry
-	Value | Language
-englishuk  | en-US
-frenchuk  | fr-FR
-germanuk  | de-DE
-italianuk  | it-IT
-spanishuk  | es-ES
+englishuk, en-US
+frenchuk, fr-FR
+germanuk, de-DE
+italianuk, it-IT
+spanishuk, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\1.05.157\Product_Path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\1.05.157\System_Path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\system\  | 
+$INSTALL_DIR\system\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\1.05.157\Product_Executable, Type: String
 Registry String Entry
-	Value | Language
-system\\splintercell3.exe  | 
+system\\splintercell3.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\Versions\SplinterCell3, Type: String
 Registry String Entry
-	Value | Language
-1.05.157  | 
+1.05.157, 
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 3172
-Total size of files     : 988321742 | 988,32 MB
-Total number of chunks  : 1
-Total bytes on disk     : 988321742 | 988,32 MB
-Total bytes compressed  : 631337984 | 631,34 MB
+Total number of files  : 3172
+Total number of chunks : 1
+Total size of Files    :        988321742 Bytes | 942,537 MB
+Total size of Slices   :        988321742 Bytes | 942,537 MB
+Total size Downloaded  :        631337984 Bytes | 602,091 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -28,7 +28,7 @@ Name: Manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9CAA4D038BF2BCEBF9F11B61BA861949E7AB72E3 | 1F936EDDEAE93B7DDD3C79165E79027B58B8E02F |      13956 |    13956 |     5076 | EULA.txt
 A6E25FCA97FB123F2395827B4AF6D035939FACBE | E4D554E03BA91F6B53A2A80253B339F56E303C94 |      96264 |    96264 |    49491 | GameuxInstallHelper.dll
 BA8077A4DF52DBC23D4F174AD5173A3393D8ACFA | 8707747EADB43FA29DFC104CFE443238FEFA47BC |     118261 |   118261 |   110325 | gfw_high.ico
@@ -3530,32 +3530,27 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ultimation\SilentHunterII\TargetDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ultimation\SilentHunterII\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | 
+English, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ultimation\SilentHunterII\Installation, Type: String
 Registry String Entry
-	Value | Language
-  Full  | 
+Full, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ultimation\SilentHunterII\InstallComplete, Type: String
 Registry String Entry
-	Value | Language
-  TRUE  | 
+TRUE, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ultimation\SilentHunterII\1.1\@, Type: String
 Registry String Entry
-	Value | Language
-        | 
+, 
 
 ============================================Uninstall Runs============================================
 

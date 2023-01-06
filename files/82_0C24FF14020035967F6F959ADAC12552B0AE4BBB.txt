@@ -1,8 +1,8 @@
-Total number of files   : 182
-Total size of files     : 7739577678 | 7,74 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3444610382 | 3,44 GB
-Total bytes compressed  : 3444610382 | 3,44 GB
+Total number of files  : 182
+Total number of chunks : 1
+Total size of Files    :       7739577678 Bytes | 7,208 GB
+Total size of Slices   :       3444610382 Bytes | 3,208 GB
+Total size Downloaded  :       3444610382 Bytes | 3,208 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 0654A563DD7528A6A1D229EDDA28A6E1EB6FEB75 |   24183432 |  2097152 |  2097152 | AssassinsCreed_Dx10.exe
                                          | FF26A0F8290794462100A6717A34D17A0E576C40 |   24183432 |  2097152 |  2097152 | AssassinsCreed_Dx10.exe
                                          | A644DEA9616D1ADDE204A83576E374DD8A88B2E4 |   24183432 |  2097152 |  2097152 | AssassinsCreed_Dx10.exe
@@ -3911,52 +3911,45 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Spanish  | es-ES
+English, en-US
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Spanish, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed\1.02\vv, Type: String
 Registry String Entry
-	Value | Language
-    vv  | 
+vv, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
+us, en-US
+fr, fr-FR
+de, de-DE
+it, it-IT
+es, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\AssassinsCreed_Game.exe  | 
+$INSTALL_DIR\AssassinsCreed_Game.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-173a72c9169347e8b27c1e32a379b5d3  | 
+173a72c9169347e8b27c1e32a379b5d3, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 
 ============================================Uninstall Runs============================================
 

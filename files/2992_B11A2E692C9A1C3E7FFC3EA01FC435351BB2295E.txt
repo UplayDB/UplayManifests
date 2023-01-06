@@ -1,8 +1,8 @@
-Total number of files   : 3103
-Total size of files     : 814287284 | 814,29 MB
-Total number of chunks  : 2
-Total bytes on disk     : 814287284 | 814,29 MB
-Total bytes compressed  : 711603165 | 711,60 MB
+Total number of files  : 3103
+Total number of chunks : 2
+Total size of Files    :        814287284 Bytes | 776,565 MB
+Total size of Slices   :        814287284 Bytes | 776,565 MB
+Total size Downloaded  :        711603165 Bytes | 678,638 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -28,7 +28,7 @@ Name: manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 382C00F825CE6CDF77BB6917295C49E4A591E53A | DAC8601BB1664B1D3E5F7FA160D0F127429E1666 |     167936 |   167936 |    91036 | binkw32.dll
 47E1BBC5C176AB2B29FC03676615BD4F04CF2D33 | 19A7B6449AFE9BC810FAA45CD44DBAA2A02FE8A3 |     116840 |   116840 |    63132 | CT.exe
 921BD24B911D7DD798D0A62D89F435BA1A49F208 | CE0FAE097AD20EAAF945C60E6EA0F93C1BB2EBDA |         49 |       49 |       57 | CT.ini
@@ -3319,7 +3319,7 @@ C2F200ACB53E7D3BDB88BB5D6824006D71754145 | 518C217B92B7A48765289E77AE4C8CF5F0E6C
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1CB18D6433F1D041A3CD1208B9675F673061E0A | 1778E94F8ACDD4D3F65548B8E20171FD84DDD110 |    6563816 |  2097152 |  2089304 | support\inst\data\FR\Allied_Campaign_Victory.bik
 9C1C3B66E7E69275A632B0B4A80E89FA72E2BE18 | 04E312C66F70765D992F64DF5BA9473441C11A4B |    6563816 |  2097152 |  2089543 | support\inst\data\FR\Allied_Campaign_Victory.bik
 F4102AC7C0BD91CF565E4F75C7243FD32B28B2BF | F888F4625544BB8D268A96A12BB84CE7E6B4F473 |    6563816 |  2097152 |  2085103 | support\inst\data\FR\Allied_Campaign_Victory.bik
@@ -3454,27 +3454,23 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\$INSTALL_DIR\PG3.exe, Type: String
 Registry String Entry
-	Value | Language
-$ DWM8And16BitMitigation  | 
+$ DWM8And16BitMitigation, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\$INSTALL_DIR\PG3Launcher.exe, Type: String
 Registry String Entry
-	Value | Language
-$ DWM8And16BitMitigation  | 
+$ DWM8And16BitMitigation, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Panzer3DAssault\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Panzer3DAssault\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
+EN, en-US
+FR, fr-FR
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 348
-Total size of files     : 475108636 | 475,11 MB
-Total number of chunks  : 1
-Total bytes on disk     : 475108636 | 475,11 MB
-Total bytes compressed  : 391302366 | 391,30 MB
+Total number of files  : 348
+Total number of chunks : 1
+Total size of Files    :        475108636 Bytes | 453,099 MB
+Total size of Slices   :        475108636 Bytes | 453,099 MB
+Total size Downloaded  :        391302366 Bytes | 373,175 MB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: en-US ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C662BAD4116C83C5CE21884F766C2EF1D41747A6 | 7BBD8B0547367E97E76848367F5E0BBA460AB4BE |         48 |       48 |       56 | CONNECT.BAT
 D6A2B5F62155B202725E96198487E4B26611F9A6 | EB768AC164BCB0E261DB56DEB2EB06DD28437F99 |    1279384 |  1048576 |  1046726 | dosbox-0.73.tar.gz
 9B0C5904419838EFC85A2DADC45AE87BA8E94900 | 4917C0E86D8C114D897CFC1FB3642F4A202ECBBB |    1279384 |   230808 |   230486 | dosbox-0.73.tar.gz
@@ -807,32 +807,27 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5A3171A5-2AFD-4429-BCA6-7D4E9A70236D}_is1\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5A3171A5-2AFD-4429-BCA6-7D4E9A70236D}_is1\Publisher, Type: String
 Registry String Entry
-	Value | Language
-Ubisoft  | 
+Ubisoft, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5A3171A5-2AFD-4429-BCA6-7D4E9A70236D}_is1\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-Heroes of Might and Magic 2 Gold version 1.0  | 
+Heroes of Might and Magic 2 Gold version 1.0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5A3171A5-2AFD-4429-BCA6-7D4E9A70236D}_is1\URLInfoAbout, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5A3171A5-2AFD-4429-BCA6-7D4E9A70236D}_is1\URLUpdateInfo, Type: String
 Registry String Entry
-	Value | Language
-http://www.ubi.com  | 
+http://www.ubi.com, 
 
 ============================================Uninstall Runs============================================
 

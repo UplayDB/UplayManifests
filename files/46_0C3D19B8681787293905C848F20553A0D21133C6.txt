@@ -1,8 +1,8 @@
-Total number of files   : 288
-Total size of files     : 11628461616 | 11,63 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3038527024 | 3,04 GB
-Total bytes compressed  : 1494282036 | 1,49 GB
+Total number of files  : 288
+Total number of chunks : 1
+Total size of Files    :      11628461616 Bytes | 10,830 GB
+Total size of Slices   :       3038527024 Bytes | 2,830 GB
+Total size Downloaded  :       1494282036 Bytes | 1,392 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -49,7 +49,7 @@ Name: Manual\FarCry3.pdf | Locale: Manual\FarCry3.pdf
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 665A69EDD249A5DE013007219DFAE260C0053112 | 8E5F678ECDBBA7EF59483BABB9A6282196C8A90E |     226304 |   226304 |   128074 | bin/binkw32.dll
 5A9EF118628A50D17AC2C4288FCD2AE6CB9EA40A | FFC9868B88187E7C5D25D21FB4235CB3068B4378 |     202088 |   202088 |   183713 | bin/farcry3.exe
 95FB4BF4102AC5A2D6BEFE1F336D2CF6E765FACD | CA96388EE5C05A5066E50DC580FABB23FBA5D3DA |     185871 |   185871 |   174978 | bin/farcry3.ico
@@ -11402,79 +11402,69 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3\ExecutableName, Type: String
 Registry String Entry
-	Value | Language
-bin/FC3Updater.exe  | 
+bin/FC3Updater.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3\SKU, Type: String
 Registry String Entry
-	Value | Language
-    WW  | 
+WW, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3\Version, Type: String
 Registry String Entry
-	Value | Language
-  1.05  | 
+1.05, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR/bin/FC3Updater.exe  | 
+$INSTALL_DIR/bin/FC3Updater.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-21fc0b75f83c49f2a51726f60fd1c5f8  | 
+21fc0b75f83c49f2a51726f60fd1c5f8, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Far Cry 3\ExecutableName, Type: String
 Registry String Entry
-	Value | Language
-bin/FC3Updater.exe  | 
+bin/FC3Updater.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Far Cry 3\StartArguments, Type: String
 Registry String Entry
-	Value | Language
-        | 
+, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 3\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-English  | en-CA
-French  | fr-FR
-German  | de-DE
-Spanish  | es-ES
-Italian  | it-IT
-Portuguese  | pt-PT
- Dutch  | nl-NL
-Polish  | pl-PL
-Swedish  | sv-SE
-Danish  | da-DK
-Norwegian  | nb-NO
-Russian  | ru-RU
- Czech  | cs-CZ
-Japanese  | ja-JP
-TChinese  | zh-TW
-Korean  | ko-KO
-SChinese  | zh-CN
+English, en-US
+English, en-CA
+French, fr-FR
+German, de-DE
+Spanish, es-ES
+Italian, it-IT
+Portuguese, pt-PT
+Dutch, nl-NL
+Polish, pl-PL
+Swedish, sv-SE
+Danish, da-DK
+Norwegian, nb-NO
+Russian, ru-RU
+Czech, cs-CZ
+Japanese, ja-JP
+TChinese, zh-TW
+Korean, ko-KO
+SChinese, zh-CN
 
 
 ==========================================Uninstall Registry==========================================

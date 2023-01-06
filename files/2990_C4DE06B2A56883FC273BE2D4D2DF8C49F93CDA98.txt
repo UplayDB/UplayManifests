@@ -1,8 +1,8 @@
-Total number of files   : 2962
-Total size of files     : 1307327006 | 1,31 GB
-Total number of chunks  : 3
-Total bytes on disk     : 1307327006 | 1,31 GB
-Total bytes compressed  : 1203713659 | 1,20 GB
+Total number of files  : 2962
+Total number of chunks : 3
+Total size of Files    :       1307327006 Bytes | 1,218 GB
+Total size of Slices   :       1307327006 Bytes | 1,218 GB
+Total size Downloaded  :       1203713659 Bytes | 1,121 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -31,7 +31,7 @@ Name: Manual\manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 09CE750F2BA5525FF6DB8773F121FAA9835EDCCC | E3842B002B458DC0126353A0FEE75696A989F967 |     652976 |   652976 |   328408 | Eng\1602.exe
 796AD513238D5BA6A3DBD1054181466514D3AAA3 | 4AD69513DCF5F6D6E6CC44E80F02AA042542CA35 |     497328 |   497328 |   246815 | Eng\1602Edit.exe
 9410FB1E86C3457B015E05B38B36DEF3E1482092 | C80D4FA2E2BE014C0A4279E65303BA733A20DE40 |     140976 |   140976 |    60719 | Eng\Config.exe
@@ -1727,7 +1727,7 @@ B036AFB69B4C0EF3299092EF7BF387856377B927 | 5263355C59450BCBB2B9E08D477D65A9880E1
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7EAF4B2DA89EA99CB1E5CE18EF942A181AE92677 | 2E18875EB62E051FE820A75A379C33854AFC341E |        588 |      588 |      327 | Support\support.bat
 29068DB6F1E66CF130AB1B817BF477D58143F281 | 696DAC376C80E573BFA8C1003FA96BD60DDFA259 |        192 |      192 |      163 | Support\uninstall.bat
 5969C2D3CF839347710AA532B01994F22817F715 | 2244AFCC49D11D011EFA2D52C442016ACAE9AD49 |         83 |       83 |       79 | Support\DirectPlay.bat
@@ -1742,7 +1742,7 @@ F998A644B8E0AFB433BE8D0F60DA5FC9636654FA | 08CB01D10B73296C60AE5A3BDF689933A53D1
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F19366D3C40C6F219CCFF09D589242AC2AF25013 | 86AC5EA219C381A2D62947FE269AD9B0E48C5E83 |     652976 |   652976 |   328410 | Ger\1602.exe
 16823AA9CB77FDABA4E55D330C00836AFAFE8BE4 | 5AA2EFFF4768A77658E91AB85C3A668BFD43DE4F |     497328 |   497328 |   246817 | Ger\1602Edit.exe
 B3E71466467E643CCA44D3F228FE0CFB903E206A | BFA2C48B6F9C541813ADEBBA5726B8C9D0552A18 |     140976 |   140976 |    60708 | Ger\Config.exe
@@ -3508,9 +3508,8 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Anno1602\installPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Eng  | en-US
-$INSTALL_DIR\Ger  | de-DE
+$INSTALL_DIR\Eng, en-US
+$INSTALL_DIR\Ger, de-DE
 
 ========================================Install Firewall Rules========================================
 

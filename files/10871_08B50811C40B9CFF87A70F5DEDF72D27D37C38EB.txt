@@ -1,8 +1,8 @@
-Total number of files   : 10854
-Total size of files     : 8750323152 | 8,75 GB
-Total number of chunks  : 1
-Total bytes on disk     : 160388560 | 160,39 MB
-Total bytes compressed  : 1733435468 | 1,73 GB
+Total number of files  : 10854
+Total number of chunks : 1
+Total size of Files    :       8750323152 Bytes | 8,149 GB
+Total size of Slices   :        160388560 Bytes | 152,958 MB
+Total size Downloaded  :       1733435468 Bytes | 1,614 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D8718A1294B4CCC3917BD64F019D3C0560D7293B | A98DFCF4D0FD122EEC18FE3511E8100F234C1A34 |          6 |        6 |       14 | steam_appid.txt
 AD7ECD029709C07B0577461FF8C62D9D29A3DDA7 | 8515605B6D4C082BDD834305D4B4339B545A0C5D |     656584 |   656584 |   157001 | Transference.exe
 697D7B12A5A3CF3436DEFCA4FE4F438A9B9FD0F3 | 8BC041A5D3AB7AFABEE7BCE48413A4A163189E55 |   22329544 |  3145728 |  1327172 | UnityPlayer.dll

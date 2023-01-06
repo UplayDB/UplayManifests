@@ -1,8 +1,8 @@
-Total number of files   : 407
-Total size of files     : 1993114680 | 1,99 GB
-Total number of chunks  : 6
-Total bytes on disk     : 1993114680 | 1,99 GB
-Total bytes compressed  : 1993114680 | 1,99 GB
+Total number of files  : 407
+Total number of chunks : 6
+Total size of Files    :       1993114680 Bytes | 1,856 GB
+Total size of Slices   :       1993114680 Bytes | 1,856 GB
+Total size Downloaded  :       1993114680 Bytes | 1,856 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT ,
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 46F1C4FBBA1A29B450637CE7ECE5FA81F677648F |     804456 |   804456 |   804456 | base.dll
                                          | 70CD4CB2B4EA4CDF71F34C3F7FE0C2D2E676D9BA |     193024 |   193024 |   193024 | BinkW32.DLL
                                          | E4C81F55FC8519819C026CB5B62E45D549D7D51F |     218728 |   218728 |   218728 | detectionapi.dll
@@ -856,7 +856,7 @@ Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 67F89D353000E08CD1C3C54CD15ABF04075A1897 |     280168 |   280168 |   280168 | Support\Loc_Data\9\local.dll
                                          | 29B28F1780ADD28D8C6D7551D5BAEECAFF2AD67E |       1370 |     1370 |     1370 | Support\Loc_Data\9\pop3_interpreter_local.ini
                                          | 7A34B492CE762975A1AAF4C9A7BEEF39EC53BA39 |      22437 |    22437 |    22437 | Support\Loc_Data\9\POPData.bf
@@ -962,7 +962,7 @@ Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 95E8CFB7F68499E12E7E3EDF061E47AF039E292F |     284264 |   284264 |   284264 | Support\Loc_Data\7\local.dll
                                          | 5E3651231DFC284D9A1E9A4170C64D4E2247975F |       1472 |     1472 |     1472 | Support\Loc_Data\7\pop3_interpreter_local.ini
                                          | 4FE882AAE5250EB758CE04932307DEB8C1C67E3C |      20188 |    20188 |    20188 | Support\Loc_Data\7\POPData.bf
@@ -1049,7 +1049,7 @@ Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 0ED777EE0C0C86B63A9EF8E0B8BA13FF9F1EFBE1 |     284264 |   284264 |   284264 | Support\Loc_Data\10\local.dll
                                          | 6E76D7DE3F9DB9FE979DF4A24239D54F9206F2D5 |       1585 |     1585 |     1585 | Support\Loc_Data\10\pop3_interpreter_local.ini
                                          | A788D0318ED8570183F522CEEF1615F33346614A |      20842 |    20842 |    20842 | Support\Loc_Data\10\POPData.bf
@@ -1156,7 +1156,7 @@ Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 4FC15E8AF262C2EFFDB889ADAE8D5CA5010AAA15 |     284264 |   284264 |   284264 | Support\Loc_Data\1036\local.dll
                                          | B6B8AC57BBAF46C569E4E0E69B1D50B3DC806285 |       1580 |     1580 |     1580 | Support\Loc_Data\1036\pop3_interpreter_local.ini
                                          | 3C81757A7404D750C1C3B604634759C75B23CA4E |      20500 |    20500 |    20500 | Support\Loc_Data\1036\POPData.bf
@@ -1262,7 +1262,7 @@ Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 4677BA5DC7B82AEE52DDA92398B7B30EAB16738A |     284264 |   284264 |   284264 | Support\Loc_Data\16\local.dll
                                          | 8833D17BB22EBDA064DBC0CA4777B76A39AB7D40 |       1443 |     1443 |     1443 | Support\Loc_Data\16\pop3_interpreter_local.ini
                                          | 796EA32532BA7E17F799FA420F0BC0866E8725FC |      19851 |    19851 |    19851 | Support\Loc_Data\16\POPData.bf
@@ -1383,36 +1383,31 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Two Thrones\1.00.999\Product_Executable, Type: String
 Registry String Entry
-	Value | Language
-PrinceOfPersia.exe  | 
+PrinceOfPersia.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Two Thrones\1.00.999\Product_Path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Two Thrones\1.00.999\Product_Release, Type: String
 Registry String Entry
-	Value | Language
-Retail EMEA  | 
+Retail EMEA, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Two Thrones\1.00.999\Profiles_Path, Type: String
 Registry String Entry
-	Value | Language
-C:\ProgramData  | 
+C:\ProgramData, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Two Thrones\1.00.999\Product_Language, Type: String
 Registry String Entry
-	Value | Language
-     9  | en-US
-    10  | es-ES
-  1036  | fr-FR
-    16  | it-IT
-     7  | de-DE
+9, en-US
+10, es-ES
+1036, fr-FR
+16, it-IT
+7, de-DE
 
 ============================================Uninstall Runs============================================
 

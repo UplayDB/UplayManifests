@@ -1,8 +1,8 @@
-Total number of files   : 633
-Total size of files     : 29430442524 | 29,43 GB
-Total number of chunks  : 13
-Total bytes on disk     : 3660638748 | 3,66 GB
-Total bytes compressed  : 3257132549 | 3,26 GB
+Total number of files  : 633
+Total number of chunks : 13
+Total size of Files    :      29430442524 Bytes | 27,409 GB
+Total size of Slices   :       3660638748 Bytes | 3,409 GB
+Total size Downloaded  :       3257132549 Bytes | 3,033 GB
 
 Compression Method      : Lzham
 Version                 : 3
@@ -33,7 +33,7 @@ Name: Chinese\Readme.txt | Locale: zh-CN
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3DD7484539B8702847AA61250B3167974FA08EC5 | 907C63C2D324E308E674757C68374E718CEC42E4 |    1422976 |  1422976 |   838112 | Launch_Trials_Rising.exe
 4BF820649234157F297B7FBB4B08968B561B4242 | 4A43B009081FC83242A9D6F59E0918D4801F4E9F |     622542 |   622542 |   621948 | build\data_pc\config.pak
 9B822EF9BED40E7F57EC1F9A9509E37EA754601B | 57E3881B5BAAF0016D5F85D95ACC30AEECCA32D0 |  518007654 |  2097152 |  2057936 | build\data_pc\data.pak
@@ -5462,7 +5462,7 @@ EAAB6A17819F30CC54F69D6F9636335BC8060E4F | 4C5049B6A1CFCB5036DDAB276645C24D3D555
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack1\displayname
 752EF165A3B59B593CAFFE0A28EEADEE2396EC7C | 63559EC6D587FBEE795BB1E08A9983F998205FEC |      10748 |    10748 |    10725 | datapack\DLCContent\pack1\data\configs.pak
 E22F29F3DADCDFD2607BFDB64E3C5007669C5A46 | 6564ABCC58CF4452A24E40CBF316319019595650 |   40968155 |  2097152 |  2083800 | datapack\DLCContent\pack1\data\data1.pak
@@ -5897,7 +5897,7 @@ DA53A18299ED826CD1D6BA3074C44086A3D490F4 | CFDCCEFBEC6A48E678ABBB8D34DDA794B6938
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack2\displayname
 A81C4FBA31230A28F604295FF799CEA2BF651891 | 55087A5BE178F2AC1A2EB73953B98AD2EFF78DB2 |      22109 |    22109 |    22027 | datapack\DLCContent\pack2\data\configs.pak
 ACDFFB17D5DB35CD6019C73F0BE4AEF52A25544B | AD1A3E8E4BBF8734280C13858934CAF1E37AB162 |    8960940 |  2097152 |  2099486 | datapack\DLCContent\pack2\data\data2.pak
@@ -5987,7 +5987,7 @@ AC02B522F79A65BF717474E584E17BBB54026570 | 86EE8F8069EA9DE7D2EF65A0D4A27CB26FEF1
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack3\displayname
 A35C8BA586FA2DA50B7CDD43445F1E627FB25377 | E0F80AFADBD1AAFE5A956757B5212D3600DF069F |      36951 |    36951 |    36808 | datapack\DLCContent\pack3\data\configs.pak
 D1D712AA73D07271A0D2A3A53610E8EC69A6AAC9 | 8E232702D9A58CE58A9E37DAC8434BE7F082E14B |   14506750 |  2097152 |  2099515 | datapack\DLCContent\pack3\data\data3.pak
@@ -6065,7 +6065,7 @@ E2A115DF8B48847EB7F3A3783B02854DD9D2DCC5 | ED00ED29A224FB2079554E409DD1798E34BBA
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack4\displayname
 00C09056B9D7BA176275B420236B708D2F590E90 | 838BA61523496E987E64E2A619E461C1AADACE3F |      25796 |    25796 |    25732 | datapack\DLCContent\pack4\data\configs.pak
 70B7C3E1712D56A5A2D8E792B5EDE3DF357AAF59 | A591E8751B17BBF5C569FFDD7AC04D75234E3710 |   15403356 |  2097152 |  2099403 | datapack\DLCContent\pack4\data\data4.pak
@@ -6150,7 +6150,7 @@ D99BEAAEBD0D6B9ECFD7EB1E57B0D83334A02DF3 | 2D3F32F79B1882E7C6D0D9C44D6F65A8A47A4
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack5\displayname
 E8BCCD62763294FFB46E05DA3E41EB36084F49C6 | C4D8D78601B6FAD6D011DFB23FE715202E24FB65 |      15592 |    15592 |    15258 | datapack\DLCContent\pack5\data\configs.pak
 C42A7B47FC1D9BF533A0DEC450B3C0F40912EA14 | C1C5AA6454A4DCED3FA1D88E98DD6DC29C5C16B6 |   11946538 |  2097152 |  2099529 | datapack\DLCContent\pack5\data\data5.pak
@@ -6233,7 +6233,7 @@ EF247151C35B4AE66A9A4F60123FDACA7EA554B1 | BC5A0265A2DD19622EF65B7EA5F840A301E03
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack6\displayname
 DBDADA6550FE1D2D88290C8F113587FA78FB01E4 | 0C67BCB7165639B651A12349D6B290C3149FE84E |       5877 |     5877 |     5782 | datapack\DLCContent\pack6\data\configs.pak
 EF6CB1353658DA5E84F0B3A956296F68AB768BAE | 3DB1E450E713523F2E610D8983817C4419C943F6 |    8547639 |  2097152 |  2099598 | datapack\DLCContent\pack6\data\data6.pak
@@ -6292,7 +6292,7 @@ ECC8A225E7D4716CB8D85933F1B4BF3A118DA938 | 6616E75A0D77EC08ECC597666AF2BEB649314
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack7\displayname
 5B5AA2E41EF8E54CFAB4131DCC3F8781771C07CD | 583EF80371FBCBFCC8E646A2DFBC29F1B3FB211D |      19757 |    19757 |    19152 | datapack\DLCContent\pack7\data\configs.pak
 6D0CF5EA03796B2504724326F5FAB5576E447C7C | 27E6334527E5010788F1B81D26AF00D8B61144A3 |    8406221 |  2097152 |  2099641 | datapack\DLCContent\pack7\data\data7.pak
@@ -6365,7 +6365,7 @@ E288226C6FFA821641D789BA8CE60C1E6A058665 | 272680740CDE163585CBB12BFE9B01AEA04D9
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack9\displayname
 E830090583D1FA580C4FE1D718B02F51F2E5E460 | 5CBF125D579B68B39B1F2664EC654309C5D4A68F |      19876 |    19876 |    19846 | datapack\DLCContent\pack9\data\configs.pak
 7A45FE5F0785E6A39E67CE03982A7F6B69DBF905 | 3F4E11FCB4C0CFE99221D166FCC8905340773D33 |  150658256 |  2097152 |  2078155 | datapack\DLCContent\pack9\data\data9.pak
@@ -6995,7 +6995,7 @@ B47324B146E394F7E266FE6804167BD0C143409D | 80F203418FE9ABC6A0F17A6D5F40605419513
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack11\displayname
 3ADE9A6C37589C3BA67EB2AEAC2B5855FA9C3B7D | 3ECEA7E670D24C89A5A19BC2B526F63F0E8348C5 |      10689 |    10689 |    10665 | datapack\DLCContent\pack11\data\configs.pak
 F060E21DC7728CBD33A0941418A2197D3C832448 | D0F7EA691648D6461C0239FC23252DB87F0200DA |      21497 |    21497 |    21534 | datapack\DLCContent\pack11\data\data11.pak
@@ -14509,7 +14509,7 @@ ECAE68BCA92C77C245D36F2777B250CCC5BCF0C6 | D0C8AB3B5C81C5CBF000A1FEC7734FB4D62E0
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack12\displayname
 EC84EE33B0D85471C8DBDB33AF28F52DFB0831D6 | 5C60FE2F3D462D9DE4016ABC99BA5DB1B870F33E |        799 |      799 |      811 | datapack\DLCContent\pack12\data\configs.pak
 A51F668810C4A06D70DC20175E43676E7788DD67 | B8D25B3241A86C159EC017DD3B0E84445F9998A0 |        694 |      694 |      706 | datapack\DLCContent\pack12\data\data12.pak
@@ -14524,7 +14524,7 @@ F9B3B4BE044FC9367AB201362786219A79A3475F | 25661E637D532D2DA3589EF0B7B6B1E0CEB5E
 ================================================Chunks================================================
 
 Chunk ID: 13, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack13\displayname
 9CE8E8C610122F726B88CDC119A09B65C92E4E64 | 4DFF502D36776E2515CC32F5FC9D1AAEAF8F6106 |      25831 |    25831 |    25796 | datapack\DLCContent\pack13\data\configs.pak
 8A70D43E9A3558DFF1803E5445DD05A117CC0E5F | B316C644843C6E0E69E4A91B94016569F709CD43 |      19788 |    19788 |    19820 | datapack\DLCContent\pack13\data\data13.pak
@@ -14541,7 +14541,7 @@ FDE772CE0B3CA21FA24890CBA79EBC468E7F52B5 | 133E65EFEF22119D0D26315E537D046AF6644
 ================================================Chunks================================================
 
 Chunk ID: 14, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D1261CB881B089E9769EE30B368E670A318972FC | F8DF4CBB4870DA13A6EEA1129389B70AD13190FC |         13 |       13 |       25 | datapack\DLCContent\pack14\displayname
 8D6CEED3F64F4DB48493ABEFB6C0F811FAC5C26B | C6F696AA18617C4F3B825B73263A48BB5289A98A |      20751 |    20751 |    20788 | datapack\DLCContent\pack14\data\configs.pak
 813F53FCCC056F99D92BB24ABCF1AAEEFF94AAE2 | F989A14D9219586E7305C4626E05932EE146D45F |    2116434 |  2097152 |  2099719 | datapack\DLCContent\pack14\data\data14.pak
@@ -14633,23 +14633,22 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Trials Rising\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- en-US  | en-GB
- en-US  | en-CA
- de-DE  | de-DE
- es-ES  | es-ES
- fr-FR  | fr-FR
- fr-FR  | fr-CA
- it-IT  | it-IT
- ja-JP  | ja-JP
- nl-NL  | nl-NL
- pt-BR  | pt-BR
- pt-BR  | pt-PT
- ru-RU  | ru-RU
- zh-CN  | zh-CN
- zh-TW  | zh-TW
- ar-AA  | ar-AA
+en-US, en-US
+en-US, en-GB
+en-US, en-CA
+de-DE, de-DE
+es-ES, es-ES
+fr-FR, fr-FR
+fr-FR, fr-CA
+it-IT, it-IT
+ja-JP, ja-JP
+nl-NL, nl-NL
+pt-BR, pt-BR
+pt-BR, pt-PT
+ru-RU, ru-RU
+zh-CN, zh-CN
+zh-TW, zh-TW
+ar-AA, ar-AA
 
 ========================================Install Firewall Rules========================================
 

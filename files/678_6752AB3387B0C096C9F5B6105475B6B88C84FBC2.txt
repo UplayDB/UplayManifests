@@ -1,8 +1,8 @@
-Total number of files   : 470
-Total size of files     : 8648638798 | 8,65 GB
-Total number of chunks  : 1
-Total bytes on disk     : 58704206 | 58,70 MB
-Total bytes compressed  : 3295277718 | 3,30 GB
+Total number of files  : 470
+Total number of chunks : 1
+Total size of Files    :       8648638798 Bytes | 8,055 GB
+Total size of Slices   :         58704206 Bytes | 55,985 MB
+Total size Downloaded  :       3295277718 Bytes | 3,069 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -42,7 +42,7 @@ Name: RUS\Manual\manual.pdf | Locale: ru-RU
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F5D208EF0DBF37A86BCD796573DA00E8C8E1F2CB | 216EA6FD5D8D5CDDB235B50184D83A6B2960BA1B |   30121512 |  3145728 |  1218939 | Anno5.exe
 9A9187DBA2252802CFD48B4D85B0DC55A908C0A0 | F16FB56F0BD2F3817BBCBE27EB3CE6DE3530E4C5 |   30121512 |  3145728 |  1360554 | Anno5.exe
 009009150A5DD912C562325C233BEE9A131CAB05 | 03C07149248563AB76514D78FBD938A5C383B51A |   30121512 |  3145728 |  1547425 | Anno5.exe
@@ -3170,39 +3170,34 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5 CE\Language, Type: String
 Registry String Entry
-	Value | Language
-   ENG  | en-US
-   FRA  | fr-FR
-   GER  | de-DE
-   ITA  | it-IT
-   POL  | pl-PL
-   ESP  | es-ES
-   CZE  | cs-CZ
-   RUS  | ru-RU
+ENG, en-US
+FRA, fr-FR
+GER, de-DE
+ITA, it-IT
+POL, pl-PL
+ESP, es-ES
+CZE, cs-CZ
+RUS, ru-RU
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5 CE\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR/Anno5.exe  | 
+$INSTALL_DIR/Anno5.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5 CE\GameUpdate\Info, Type: String
 Registry String Entry
-	Value | Language
-3937a2fd8d4c67120ce6735d1d8484ec  | 
+3937a2fd8d4c67120ce6735d1d8484ec, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5 CE\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\ANNO 5 CE\GameUpdate\Language, Type: String
 Registry String Entry
-	Value | Language
-    Uk  | 
+Uk, 
 
 ========================================Install Firewall Rules========================================
 

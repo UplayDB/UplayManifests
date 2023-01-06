@@ -1,8 +1,8 @@
-Total number of files   : 153
-Total size of files     : 5078878745 | 5,08 GB
-Total number of chunks  : 5
-Total bytes on disk     : 783911449 | 783,91 MB
-Total bytes compressed  : 4046245975 | 4,05 GB
+Total number of files  : 153
+Total number of chunks : 5
+Total size of Files    :       5078878745 Bytes | 4,730 GB
+Total size of Slices   :        783911449 Bytes | 747,596 MB
+Total size Downloaded  :       4046245975 Bytes | 3,768 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -37,7 +37,7 @@ Name: Chinese(Trad)\Readme.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 054E2DB80626C467F2F78958A0D46B18C5804273 | 2931A581DC0F982C53413ECE1454951E621BC57B |  501674496 |  3145728 |  1132592 | ImmortalsFenyxRisingDemo.exe
 60CE0D84E52472DD398B8E8ED3CD7EECDFF0120C | 847F3E4DC78C90F28C3FE88A70FA4BEBDFA8B7D4 |  501674496 |  3145728 |  1031970 | ImmortalsFenyxRisingDemo.exe
 DF92A038F61E0996F1F9633047B6992AFA9D9B78 | 0F90EFE31F8E7BE1DAA78D17E28C55CBE4DA7C41 |  501674496 |  3145728 |  1281460 | ImmortalsFenyxRisingDemo.exe
@@ -201,7 +201,7 @@ AF1713DB452C01590DCC9B60F8ACA9D4027DF786 | 92EC7E0E07B20305E107B510A283B0FF2D891
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 97B72E7F4B21FD1F492F94432B9838D11792471A | 6660BD26A934B8535EB8749C6C830F8C51224937 |    2031856 |  2031856 |   861650 | tobii_gameintegration_x64.dll
 893CC78B03645C81DF342D4A75FB8CE8462D5378 | DE97DAEF67E660E5AC4A8F840E7FFA60CD493A17 |    1205248 |  1205248 |   351415 | GFSDK_Aftermath_Lib.x64.dll
 7DE1AA8C50DA6467AB7D997EA379D54FC9AE0180 | FE8ECA6E2065FFAE8325C2795135F73433B68719 |    4524696 |  3145728 |  1269393 | d3dcompiler_47.dll
@@ -254,7 +254,7 @@ D93F7A635F80647CE56F7E0EB462479228E927A9 | B7D4C3ABE057DBD21F8B07D20418890C298D0
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1FC40D7CADEAEC1601314F26D6F73BE103B53A99 | 50FB5EE22F44A56C0556034948D4B426B90BB3A9 |   33995512 |  3145728 |   164044 | ShaderDataDX11.bin
 42974A817953731294310A329A761E5444DDA056 | 81C1B4E0509E66A9DD2203783EAE418732058136 |   33995512 |  3145728 |    83865 | ShaderDataDX11.bin
 4E513CF13FBFBDDEA7DBFF2566A388FB470E6859 | 91CB60EA6BBE0EE0AFD2620E3A675351D6DFDD95 |   33995512 |  3145728 |   103094 | ShaderDataDX11.bin
@@ -1437,7 +1437,7 @@ FB93A7FEECE107DCCD0797E9E938A7789D3ECA64 | 71B7EBC9FE8490EE4769244773609705DABA3
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F179AAEC5E85990CCE18B5BA5EE9D72B36521632 | 79F93EB674A4947333F7903D8C2327A1DAB9A337 |     115005 |   115005 |    25638 | sounddata/pc/sounds_sfx_preinit.pck
 914293F57D242B332F35285643AA611EFEDCDCBB | 33C24275D623FFCBC193F807AA546FB6ED770390 |    1604040 |  1604040 |  1604088 | videos/Abilities/ORP_GuidedArrow_1a_Base.webm
 BD7CE3F987E381CDDEC86E974BF619BFD6BA4443 | A7539241F2C1C4E38DB83B868687AB9FD8FE94E6 |    1299553 |  1299553 |  1299592 | videos/Abilities/ORP_Hammer_1a_Base.webm
@@ -1768,7 +1768,7 @@ C2780F1D71AF3C56E860B9A6DD1A1F3930EA9F44 | E94BE8331032859E511E83E86614FBDD7E937
 ================================================Chunks================================================
 
 Chunk ID: 118, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D90D475B561B26C6BC5AE2971151B9F7637C87F4 | FDC056C7644B5B75A02CE19A7FCFA0506E259185 |       8099 |     8099 |     2577 | Support\Readme\English\Readme.txt
 2D1ADB988D379BA14A38169B8C377D7EA049FD45 | E6AF33A91E911D55F428EBE09E2B1025632EC8F3 |       7916 |     7916 |     2351 | Support\Readme\French\Readme.txt
 550CD2DA1692FD0D37B963FB0F5ED5BCC49CDC60 | 10484D84163DA373E414A0CA4C0A60C499A76C06 |       8491 |     8491 |     2666 | Support\Readme\Italian\Readme.txt
@@ -1819,22 +1819,21 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Immortals Fenyx Rising\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- fr-FR  | fr-FR
- it-IT  | it-IT
- de-DE  | de-DE
- es-ES  | es-ES
- ru-RU  | ru-RU
- pt-BR  | pt-BR
- ja-JP  | ja-JP
- nl-NL  | nl-NL
- pl-PL  | pl-PL
- cs-CZ  | cs-CZ
- ko-KO  | ko-KO
- zh-TW  | zh-TW
- zh-CN  | zh-CN
- ar-AR  | ar-AA
+en-US, en-US
+fr-FR, fr-FR
+it-IT, it-IT
+de-DE, de-DE
+es-ES, es-ES
+ru-RU, ru-RU
+pt-BR, pt-BR
+ja-JP, ja-JP
+nl-NL, nl-NL
+pl-PL, pl-PL
+cs-CZ, cs-CZ
+ko-KO, ko-KO
+zh-TW, zh-TW
+zh-CN, zh-CN
+ar-AR, ar-AA
 
 ========================================Install Firewall Rules========================================
 

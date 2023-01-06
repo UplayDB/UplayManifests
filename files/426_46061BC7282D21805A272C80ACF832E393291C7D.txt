@@ -1,8 +1,8 @@
-Total number of files   : 3682
-Total size of files     : 11587482442 | 11,59 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2997547850 | 3,00 GB
-Total bytes compressed  : 1812405358 | 1,81 GB
+Total number of files  : 3682
+Total number of chunks : 1
+Total size of Files    :      11587482442 Bytes | 10,792 GB
+Total size of Slices   :       2997547850 Bytes | 2,792 GB
+Total size Downloaded  :       1812405358 Bytes | 1,688 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 017E9F59D2B0FFD92904111B14554539F7B45E57 | EA95362D3B26841BAA84E248A8CC75F7D9DC98F7 |   10518512 |  2097152 |   789107 | Might and Magic X Legacy.exe
 FE45896EA3ABB7CA7299D3D56AA88FF54FB1BC04 | 5C8B51CA993BF19407ADD87FE29E8753330787E7 |   10518512 |  2097152 |   843822 | Might and Magic X Legacy.exe
 186D1902046D975EA42A4A223603E6F9BBBE8F10 | E151A26C2041892BDA7879D95827D863AC3C780E |   10518512 |  2097152 |   971510 | Might and Magic X Legacy.exe
@@ -8837,21 +8837,20 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Might & Magic X Legacy\GameLanguage, Type: String
 Registry String Entry
-	Value | Language
-    cz  | cs-CZ
-    de  | de-DE
-    en  | en-US
-    es  | es-ES
-    fr  | fr-FR
-    hu  | hu-HU
-    it  | it-IT
-    jp  | ja-JP
-    kr  | ko-KO
-    pl  | pl-PL
-    br  | pt-BR
-    ro  | ro-RO
-    ru  | ru-RU
-    cn  | zh-CN
+cz, cs-CZ
+de, de-DE
+en, en-US
+es, es-ES
+fr, fr-FR
+hu, hu-HU
+it, it-IT
+jp, ja-JP
+kr, ko-KO
+pl, pl-PL
+br, pt-BR
+ro, ro-RO
+ru, ru-RU
+cn, zh-CN
 
 
 ==========================================Uninstall Registry==========================================

@@ -1,8 +1,8 @@
-Total number of files   : 5317
-Total size of files     : 2531239743 | 2,53 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2531239743 | 2,53 GB
-Total bytes compressed  : 2531239743 | 2,53 GB
+Total number of files  : 5317
+Total number of chunks : 1
+Total size of Files    :       2531239743 Bytes | 2,357 GB
+Total size of Slices   :       2531239743 Bytes | 2,357 GB
+Total size Downloaded  :       2531239743 Bytes | 2,357 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | BDD77AD4439FF0F5537321C5E524F565E51EF4D3 |      27318 |    27318 |    27318 | SplinterCell.ico
                                          | 3DF2858BA5C51A90DE7739629B102F12FC3CE3A3 |      95594 |    95594 |    95594 | animations\EBobrov.ukx
                                          | C33E28D0D626350819941F1ED9DD20AB6DDD1E51 |     378458 |   378458 |   378458 | animations\EDog.ukx
@@ -7431,36 +7431,31 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft Entertainment\SPLINTERCELL\ExeName, Type: String
 Registry String Entry
-	Value | Language
-SplinterCell.exe  | 
+SplinterCell.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft Entertainment\SPLINTERCELL\InstalledPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft Entertainment\SPLINTERCELL\InstallType, Type: String
 Registry String Entry
-	Value | Language
-  Full  | 
+Full, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft Entertainment\SPLINTERCELL\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Spanish  | es-ES
+English, en-US
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Spanish, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft Entertainment\Tom Clancy's Splinter Cell\1.00.000\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 
 ============================================Uninstall Runs============================================
 

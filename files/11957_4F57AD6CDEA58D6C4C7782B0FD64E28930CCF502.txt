@@ -1,8 +1,8 @@
-Total number of files   : 341
-Total size of files     : 32801407382 | 32,80 GB
-Total number of chunks  : 6
-Total bytes on disk     : 2736636310 | 2,74 GB
-Total bytes compressed  : 1650880869 | 1,65 GB
+Total number of files  : 341
+Total number of chunks : 6
+Total size of Files    :      32801407382 Bytes | 30,549 GB
+Total size of Slices   :       2736636310 Bytes | 2,549 GB
+Total size Downloaded  :       1650880869 Bytes | 1,538 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -41,7 +41,7 @@ Name: ReadMe-ct.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 746A587C0D9B1F024FCF9F221689707D63ED6C92 | 380C6C5B22A8893A7BCB8C3D57DB1BB0F85F4624 |       1545 |     1545 |      815 | BattlEye/Privacy/cs.txt
 746A587C0D9B1F024FCF9F221689707D63ED6C92 | 380C6C5B22A8893A7BCB8C3D57DB1BB0F85F4624 |       1545 |     1545 |      815 | BattlEye/Privacy/cs-CZ.txt
 CC481A8783B8AE6E619352018D5AA07B80785BDE | C961AB10463220D4797FB6FAA06AB507FEA3F96D |       1445 |     1445 |      738 | BattlEye/Privacy/de.txt
@@ -3995,7 +3995,7 @@ B04A46D7556C7B1905B0655C18E0527D2BAE5DC7 | E318457B1A8E943859F22732314D57A57EEC3
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 30E35FE39230A6553A4D5BBEAEA2DE49347D21A4 | 10948B9AFDECF11CA8037227EDA322FD83513DC5 |    3702784 |  3145728 |  2334892 | datapc64_game_livemenu.forge
 5CD9B5F6D0281B3DBEE3035D9A90C39097B0BBAF | EB7E5ACC5A39CE5B60BC2F8FDBDF3FC711357B50 |    3702784 |   557056 |   524616 | datapc64_game_livemenu.forge
 DF5D237B4E785F4FDFB585827B68682F3F0D59DE | 0907800583015FF100AF53B069016096E9DCC203 |     917504 |   917504 |   627007 | datapc64_game_hubmenu.forge
@@ -7132,7 +7132,7 @@ EC30C27D4ED738B5EBADB1DE59F4C3B2A35A5709 | 2116A0F37104BDDECAE9916548929D32B5DAC
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4780142B1C5606735FACA28F35DB113015AFE17C | A89B5A204F21F8B2713ADF044FE1CE4CEC734BCC |  132253198 |  3145728 |  3009460 | sounddata/PC/sounds_eng.pck
 A85099961DDC86EA0C52B0073A03877152C9079A | CBB0204D8B1A0CC19B29FEC4E41C4207D26FECD6 |  132253198 |  3145728 |  3056969 | sounddata/PC/sounds_eng.pck
 60952164AB0190E2ACEFB3058A9DFFCED439C830 | 0FDE2E01E4E32D75802BF9234E65B0E3A4A90345 |  132253198 |  3145728 |  3034598 | sounddata/PC/sounds_eng.pck
@@ -7214,7 +7214,7 @@ EEA9228F2F8DA2D8F2792528AC3B0D8C21A623BC | A966445F81878C3CE4AB337C03069A2FBA1DA
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 05CD2AEB608FC15CFD36B3EDCB9813023D1F2E71 | 7300C730241B9D2B044D88278343B9B2EB2DA15A |  132016032 |  3145728 |  3039362 | sounddata/PC/sounds_fre.pck
 FA638F0713B9202EEF572CEACFEC56C363DD287F | 1D20B4793BC7AB0A843A4D8656A52F525C91F758 |  132016032 |  3145728 |  3070683 | sounddata/PC/sounds_fre.pck
 0FD82693788CC86F45AA10897AD114B67E788CED | 4303F8ABD7DBD2FC9A43BE49D3FED11854496F36 |  132016032 |  3145728 |  3034594 | sounddata/PC/sounds_fre.pck
@@ -7294,7 +7294,7 @@ FED375DDEA12958A436EAAE5615AB7CE6B10C1EC | F178B027C613F10332B951076B84744BEA5B2
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8BFE507904D90AD0F15C84954DFFFDD56CB9E9FA | 027F7E3907BCA3D9CF1276C53EBF141F6854B80F |    1879613 |  1879613 |  1855781 | datapc64_merged_playgo_bnk_000000002_textures4.forge
 6CF3610671A6C987D703D682F1D188FD4D8E51FE | 62E09CA0DA70A9843C1BF7FACF36720B23AFC47B |    4531053 |  3145728 |  3081483 | datapc64_merged_playgo_bnk_000000003_textures4.forge
 272066B247403F83EA0215B76D288B02A181920D | 82F0649BE8D3D12CEDFEA93C8EFC0EFADDC11DC1 |    4531053 |  1385325 |  1360356 | datapc64_merged_playgo_bnk_000000003_textures4.forge
@@ -10506,7 +10506,7 @@ BAECA7FB1E7B1C5CFE40CD98FBAA89646AF3BA61 | 4BDCD43E545CC4EDE1FC1A980676C9AD16617
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4D5E29EE54CBA3AAFD9BAEA65A74720BC9AA2F5B | BB8DBBB270FCC16F45915907964600F93EDA81F4 |   10697502 |  3145728 |  3128177 | datapc64_merged_game_bnk_000000001_textures4.forge
 3DE4B11F5764CDE3226E00EC13BA094313190398 | FE502EDE90A176D6531EE978BFC66E4131654DB2 |   10697502 |  3145728 |  3141469 | datapc64_merged_game_bnk_000000001_textures4.forge
 583B4193FA311A0437C58338FF0132A16B7FC354 | FDDE24D3F5386710D32C826F087B0CF9308C613F |   10697502 |  3145728 |  3142261 | datapc64_merged_game_bnk_000000001_textures4.forge

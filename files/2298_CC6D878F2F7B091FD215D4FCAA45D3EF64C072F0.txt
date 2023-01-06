@@ -1,8 +1,8 @@
-Total number of files   : 6246
-Total size of files     : 423911195 | 423,91 MB
-Total number of chunks  : 1
-Total bytes on disk     : 423911195 | 423,91 MB
-Total bytes compressed  : 423911195 | 423,91 MB
+Total number of files  : 6246
+Total number of chunks : 1
+Total size of Files    :        423911195 Bytes | 404,273 MB
+Total size of Slices   :        423911195 Bytes | 404,273 MB
+Total size Downloaded  :        423911195 Bytes | 404,273 MB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: en-US ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 9755F8B2F2E8445DE1192DCC2AE7B2BB7613345D |      14726 |    14726 |    14726 | Constants.txt
                                          | 0B9C9843B98199B71097C40248AB3B2AA82C274D |     182888 |   182888 |   182888 | DevicePicker.exe
                                          | 46E02E9A7B687B40E9C5C84B38F18199E93325CE |       1507 |     1507 |     1507 | dsfvorbisdecoder_eula.txt
@@ -6380,248 +6380,207 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Tom Clancy's Rainbow Six_is1\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\Language, Type: Number
 Registry Number Entry
-  Value | Language
-     0  | 
+0, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\ActorPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\actor  | 
+$INSTALL_DIR\data\actor, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\BiographyTextPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\text\bios  | 
+$INSTALL_DIR\data\text\bios, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\BitmapPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\bitmap  | 
+$INSTALL_DIR\data\bitmap, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\BriefingBitmapPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\shell\briefing  | 
+$INSTALL_DIR\data\shell\briefing, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\BriefingTextPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\text\briefing  | 
+$INSTALL_DIR\data\text\briefing, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\CursorPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\shell\cursor  | 
+$INSTALL_DIR\data\shell\cursor, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\DialoguePath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\dialogue  | 
+$INSTALL_DIR\data\dialogue, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\EquipmentPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\kit  | 
+$INSTALL_DIR\data\kit, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\EquipTextPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\text\kit  | 
+$INSTALL_DIR\data\text\kit, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\FacesPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\shell\faces  | 
+$INSTALL_DIR\data\shell\faces, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\FontPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\font  | 
+$INSTALL_DIR\data\font, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\GamePath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\save  | 
+$INSTALL_DIR\data\save, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\IconPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\icon  | 
+$INSTALL_DIR\data\icon, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\InstallationPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\IntelBitmapPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\shell\intel  | 
+$INSTALL_DIR\data\shell\intel, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\IntelTextPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\text\intel  | 
+$INSTALL_DIR\data\text\intel, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\JournalPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\journals  | 
+$INSTALL_DIR\data\journals, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\MissionPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\mission  | 
+$INSTALL_DIR\data\mission, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\MissionSplashPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\text\splash  | 
+$INSTALL_DIR\data\text\splash, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\MissionTextPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\text\mission  | 
+$INSTALL_DIR\data\text\mission, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\ModelPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\model  | 
+$INSTALL_DIR\data\model, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\MotionPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\motion  | 
+$INSTALL_DIR\data\motion, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\PlotPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\plot  | 
+$INSTALL_DIR\data\plot, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\PlanPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\plan  | 
+$INSTALL_DIR\data\plan, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\ProfileTextPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\text\profile  | 
+$INSTALL_DIR\data\text\profile, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\RosterBitmapPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\shell\roster  | 
+$INSTALL_DIR\data\shell\roster, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\ShellTextPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\text\interface  | 
+$INSTALL_DIR\data\text\interface, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\TempPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\temp  | 
+$INSTALL_DIR\data\temp, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\TextPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\text  | 
+$INSTALL_DIR\data\text, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\TexturePath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\texture  | 
+$INSTALL_DIR\data\texture, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\SoundPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\sound  | 
+$INSTALL_DIR\data\sound, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\CharacterPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\character  | 
+$INSTALL_DIR\data\character, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\MapPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\map  | 
+$INSTALL_DIR\data\map, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\MissionSplashBMPPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\Splash  | 
+$INSTALL_DIR\data\Splash, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\BriefingSoundPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\sound  | 
+$INSTALL_DIR\data\sound, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\ActionMusicPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\sound\music  | 
+$INSTALL_DIR\data\sound\music, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\VideoPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\data\video  | 
+$INSTALL_DIR\data\video, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\CDPath, Type: String
 Registry String Entry
-	Value | Language
-   C:\  | 
+C:\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six\InstallType, Type: String
 Registry String Entry
-	Value | Language
-  Full  | 
+Full, 
 
 ============================================Uninstall Runs============================================
 

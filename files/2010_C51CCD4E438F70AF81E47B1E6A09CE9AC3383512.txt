@@ -1,8 +1,8 @@
-Total number of files   : 263
-Total size of files     : 21645386460 | 21,65 GB
-Total number of chunks  : 10
-Total bytes on disk     : 170549980 | 170,55 MB
-Total bytes compressed  : 2117609283 | 2,12 GB
+Total number of files  : 263
+Total number of chunks : 10
+Total size of Files    :      21645386460 Bytes | 20,159 GB
+Total size of Slices   :        170549980 Bytes | 162,649 MB
+Total size Downloaded  :       2117609283 Bytes | 1,972 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -41,7 +41,7 @@ Name: Traditional Chinese\Readme.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 980BE972E9B76637B5160A1D7418A3695BB503B0 | 60C4601E3D5C8F84824DB6EA1DFB95072F57AC49 |     435712 |   435712 |   227360 | bin\bink2w64.dll
 A9508D840D436F4989665E0DDE8B1E9D3C8F6F48 | 5D301674F3FD96818C04A9F4399AEB13A0B65327 |     309448 |   309448 |   111342 | bin\dbdata.dll
 E2E7C7413F7F461AB47F15BAF6877BCE3269B911 | 4F488AE8BE2B352BA9C1AA8151FB3A35D57B271C |  122244776 |  2097152 |   321983 | bin\FCPrimal.exe
@@ -288,7 +288,7 @@ F7B2EEEED08B6CBE7D10A68378E9DE6E43156B8B | 64C7264E96F902123DFDFC6FCB1EE7EEB547E
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1F136E3A89DAF0BED2830AE842C9E59D3E89B453 | AEDE8EAE32B5D713274337312885463244861393 |      15144 |    15144 |     5211 | Support\Readme\Brazilian\Readme.txt
 509C47B35EBA01147F80621F7658F19636C368F5 | 60390339345BD849DEF215C8B2512E0A8EFF0F84 |      14704 |    14704 |     5546 | Support\Readme\Czech\Readme.txt
 8EAD040467451BF4B3AF5497175DBE2FB1620230 | 6016AC0A2940D0500A97BAA4640902AE6B20167E |      13710 |    13710 |     4911 | Support\Readme\Danish\Readme.txt
@@ -538,7 +538,7 @@ F632842A5AA0E64F71F9674366DA69F96B9862BA | 9BF4F16DC854F25471865DE3CF618BEDC4D46
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: core
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 76CBC79FFBF528238C2DAF04E7BEE789416946AC | 0DACC09E5E99F8309CBE147C740E9AC86A90C99A |  909290440 |  2097152 |  1483914 | data_win32\common.dat
 D9CDA4FCBF036F7E01DD5B9A8E9E3C102354ABA8 | 749EA015F6AE8D4D10A9E58CC2E1331D5114E42F |  909290440 |  2097152 |  1783229 | data_win32\common.dat
 7A70D32B5052FCD0DD5BA14751178DE316D58F70 | 7BD4B8B0521D0078F60EDA31AECF68C06BD8AD5A |  909290440 |  2097152 |  1936634 | data_win32\common.dat
@@ -2767,7 +2767,7 @@ CDD7A9277F36C0FDCAE037F790CEA8612F05D3E2 | 4693C33069F86C96CAC25E76123397B388561
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: progressive
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5302B2AF2C23B49F454EB909D051327B9E5B1243 | 3346314A25BF8229F37374C727D43FE3C0B81D05 | 4121278760 |  2097152 |  1983667 | data_win32\sound.dat
 B0ECEEEDE813B6C7719214F073FB801C87FB927A | C31E0DAD4DC7B3E9D00D8D26DACBF537BA982982 | 4121278760 |  2097152 |  2000067 | data_win32\sound.dat
 E9D96B510D11CE4216C8724B501E2FC4BA53EC22 | 4907397910A6144566C35C1D9728DE1FFE906A19 | 4121278760 |  2097152 |  1963575 | data_win32\sound.dat
@@ -8919,7 +8919,7 @@ F0AF9A0D2381E339104C829FAECE2E9F4E9CF30F | E74A06145845F43D0DF4EA0C8F389AF871C2A
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: cs-CZ,da-DK,de-DE,es-ES,es-MX,fi-FI,fr-FR,it-IT,nb-NO,nl-NL,pl-PL,pt-BR,sv-SE,en-GB,en-CA,fr-CA, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1228043E3352331542CAD1F6FB6D440C26A66CE6 | 17B849B0339AC35CE8B9D7D8FA163E246F937DE8 |      36585 |    36585 |    13799 | Support\License\Czech\lic.txt
 5DAAD2F29AEBF6608C6DD21F91030AAA168C37A9 | F46700716D4F618F81AFD5985332EBDD11524C84 |      34604 |    34604 |    12986 | Support\License\Danish\lic.txt
 B0A39EE7141C0073AC7B9FB95DF02D42AB5840F9 | 1C1523275BB4ED89FF61209354A5559BA224AA3D |      39906 |    39906 |    14431 | Support\License\German\lic.txt
@@ -8940,29 +8940,29 @@ B1571531E57C5543B1908DC2744E583601FBFF4C | 1C6AEC1189184BDCFC9E2E9BFA713A425FB23
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B9B6D5CDFED51C1A99CB93A5090B0DA410E8E9AF | 3A06EC829AEF19CB7CD99FF4B3928ADDAB378991 |      70453 |    70453 |    16937 | Support\License\Russian\lic.txt
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-TW,zh-CN,ko-KO, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F30E3940D7E9A8ED35EEC8D39B14FCEBEC6A9B81 | 4AFE19F5B26768ADC3661F8AE4809977E58F068E |      32597 |    32597 |    11966 | Support\License\Traditional Chinese\lic.txt
 E509F427D45D20419BAF4F033737608DFC9E2B2C | 7562C09D844C965A022636998C22A5C8442CC850 |      27687 |    27687 |    11398 | Support\License\Chinese\lic.txt
 F30E3940D7E9A8ED35EEC8D39B14FCEBEC6A9B81 | 4AFE19F5B26768ADC3661F8AE4809977E58F068E |      32597 |    32597 |    11966 | Support\License\Korean\lic.txt
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ja-JP, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 46EA3C15F66DFC2F4D896580B3A92C732F3CFD1C | 96CF8BD04B87A6E07FA8B57F70FDE2B9615BE737 |      44231 |    44231 |    13094 | Support\License\Japanese\lic.txt
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 40DBE33F5B6A75BF066D810436D1CB702210530C | 2DD2E0B7A9824579B9682F5B28DB76723DE680B5 |      36329 |    36329 |    13274 | Support\License\English(US)\lic.txt
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D64AD351F90C56F68462D0838F2BAB0CEEA11CDA | 33C4D2E4987D13E38A381F06037D9D0FB2F95470 | 3416769501 |  2097152 |  1948948 | data_win32\worlds\primal_main\primal_main_hd_tex.dat
 71D52C1740893817BFACB5FFB81C31AA560F6263 | 600C77F0289CBBF33425F818CA03B32C41C5CEBF | 3416769501 |  2097152 |  1956545 | data_win32\worlds\primal_main\primal_main_hd_tex.dat
 0A078D30551B1D51677B380F20E23455B7C6EA27 | 090FF71204B6BDBF268D83CCFA9465AE7A0B0BDE | 3416769501 |  2097152 |  1961287 | data_win32\worlds\primal_main\primal_main_hd_tex.dat
@@ -10656,29 +10656,28 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\FarCryPrimal\2010\Language, Type: String
 Registry String Entry
-	Value | Language
- zh-TW  | zh-TW
- cs-CZ  | cs-CZ
- da-DK  | da-DK
- de-DE  | de-DE
- en-US  | en-CA
- en-US  | en-GB
- en-US  | en-US
- es-ES  | es-ES
- es-MX  | es-MX
- fi-FI  | fi-FI
- fr-FR  | fr-CA
- fr-FR  | fr-FR
- it-IT  | it-IT
- ja-JP  | ja-JP
- nb-NO  | nb-NO
- nl-NL  | nl-NL
- pl-PL  | pl-PL
- pt-BR  | pt-BR
- ru-RU  | ru-RU
- sv-SE  | sv-SE
- zh-CN  | zh-CN
- ko-KO  | ko-KO
+zh-TW, zh-TW
+cs-CZ, cs-CZ
+da-DK, da-DK
+de-DE, de-DE
+en-US, en-CA
+en-US, en-GB
+en-US, en-US
+es-ES, es-ES
+es-MX, es-MX
+fi-FI, fi-FI
+fr-FR, fr-CA
+fr-FR, fr-FR
+it-IT, it-IT
+ja-JP, ja-JP
+nb-NO, nb-NO
+nl-NL, nl-NL
+pl-PL, pl-PL
+pt-BR, pt-BR
+ru-RU, ru-RU
+sv-SE, sv-SE
+zh-CN, zh-CN
+ko-KO, ko-KO
 
 ========================================Install Firewall Rules========================================
 

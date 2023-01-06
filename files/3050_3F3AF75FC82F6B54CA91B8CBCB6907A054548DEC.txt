@@ -1,8 +1,8 @@
-Total number of files   : 241
-Total size of files     : 699439621 | 699,44 MB
-Total number of chunks  : 4
-Total bytes on disk     : 699439621 | 699,44 MB
-Total bytes compressed  : 397683107 | 397,68 MB
+Total number of files  : 241
+Total number of chunks : 4
+Total size of Files    :        699439621 Bytes | 667,038 MB
+Total size of Slices   :        699439621 Bytes | 667,038 MB
+Total size Downloaded  :        397683107 Bytes | 379,260 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -32,7 +32,7 @@ Name: Fr\Imperialism - manual.pdf | Locale: fr-FR
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C2C738F6C2E4E19310D5CE9EF66257D903896AB1 | 127703D65B2886AACDB261C864A6DDA79ABCF5AE |        920 |      920 |      303 | En\FINDER.DAT
 A6E25FCA97FB123F2395827B4AF6D035939FACBE | E4D554E03BA91F6B53A2A80253B339F56E303C94 |      96264 |    96264 |    49491 | En\GameuxInstallHelper.dll
 6B443D01164A7FBA9B4B678211D25B9D5CE011A1 | 5C578B170FFC1B2904CF7974B533A4B4E0682EC6 |   59395675 |  2097152 |   272501 | En\Imperialism.alf
@@ -215,7 +215,7 @@ DF4E475747EC40073CE31A424343AC24910F7F05 | 7891C919EE85F88B8A9C28300AD818B86D1BB
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C2C738F6C2E4E19310D5CE9EF66257D903896AB1 | 127703D65B2886AACDB261C864A6DDA79ABCF5AE |        920 |      920 |      303 | Fr\FINDER.DAT
 A6E25FCA97FB123F2395827B4AF6D035939FACBE | E4D554E03BA91F6B53A2A80253B339F56E303C94 |      96264 |    96264 |    49491 | Fr\GameuxInstallHelper.dll
 6B443D01164A7FBA9B4B678211D25B9D5CE011A1 | 5C578B170FFC1B2904CF7974B533A4B4E0682EC6 |   59395675 |  2097152 |   272501 | Fr\Imperialism.alf
@@ -392,7 +392,7 @@ AB3F2686840307927EF57CFA69C834BA3842E710 | E0A2F995D9CFCD64F49A9FF691998EC5BA4DD
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C2C738F6C2E4E19310D5CE9EF66257D903896AB1 | 127703D65B2886AACDB261C864A6DDA79ABCF5AE |        920 |      920 |      303 | Ge\FINDER.DAT
 A6E25FCA97FB123F2395827B4AF6D035939FACBE | E4D554E03BA91F6B53A2A80253B339F56E303C94 |      96264 |    96264 |    49491 | Ge\GameuxInstallHelper.dll
 8ECF100C3176552AE1D303B15DBFFAF94B90CAE6 | D95A40BEBA9C0B0B27D3D6F0746EB12C7F903228 |    3140264 |  2097152 |   736618 | Ge\Imperialism.exe
@@ -541,7 +541,7 @@ F4808959FFF801B7503FC19D93FC7F592EF6C15F | 5F27D1448844B60EF9AC3313B363B11E26750
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9FFE7758F40B2C51F96366E9065ADD11481F4532 | 370947F97E039E06AE953C576E2271C4EC2D898F |   13767776 |  2097152 |  1886214 | Support\vc_redist.x86.exe
 D4613F73F333982D17ADEE55F927EB0A673BF7A9 | BF9788479AF0B5AEF98DDB9AB91188082B1596B8 |   13767776 |  2097152 |  2097787 | Support\vc_redist.x86.exe
 83B8BD7C616047634F298D14B3E33B9B0076EE68 | C8F1A17B75EE42D2B56499F9BE721A8BC89237B7 |   13767776 |  2097152 |  2097798 | Support\vc_redist.x86.exe
@@ -588,10 +588,9 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Strategic Simulations Inc.\Imperialism\1.0\DIRECTORY, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\En  | en-US
-$INSTALL_DIR\Fr  | fr-FR
-$INSTALL_DIR\Ge  | de-DE
+$INSTALL_DIR\En, en-US
+$INSTALL_DIR\Fr, fr-FR
+$INSTALL_DIR\Ge, de-DE
 
 ========================================Install Firewall Rules========================================
 

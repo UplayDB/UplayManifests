@@ -1,8 +1,8 @@
-Total number of files   : 492
-Total size of files     : 50576282959 | 50,58 GB
-Total number of chunks  : 15
-Total bytes on disk     : 3331642703 | 3,33 GB
-Total bytes compressed  : 4204756138 | 4,20 GB
+Total number of files  : 492
+Total number of chunks : 15
+Total size of Files    :      50576282959 Bytes | 47,103 GB
+Total size of Slices   :       3331642703 Bytes | 3,103 GB
+Total size Downloaded  :       4204756138 Bytes | 3,916 GB
 
 Compression Method      : Lzham
 Version                 : 3
@@ -36,7 +36,7 @@ Name: Chinese(Trad)\Readme.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7F6AC776614BCB1B4727E0AC1537DA2B2E0FF447 | A28146A1240C56CA758979B0225B9447B2556EA1 |   58433480 |  3145728 |  1363190 | ACIII.exe
 F1B4637D00D945D3D7EC5455DFCA8403D4BF52C6 | DCCDFC29CA3D645147B7B26EFD233F0D8FA80A95 |   58433480 |  3145728 |  1427146 | ACIII.exe
 9C68E6BFF3174B885B3AA5F2015B2FB618BB43F3 | 896CA1B8B1771E62C8F72A1C6169AC0453BE3492 |   58433480 |  3145728 |  1413683 | ACIII.exe
@@ -291,7 +291,7 @@ F8532DF6946EF500C66EB8F0D4909E744BDF0ED3 | D70E7C504B32496244230C1487C990C3BF6F6
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 FE9B513AABB9347A6F05EAC25808D8D88CBD5DBC | E7EC91EC57653DAE65DF124EA8257010A483446B | 1808924672 |  3145728 |   727501 | DataPC_DX11.forge
 B34C6F08BE1CDC3CF23E511B644DCE09EE3BD4BF | E24F54E9AD0D850B8EE89F0FAAA7DC55280C7FA6 | 1808924672 |  3145728 |   669166 | DataPC_DX11.forge
 30AEAEB44080F1C1C6CEE7F3277C8B28665D24ED | C9CF4E024BA0D1C2E36F49EF29C1F37AB6000057 | 1808924672 |  3145728 |   685407 | DataPC_DX11.forge
@@ -8796,7 +8796,7 @@ F79F3D52DE67428F93BFF484DE6102AE9585A9E0 | 4BEF294017BE28C46524234101E8677379D8A
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3240935713491D14CFC16395738672794B9DEDBF | 2C639C88F2F49830EE64E9ECB8FE305FAB5F36C0 | 1459945472 |  3145728 |   614458 | ACL\DataPC.forge
 384225B4B5DDE6B0C7DE84BBA7C97228FDDEC277 | 104B7DAE04336D3BD2818FC4EEC256FFCDCC667B | 1459945472 |  3145728 |  1010254 | ACL\DataPC.forge
 B89C3A3FA506012B3648C62E3CF5D06CDC2D95BE | 68457A9421C24F64B0DEE96E9CEBC00C9075D658 | 1459945472 |  3145728 |  1043396 | ACL\DataPC.forge
@@ -12192,7 +12192,7 @@ B80E3448C35235C717E92649D9CE9B760364BBAD | C72D52C2ACE63648D0B457B48DEBAF2336F06
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 40C75AB03198D2D29A1B0D227530BC6A718D19EF | 84EBB5BEF14BC2013675933DEE58B72EFCBED865 |   61199240 |  3145728 |  3048642 | videos\AC3_DLCA_IntroVideo.bik
 E622587E04BFD46F9D2B63861A5CDA11D448CAA3 | 8FFE629F08AB2ABA884F68FF9C796ADA471083D5 |   61199240 |  3145728 |  3080734 | videos\AC3_DLCA_IntroVideo.bik
 B944DE973FF0A2E670B8817F57E82AF4FF3614A3 | 49B9E7D62DE1E2BE2C9BE3B60E07498128CAA5EB |   61199240 |  3145728 |  3089278 | videos\AC3_DLCA_IntroVideo.bik
@@ -13112,7 +13112,7 @@ DA292DDBE8FEA32C6A6277042243F86A9FA681A6 | 1777394E099166F101F2021F3D5F8AD14734D
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ECA920437581923613E29C943C6DA2CEC125E8D5 | C7777EF7CB1B0D74ECCE79D3975FF7FEDB075F3D | 1716094170 |  3145728 |  2819446 | sounddata\pc\sounds_sfx.pck
 E80088225FCB81603B1D14B17C7F0ACD87962920 | 58CE6D645312E9F02494EF70E3B37E71ABF2D247 | 1716094170 |  3145728 |  2941255 | sounddata\pc\sounds_sfx.pck
 D1BDB779998E575EDD86995AD33604F073F48E91 | D1CBA1BB546C69D121DA24A692E0BBB2DB93626D | 1716094170 |  3145728 |  2876657 | sounddata\pc\sounds_sfx.pck
@@ -13881,7 +13881,7 @@ AA3D26C04B676C8E81BAA0768EC43BC8EF9CB162 | 2B78303D0D9E0B3132083891C5BFECD82B1EB
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 033E95BBDF852734F5AF7C7687859B5531A8CE87 | 3B88E93E9F48CCA69715CC9D8F941C9B747C6C93 |  482830694 |  3145728 |  2591128 | sounddata\pc\sounds_eng.pck
 936688DCC344564DEB63EC3D0FE1CF57E2AD349F | D55318F7BD03F69BA3CF8BE7774AFF3B286266EF |  482830694 |  3145728 |  2810153 | sounddata\pc\sounds_eng.pck
 B05C5F333DC7627525DE9350C5CFE66430860A29 | 5B7ABAB79AA033BC5471BBECF4B59F75EC52A30A |  482830694 |  3145728 |  2955608 | sounddata\pc\sounds_eng.pck
@@ -14060,7 +14060,7 @@ FDA706606AE6787AD97366D501AD8DBE4C60D3C1 | 96EC710303640014EF6AE00B308DE4FF52887
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4FFD98492DA0F2250D189C8E74AAEBCF2A0EBCF1 | 0574BF6DD4EBE005230F2A14C4C8C491C0DCCC08 |   38006788 |  3145728 |   370694 | ExtraContent\AC3_CH_AchillesSuit_Connor21_RemkoTroost.tif
 2C4B5E492E5480B91E3D7FDA01C9FEFD72D4A9B1 | DE971752168EDA39F012BEA293EFD7420353FF6A |   38006788 |  3145728 |   751713 | ExtraContent\AC3_CH_AchillesSuit_Connor21_RemkoTroost.tif
 EC5EE12727A8AD16258FA0834C1F9A6136B48508 | 09B9150BBE2CC456D6DA53B1AF0435CCE495C9FC |   38006788 |  3145728 |  1189904 | ExtraContent\AC3_CH_AchillesSuit_Connor21_RemkoTroost.tif
@@ -15354,7 +15354,7 @@ D9B9163BB8E6236EBF42ED4FC2CDA50289079252 | 53AC2791D5AA249E4D392A2CD91695CA137B0
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 687512DC413FE81D162F17BBEABD8C1B68CF6347 | 1BA933198C1748710BB7D90E5A993772E5370F2A |      10626 |    10626 |     3604 | Support\Readme\Brazilian\Readme.txt
 553013660F2937A14DBE71E666CED5DEC3A3070B | 066642102260E446A5996D23F7795C3F7185272F |       9516 |     9516 |     3379 | Support\Readme\English\Readme.txt
 D7E3909D10F7516307B618EB6FA24C595327501B | E036F463CDAB0CD3B5BB0526053A433763A46316 |      10403 |    10403 |     3392 | Support\Readme\French\Readme.txt
@@ -15371,7 +15371,7 @@ C4104BCE211712AADC4B03AE000DEF97DA27DC1B | E57CDEE8FF40F09FDF9A8EE54E91B19FA4401
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C41363EB692EB02D4D5FE6B62B75BDF20C9BD5C7 | AE7F84B21BA873A804B4FDA802C6B5B56A787BD7 |  438289113 |  3145728 |  2529903 | sounddata\pc\sounds_bra.pck
 AF7E5456CFA9DF2750371966B80016E60400A782 | A4A4D3EE3F92244EC1E340AAC097A820E22EEC37 |  438289113 |  3145728 |  2799598 | sounddata\pc\sounds_bra.pck
 0D6C47A9752FE20A893366F8655E70925A8B35BD | 2E770A6D2F4EB00F615A3C37ECBADC3195325C4F |  438289113 |  3145728 |  2981954 | sounddata\pc\sounds_bra.pck
@@ -15515,7 +15515,7 @@ AAEB33073D9F80FCB655EF5649EDAC3C61315464 | 426CA4CABD3D531FB4E1DC3FC3C46D2FE6683
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8FFD06AD8872F88090B51D4126C460215F81123A | 2504D46CCA3B013ADEA4000AAFE73CC0517D8CF6 |  473450147 |  3145728 |  2591993 | sounddata\pc\sounds_fre.pck
 F5CC65BCB508DAD932772E099A6B9A4A5EB15570 | 1E8ACB5139F7DBC0934328DD6116605150FE79E9 |  473450147 |  3145728 |  2828182 | sounddata\pc\sounds_fre.pck
 739F1EA5AB46DFB60249B2538BCE08EDFFEBBB1C | 41FCC2FD0A5507FF03ADBD854C25C25C41A65279 |  473450147 |  3145728 |  2959112 | sounddata\pc\sounds_fre.pck
@@ -15689,7 +15689,7 @@ A4E20C19BBD2941225C6EE1BD6252386D9F3383B | B8033B8C47B9985285CDC42C66ED57308B0A9
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F61D0683C59D751C5834E7922FD6C0FF7C919AFF | FD101E189DA43E370B41CE8B8E27147E09DA5166 |  466934634 |  3145728 |  2600984 | sounddata\pc\sounds_ger.pck
 2D8C7E50F2F49E1EE51C75BA711BBD25F536210A | 749670195A148BAA71BAC79F85A36919255FC91A |  466934634 |  3145728 |  2841373 | sounddata\pc\sounds_ger.pck
 13112AFB99C3C2DB2DA7A1327A589BC17E4225FC | 4D25AE1FFDCCD3B6DF1829A8C1A6231D1A400529 |  466934634 |  3145728 |  2921610 | sounddata\pc\sounds_ger.pck
@@ -15863,7 +15863,7 @@ F02076023E8FF69E8D8746FAADD9C09B4171D514 | 2B4003F411590C510C2456B056475D388FE09
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8E79FC5F5643C549D607878611E410A3B2791F1E | F6A598041CF30F0D882FE08EC5C0B908DF9A4DDA |  474760281 |  3145728 |  2592211 | sounddata\pc\sounds_ita.pck
 F86C88E9D84DE7904781B3A3D68AF98B54DB8FC6 | 45F5E1386D960A5EC4B3C478140F9CC0A3355E3F |  474760281 |  3145728 |  2866841 | sounddata\pc\sounds_ita.pck
 BCB7CFDB4D6B71BBCD65A4D33DF09C73EDC36647 | AFB00503A5C7C75499E8CC9899DAF4AF7378475B |  474760281 |  3145728 |  2922354 | sounddata\pc\sounds_ita.pck
@@ -16038,7 +16038,7 @@ E33783304B3DBE009E572DA5A05875107D2EA1FD | 39529EB9B7F8AD8CD769706AC88331911B271
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 039E67B251C85284175F7FC6AD1DDD4F36A69CCA | 81A1BF5EBA5DC3C8870C3E8C9D5C69EE147EAE16 |  431778483 |  3145728 |  2524873 | sounddata\pc\sounds_jap.pck
 016049BC8DEFABE0AD5672E5683E3F36C38E147C | ECF3E32E7AC3550EF02BCCEE51388B702E5218CC |  431778483 |  3145728 |  2769365 | sounddata\pc\sounds_jap.pck
 EB9764A2A6E09BC3E5E4AE2EDE4FA1DC2AFE3C3E | 1F8D531FF0ECF66D2282086D756A39890F06FCE6 |  431778483 |  3145728 |  3009772 | sounddata\pc\sounds_jap.pck
@@ -16199,7 +16199,7 @@ E1F969ACB1309DBE377E93731EFB0CE7E0D4897E | E75E87E210BE8087652F3ECE5D187ED020215
 ================================================Chunks================================================
 
 Chunk ID: 13, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 849185E28947646830DB5564C206FD33F206FFF6 | 21C9EDDBCDE702F020623030D2BB92F27CB22F89 |  443310394 |  3145728 |  2605718 | sounddata\pc\sounds_rus.pck
 9E57AB90599508F0D8C31B5441792C52F7ED9428 | 9C95AD3E45444E485576483DF83027B3D6026EF2 |  443310394 |  3145728 |  2817924 | sounddata\pc\sounds_rus.pck
 94BA3F0430D2CA792EC7764B7C008800B54DC70A | 3C6AE7A5B4CBE9C132DF32E3605E53B5D0AD214B |  443310394 |  3145728 |  2947038 | sounddata\pc\sounds_rus.pck
@@ -16344,7 +16344,7 @@ A0E610134810ACB5D6AB8B1CC4B4BDE16EB8FA2A | 1FFD61F1CE72D5D21B7340DCC85D9140899E0
 ================================================Chunks================================================
 
 Chunk ID: 14, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 954F08B9078A7310402001747A4B6DE2D3722EA6 | 31D63C996E4FCF24ADBBF1D65A67EDFEAB17E6DF |  452369797 |  3145728 |  2582098 | sounddata\pc\sounds_spa.pck
 77CD84DCF5D19B868D38963088B953CA3B9F4ACF | 9DF9ED1BB53E1AA7635C433544C9FA1A5A31B398 |  452369797 |  3145728 |  2849439 | sounddata\pc\sounds_spa.pck
 CA7BAFB499BC01F7364346F777978696AD482124 | 7568EEF1E20093199E4580BC2013DE5A840D0534 |  452369797 |  3145728 |  2949329 | sounddata\pc\sounds_spa.pck
@@ -16557,20 +16557,19 @@ Ignore All Exit Codes?: True, Restart Required?: True
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Assassins Creed 3\Language, Type: String
 Registry String Entry
-	Value | Language
- pt-BR  | pt-BR
- en-US  | en-US
- fr-FR  | fr-FR
- de-DE  | de-DE
- it-IT  | it-IT
- ja-JP  | ja-JP
- ru-RU  | ru-RU
- es-ES  | es-ES
- nl-NL  | nl-NL
- ko-KO  | ko-KO
- pl-PL  | pl-PL
- zh-CN  | zh-CN
- zh-TW  | zh-TW
+pt-BR, pt-BR
+en-US, en-US
+fr-FR, fr-FR
+de-DE, de-DE
+it-IT, it-IT
+ja-JP, ja-JP
+ru-RU, ru-RU
+es-ES, es-ES
+nl-NL, nl-NL
+ko-KO, ko-KO
+pl-PL, pl-PL
+zh-CN, zh-CN
+zh-TW, zh-TW
 
 
 

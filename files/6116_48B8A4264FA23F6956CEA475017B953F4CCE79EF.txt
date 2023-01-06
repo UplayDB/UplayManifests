@@ -1,8 +1,8 @@
-Total number of files   : 786
-Total size of files     : 3600030600 | 3,60 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3600030600 | 3,60 GB
-Total bytes compressed  : 644411074 | 644,41 MB
+Total number of files  : 786
+Total number of chunks : 1
+Total size of Files    :       3600030600 Bytes | 3,353 GB
+Total size of Slices   :       3600030600 Bytes | 3,353 GB
+Total size Downloaded  :        644411074 Bytes | 614,558 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CAEB31B9FF216A78E01B0B231BCC32ECDFC16FB1 | F67DE07EFF1161018B8DB738DCCA11ED3CF772E5 |     653824 |   653824 |    76506 | The Last Friend.exe
 37B065B0DC9F14A7188665F8BC0D3440832A032C | B6CC9382CC972DFF0D27284B1363BF4747E0B133 |    1249672 |  1249672 |   413449 | UnityCrashHandler64.exe
 A733AE6A578EC3701691168A0BB86E197A7AAC87 | CECAA0AD334DD557AE1B5F39D2619C1199785DCB |   28066696 |  3145728 |  1135845 | UnityPlayer.dll

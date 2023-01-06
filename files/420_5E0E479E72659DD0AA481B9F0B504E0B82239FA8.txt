@@ -1,8 +1,8 @@
-Total number of files   : 324
-Total size of files     : 33129853384 | 33,13 GB
-Total number of chunks  : 14
-Total bytes on disk     : 3065082312 | 3,07 GB
-Total bytes compressed  : 0 | 0,00 B
+Total number of files  : 324
+Total number of chunks : 14
+Total size of Files    :      33129853384 Bytes | 30,855 GB
+Total size of Slices   :       3065082312 Bytes | 2,855 GB
+Total size Downloaded  :                0 Bytes | 0,000 B
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: cs-CZ , da-DK , de-DE , en-US , es-ES , es-MX , fi-FI , fr-
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 573FA4933011007E9959DB8A769AAF63A8B37782 |      92176 |    92176 |        0 | GameuxInstallHelper.dll
                                          | 0CC72AD0360A020A7153B2D14BB300C01E3AC51E |      94112 |    94112 |        0 | GDFInstall.exe
                                          | 729CCDCE546366CA702862CD957E91025537F3CD |        144 |      144 |        0 | bin\IGE_WPF64.exe.config
@@ -64,7 +64,7 @@ Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | EACF170A92AB52BC39C581F046627986A55B1945 |        256 |      256 |        0 | Support\Software\GEFirewall.bat
                                          | 0C56F76B1A3AA1557921A6931C457283CADD431E |      36457 |    36457 |        0 | Support\License\lic_cs-CZ.html
                                          | D62C90DC64DDB8BA054DEEC90A9F10CC84713168 |      34466 |    34466 |        0 | Support\License\lic_da-DK.html
@@ -355,7 +355,7 @@ Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 1002, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | EDD90476CDBAEF368AE90F372A35D481AC10C21E |  128095667 |  2097152 |        0 | data_win32\common.dat
                                          | 9E6EB6D0D45BF971461B49690934C6DB0878C2EC |  128095667 |  2097152 |        0 | data_win32\common.dat
                                          | E68A915B971C568E2AF3BA844B5C44CDDF8D0A32 |  128095667 |  2097152 |        0 | data_win32\common.dat
@@ -1126,7 +1126,7 @@ Chunk ID: 1002, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 3000, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 6AC404EEA380BB8948B1461E5D0774B07555C025 | 9875839728 |  2097152 |        0 | data_win32\worlds\fcc_main\fcc_main.dat
                                          | 6190A466D24B8AA3962A6BAB314323AD8CF2DAA1 | 9875839728 |  2097152 |        0 | data_win32\worlds\fcc_main\fcc_main.dat
                                          | 83E8E5AF68BE0B9B9FDED0FA6CE90D8B53BE442C | 9875839728 |  2097152 |        0 | data_win32\worlds\fcc_main\fcc_main.dat
@@ -7523,7 +7523,7 @@ Chunk ID: 3000, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 3001, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 7A122A2C8A9CBAA41647FF8CFB554F0884920BC9 | 6740406774 |  2097152 |        0 | data_win32\worlds\multicommon\multicommon.dat
                                          | C4591B3AA353B33D94EDC42AB23EBFBECFBE4428 | 6740406774 |  2097152 |        0 | data_win32\worlds\multicommon\multicommon.dat
                                          | 5174CF635FB8F107098575DF7CEE0F3CDF1C9F83 | 6740406774 |  2097152 |        0 | data_win32\worlds\multicommon\multicommon.dat
@@ -11897,7 +11897,7 @@ Chunk ID: 3001, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 3002, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 81B5341A7C7A4FD06F46A8884E7860EEE060FA48 |  271925671 |  2097152 |        0 | data_win32\ige.dat
                                          | 7006567900141ED487A1E385FADBB73965C9DFA9 |  271925671 |  2097152 |        0 | data_win32\ige.dat
                                          | FA50DD43AEB7EECE67E31F365D4C14B76545C452 |  271925671 |  2097152 |        0 | data_win32\ige.dat
@@ -12032,7 +12032,7 @@ Chunk ID: 3002, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 3003, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | F81D82883645030FEDE817AA140999DB4BD52EAA | 2619961111 |  2097152 |        0 | data_win32\sound.dat
                                          | C31E0DAD4DC7B3E9D00D8D26DACBF537BA982982 | 2619961111 |  2097152 |        0 | data_win32\sound.dat
                                          | 71D205CD67BA4949C8AEEC6D6FE215AA138A18B8 | 2619961111 |  2097152 |        0 | data_win32\sound.dat
@@ -13287,7 +13287,7 @@ Chunk ID: 3003, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 4001, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 1FEEC2EE7B2AB143EEC972D50634AE34271E3585 |   41716128 |  2097152 |        0 | data_win32\sound_english.dat
                                          | 62E803084F90AD8A62EB736841CF08555ADB887D |   41716128 |  2097152 |        0 | data_win32\sound_english.dat
                                          | 0A6AEB9BDED213264AE479F5A69A82F4BDCD03EB |   41716128 |  2097152 |        0 | data_win32\sound_english.dat
@@ -13697,7 +13697,7 @@ Chunk ID: 4001, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 4002, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 37A195C5265706850F9D921F1CC9D26461AD6FF0 |   39804719 |  2097152 |        0 | data_win32\sound_french.dat
                                          | 2DBD05B5B3285A7C6DC2EC1C3E90C1B3C38CE9C6 |   39804719 |  2097152 |        0 | data_win32\sound_french.dat
                                          | CE552F14AC97A525BD399AB2D6EF6F45C3242DE8 |   39804719 |  2097152 |        0 | data_win32\sound_french.dat
@@ -14089,7 +14089,7 @@ Chunk ID: 4002, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 4003, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 621A58DCA67BA1F49B135499AC0DA743AB39EF40 |   40673424 |  2097152 |        0 | data_win32\sound_german.dat
                                          | 57EDD6F1685AAD520E8ED47D21B4BB852C1BF2B0 |   40673424 |  2097152 |        0 | data_win32\sound_german.dat
                                          | 2654C35A5BFA76C836B5A07D6C78CBF6384B57B9 |   40673424 |  2097152 |        0 | data_win32\sound_german.dat
@@ -14492,7 +14492,7 @@ Chunk ID: 4003, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 4004, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 6392E2FF37D4D790DA7088D32472052762527A5D |   41834589 |  2097152 |        0 | data_win32\sound_italian.dat
                                          | F1A85BF39781735167A2DD61A71A011484A3AFBD |   41834589 |  2097152 |        0 | data_win32\sound_italian.dat
                                          | 52C1BB1B11CE408A6A820050DAC40DAC47969F79 |   41834589 |  2097152 |        0 | data_win32\sound_italian.dat
@@ -14902,7 +14902,7 @@ Chunk ID: 4004, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 4008, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | D4F2D8E98C9CC109BE2DC53777C1151C89B04B97 |   42042802 |  2097152 |        0 | data_win32\sound_spanish.dat
                                          | 865C157AD5E8D70ECE001447D2CE64720EACB5CA |   42042802 |  2097152 |        0 | data_win32\sound_spanish.dat
                                          | 64FAC07781D711747653EE5DA1EA5DDB9D927B78 |   42042802 |  2097152 |        0 | data_win32\sound_spanish.dat
@@ -15306,7 +15306,7 @@ Chunk ID: 4008, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 4009, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | B9CBA9C412A4113FB007FF6AC615E2B373E641DD |   42186346 |  2097152 |        0 | data_win32\sound_brazilian.dat
                                          | 51A916468BD475BBE2C74578F52CEA41C313A5E5 |   42186346 |  2097152 |        0 | data_win32\sound_brazilian.dat
                                          | 20B57B466AF414E4EE0223040C792A61B91D501F |   42186346 |  2097152 |        0 | data_win32\sound_brazilian.dat
@@ -15710,7 +15710,7 @@ Chunk ID: 4009, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Lang
 ================================================Chunks================================================
 
 Chunk ID: 4010, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: FCC_DATA
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | DA27B69FAFE3AF48D714C93C04755087EE10EC19 |   41195326 |  2097152 |        0 | data_win32\sound_mexican.dat
                                          | 243C08A120C35CB1C829EA6C5C94EABA0A423BD1 |   41195326 |  2097152 |        0 | data_win32\sound_mexican.dat
                                          | D8056FCA65696E9271072E8A02F3D92190CFF7AE |   41195326 |  2097152 |        0 | data_win32\sound_mexican.dat

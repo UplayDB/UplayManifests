@@ -1,8 +1,8 @@
-Total number of files   : 3778
-Total size of files     : 6904336723 | 6,90 GB
-Total number of chunks  : 4
-Total bytes on disk     : 2609369427 | 2,61 GB
-Total bytes compressed  : 1309507830 | 1,31 GB
+Total number of files  : 3778
+Total number of chunks : 4
+Total size of Files    :       6904336723 Bytes | 6,430 GB
+Total size of Slices   :       2609369427 Bytes | 2,430 GB
+Total size Downloaded  :       1309507830 Bytes | 1,220 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -32,7 +32,7 @@ Name: FR\Far Cry User Manual.pdf | Locale: fr-FR
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8E9B02E38D9F9F151B9B695BD9E0F6D29E8674CD | DA3C4689EBBA6EA04360DAF46EF6B80A3128B635 |         55 |       55 |       63 | DedicatedServer.cmd
 C9358072F8A504EE352050384FA7B82AE8819324 | 22C2F6C43697058A44B9B110731A27C0DA8FAA74 |       7031 |     7031 |     2125 | DevMode.lua
 784D0073D73CB91713986B9FC311B599CABFA46A | F3E3F012D88348E8D2693A18F4EAEF7B5B20FF3A |         49 |       49 |       57 | Editor.cmd
@@ -6131,7 +6131,7 @@ C4DB5CEECCF0CA0150B70E721E903D614A916B20 | 7EA8BEC16A9C32ADC1ACCB0A6E65C67A04004
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0E8D8646619F231653224A7A507C3882F1FE62BB | 9623A3DAEF5C5D5A985C79924B01EF36EC2F3752 |    1301421 |  1301421 |  1242257 | Support\inst\data\DE\Far Cry User Manual.pdf
 C8D33C1CBEA38E26ACB18C24170B2D896939F611 | F4FCB3EAED05F8EC7D106F865BDD5A8C0D331449 |       9437 |     9437 |     1209 | Support\inst\data\DE\game.cfg
 5216FBDA27C62C93162E21C932DEEEF24CB3AC96 | ADBA60E90A19293C1BFC02528B42260C103BE163 |     900095 |   900095 |   114517 | Support\inst\data\DE\Readme.rtf
@@ -6140,7 +6140,7 @@ C8D33C1CBEA38E26ACB18C24170B2D896939F611 | F4FCB3EAED05F8EC7D106F865BDD5A8C0D331
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 AB4A528EBB83E096597390E8BE7013E8258E0ED4 | 829B86B34CCE4BDA3EF56DE3CE95D0DB959AA190 |     652904 |   652904 |   309447 | Support\inst\data\FR\Cry3DEngine.dll
 C977174B08EA64278C9A600A3BE204024E45496C | F0A23B311D8650DD80404A07D9D056BB1ABD6CBD |     431720 |   431720 |   157513 | Support\inst\data\FR\CryAISystem.dll
 AFCD219C5BF6F826EACAF6D4D306E4BA087EB4DD | 1E77FBD573FC43E5BD86AF6A39C58635E99B2CE8 |     226920 |   226920 |   107508 | Support\inst\data\FR\CryEntitySystem.dll
@@ -6711,7 +6711,7 @@ B65BC7B131F77FCF5B94A3AB5A820445C4DC4B07 | 8C9F13540854F71374100511E0DDE2BEA1208
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 89AC84E2079837AB0633BB205CA99285E58092A6 | 25EAF38663D37F95720606C09AEDC8032205817D |     545000 |   545000 |    75119 | Support\inst\data\EN\Readme.rtf
 4A7FC9E74B56A5A555B00577D2920EB36BADF33F | 48E5FED052518470F225F82D08D4A6E68D6A0959 |      38158 |    38158 |    13954 | Support\inst\data\EN\Readme.txt
 0B6C3AA6A4EE876FD51F49DEC224D3F71F47BED7 | 3DE7B527A402B88F9498712136168AEBCA6E385E |     567270 |   567270 |   519479 | Support\inst\data\EN\Far Cry User Manual.pdf
@@ -6778,34 +6778,29 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\InstallShield_{F400BA3B-B134-4701-8536-68A99CD44F5A}\DisplayName, Type: String
 Registry String Entry
-	Value | Language
-Far Cry (OEM)  | 
+Far Cry (OEM), 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\InstallShield_{F400BA3B-B134-4701-8536-68A99CD44F5A}\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\InstallShield_{F400BA3B-B134-4701-8536-68A99CD44F5A}\DisplayVersion, Type: String
 Registry String Entry
-	Value | Language
-1.40.000  | 
+1.40.000, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Crytek\FarCry\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    DE  | de-DE
-    FR  | fr-FR
+EN, en-US
+DE, de-DE
+FR, fr-FR
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Crytek\FarCry\PatchVersion, Type: Number
 Registry Number Entry
-  Value | Language
- 65600  | 
+65600, 
 
 ============================================Uninstall Runs============================================
 

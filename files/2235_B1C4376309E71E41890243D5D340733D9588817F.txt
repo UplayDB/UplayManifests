@@ -1,8 +1,8 @@
-Total number of files   : 2598
-Total size of files     : 3656481619 | 3,66 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3656481619 | 3,66 GB
-Total bytes compressed  : 2381560759 | 2,38 GB
+Total number of files  : 2598
+Total number of chunks : 1
+Total size of Files    :       3656481619 Bytes | 3,405 GB
+Total size of Slices   :       3656481619 Bytes | 3,405 GB
+Total size Downloaded  :       2381560759 Bytes | 2,218 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -28,7 +28,7 @@ Name: Manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 598A1DC72AEF1A92F017096A7B4BDFE04F46FFFF | 475A378D4397EE93F17FC96347B3DF7A122A2A67 |       1078 |     1078 |      358 | RavenShield.ico
 28DD237F64C8449F25A0E2BC49E61D0F3625B4FC | CB1530A5BA685ED73ACE4D63D77C3AE1E8E7BDF1 |       1078 |     1078 |      245 | RavenShieldEd.ico
 72E7BD77786C86700DE93DA39A4BF79916617F09 | 239EF3CDCF4CB69C44E45C48F22DBD91DE88F4A3 |         24 |       24 |       32 | run.bat
@@ -4045,80 +4045,67 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\RAVENSHIELD\ExeName, Type: String
 Registry String Entry
-	Value | Language
-RavenShield.exe  | 
+RavenShield.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\RAVENSHIELD\InstalledPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\RAVENSHIELD\InstallType, Type: String
 Registry String Entry
-	Value | Language
-  Full  | 
+Full, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\RAVENSHIELD\Language, Type: String
 Registry String Entry
-	Value | Language
-English UK  | 
+English UK, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\RAVENSHIELD\PatchURLs\PatchURLs, Type: String
 Registry String Entry
-	Value | Language
-http://rspatches.ube.com/versions.cab  | 
+http://rspatches.ube.com/versions.cab, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\RAVENSHIELD\Versions\ravenshield, Type: String
 Registry String Entry
-	Value | Language
-1.60.412  | 
+1.60.412, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six 3: Raven Shield\1.60.412\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\ATHENASWORD\ExeName, Type: String
 Registry String Entry
-	Value | Language
-RavenShield.exe  | 
+RavenShield.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\ATHENASWORD\InstalledPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\RAVENSHIELD\Versions\athenasword, Type: String
 Registry String Entry
-	Value | Language
-1.10.016  | 
+1.10.016, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six 3: Athena Sword 1.01.001\1.02.003\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six 3: Athena Sword 1.02.003\1.10.016\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Red Storm Entertainment\Tom Clancy's Rainbow Six 3: Athena Sword 1.10.016\1.10.016\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 
 ============================================Uninstall Runs============================================
 

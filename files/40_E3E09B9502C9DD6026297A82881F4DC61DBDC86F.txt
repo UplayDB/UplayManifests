@@ -1,8 +1,8 @@
-Total number of files   : 384
-Total size of files     : 11189768150 | 11,19 GB
-Total number of chunks  : 2
-Total bytes on disk     : 2599833558 | 2,60 GB
-Total bytes compressed  : 1453533996 | 1,45 GB
+Total number of files  : 384
+Total number of chunks : 2
+Total size of Files    :      11189768150 Bytes | 10,421 GB
+Total size of Slices   :       2599833558 Bytes | 2,421 GB
+Total size Downloaded  :       1453533996 Bytes | 1,354 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -55,7 +55,7 @@ Name: Support\Manual\Swedish\AssassinsCreed.pdf | Locale: Support\Manual\Swedish
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 901B76F233684908236958CDA0463993AA768722 | 34EFCDF4B1AADF2D103D9686B63052976ED537D4 |   39498360 |  2097152 |   759660 | ACRMP.exe
 1C086A4226BB83D67425AEA0BD558E9F9A72438D | 2A53E7F015FC6537D3B7AA86BBEB37A8E82002DB |   39498360 |  2097152 |   709784 | ACRMP.exe
 B483E6BA0F26AB4E919BFE7491E10679BCAD49BE | 2A7A50324444F52F414C433EEE53AB6A87F26899 |   39498360 |  2097152 |   716832 | ACRMP.exe
@@ -5266,7 +5266,7 @@ A285D84872D9B850AD26F6013F2ABF1720970230 | E23035559DD1E2B706EC49FA619FF5D6F0414
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 09A7F76182DD6B271B1B8CD301B7952FFE7B708C | D705C3A4C7D599C0746A6B0BC2D612BBA2847764 |   52527104 |  2097152 |   234294 | penrose\DataPC_3_dlc.forge
 35F66E7D5F6B88C380A1A8C14750BE4419E04284 | 24D8689042E72F06C65EAEE209A05BF8552E4540 |   52527104 |  2097152 |  1865222 | penrose\DataPC_3_dlc.forge
 C5C44F20A07D52E8C47548059B60BF841AB72DBC | EC10B36FB67DF8E0338D2C9B484C7271FB27619D |   52527104 |  2097152 |  1938089 | penrose\DataPC_3_dlc.forge
@@ -5743,112 +5743,98 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Spanish  | es-ES
-Polish  | pl-PL
-Danish  | da-DK
- Dutch  | nl-NL
-Norwegian  | nb-NO
-Swedish  | sv-SE
-Portuguese  | pt-PT
-Korean  | ko-KO
-SimplifiedChinese  | zh-CN
-TraditionalChinese  | zh-TW
+English, en-US
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Spanish, es-ES
+Polish, pl-PL
+Danish, da-DK
+Dutch, nl-NL
+Norwegian, nb-NO
+Swedish, sv-SE
+Portuguese, pt-PT
+Korean, ko-KO
+SimplifiedChinese, zh-CN
+TraditionalChinese, zh-TW
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\SKU, Type: String
 Registry String Entry
-	Value | Language
-    EU  | 
+EU, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\UbiShop, Type: String
 Registry String Entry
-	Value | Language
-http://shop.ubi.com/store/ubiemea/html/pbPage.generic-ACR-DLC2-303-other/pgm.79556600/ThemeID.8605700  | 
+http://shop.ubi.com/store/ubiemea/html/pbPage.generic-ACR-DLC2-303-other/pgm.79556600/ThemeID.8605700, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\URLDLC1, Type: String
 Registry String Entry
-	Value | Language
-http://shop.ubi.com/promo/89565100  | 
+http://shop.ubi.com/promo/89565100, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\URLDLC2, Type: String
 Registry String Entry
-	Value | Language
-http://shop.ubi.com/store/ubiemea/html/pbPage.generic-ACR-DLC2-303-other/pgm.79556600/ThemeID.8605700  | 
+http://shop.ubi.com/store/ubiemea/html/pbPage.generic-ACR-DLC2-303-other/pgm.79556600/ThemeID.8605700, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\URLDLC3, Type: String
 Registry String Entry
-	Value | Language
-http://shop.ubi.com/store/ubina/en_US/html/pbPage.ACR-DLC3-game-303-other  | 
+http://shop.ubi.com/store/ubina/en_US/html/pbPage.ACR-DLC3-game-303-other, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
-    us  | pl-PL
-    us  | da-DK
-    nl  | nl-NL
-    us  | nb-NO
-    us  | sv-SE
-    us  | pt-PT
-    us  | ko-KO
-    us  | zh-CN
-    us  | zh-TW
+us, en-US
+fr, fr-FR
+de, de-DE
+it, it-IT
+es, es-ES
+us, pl-PL
+us, da-DK
+nl, nl-NL
+us, nb-NO
+us, sv-SE
+us, pt-PT
+us, ko-KO
+us, zh-CN
+us, zh-TW
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\1.00\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations 1.02\1.02\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations 1.03\1.03\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\ACBSP.exe  | 
+$INSTALL_DIR\ACBSP.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Revelations\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-0e54a73845534d65ad9a407afe39bfa3  | 
+0e54a73845534d65ad9a407afe39bfa3, 
 
 ============================================Uninstall Runs============================================
 

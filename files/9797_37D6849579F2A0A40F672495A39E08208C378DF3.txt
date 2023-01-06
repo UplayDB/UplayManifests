@@ -1,8 +1,8 @@
-Total number of files   : 110
-Total size of files     : 1363758884 | 1,36 GB
-Total number of chunks  : 13
-Total bytes on disk     : 1363758884 | 1,36 GB
-Total bytes compressed  : 772290565 | 772,29 MB
+Total number of files  : 110
+Total number of chunks : 13
+Total size of Files    :       1363758884 Bytes | 1,270 GB
+Total size of Slices   :       1363758884 Bytes | 1,270 GB
+Total size Downloaded  :        772290565 Bytes | 736,514 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -35,7 +35,7 @@ Name: Readme_ZHO_TW.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2A1EA96494C1E1BCDDCDA165966B5EA623189BCC | DAB0698015259668F2FFE894DC506C1A69D63340 |   22834464 |  3145728 |  1533431 | Ode.exe
 80CB28E749B4630A28CF8588E0AF987913F2952D | 6641FC08415393E41C3B9BFE2000580EE719201C |   22834464 |  3145728 |  1405017 | Ode.exe
 8EF1F008EBA24F0667CEEB40178F64768E6C3024 | 53A5BF73EBD1B7FD06BD8541D5E02C375F88060B |   22834464 |  3145728 |  1363630 | Ode.exe
@@ -549,62 +549,62 @@ CD5659C2987705DFDC7FDC1678A19808F3787D98 | 5A59CBA7D2C2EFF83C9E67D2E731B514A50EE
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-GB, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2719C587A48A54D99241B5A6018A30EC9E59AECA | 6A078A9459741563261B9E60096EBCC80B14AC57 |       5052 |     5052 |     1607 | Uplay/ReadMe/readme_ENG.txt
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 45912E026BE8C76A637C0ADE3855966676C5A279 | 206CEF445771B07548BC857F224993CD200FFFBE |       5656 |     5656 |     1811 | Uplay/ReadMe/Readme_GER.txt
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 AEC6B34D01DC48E73DFD1BB55F1116B04488F892 | 5E90F5482A20E8C20E9BC46B7F71D1ACD5F2DC3E |       5603 |     5603 |     1818 | Uplay/ReadMe/Readme_ESP.txt
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-MX, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F81DAED0A6A9D92E4A729DCE92950E463827FCF9 | 93FEC2FB1346C8D394BCE14E16F7927A15988C88 |       5618 |     5618 |     1822 | Uplay/ReadMe/Readme_ESP_MX.txt
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 AA33C1B6874C2274FAB04084D93FB89C35F0E1A9 | 35CE49DA06B43C1E7ADDE9DC78870414D6EA75AF |       5584 |     5584 |     1770 | Uplay/ReadMe/Readme_FRE.txt
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2A74F58725104CE48A7105B2ED5E081031D4AD92 | 4DD0B8E70571AA0E178CBECF2A4030D307A21409 |       5432 |     5432 |     1668 | Uplay/ReadMe/Readme_ITA.txt
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ja-JP, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A0516FA87A4534C243714750036078F3A9CC4ACF | 3E8E0DC24DB6CD7D8A4453FEFAC9287FBC506E73 |       6432 |     6432 |     1996 | Uplay/ReadMe/Readme_JPN.txt
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ko-KO, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5DC1E0560503FB2BF77C5E50CCE4CCED8CF5A820 | 82A3A59B970DD5995EC03CE5B1BC19A74150F609 |       5304 |     5304 |     1754 | Uplay/ReadMe/Readme_KOR.txt
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pt-BR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B04DFA238FA9D68B6059CCA7D9DA15BB7696D698 | CB51112ADA6279FCBA7F5487644839BDB8EFBB40 |       5482 |     5482 |     1666 | Uplay/ReadMe/Readme_POR_BR.txt
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F10291A265975FC21D26041C3EBC17379A27E706 | 2E69EC83B8BD28536CB9C59DC42EB4FB5E342083 |       8012 |     8012 |     2168 | Uplay/ReadMe/Readme_RUS.txt
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-CN, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9AA004B1759141D0DF90FD51E18CFA69A3D3AD27 | 0E307AE4E4CDDD03C12386E6AA570134DA6F21EC |       4641 |     4641 |     1686 | Uplay/ReadMe/Readme_ZHO_CN.txt
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-TW, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1304F5F695ABC647859D0D73FF7BEFA4CF1ADC92 | F67BBB72777A76091E67DAC2A773236D641A48DB |       4734 |     4734 |     1729 | Uplay/ReadMe/Readme_ZHO_TW.txt
 
 ===============================================Licenses===============================================

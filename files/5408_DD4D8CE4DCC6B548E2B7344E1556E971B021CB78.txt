@@ -1,8 +1,8 @@
-Total number of files   : 89
-Total size of files     : 1232302421 | 1,23 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1232302421 | 1,23 GB
-Total bytes compressed  : 344362806 | 344,36 MB
+Total number of files  : 89
+Total number of chunks : 1
+Total size of Files    :       1232302421 Bytes | 1,148 GB
+Total size of Slices   :       1232302421 Bytes | 1,148 GB
+Total size Downloaded  :        344362806 Bytes | 328,410 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4EEC4ECF2FDD435FF7C1A2896A511D6D181B9609 | F82A27AEC71B21C0F1832E7E4A1B6975BCD57A1D |   27925504 |  3145728 |  1057833 | GameAssembly.dll
 0FB7BCE992934E531014E8915AFDE660980837B5 | D47990B4DCA76A5F638CC71C527EB73206F05A54 |   27925504 |  3145728 |  1158465 | GameAssembly.dll
 84F5E538739040D7C4D6EB6E3BEB2A55342FC7D7 | 12A96D2F118A19F1DE5CB4AA7A54D35F09336BD9 |   27925504 |  3145728 |  1045396 | GameAssembly.dll

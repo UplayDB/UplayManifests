@@ -1,8 +1,8 @@
-Total number of files   : 183
-Total size of files     : 44967067671 | 44,97 GB
-Total number of chunks  : 15
-Total bytes on disk     : 2017394711 | 2,02 GB
-Total bytes compressed  : 2017394711 | 2,02 GB
+Total number of files  : 183
+Total number of chunks : 15
+Total size of Files    :      44967067671 Bytes | 41,879 GB
+Total size of Slices   :       2017394711 Bytes | 1,879 GB
+Total size Downloaded  :       2017394711 Bytes | 1,879 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -34,7 +34,7 @@ Name: Chinese(Trad)\Readme.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 709303CF110341F42036AE90CF0CDF266F80B355 | 709303CF110341F42036AE90CF0CDF266F80B355 |  199553872 |  3145728 |  3145728 | DiscoveryTourAncientEgypt.exe
 BD9161C898B8A27C960421F83D01D70C722E4637 | BD9161C898B8A27C960421F83D01D70C722E4637 |  199553872 |  3145728 |  3145728 | DiscoveryTourAncientEgypt.exe
 A4F789BF22790DA05BA49B2063EE76A3B85FDB44 | A4F789BF22790DA05BA49B2063EE76A3B85FDB44 |  199553872 |  3145728 |  3145728 | DiscoveryTourAncientEgypt.exe
@@ -228,7 +228,7 @@ BCF552C5776E730C73FFE9EEC4F53F28D765A45D | BCF552C5776E730C73FFE9EEC4F53F28D765A
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 25BC90B50120B2BCF7C8E664C66EBE4DAE20CC63 | 25BC90B50120B2BCF7C8E664C66EBE4DAE20CC63 |    1853680 |  1853680 |  1853680 | Tobii.GameIntegration.dll
 C91B14BD430E7D6460238C84CF19CEA5E47A8D32 | C91B14BD430E7D6460238C84CF19CEA5E47A8D32 |     116224 |   116224 |   116224 | GFSDK_Aftermath_Lib.x64.dll
 75C78A9E757C5EAD17688BC48BF5D7551B30D469 | 75C78A9E757C5EAD17688BC48BF5D7551B30D469 |     380416 |   380416 |   380416 | bink2w64.dll
@@ -252,7 +252,7 @@ E8801C7655326FFED2DEAC7BBC31CC81281F43E9 | E8801C7655326FFED2DEAC7BBC31CC81281F4
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2B7C03EFFB75CF6BDB10C7050A60330090B8A1C9 | 2B7C03EFFB75CF6BDB10C7050A60330090B8A1C9 |   31686024 |  3145728 |  3145728 | ShaderDataDX11.bin
 E4F9FDCBE758CD76FDE208EF10F05446D977898F | E4F9FDCBE758CD76FDE208EF10F05446D977898F |   31686024 |  3145728 |  3145728 | ShaderDataDX11.bin
 7507BA795930C2EEED63BE7ED4B54F1DD3280E23 | 7507BA795930C2EEED63BE7ED4B54F1DD3280E23 |   31686024 |  3145728 |  3145728 | ShaderDataDX11.bin
@@ -14451,65 +14451,65 @@ A9E4E34E83C611ECF9B6E0A1743CD53D6D5C09CA | A9E4E34E83C611ECF9B6E0A1743CD53D6D5C0
 ================================================Chunks================================================
 
 Chunk ID: 101, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pt-BR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 60DA36DCAC2B8E7210E21B5FCC48C258C9F7E765 | 60DA36DCAC2B8E7210E21B5FCC48C258C9F7E765 |      28570 |    28570 |    28570 | Support\License\lic_pt-BR.txt
 ================================================Chunks================================================
 
 Chunk ID: 102, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-CN, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 72F615C8DB87B7B70E5036506AC55A8E3D6FD249 | 72F615C8DB87B7B70E5036506AC55A8E3D6FD249 |      20867 |    20867 |    20867 | Support\License\lic_zh-CN.txt
 ================================================Chunks================================================
 
 Chunk ID: 103, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 78FE0248411581B866797961DBC3DF87DD26CE08 | 78FE0248411581B866797961DBC3DF87DD26CE08 |      29658 |    29658 |    29658 | Support\License\lic_de-DE.txt
 ================================================Chunks================================================
 
 Chunk ID: 104, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D67702A5413E5FE41456AB23E434C248914E2A22 | D67702A5413E5FE41456AB23E434C248914E2A22 |      29482 |    29482 |    29482 | Support\License\lic_en-US.txt
 D19CF9FE18044DC799921136DCCB8CDA9B1135B7 | D19CF9FE18044DC799921136DCCB8CDA9B1135B7 |      25993 |    25993 |    25993 | Support\License\lic_en-CA.txt
 5319AFA38CDB682B90CD167C3795161827C9F30C | 5319AFA38CDB682B90CD167C3795161827C9F30C |      25715 |    25715 |    25715 | Support\License\lic_en-GB.txt
 ================================================Chunks================================================
 
 Chunk ID: 105, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4A8E90F781DF12C799A0ADE4619093C05C1C211B | 4A8E90F781DF12C799A0ADE4619093C05C1C211B |      31180 |    31180 |    31180 | Support\License\lic_fr-FR.txt
 441CBB76CF6FC23A26642301C1C0A9D17BB3F293 | 441CBB76CF6FC23A26642301C1C0A9D17BB3F293 |      31260 |    31260 |    31260 | Support\License\lic_fr-CA.txt
 ================================================Chunks================================================
 
 Chunk ID: 106, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 DD78E33DF54D18F6BE3855920B87B4F806C6DBFB | DD78E33DF54D18F6BE3855920B87B4F806C6DBFB |      29337 |    29337 |    29337 | Support\License\lic_it-IT.txt
 ================================================Chunks================================================
 
 Chunk ID: 107, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ja-JP, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F6A7FE0FD65BDB1C68A4502541903287A2BFD011 | F6A7FE0FD65BDB1C68A4502541903287A2BFD011 |      34545 |    34545 |    34545 | Support\License\lic_ja-JP.txt
 ================================================Chunks================================================
 
 Chunk ID: 108, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ko-KO, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 53C85101EB432FBC2A07FB72C1D2AAF00518122A | 53C85101EB432FBC2A07FB72C1D2AAF00518122A |      25758 |    25758 |    25758 | Support\License\lic_ko-KO.txt
 ================================================Chunks================================================
 
 Chunk ID: 109, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 68A8EE60E42A8548DE629E14693E6CD75A100303 | 68A8EE60E42A8548DE629E14693E6CD75A100303 |      53803 |    53803 |    53803 | Support\License\lic_ru-RU.txt
 ================================================Chunks================================================
 
 Chunk ID: 110, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 EF9F858DFF9420D3310FAAA4DED978BF7AA98CAA | EF9F858DFF9420D3310FAAA4DED978BF7AA98CAA |      29367 |    29367 |    29367 | Support\License\lic_es-ES.txt
 ================================================Chunks================================================
 
 Chunk ID: 111, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-TW, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 53C85101EB432FBC2A07FB72C1D2AAF00518122A | 53C85101EB432FBC2A07FB72C1D2AAF00518122A |      25758 |    25758 |    25758 | Support\License\lic_zh-TW.txt
 ================================================Chunks================================================
 
 Chunk ID: 112, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 628732FABA3A77EDA6AF699B934287B094D3B823 | 628732FABA3A77EDA6AF699B934287B094D3B823 |       9650 |     9650 |     9650 | Support\Readme\Chinese(Trad)\Readme.txt
 E87A2D6B3456A6821C586F673199985B53F7B9A4 | E87A2D6B3456A6821C586F673199985B53F7B9A4 |      10411 |    10411 |    10411 | Support\Readme\Spanish\Readme.txt
 117CEF06BA9176D45DB396415A31F45A9B1DB368 | 117CEF06BA9176D45DB396415A31F45A9B1DB368 |      14998 |    14998 |    14998 | Support\Readme\Russian\Readme.txt
@@ -14553,18 +14553,17 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Assassin's Creed Ancient Egypt Discovery Tour\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- fr-FR  | fr-FR
- it-IT  | it-IT
- de-DE  | de-DE
- es-ES  | es-ES
- pt-BR  | pt-BR
- ja-JP  | ja-JP
- ru-RU  | ru-RU
- ko-KO  | ko-KO
- zh-TW  | zh-TW
- zh-CN  | zh-CN
+en-US, en-US
+fr-FR, fr-FR
+it-IT, it-IT
+de-DE, de-DE
+es-ES, es-ES
+pt-BR, pt-BR
+ja-JP, ja-JP
+ru-RU, ru-RU
+ko-KO, ko-KO
+zh-TW, zh-TW
+zh-CN, zh-CN
 
 ========================================Install Firewall Rules========================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 507
-Total size of files     : 4761025641 | 4,76 GB
-Total number of chunks  : 7
-Total bytes on disk     : 466058345 | 466,06 MB
-Total bytes compressed  : 54926612 | 54,93 MB
+Total number of files  : 507
+Total number of chunks : 7
+Total size of Files    :       4761025641 Bytes | 4,434 GB
+Total size of Slices   :        466058345 Bytes | 444,468 MB
+Total size Downloaded  :         54926612 Bytes | 52,382 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -38,7 +38,7 @@ Name: DU\Manual.pdf | Locale: nl-NL
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 41124018C0035BC3E40971FF8028C16670FD4700 | 445660D52C726EF498E1C7CB2196F0CD139484D0 |     804456 |   804456 |   224130 | base.dll
 B5275AE5403F8D2F93032E2331374B71313C4562 | 73A2EE8EC4C074B6A5C5485C615EE7CE230137E0 |     375808 |   375808 |   150825 | BinkW32.DLL
 92FC19D0D72B18615FDB1055E5FDD21897A22FD2 | 94004E23DCE78AE52ABA9DC08B06572A5E4D37D2 |     218728 |   218728 |    67724 | detectionapi.dll
@@ -1973,7 +1973,7 @@ AF07038377F1D1D26ED93DC2E2F28D3B18C9130C | 499821653C66EE26BAD0F9174D718F8215DD4
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 903BD8A61BF7AF488762CFCF1C08D07388DC0569 | 076B80DCBBB550DD92E7CA0892A5714AB93AB9C8 |  105690272 |  2097152 |  2079899 | Support\inst\data\EN\CREDITS.BIK
 B3D0E4D148A55E702EB1E532C6E0C5679906E2A8 | 44FBF317B35E69CA691F706FE366945486264778 |  105690272 |  2097152 |  2081431 | Support\inst\data\EN\CREDITS.BIK
 57988D85E530B37B03343E6B7600928C69EEC4C1 | A1AE3AC484601F0092E34925D3FB28EBA3EC3EE0 |  105690272 |  2097152 |  2079893 | Support\inst\data\EN\CREDITS.BIK
@@ -2099,7 +2099,7 @@ CBD05BA8798D3724D8835C81912EA0090599FA5D | C6DEB3BBBB68B1013133347F0101E50D0199D
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F1487E6610C0775BBA9D0090F59A7471A0470CEA | 888B849C3D088F34E4354F8528482660A593AF32 |  105902320 |  2097152 |  2079755 | Support\inst\data\FR\CREDITS.BIK
 779AAD24176CBF8496CAFDE4628236EFC10600E9 | E3C2C1CBD0DC9623A2DDD4AF4BE38D7284358D59 |  105902320 |  2097152 |  2080535 | Support\inst\data\FR\CREDITS.BIK
 7ADC439C006C330720511084169AB5E1A4833E31 | 49CE6B9BB9E6039F98A5130D6A4FE3213A0E87AD |  105902320 |  2097152 |  2078543 | Support\inst\data\FR\CREDITS.BIK
@@ -2224,7 +2224,7 @@ B019B817A6D55C3650A0AE98B166A8D198B9C0AD | 7D2817895B6E31649F1DF1404DD99637D3FBC
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 FD554067EBF14E9069A668D539F4E6634AD804C8 | FDF68654FE9EECDD9CA1B9400163A39835C3F8BC |  105848256 |  2097152 |  2080184 | Support\inst\data\DE\CREDITS.BIK
 7AFAAFD662EBF305460190FCD4B32246A1B1380B | CCB1E026045EB693D7765BDCFE41C51F9C7FBD0A |  105848256 |  2097152 |  2079928 | Support\inst\data\DE\CREDITS.BIK
 A962557E43292231A2F0474322D69ADE426BB12B | 6B0E75B2868D5D67CE68014B40D0B1B0AE43A970 |  105848256 |  2097152 |  2078911 | Support\inst\data\DE\CREDITS.BIK
@@ -2350,7 +2350,7 @@ A9C27D60CA350E29D15BB96B46E730CAF023C396 | 9DDCB9BD967A0B6DFADA8BC3D575EFB128620
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D427DC3BCBDFBFB642F2B5C4875D5D5E56F8DAE4 | 4E94A1DF7633F714EE4F67CEE037B2749472C9D7 |  105777056 |  2097152 |  2080534 | Support\inst\data\IT\CREDITS.BIK
 4905D0DE3C4E27E2FE24744D75A5EB32022FA9CB | EA00846239BB71F2FE9CBA4EC9ECD38ED785CA5A |  105777056 |  2097152 |  2080432 | Support\inst\data\IT\CREDITS.BIK
 B03AAAF6D03E9A6297F6D8474DD8D62F4368DC72 | 8DD4CCDC942DFAAA4D42AB3A7B76C0BB2830A7F3 |  105777056 |  2097152 |  2078871 | Support\inst\data\IT\CREDITS.BIK
@@ -2474,7 +2474,7 @@ C6026EC9B5936F815F1A8D314500300A92DE65A5 | 3594EF88B2BADA0ACF882985E280749B87C9F
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 415BC760FD6BCE7C96E625B8FCFA328B358BC4C7 | F87D6CA4FE09BD3CF09C07D6047911055298D9B6 |  105820704 |  2097152 |  2080396 | Support\inst\data\SP\CREDITS.BIK
 CD829949D47AFE21BCCBDD0983B789E1D6ECD9DB | 4787B55A95F19D897BD4941AA5360AEAFEB884F7 |  105820704 |  2097152 |  2080943 | Support\inst\data\SP\CREDITS.BIK
 7108371ACD57C00B6D87790FC65FBC2BE6301E0B | 0F17176E4E557E4D6AD199FBC74BCBDC98834067 |  105820704 |  2097152 |  2079834 | Support\inst\data\SP\CREDITS.BIK
@@ -2598,7 +2598,7 @@ A92EC4AA1BD38B207D02A71FC56FE107D17011FB | 5153219216F5B61C629D8F44C3F42BAD1D4D4
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: nl-NL, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 5E3BA1893860435E71A164018558D9D6814D9EC1 | 987A5ED2629715155F5190A8635B891A7C639E31 |  105757852 |  2097152 |  2080539 | Support\inst\data\DU\CREDITS.BIK
 F59DB2C740AAA7AB083A0BD07D94A43A4709D284 | 8117FA188589F6674498A62F7CC01737184397F2 |  105757852 |  2097152 |  2081298 | Support\inst\data\DU\CREDITS.BIK
 F7E56DDA04E640DA915A65DFFB1CAB9162A9658B | CFD26CF9B188E517DFE78FE8EA050A66A4C37CAE |  105757852 |  2097152 |  2080693 | Support\inst\data\DU\CREDITS.BIK
@@ -2787,42 +2787,37 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia Warrior Within\1.00.999\Product_Path, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia Warrior Within\1.00.999\Product_Executable, Type: String
 Registry String Entry
-	Value | Language
-PrinceOfPersia.exe  | 
+PrinceOfPersia.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia Warrior Within\1.00.999\Product_Language, Type: String
 Registry String Entry
-	Value | Language
-     9  | en-US
-  1036  | fr-FR
-     7  | de-DE
-    16  | it-IT
-    10  | es-ES
-    19  | nl-NL
+9, en-US
+1036, fr-FR
+7, de-DE
+16, it-IT
+10, es-ES
+19, nl-NL
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia Warrior Within\1.00.999\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    DE  | de-DE
-    IT  | it-IT
-    SP  | es-ES
-    DU  | nl-NL
+EN, en-US
+FR, fr-FR
+DE, de-DE
+IT, it-IT
+SP, es-ES
+DU, nl-NL
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia Warrior Within\1.00.999\Product_Release, Type: String
 Registry String Entry
-	Value | Language
-Retail EMEA  | 
+Retail EMEA, 
 
 ============================================Uninstall Runs============================================
 

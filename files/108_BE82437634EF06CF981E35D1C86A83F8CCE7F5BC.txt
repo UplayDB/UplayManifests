@@ -1,8 +1,8 @@
-Total number of files   : 6319
-Total size of files     : 7310917816 | 7,31 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3015950520 | 3,02 GB
-Total bytes compressed  : 896546551 | 896,55 MB
+Total number of files  : 6319
+Total number of chunks : 1
+Total size of Files    :       7310917816 Bytes | 6,809 GB
+Total size of Slices   :       3015950520 Bytes | 2,809 GB
+Total size Downloaded  :        896546551 Bytes | 855,013 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -36,7 +36,7 @@ Name: Italian\R6Vegas2.pdf | Locale: it-IT
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9BFB6D24A5DE611B5F2DFC9C79AEE346B491E546 | E2C15A19592A20D373DAF90AEACE474053A18B0C |       1353 |     1353 |      755 | R6Vegas2_Launcher-MCE.lnk
 BA380862647A00402B8873027F6A8AE2540B9599 | 3D1BE227291233C41564E42A95A82A45252892D4 |      62411 |    62411 |    62250 | R6Vegas2_Launcher-MCE.png
 1B26BBEB6756FD91762754E122E82FC00250D770 | 16115A22A8A911067129D77BC9EE73D7D85EA495 |       2858 |     2858 |      734 | R6Vegas2_Launcher-MCE.xml
@@ -8105,72 +8105,62 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-French  | fr-CA
-German  | de-DE
-Spanish  | es-ES
-Italian  | it-IT
+English, en-US
+French, fr-FR
+French, fr-CA
+German, de-DE
+Spanish, es-ES
+Italian, it-IT
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\MasterComcast, Type: String
 Registry String Entry
-	Value | Language
- FALSE  | 
+FALSE, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\MasterLang, Type: String
 Registry String Entry
-	Value | Language
- EFIGS  | 
+EFIGS, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\MasterType, Type: String
 Registry String Entry
-	Value | Language
-   DVD  | 
+DVD, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\1.00\d, Type: String
 Registry String Entry
-	Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-afb82e240b4e9b8a70ecdfe1188c9c89  | 
+afb82e240b4e9b8a70ecdfe1188c9c89, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Binaries\R6Vegas2_Game.exe  | 
+$INSTALL_DIR\Binaries\R6Vegas2_Game.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's Rainbow Six Vegas 2\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    fr  | fr-CA
-    de  | de-DE
-    es  | es-ES
-    it  | it-IT
+us, en-US
+fr, fr-FR
+fr, fr-CA
+de, de-DE
+es, es-ES
+it, it-IT
 
 ============================================Uninstall Runs============================================
 

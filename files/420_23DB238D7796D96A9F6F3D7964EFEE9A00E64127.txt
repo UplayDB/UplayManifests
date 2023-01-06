@@ -1,8 +1,8 @@
-Total number of files   : 486
-Total size of files     : 41028673896 | 41,03 GB
-Total number of chunks  : 53
-Total bytes on disk     : 2373968232 | 2,37 GB
-Total bytes compressed  : 2444214897 | 2,44 GB
+Total number of files  : 486
+Total number of chunks : 53
+Total size of Files    :      41028673896 Bytes | 38,211 GB
+Total size of Slices   :       2373968232 Bytes | 2,211 GB
+Total size Downloaded  :       2444214897 Bytes | 2,276 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -64,7 +64,7 @@ Name: Manual\Swedish\FarCry4.pdf | Locale: Manual\Swedish\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 50D6ED947B00962E970474E805C9AA28C4064D62 | 0A7EFA87B8976E441A539A9CC96897503837B41E |    5156568 |  2097152 |   536062 | FarCry4.dll
 62D1F132CC7F1583AAB6E19795EBA210E05536A6 | E296547AA5237FE3BA5298D98F9ADC242F23EC64 |    5156568 |  2097152 |   514880 | FarCry4.dll
 5C0DA3496AE3D7FD1503FE40796AAA75ABD9002D | 3D0A0D342B638873AA0976302AA740F8837F154C |    5156568 |   962264 |    69115 | FarCry4.dll
@@ -138,7 +138,7 @@ FD4E87D91D89ACC29B939A9DAF4A31533565CA84 | FC91AC15055D7E7BDBBCB44A796C04215DA7F
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 362093C4BFA324FFDE38ACEC7416F3C0E4DF6CEE | EACF170A92AB52BC39C581F046627986A55B1945 |        256 |      256 |      164 | Support\Software\GEFirewall.bat
 60DEFE961A50D747B21B45CDB6A7B17DDD03BF39 | 0C56F76B1A3AA1557921A6931C457283CADD431E |      36457 |    36457 |    13446 | Support\License\lic_cs-CZ.html
 3AF3578E75D38C0F698491943994A4FEAA825187 | D62C90DC64DDB8BA054DEEC90A9F10CC84713168 |      34466 |    34466 |    12671 | Support\License\lic_da-DK.html
@@ -418,7 +418,7 @@ A214495A8D90D27158C257472190ACC472C068DA | BAAB99AEA90A6B30CEF510745698F8153EE3B
 ================================================Chunks================================================
 
 Chunk ID: 1002, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F287064123BE424B4A4B7DC0DDA3C61612AF159D | EDD90476CDBAEF368AE90F372A35D481AC10C21E |  128095667 |  2097152 |  1537704 | data_win32\common.dat
 CDD3E58A706CE611753D9451FD6F7490B71EF82A | 9E6EB6D0D45BF971461B49690934C6DB0878C2EC |  128095667 |  2097152 |  1901738 | data_win32\common.dat
 C206C48AA4A436FAD1146B75CA8B336998D56C1F | E68A915B971C568E2AF3BA844B5C44CDDF8D0A32 |  128095667 |  2097152 |  1669381 | data_win32\common.dat
@@ -1836,7 +1836,7 @@ EF9550A3AFAA4DBD0C9AA8C29A853CB8590A205C | D261C036A307CA86633BD30B1091F85C9E006
 ================================================Chunks================================================
 
 Chunk ID: 3000, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A18AAD4340E15EF82218F15C39B8CFC62EA4CA69 | 6AC404EEA380BB8948B1461E5D0774B07555C025 | 9875839728 |  2097152 |  1545613 | data_win32\worlds\fcc_main\fcc_main.dat
 119AF34551269268E8079D73315FF01C4F9D4E44 | 6190A466D24B8AA3962A6BAB314323AD8CF2DAA1 | 9875839728 |  2097152 |  1503506 | data_win32\worlds\fcc_main\fcc_main.dat
 E0A8D6697D6215C3E2A5F62E56FA3BA4F3631836 | 83E8E5AF68BE0B9B9FDED0FA6CE90D8B53BE442C | 9875839728 |  2097152 |  1540706 | data_win32\worlds\fcc_main\fcc_main.dat
@@ -8464,7 +8464,7 @@ C26389849F9897A2E66CB3716E43DC24149404FC | 401C3AE143B06FA586588FBA0684784776EA7
 ================================================Chunks================================================
 
 Chunk ID: 3001, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 21331D3485468144A012006DA34E03C05F500969 | 7A122A2C8A9CBAA41647FF8CFB554F0884920BC9 | 6740406774 |  2097152 |  1688349 | data_win32\worlds\multicommon\multicommon.dat
 8541B363CF78328C16C4180CA4FAF12150F5D9BC | C4591B3AA353B33D94EDC42AB23EBFBECFBE4428 | 6740406774 |  2097152 |  1606340 | data_win32\worlds\multicommon\multicommon.dat
 9C1A114B83574C86A44A076EBCBA5A2083422DF8 | 5174CF635FB8F107098575DF7CEE0F3CDF1C9F83 | 6740406774 |  2097152 |  1710345 | data_win32\worlds\multicommon\multicommon.dat
@@ -12992,7 +12992,7 @@ AD0EC2BF10816F1D5E1DC4F4EBA2C0C4ED9087B7 | 4645521AE19B7DDE04BAE829AB385167FF0C8
 ================================================Chunks================================================
 
 Chunk ID: 3002, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 72E4FD22BFDAE8EAB9403E9E2ACE868CC6F06C2F | 81B5341A7C7A4FD06F46A8884E7860EEE060FA48 |  271925671 |  2097152 |  1889779 | data_win32\ige.dat
 EF9CA78E25A2FBBAC0A768300314BA7C1EC3153E | 7006567900141ED487A1E385FADBB73965C9DFA9 |  271925671 |  2097152 |  1859758 | data_win32\ige.dat
 C65A2A8D53AD9A828F19B7B9773607B15E12C365 | FA50DD43AEB7EECE67E31F365D4C14B76545C452 |  271925671 |  2097152 |  1882868 | data_win32\ige.dat
@@ -13127,7 +13127,7 @@ D4BE98CE7053A954575EE1F7065D1BA1EB29A15D | B28874D8B9E89295FF77522E689FEBA58783F
 ================================================Chunks================================================
 
 Chunk ID: 3003, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CDA5AD5241307F06FC4C2B254EDFACF65D2F5BD3 | F81D82883645030FEDE817AA140999DB4BD52EAA | 2619961111 |  2097152 |  1983667 | data_win32\sound.dat
 B0ECEEEDE813B6C7719214F073FB801C87FB927A | C31E0DAD4DC7B3E9D00D8D26DACBF537BA982982 | 2619961111 |  2097152 |  2000067 | data_win32\sound.dat
 7568681A1C428E9653ED3BA89F52482E839A07FF | 71D205CD67BA4949C8AEEC6D6FE215AA138A18B8 | 2619961111 |  2097152 |  1963576 | data_win32\sound.dat
@@ -14403,12 +14403,12 @@ C5A4BC74C7A5F9E50FBC68716C8AFEB325945ED4 | FCEE25A0BA1D807A6682F5CB04C5920F4CD53
 ================================================Chunks================================================
 
 Chunk ID: 4001, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\English\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4002, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 BAED0A3E096C80B8CF94BD36FD186E63E98220D8 | 37A195C5265706850F9D921F1CC9D26461AD6FF0 |   39804719 |  2097152 |  1578181 | data_win32\sound_french.dat
 B3C34CAF3A19F8792A04D4F8DCD6EC38D6CAC7A1 | 2DBD05B5B3285A7C6DC2EC1C3E90C1B3C38CE9C6 |   39804719 |  2097152 |  1629013 | data_win32\sound_french.dat
 5D154CA6C4F985C0F6DE5F69705AD62687DF7B5A | CE552F14AC97A525BD399AB2D6EF6F45C3242DE8 |   39804719 |  2097152 |  1693141 | data_win32\sound_french.dat
@@ -14804,7 +14804,7 @@ ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF
 ================================================Chunks================================================
 
 Chunk ID: 4003, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 BB2213A0D3FB256DE952C3658599B42B51B6F573 | 621A58DCA67BA1F49B135499AC0DA743AB39EF40 |   40673424 |  2097152 |  1570666 | data_win32\sound_german.dat
 DC929406167760FD6757CAE368AE8F5D783E8562 | 57EDD6F1685AAD520E8ED47D21B4BB852C1BF2B0 |   40673424 |  2097152 |  1605853 | data_win32\sound_german.dat
 001E24F8D27F9FA01912B7C2ED73D94FE220ABEC | 2654C35A5BFA76C836B5A07D6C78CBF6384B57B9 |   40673424 |  2097152 |  1675633 | data_win32\sound_german.dat
@@ -15211,7 +15211,7 @@ ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF
 ================================================Chunks================================================
 
 Chunk ID: 4004, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0ABED3B9CA859528CA63494B2E148B9A4BFD0DDF | 6392E2FF37D4D790DA7088D32472052762527A5D |   41834589 |  2097152 |  1591507 | data_win32\sound_italian.dat
 0C1FD38A287C704DD25379B245E7557A3FF9D02E | F1A85BF39781735167A2DD61A71A011484A3AFBD |   41834589 |  2097152 |  1638350 | data_win32\sound_italian.dat
 3E7E53C0B4343184424D1BDCD9BB341C97D5F386 | 52C1BB1B11CE408A6A820050DAC40DAC47969F79 |   41834589 |  2097152 |  1690156 | data_win32\sound_italian.dat
@@ -15625,7 +15625,7 @@ ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF
 ================================================Chunks================================================
 
 Chunk ID: 4008, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 48A16304A017B254AE0EDF09F82BAA0A368014EE | D4F2D8E98C9CC109BE2DC53777C1151C89B04B97 |   42042802 |  2097152 |  1558706 | data_win32\sound_spanish.dat
 881A50DAD6A7B69169F93BFC9BD9140BD207E491 | 865C157AD5E8D70ECE001447D2CE64720EACB5CA |   42042802 |  2097152 |  1622667 | data_win32\sound_spanish.dat
 3E8771003DE97D093CF4AFF9D48ACD5352EA6412 | 64FAC07781D711747653EE5DA1EA5DDB9D927B78 |   42042802 |  2097152 |  1683559 | data_win32\sound_spanish.dat
@@ -16033,7 +16033,7 @@ ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF
 ================================================Chunks================================================
 
 Chunk ID: 4009, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pt-BR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F4F109EB6A3BBA196A340BB04A4D54FA1DD01389 | B9CBA9C412A4113FB007FF6AC615E2B373E641DD |   42186346 |  2097152 |  1543769 | data_win32\sound_brazilian.dat
 35E840C16C6EE3C63415E4D4D5B51FDC0D0279F7 | 51A916468BD475BBE2C74578F52CEA41C313A5E5 |   42186346 |  2097152 |  1598375 | data_win32\sound_brazilian.dat
 AC167C1D5FA8F2DA9C5FB62C0491D585CE084792 | 20B57B466AF414E4EE0223040C792A61B91D501F |   42186346 |  2097152 |  1672620 | data_win32\sound_brazilian.dat
@@ -16441,7 +16441,7 @@ ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF
 ================================================Chunks================================================
 
 Chunk ID: 4010, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-MX, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 642E8A775ABF469920FE9A584F1899C3FFB7DA12 | DA27B69FAFE3AF48D714C93C04755087EE10EC19 |   41195326 |  2097152 |  1541055 | data_win32\sound_mexican.dat
 570D54C55C83C36AB061CDE015F0D4A6E3DFAE7F | 243C08A120C35CB1C829EA6C5C94EABA0A423BD1 |   41195326 |  2097152 |  1588542 | data_win32\sound_mexican.dat
 2D97DC9E20ACF9D7C9249C643F9A1F9948B96FBE | D8056FCA65696E9271072E8A02F3D92190CFF7AE |   41195326 |  2097152 |  1669147 | data_win32\sound_mexican.dat
@@ -16841,7 +16841,7 @@ ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF
 ================================================Chunks================================================
 
 Chunk ID: 4011, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ja-JP, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 67F7A6D5256B546F7D216F4E782538369113E0F8 | 611A97C44643158E4A766430D9E5E4B850DCE348 |   41370062 |  2097152 |  1578954 | data_win32\sound_japanese.dat
 21BA304F93096EB403ECE3744631D0AF09A0C9D4 | 344F53349EE7B8EA041FDF5861AEE8FEE35A2762 |   41370062 |  2097152 |  1624942 | data_win32\sound_japanese.dat
 B1267907E9885EF7929CA468FCDDB557681F6423 | 4301204B0DB5D8DAA380349F2752041DA7D6531C |   41370062 |  2097152 |  1700555 | data_win32\sound_japanese.dat
@@ -17251,7 +17251,7 @@ ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF
 ================================================Chunks================================================
 
 Chunk ID: 4012, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 79525432382B2BCC9A5C6A65073FBB545BD2FCBA | 714C45291B8A3D06C17D1ADC4A1EBFBF7AC01C77 |   40319239 |  2097152 |  1573235 | data_win32\sound_russian.dat
 57B24D2E4335702E76933F600B0A89AD8740692F | 34CA0340BCDBD90B3310D54546032E6FD60D206E |   40319239 |  2097152 |  1606746 | data_win32\sound_russian.dat
 5B88C11AFE88A1DF06BA8CB758C3E13818888A87 | D965236E69E60877A52C0F03DCAADBBFCDF476D5 |   40319239 |  2097152 |  1686612 | data_win32\sound_russian.dat
@@ -17645,57 +17645,57 @@ ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF
 ================================================Chunks================================================
 
 Chunk ID: 4013, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-CN, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Chinese_Simplified\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4014, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: zh-TW, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Chinese_Traditional\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4015, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: cs-CZ, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Czech\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4016, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: da-DK, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Danish\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4017, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: nl-NL, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Dutch\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4018, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fi-FI, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Finnish\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4019, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: nb-NO, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Norwegian\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4020, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pl-PL, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Polish\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4021, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: sv-SE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Swedish\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 4022, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ko-KO, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 ED4E9961D148527EE56B992033EC50DA6252E352 | 13CB907F1C455BFC76E15C7AB7337E15187AF541 |    1741824 |  1741824 |  1733930 | Support\Manual\Korean\FarCry4.pdf
 ================================================Chunks================================================
 
 Chunk ID: 5011, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1BA4D197E5B003E444487C7B8BB38718C7FE2203 | 68BDB079A3D5F160B1690AE8F5FCF038E634420B | 1003489012 |  2097152 |  1570245 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30.dat
 5553035B6BEE7C8F525AF588AB531CA0493D6B3F | 3120599158E747502F76109380B69E0D97C90405 | 1003489012 |  2097152 |  1588409 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30.dat
 31FC61818341BBADAFA6154AEC8438F87C2F0F6A | 911B91945E181609A7FBD3FC7AA4F147326185D7 | 1003489012 |  2097152 |  1521511 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30.dat
@@ -18408,7 +18408,7 @@ D0ECB76E1D7EEA183CE7F1F6F5A26801AE28D9B6 | 438EE6B3A6850A5916C3D7CCF5D4DB9DAAAAF
 ================================================Chunks================================================
 
 Chunk ID: 5012, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pt-BR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 44DA0BE3CCE47AD32763BF60E4532A8FA45BB630 | CAB716EA1DA770D6ACF9D44FAD76D7FF432120A0 |   53109148 |  2097152 |  1971941 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_brazilian.dat
 F403A57C6859B889AC2BFEBC0B2C594190051C09 | CF153791F33A5C87379453231999CC06C85AEE2F |   53109148 |  2097152 |  1961526 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_brazilian.dat
 910BD2600A275C588E702C88D70AD8078A04107A | 7A7B49F77D3EB2A513ECD17C150A305FB2E3C68B |   53109148 |  2097152 |  1866442 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_brazilian.dat
@@ -18439,7 +18439,7 @@ FEBDD1D935C632D96B094D828D706EA7654EF6A9 | 7F2FFB7C3BB33C87742E74A16693741DB1A5D
 ================================================Chunks================================================
 
 Chunk ID: 5014, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A943AD3C2ABC40DBB353DD3CDA93729B023F6A3B | B0AAA9EED1F1F2777BCEECA1ADD16598096FDE1C |   53539145 |  2097152 |  1892425 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_french.dat
 9713465335EECC6E90D77A6CE76D42FE5C041AAC | EA13CE662439CE5073FF49708242FD1B01F2B534 |   53539145 |  2097152 |  1983479 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_french.dat
 6D6B17FCFBC1A2A9BAF1E8689D1B2E5D975B4072 | 690A046C5299E492A68A26F23EFF2DBAABF8FD0C |   53539145 |  2097152 |  1839217 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_french.dat
@@ -18470,7 +18470,7 @@ CA4D9A71AF2979D0106E034805612DFE89F95F9B | 82251FFDF6A933394D5B764926CD70E6712E1
 ================================================Chunks================================================
 
 Chunk ID: 5015, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 02B65A21647F1D24FE2E2F34F2953BFDD1C3020C | 2C7024816701C5A8B7D2E4FCAC4BF3DC6D9DFD8D |   52114411 |  2097152 |  1983938 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_german.dat
 FCEEC6A08814F7FBFB50E77D409F71537B38E484 | 482D950C0CCC4A45C6502C4343B5B82680223847 |   52114411 |  2097152 |  1959853 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_german.dat
 5178706426C44E0DDFCC8841C5CE08BA418978E2 | 29433FDD20CCCAC01C3ECA82EB4DA2BF2A8E41C2 |   52114411 |  2097152 |  1840196 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_german.dat
@@ -18500,7 +18500,7 @@ FA6BC41C349243E3DC0876F4F909BF522A21B09A | 2E49B24B289DB1207E9D59B0D24D2F1D495D1
 ================================================Chunks================================================
 
 Chunk ID: 5016, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 EB267C2452155C932E611A982B7591500F4B77DC | 8B629F61A166A663F2C9BB7459222FA65FD2B62A |   53660086 |  2097152 |  1970569 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_italian.dat
 03FA9BEAA342330E4D8E281C0243BC329229C780 | E97D1401CEC39203DA31E99B224DBAFE59BDAEA6 |   53660086 |  2097152 |  1990927 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_italian.dat
 39CA3B918C62DAA14FE95D3DA7FCF603911833CA | 3630D9010E7B96E3009DE932319CA6BEC05E92E1 |   53660086 |  2097152 |  1891674 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_italian.dat
@@ -18531,7 +18531,7 @@ AD926EDEAA1A89CF03899A1185F81BB0D8E8BE15 | EF685549B48FA49D5B01005FD9888AE638BBB
 ================================================Chunks================================================
 
 Chunk ID: 5017, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ja-JP, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 24503EF14C17A87DE9ECA8C4886489B5A656B0DA | 467CF6F977375117695F05950C2179D0854A6253 |   37411713 |  2097152 |  1889608 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_japanese.dat
 466D5E4E1908C6783F13C19B0C8A3BB67A05D087 | 3C7BFE880C055E61E41F6BDF0FF580DE64DAD2FC |   37411713 |  2097152 |  1961452 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_japanese.dat
 1EE673A9C4871CDBFBF66882C38D5BC45BB9EB5D | 876F23676703755F0AB441FCE9CF9055EEC443D0 |   37411713 |  2097152 |  1945687 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_japanese.dat
@@ -18554,7 +18554,7 @@ AB725097D968DC45720157FEFDC2BB360AA25F19 | F70E169B88E719CFA59761A65854BB9158154
 ================================================Chunks================================================
 
 Chunk ID: 5018, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 08E3651EBA0430D54850294B6A7AF7F2504D4703 | 1D97E101258D530AD40C98A7CBBEB73C3EBDBEB0 |   53233909 |  2097152 |  1976166 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_spanish.dat
 50C64E578892DB2AF1EEB9BDE06DFEE7EC339FBC | 89880A554CDA2C72390DF3916684EB9BE0E0439B |   53233909 |  2097152 |  1952304 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_spanish.dat
 28A867283AA34E84E995EB3E53FE85D36194C1B6 | 3C9FD5CBA677CB2026F91103548F13091E1D7AD2 |   53233909 |  2097152 |  1908899 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_spanish.dat
@@ -18585,7 +18585,7 @@ CA8C99BB3BB3F0F752F24E7F3A62CCB2B8795A47 | 2B7CA23038E8713D14586C66BEEDC168706B5
 ================================================Chunks================================================
 
 Chunk ID: 5019, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-MX, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 832417910252F65DABC07C447C5DE17C709C5923 | A5180809BEC0A19AA6193B9406FDFBFE11C342B5 |   52900993 |  2097152 |  1966119 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_mexican.dat
 7DC0402CDDD115344EA24B4FB07F20CD6D1C7C7D | 0593EC2B2241B62551A888688152FA7B3442DEC2 |   52900993 |  2097152 |  1919114 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_mexican.dat
 9C8848167F2B9F53BAC56EF05268EB95D9607EF9 | 54511FBFF7C0FAF80A5BF59C345BC7F8C823FC29 |   52900993 |  2097152 |  1917434 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_mexican.dat
@@ -18616,7 +18616,7 @@ E83925AFF9C27F1E89C021A6B5E5412AB885CC9B | 42A889C308E42B767AC4C3CBB8A1DEDF93432
 ================================================Chunks================================================
 
 Chunk ID: 5020, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8F69E53C9CF2DB558EDD2CE08FFC4B3E5881D815 | 3B60B631E482CC1DF3FDD418C1B335DD2B162731 |   52889876 |  2097152 |  1951438 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_russian.dat
 37F1963889F2E156A7B6D3E8C81FE098A1337898 | DE5121F223D436FBB2D6EB874A6B10241EE3DF22 |   52889876 |  2097152 |  1987421 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_russian.dat
 0DEE789B0489A07FC4633E3D373521FC9F6B35F9 | 1C1A3A45DA1EE8EA25AEC1B4F5426D1E986433A7 |   52889876 |  2097152 |  1858426 | data_win32\worlds\downloadcontent\fcc_dlc30\fcc_dlc30_russian.dat
@@ -18647,7 +18647,7 @@ C5BC6D36A9D0138A5504693DDCA49EE213AB5C5E | 76FB68E19EAA5FC2EEBC4B8AE0EFDCA779CA6
 ================================================Chunks================================================
 
 Chunk ID: 6011, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9560A9529B32E770EE090F194EADAF5E7C919A13 | D8D1E871286978D43B46368EB18C35013113F5A5 |  483315033 |  2097152 |  1534560 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60.dat
 3450346F59E5A78C102AE7D3EE9FD02FBAE312D1 | C69B8712107C0E0E89B321DA424DA6609A22F5C9 |  483315033 |  2097152 |  1151540 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60.dat
 AFB397D735EF3C4F3C8BC58CB7691A8FD56895B6 | 81D3D8C46EB9A08FC97A8DC594838064B5C0E9EC |  483315033 |  2097152 |   939219 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60.dat
@@ -19000,7 +19000,7 @@ ECD7F07EFEC1A49426C22C757AF4812D5D5F25F2 | B7EB98E5053F99ABF2C9CA8DBD01D3C23277C
 ================================================Chunks================================================
 
 Chunk ID: 6012, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pt-BR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CEE7C688F134A63DAEC0CD598082367BC687298D | 386F1D1197A8F045151072DF5617503CFB69700D |   17100275 |  2097152 |  1971700 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_brazilian.dat
 151BD40649CA44D65A66ABADDBADCCD23697D7B3 | 76F1F97862B85D7FFA4537B7282D8465B5A12847 |   17100275 |  2097152 |  1872420 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_brazilian.dat
 3AB5198DF6677960CBD5887077461702D410B920 | 4BFCCF8B4C6A88CEB0B463E9CEAF856A134BA609 |   17100275 |  2097152 |  1928157 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_brazilian.dat
@@ -19014,7 +19014,7 @@ A374824DAEFD59FE9C5D150E6A34480028A29E7F | 6FF0BFD46A03BA89087C89A548105D26AAB6F
 ================================================Chunks================================================
 
 Chunk ID: 6014, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D4AC91544A5805D783FD1C03EC146C24AF8F973F | 88094F58D3E5AB4A99716775A355A676B14E6148 |   16447632 |  2097152 |  1978787 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_french.dat
 5DD14D00E942FF40DAA7AAE8DF5E65DA4D423DAE | DED174C89551C748F4E64DA7841BB0C6F56B966D |   16447632 |  2097152 |  1901037 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_french.dat
 BF1DBBB55A82C3D4876BE0719874B7EAF2090379 | 3DB69A04BAFA00E4843A6C64A8810DA340457C59 |   16447632 |  2097152 |  1953680 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_french.dat
@@ -19027,7 +19027,7 @@ D280A8F075FAC377386776CCF4855080F6878BF4 | 056F014EC96783EB0CB8A40574EB89C7EDD18
 ================================================Chunks================================================
 
 Chunk ID: 6015, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F43B1AF91EE59FF3F7BFD40A8BF0A2DEDF6BEA4C | 37F32F5FC3DEBFEA95005557F9911486C8F47443 |   16017920 |  2097152 |  1985169 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_german.dat
 E403C6DF7AE8993D066F6F4A050B88D6DEFA23A7 | 3643DB296266D372392E043DBD58B9EC4B94B932 |   16017920 |  2097152 |  1982937 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_german.dat
 5D97DE86A680A6B371DA362A61F70FE2982E6B34 | AC41459324D99F47F8D0656B229262BF74D21DA2 |   16017920 |  2097152 |  1965204 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_german.dat
@@ -19040,7 +19040,7 @@ B56879007041E6237BC5F7466380ACDB896BAE49 | 1F3B97731C56B4CE2FF9B10C3C7ADB75E74F8
 ================================================Chunks================================================
 
 Chunk ID: 6016, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2464FD54DC3ED91546B497DA3D605013460D771E | 9AFBBE5DED12CBE775E79E2942E990BC366C52F5 |   17127440 |  2097152 |  2005236 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_italian.dat
 24C747816FD45F021C5543C7028C57D59FF7B7F0 | DE92714476D37140AD77DD4B58AC96A0D2F7CD0D |   17127440 |  2097152 |  1919016 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_italian.dat
 15B789A6C10CE64B16ACC0478024AFD8F3F8D09D | 3AA017AC6488DE8D759339D4D2266C8B7EA7C5D1 |   17127440 |  2097152 |  1969425 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_italian.dat
@@ -19054,7 +19054,7 @@ A71E7CDDB49B6DC714A5EFA01F9886A63B4032C0 | 01B8AA0B7E0ECA64EE5F81F1068FA62B14646
 ================================================Chunks================================================
 
 Chunk ID: 6017, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ja-JP, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 67DB08465787CBD875B4D1F5C80C5A939069804A | F5253C4722EA96AF4769655AC9B5BC1CC4B41A10 |    8541211 |  2097152 |  1784324 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_japanese.dat
 F63D1A97A439393BBCE60DFD7B666A50B9A31AF3 | 9A23F8DB47150B718A500DE9655E809869121917 |    8541211 |  2097152 |  1720952 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_japanese.dat
 4E53560E205B4CF89E69B894DA85A34ED3E7B09A | B862A8DF80DA6126A492E6082EE0EB057579DB57 |    8541211 |  2097152 |  1714983 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_japanese.dat
@@ -19064,7 +19064,7 @@ F63D1A97A439393BBCE60DFD7B666A50B9A31AF3 | 9A23F8DB47150B718A500DE9655E809869121
 ================================================Chunks================================================
 
 Chunk ID: 6018, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-MX, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 97DD82F8DC3F6695FBEED1F0E941FF21702EA9B3 | 9664DC7EAFBECC0A58F23FFEFA595583A056AA6B |   16130359 |  2097152 |  1968303 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_mexican.dat
 A43A9FCA8F8B544954B9FEE9D7AADDF45FA771A5 | 4578A30F64844FDB3A0F6BC3E400E7ABED6E937A |   16130359 |  2097152 |  1865220 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_mexican.dat
 85FF0FB153DC3109FF1A69FE215427188CB5544A | BC3E5BF8B2FCB25E5777BCB34A45B1761245F9AD |   16130359 |  2097152 |  1930002 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_mexican.dat
@@ -19077,7 +19077,7 @@ FF8D54D21DA9314BC0C45B219F1229103CA39FCD | E72762C6F8727C7879659AC266AD628A8CF2A
 ================================================Chunks================================================
 
 Chunk ID: 6019, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CB503C517388EF0DFE4DA29AD68E49AD326ADDA2 | D060164615FF9D0D0D471CA0C23F60EFC5DF3A8B |   16284016 |  2097152 |  1974892 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_spanish.dat
 FBBB5C9DE1DB6B9AAFC1651A19750E9F30C6BE9D | FB25B8BEF771646E635784C65FA60E87D493D6D9 |   16284016 |  2097152 |  1816153 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_spanish.dat
 59A2D30AD8F93D2FF84FEB9B66D91BC6F69DD6F1 | C2AD16BA0413177458D333BFF1CFF70C1A2A04AC |   16284016 |  2097152 |  1944450 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_spanish.dat
@@ -19090,7 +19090,7 @@ FBBB5C9DE1DB6B9AAFC1651A19750E9F30C6BE9D | FB25B8BEF771646E635784C65FA60E87D493D
 ================================================Chunks================================================
 
 Chunk ID: 6020, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6F4CA9D916FB4E866B9CF8587441548E6E4CD21E | 89DA80D8BDF24343D47BCFBFEE080A4AC7E8C34A |   16579726 |  2097152 |  1980289 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_russian.dat
 CA679C185DE5AC4C54A5015F352E49D2A3E60810 | 9B7D69C97C40585DD716EF4253F43801F405BAAC |   16579726 |  2097152 |  1985906 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_russian.dat
 3E83439CB31111430DAB0EF3629B3EAA8065C7D9 | 2865F28D72367E1D8C3102BC8C5EEADBFD960B46 |   16579726 |  2097152 |  1975605 | data_win32\worlds\downloadcontent\fcc_dlc60\fcc_dlc60_russian.dat
@@ -19103,7 +19103,7 @@ AEE7370E08B392EC42DF1C736BDF0C3529F27107 | FB51B6932E15781A60673F7C10EABD413348A
 ================================================Chunks================================================
 
 Chunk ID: 7011, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3B9FE9A005B5F19167D97021B4B5D71FDD629CCD | 62A7BD6D17615064D51EEC46FEF792C8E3563C61 | 1081485120 |  2097152 |  1503073 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc.dat
 D817CD73A4F6002F1DDFC904AFE56C6C362735BC | 528FA2DB4128D41216248668F08032BB47020ECD | 1081485120 |  2097152 |  1507065 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc.dat
 902D3543A98CBEC5ED0526041073A80B8EBB6655 | 6B75775997BF1A3C0F675B83322435948FB73FD3 | 1081485120 |  2097152 |  1631856 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc.dat
@@ -19898,7 +19898,7 @@ E2063C095AD572DB391E61F29B406262188CC193 | CB34B1695D33EAB138C60D9DB96BD80EA35EC
 ================================================Chunks================================================
 
 Chunk ID: 7012, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pt-BR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 591023F827B2874BA46B4595AC76E2A66D66475A | 9A750D62CCCA612F3775597249AD578667DCD585 |   61843248 |  2097152 |  1959832 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_brazilian.dat
 3B0FC48438528AFD9A338A228BCD6F447BBF9FC4 | 016A586249D7D6CA538585D25DDCBB1CD4DB5A28 |   61843248 |  2097152 |  1933058 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_brazilian.dat
 19217529355F9FEC08130927B9A214DFED205E13 | 8CFA62161F5D78515BF167032B2A7945561F1C92 |   61843248 |  2097152 |  1841685 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_brazilian.dat
@@ -19933,7 +19933,7 @@ B06D4523C6FB06831A5CB7C8C9C9D5CDDE6DD166 | 58376FE98030A23B7A72547076044022C6D02
 ================================================Chunks================================================
 
 Chunk ID: 7014, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 7F3BAE2E7D572E903B68E951913795EC30DB7318 | 4CD0360B7B4400ADAEF607F9743DA70E8DFC419B |   62052674 |  2097152 |  1891804 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_french.dat
 84EE1D49809AC526E7229B0E7883DEAEF90F3B91 | 22067DE60B568AD083867026A2AF672DA5975F9D |   62052674 |  2097152 |  1951321 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_french.dat
 753FC8347A63A63463D7E556FCCD5451673FF719 | 5A3C37EE2A62EBF223D8A0BDEFA913377B478916 |   62052674 |  2097152 |  1827453 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_french.dat
@@ -19968,7 +19968,7 @@ CFE19A2DE24F85CA3405ABA4CC97C90E3E78CB58 | D751F614467858BEF2A12ABB7275E80206C48
 ================================================Chunks================================================
 
 Chunk ID: 7015, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6A2256C324EA47BD0B0834930F9A2D7BA4A4EB29 | 66DD3857F500A6196A5B22DD014A8BB8B9AC47E4 |   61325628 |  2097152 |  1982749 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_german.dat
 7E53EE81057EE80FE5F15F98E2EF66B3319DA253 | 08A65E7BC9FEA22BBC9AF49492070C266018DF4B |   61325628 |  2097152 |  1914198 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_german.dat
 5D524B781FE347522C220F998B74807C19348B43 | 5714D921BFE8B7ACF14C203B155C47D509B44D39 |   61325628 |  2097152 |  1881030 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_german.dat
@@ -20003,7 +20003,7 @@ E873120984C11E0C69649A2131B83A217474FBCE | 82C7E795EBBBEA26B1E6292C34CDD034B6F02
 ================================================Chunks================================================
 
 Chunk ID: 7016, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B92CB2499ACAB312C6DCB077A755CAF79F84B817 | 88C4DB2A42E60F60F8E1D1D3A60BCE68A0D85E96 |   62854171 |  2097152 |  1970783 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_italian.dat
 5AD387DC73F1AADB8D165ABA9CE3757E9C76C874 | 030818C7EACC0FDF84629D69029C762084C9F89E |   62854171 |  2097152 |  1944287 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_italian.dat
 84B57E1FBDC55F102A3608FE5D566F481F4FC81F | 95E7257887FEBD8C8AFAC810CC1E1A8C49497B99 |   62854171 |  2097152 |  1906106 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_italian.dat
@@ -20038,7 +20038,7 @@ ECD33AC5E87EE282537978B3A5B8397AFBAC7A1B | A7852C8F958949E87C94E58BB05538E4C9BF1
 ================================================Chunks================================================
 
 Chunk ID: 7017, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ja-JP, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 9FBC3FDCB73270CC9E68244A42B436949A1A3798 | F38B18E0EF93E5FA5669A8BBB802751843C27456 |   48914070 |  2097152 |  1895340 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_japanese.dat
 92EB4CB31DD15E7FFE7674EBD98DBDE327F99CAC | 6FBB9F4BB1E5A9AD359706BF18FC65F66CBD3A6E |   48914070 |  2097152 |  1935107 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_japanese.dat
 50FD6485B68912A10D2DCAE8E9D1A352B8491041 | 7BF9C843C859B50C96DED156B07FE423759CB64D |   48914070 |  2097152 |  1925705 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_japanese.dat
@@ -20067,7 +20067,7 @@ FB1BB41EB66DF4F87DF741A6A97D84C6D4BF7441 | FC853EB2D877F111AE802B74B89BB6FBFB5D7
 ================================================Chunks================================================
 
 Chunk ID: 7018, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-MX, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F0D092764C58B0942431195A4CDB136A1EBACE94 | 745FB864B6694BAF2CFF28DBF274EF7A58630D14 |   62016821 |  2097152 |  1965593 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_mexican.dat
 FD4E5301CF75ABEF0B7477C508E0310D94DD46EC | 6AEA9F66379E8A5B97672C424A8E4B0ECE1C6567 |   62016821 |  2097152 |  1885258 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_mexican.dat
 C0B0039AFAE4D595644968139F0CB6397771202D | AEA1C32A7860F36E10BF0D4717FF86769650300B |   62016821 |  2097152 |  1930659 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_mexican.dat
@@ -20102,7 +20102,7 @@ C8B815B5FDF706FB1545B3BF005E01BBCB029328 | F419807449CFE7D4C4D5BA5921A31EA6C4ECA
 ================================================Chunks================================================
 
 Chunk ID: 7019, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 89667A068F753B37EFC6D2AF3B3D09A33A59E65B | A80C7EF60F417C4CBDDF2D6B7314671C0D14539E |   62280410 |  2097152 |  1974622 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_spanish.dat
 02C972647165B0C67FDAD9AAB954946ADCE444FA | 1C07C3B187D28098477F5A0776ACBD981AE545BB |   62280410 |  2097152 |  1920624 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_spanish.dat
 D0F6FAC66D185474083BB74049CD38C44A27FF1A | 13CD8A13F77CB4F8C8954F26A2AE59E8F4440630 |   62280410 |  2097152 |  1898638 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_spanish.dat
@@ -20137,7 +20137,7 @@ BAA3F6F73B6DCD773FC6A561875C2A45F1AB65D8 | AD6E54A4DD17F9BC5B040569463E70E7BC911
 ================================================Chunks================================================
 
 Chunk ID: 7020, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: ru-RU, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0D1B892332E51C4A1024A61F3756C25D7D9B52E2 | 72D4977EB0B0776B980CD035DBDC1CFBF9910441 |   61677849 |  2097152 |  1949864 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_russian.dat
 3735513432754AB9EFA5287B4B169BDFCD75280B | 00BD44A6E3B871DF17D92DEF1F9C9DA91C51A8C0 |   61677849 |  2097152 |  1955752 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_russian.dat
 864074DAC02F656EAAFEE5CD4D11DFBFB214BE90 | A7F27BA3503423015EC66C96311E2A77879245A4 |   61677849 |  2097152 |  1863624 | data_win32\worlds\downloadcontent\fcc_d90_dlc\fcc_d90_dlc_russian.dat
@@ -20234,26 +20234,25 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\Software\Ubisoft\FarCry4\Language, Type: String
 Registry String Entry
-	Value | Language
- cs-CZ  | cs-CZ
- da-DK  | da-DK
- de-DE  | de-DE
- en-US  | en-US
- es-ES  | es-ES
- fi-FI  | fi-FI
- fr-FR  | fr-FR
- it-IT  | it-IT
- ja-JP  | ja-JP
- ko-KO  | ko-KO
- nb-NO  | nb-NO
- nl-NL  | nl-NL
- pl-PL  | pl-PL
- pt-BR  | pt-BR
- ru-RU  | ru-RU
- sv-SE  | sv-SE
- zh-CN  | zh-CN
- zh-TW  | zh-TW
- es-MX  | es-MX
+cs-CZ, cs-CZ
+da-DK, da-DK
+de-DE, de-DE
+en-US, en-US
+es-ES, es-ES
+fi-FI, fi-FI
+fr-FR, fr-FR
+it-IT, it-IT
+ja-JP, ja-JP
+ko-KO, ko-KO
+nb-NO, nb-NO
+nl-NL, nl-NL
+pl-PL, pl-PL
+pt-BR, pt-BR
+ru-RU, ru-RU
+sv-SE, sv-SE
+zh-CN, zh-CN
+zh-TW, zh-TW
+es-MX, es-MX
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 413
-Total size of files     : 1032440689 | 1,03 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1032440689 | 1,03 GB
-Total bytes compressed  : 700963008 | 700,96 MB
+Total number of files  : 413
+Total number of chunks : 1
+Total size of Files    :       1032440689 Bytes | 984,612 MB
+Total size of Slices   :       1032440689 Bytes | 984,612 MB
+Total size Downloaded  :        700963008 Bytes | 668,490 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -25,7 +25,7 @@ Name: manual.pdf | Locale: manual.pdf
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 992F98D900C50AE8F742655C26A146B00C0C8178 | B5E521AD85E5E3D7E82329C53DAD2480A95B8D1A |    2319976 |  2097152 |   987951 | Battlecry II.exe
 3E3ED966A9708F960590CE4442469AAC9F352EDD | 5AB2B5406B2F5EE79B5B09AF4379FC12F446AC48 |    2319976 |   222824 |    61879 | Battlecry II.exe
 75930E64AA94BB467A77BEEE440E52BD101985BC | 6678BA5DD284AC40F93BD0BE5FCECC2B1F8B5389 |     290816 |   290816 |   127829 | binkw32.dll
@@ -913,14 +913,12 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\SSI\Warlords Battlecry\1.0\@, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\SSI\Warlords Battlecry\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 
 ============================================Uninstall Runs============================================
 

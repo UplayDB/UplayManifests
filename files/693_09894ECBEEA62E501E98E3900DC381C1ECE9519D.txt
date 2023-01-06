@@ -1,8 +1,8 @@
-Total number of files   : 10506
-Total size of files     : 7785339932 | 7,79 GB
-Total number of chunks  : 4
-Total bytes on disk     : 3490372636 | 3,49 GB
-Total bytes compressed  : 3490372636 | 3,49 GB
+Total number of files  : 10506
+Total number of chunks : 4
+Total size of Files    :       7785339932 Bytes | 7,251 GB
+Total size of Slices   :       3490372636 Bytes | 3,251 GB
+Total size Downloaded  :       3490372636 Bytes | 3,251 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: en-US , es-ES , fr-FR ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | D37CEE0B1509ECBF80ECC6002EE9D9A7FDEAEBDF |    2131200 |  2097152 |  2097152 | cg.dll
                                          | 3099DB5C8558C0158986926E969747B409582304 |    2131200 |    34048 |    34048 | cg.dll
                                          | C2622FBD9C279C2EAC51FEB8A564134AE3518D77 |     238848 |   238848 |   238848 | cggl.dll
@@ -4475,7 +4475,7 @@ Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 0A6FF1BA60E4E52D90F932822FA47345D83E96E8 |      44832 |    44832 |    44832 | Asset\US\2D\Font\Font_Big.png
                                          | F541F9D897715D5F998D7CEFA3E42644FD5170B3 |      18098 |    18098 |    18098 | Asset\US\2D\Font\Font_Normal.png
                                          | 58A08695DB4026F4344F8C83D72E5DBB694B842C |      13478 |    13478 |    13478 | Asset\US\2D\Font\Font_Small.png
@@ -7496,7 +7496,7 @@ Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 0A6FF1BA60E4E52D90F932822FA47345D83E96E8 |      44832 |    44832 |    44832 | Asset\FR_NA\2D\Font\Font_Big.png
                                          | F541F9D897715D5F998D7CEFA3E42644FD5170B3 |      18098 |    18098 |    18098 | Asset\FR_NA\2D\Font\Font_Normal.png
                                          | 58A08695DB4026F4344F8C83D72E5DBB694B842C |      13478 |    13478 |    13478 | Asset\FR_NA\2D\Font\Font_Small.png
@@ -10523,7 +10523,7 @@ Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Languag
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 0A6FF1BA60E4E52D90F932822FA47345D83E96E8 |      44832 |    44832 |    44832 | Asset\SPA_NA\2D\Font\Font_Big.png
                                          | F541F9D897715D5F998D7CEFA3E42644FD5170B3 |      18098 |    18098 |    18098 | Asset\SPA_NA\2D\Font\Font_Normal.png
                                          | 58A08695DB4026F4344F8C83D72E5DBB694B842C |      13478 |    13478 |    13478 | Asset\SPA_NA\2D\Font\Font_Small.png
@@ -13591,36 +13591,31 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Alexandra Ledermann 8\InstalledPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Alexandra Ledermann 8\ExeName, Type: String
 Registry String Entry
-	Value | Language
-CommonPlayer.exe  | 
+CommonPlayer.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Alexandra Ledermann 8\Version, Type: String
 Registry String Entry
-	Value | Language
-  1.00  | 
+1.00, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Alexandra Ledermann 8\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    FR  | fr-FR
-    SP  | es-ES
+EN, en-US
+FR, fr-FR
+SP, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Alexandra Ledermann 8\Language, Type: Number
 Registry Number Entry
-  Value | Language
-     9  | en-US
-  1036  | fr-FR
-    10  | es-ES
+9, en-US
+1036, fr-FR
+10, es-ES
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 1294
-Total size of files     : 3257744992 | 3,26 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3257744992 | 3,26 GB
-Total bytes compressed  : 3257744992 | 3,26 GB
+Total number of files  : 1294
+Total number of chunks : 1
+Total size of Files    :       3257744992 Bytes | 3,034 GB
+Total size of Slices   :       3257744992 Bytes | 3,034 GB
+Total size Downloaded  :       3257744992 Bytes | 3,034 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT , ja-JP , nl-NL , pt-
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 4EE47D44E3CCB9FD44555D19071922C5FA7C2CB9 |     139229 |   139229 |   139229 | Flashback.ico
                                          | 57EEEC52EA71E60BADDD831F1A58F89A10BE4499 |      15464 |    15464 |    15464 | gu.exe
                                          | 92E96A7B89F5824F084A5010B510847B7B5A1217 |    1355656 |  1355656 |  1355656 | Binaries\Win32\ApexFramework_x86.dll
@@ -2736,54 +2736,48 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\VectorCell\Flashback\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\VectorCell\Flashback\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Binaries\Win32\Flashback.exe  | 
+$INSTALL_DIR\Binaries\Win32\Flashback.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\VectorCell\Flashback\GameUpdate\guPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\gu.exe  | 
+$INSTALL_DIR\gu.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\VectorCell\Flashback\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-9c32840e6c2c49ad8d29af0497c7eebf  | 
+9c32840e6c2c49ad8d29af0497c7eebf, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\VectorCell\Flashback\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    nl  | nl-NL
-    fr  | fr-FR
-    de  | de-DE
-    it  | it-IT
-    us  | pt-BR
-    es  | es-ES
-    us  | ru-RU
-    us  | ja-JP
+us, en-US
+nl, nl-NL
+fr, fr-FR
+de, de-DE
+it, it-IT
+us, pt-BR
+es, es-ES
+us, ru-RU
+us, ja-JP
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\VectorCell\Flashback\GameUpdate\llang, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    DU  | nl-NL
-    FR  | fr-FR
-    DE  | de-DE
-    IT  | it-IT
-    PT  | pt-BR
-    ES  | es-ES
-    RU  | ru-RU
-    JP  | ja-JP
+EN, en-US
+DU, nl-NL
+FR, fr-FR
+DE, de-DE
+IT, it-IT
+PT, pt-BR
+ES, es-ES
+RU, ru-RU
+JP, ja-JP
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 433
-Total size of files     : 24224634552 | 24,22 GB
-Total number of chunks  : 7
-Total bytes on disk     : 2749798072 | 2,75 GB
-Total bytes compressed  : 4234552371 | 4,23 GB
+Total number of files  : 433
+Total number of chunks : 7
+Total size of Files    :      24224634552 Bytes | 22,561 GB
+Total size of Slices   :       2749798072 Bytes | 2,561 GB
+Total size Downloaded  :       4234552371 Bytes | 3,944 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -65,7 +65,7 @@ Name: Support\Manual\Swedish\AssassinsCreed.pdf | Locale: Support\Manual\Swedish
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 550704B69539C832D9C727CB89D2B1A43B460E37 | 173076149D709D5BAE93E421FDA35D67B9720079 |   21721504 |  1048576 |   547291 | AC3MP.exe
 1B9087258C454EFE3AF49E0FFAA9487A24DC26DF | 9813AE40658C457C5BD876AB4BBDF697D0E87A51 |   21721504 |  1048576 |   490180 | AC3MP.exe
 573554A5E044B774A8D3D34EBEF745FA9F7173D1 | 17396911A03E982FFCEA8BE0D8D7F18BE90C3C6C |   21721504 |  1048576 |   538960 | AC3MP.exe
@@ -17624,7 +17624,7 @@ F9384B120888A89897637FDC2FAAC5424DAD5B8D | AC4E2FBF110B20781F0E174640D4C286A4418
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4A2B908CCD2DBB52B59EBEB22EA08FD1B86DC745 | BE58ED727C54F7EAB718F8D78F7C213E2276BE6D |     884736 |   884736 |   678898 | DataPC_DX11_2_dlc.forge
 BBE6FF9BDE0850AB0C9DC23805ACBB112B6FC440 | C16DF3F8FDBBE708BD72AF5B9130A06E80906BB3 |  494567424 |  1048576 |   203956 | DataPC_DX11_AC3_DLCWestpoint_2_dlc.forge
 529CFBC5E8CCAF29B89414DE4B21D9FA2B246454 | 8CC3486345D035DE6972ED212F12578ADED532E1 |  494567424 |  1048576 |   933236 | DataPC_DX11_AC3_DLCWestpoint_2_dlc.forge
@@ -18101,14 +18101,14 @@ A7959B76AF588E393F1FAE5CF38D74AD2CDCF5BC | B014E54A4BBC11A26048A965886A4455C45FC
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E73B840FFF2027692C5F61D1FD858E19CA7E2094 | 6FA4B473D316261AE9CB8102BE8089A94BFCCB79 |     884736 |   884736 |   671218 | DataPC_DX11_3_dlc.forge
 1A35AE46B464ABF728C1C5D06F894BD6EF28A104 | 38188A79984701632CCAF359F2B69445D330AD56 |    1867776 |  1048576 |     1311 | multi\DataPC_skins_0004_00000010_dlc.forge
 727FE4015796BD0504DE981AD782CB0230E9CEEF | 08A4AE95671FAC086EF5D2B1E841A3C1F3E6F467 |    1867776 |   819200 |     1247 | multi\DataPC_skins_0004_00000010_dlc.forge
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 481A9FC50F1265E2AE8F4FF7BE9B607AACF622E9 | 7F101F46B7DF7B3718AD7CD7BA07806B1E9E292C |  142376960 |  1048576 |    31819 | multi\DataPC_AC3MP_Charlestown_dlc.forge
 1A9041FE9AB0199CB6858846487AFBAEECC92C30 | 68E29A56568E8A4980636C7C15CB7F4A3F88847C |  142376960 |  1048576 |   219912 | multi\DataPC_AC3MP_Charlestown_dlc.forge
 B9634612718FE4C73831B726DE7E373A16A82FDF | 12A0DE88BAC0E4DBA51343378D165AE7291F3E69 |  142376960 |  1048576 |   884997 | multi\DataPC_AC3MP_Charlestown_dlc.forge
@@ -18469,7 +18469,7 @@ FF9B6B965886182E7E9A995BECB2A3C038958EF2 | 144D17D82F244C74CDB7DE78C8A96E725D486
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 04B604F862FD811485F0908A2B0BCA6958EF93C7 | 2119167A0C018B2F6F6929CB6363505AA14A55B1 |  298385408 |  1048576 |   712237 | DataPC_DX11_6_dlc.forge
 A12FC2E7F7776F19836BC786035B3E307477F730 | 3493CB0F53696C84BD7A123FF6237850EA156AE7 |  298385408 |  1048576 |   829689 | DataPC_DX11_6_dlc.forge
 9DE59F988DB4AA8037C40F4D9750606E7F69906E | 1F4A2CAD2C00B148B88A0C1D1F4E4CC1E3263555 |  298385408 |  1048576 |   830598 | DataPC_DX11_6_dlc.forge
@@ -19899,7 +19899,7 @@ A9A56E4A72E73C94900F8942110347314ED51493 | A91BB8F8639A350871064C4757DA341202A39
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 411A11D5FA1AF0C2B0C833DE911CF2A462D32D05 | B2E6FD6FB6B29C7ABAC2A745DFB1C3105E5D92B4 |  327548928 |  1048576 |   691451 | DataPC_DX11_8_dlc.forge
 A32176F41266A8A52CCB9561CAD209452F695FF7 | E9B01113D0FC78722DE3993A0E0D332599211625 |  327548928 |  1048576 |   830054 | DataPC_DX11_8_dlc.forge
 4B47E4ED021117196024222BE98E464C5D190B5A | 604A88C6C353594D4061923915360F4B63C01736 |  327548928 |  1048576 |   832346 | DataPC_DX11_8_dlc.forge
@@ -21567,7 +21567,7 @@ C7EAD66FE4F1E6F939B6A6A915CE9F5A95DD1150 | E54C6AB3B9AF4E14466A1F7EBB9D3483E0747
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 E14ABE360EC9F249A8CCCFD38C526BDE0840FF27 | A4D2410F0755E38E64611AD97E0C58BEF65CBA29 |  331153408 |  1048576 |   648733 | DataPC_DX11_10_dlc.forge
 2E03231604C22CB59D4EF5640EB16E22F11A6B11 | 6A7DC4488D4DEF0B0AFC38EBFF04701E47F649FE |  331153408 |  1048576 |   818789 | DataPC_DX11_10_dlc.forge
 F8AAB26A7A40275338EE66C1D42C7E2BE0A76F47 | 73C0C78F9C91AA70585607416DBB5BB7E27197E6 |  331153408 |  1048576 |   836278 | DataPC_DX11_10_dlc.forge
@@ -23561,40 +23561,37 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed 3\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-English  | en-CA
-Finnish  | fi-FI
-French  | fr-FR
-French  | fr-CA
-German  | de-DE
-Spanish  | es-ES
- Czech  | cs-CZ
-Italian  | it-IT
-Portuguese  | pt-BR
-Portuguese  | pt-PT
- Dutch  | nl-NL
-Polish  | pl-PL
-Swedish  | sv-SE
-Danish  | da-DK
-Norwegian  | nb-NO
-Russian  | ru-RU
-Hungarian  | hu-HU
-Korean  | ko-KO
-ChineseSimp  | zh-CN
-ChineseTrad  | zh-TW
+English, en-US
+English, en-CA
+Finnish, fi-FI
+French, fr-FR
+French, fr-CA
+German, de-DE
+Spanish, es-ES
+Czech, cs-CZ
+Italian, it-IT
+Portuguese, pt-BR
+Portuguese, pt-PT
+Dutch, nl-NL
+Polish, pl-PL
+Swedish, sv-SE
+Danish, da-DK
+Norwegian, nb-NO
+Russian, ru-RU
+Hungarian, hu-HU
+Korean, ko-KO
+ChineseSimp, zh-CN
+ChineseTrad, zh-TW
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed 3\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed 3\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 
 ============================================Uninstall Runs============================================
 

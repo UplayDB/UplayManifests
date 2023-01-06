@@ -1,8 +1,8 @@
-Total number of files   : 113
-Total size of files     : 15109654557 | 15,11 GB
-Total number of chunks  : 16
-Total bytes on disk     : 2224752669 | 2,22 GB
-Total bytes compressed  : 1476094887 | 1,48 GB
+Total number of files  : 113
+Total number of chunks : 16
+Total size of Files    :      15109654557 Bytes | 14,072 GB
+Total size of Slices   :       2224752669 Bytes | 2,072 GB
+Total size Downloaded  :       1476094887 Bytes | 1,375 GB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: executable
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 FDA49A32FE208BD35728EE0E54CBEB378CD38A3F | 023A8DC8E8869EFE8B6A5EB6338031D7C24DA102 |     111616 |   111616 |    53098 | amd_ags_x64.dll
 3E9137750B4B34F585EEE2DFD262BA38ED7406B1 | B87186C17B2AB472C2D8987751F4C56EC7999470 |     391360 |   391360 |   190823 | bink2w64.dll
 CEDB92F43752FBDB28FA00CA8BE1001AAA204479 | C6A8AA7D0894331A7BA962F39E27F8747D3900A8 |     297000 |   297000 |    73962 | CgSDK.x64_2017.dll
@@ -391,7 +391,7 @@ E95C73AC29399CBEA2E2AD49285175752C39B40E | E09600BB412C9D1B21CF890A493FAAC0E0C1D
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: gamedata
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A557434AA358D852F12FC97CD219885CCB5F889C | 1FE71922684DFA9E6302CD2607AFCF798DF57E00 |   16416542 |  3145728 |  2738519 | snowman/sdf/pc/data/sdf-A-0000.sdfdata
 B5BA263FEE29E7E57C0902B9D2AD5A31BDF548FC | 3307AD8FA616C2EF82CB5EB59CB5D4B23C612E6A |   16416542 |  3145728 |  2811341 | snowman/sdf/pc/data/sdf-A-0000.sdfdata
 CD455C7ED0B70F16A71C28C8D87F7B19749EE147 | AD8E65F28A0D863DF232C8A626AC82CF57209893 |   16416542 |  3145728 |  2825293 | snowman/sdf/pc/data/sdf-A-0000.sdfdata
@@ -4261,7 +4261,7 @@ F7859B1695E6954331953EE7536F889CEC304B4E | BF8CD7AE93F675676DF0F3B195030998BEDB5
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: maps
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 AE55C4AAB05F1233BA61379EEF1E443999717279 | 6936C439E950213E61B49FB2786818C501112E63 |    7889512 |  3145728 |  3127996 | game/archives/map_worldmap_001_a.arch
 3D4A4CFDDD962439E2C279D6FF208ECF18D1D727 | C1AF63C4C1A29140173ACAD246EAFC2AFFF40B57 |    7889512 |  3145728 |  3145812 | game/archives/map_worldmap_001_a.arch
 B5EF228D662540C8C6B0A9B46257BF5A3D5C0901 | 9199DFE827A2E5DCE2C93A8A71A5E2653D4F3E44 |    7889512 |  1598056 |  1597560 | game/archives/map_worldmap_001_a.arch
@@ -4480,7 +4480,7 @@ B3A3A29642F705EB46597C065527BD3994BF2F5B | CF20BAE5F1FD2973C47C3F7C13D26DEB61673
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: en-US
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 AB72ABDB4B459CE6CD08BB8D673113728C95C110 | B31F13351763378152628B5C7DDFB46D11B72667 |     525337 |   525337 |   335144 | snowman/sdf/pc/data/sdf-C-0200-en-US.sdfdata
 462FBC5B657A36CAA8448784A55AFFCF5BAF52F9 | 265A2524FFCD17AA5DC342265B8A608FA6BB7097 |  268227623 |  3145728 |  3104501 | snowman/sdf/pc/data/sdf-C-0460-en-US.sdfdata
 0DFBFD6E0B7DDE5EFB586848FFC9703A080C4A14 | 0FA4BEE2B9C506F0372EDA1C5EFB20138E4488D8 |  268227623 |  3145728 |  3105260 | snowman/sdf/pc/data/sdf-C-0460-en-US.sdfdata
@@ -4620,7 +4620,7 @@ C1A0539401A1098D7D0D26F0E3A5EE54AF62D8AF | 85316E6B8230138A2D9AA1BB87E8006BD3A6B
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: de-DE
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 1F87234722D7DA540587ACC5A6EC7B041FDAED26 | 11206E9C09A3AD6EA1C6BABE35E199EA9CF5F04A |  268395136 |  3145728 |  3018922 | snowman/sdf/pc/data/sdf-C-0240-de-DE.sdfdata
 116645FCF2FD49A3FAD13379165A312F2E68FC66 | 1EE85CE63F3D06C39400D794EC3F5160BE010D1D |  268395136 |  3145728 |  3102246 | snowman/sdf/pc/data/sdf-C-0240-de-DE.sdfdata
 D574EC033C683330E380F275F37E0878CD357D60 | BBD2B65462525D034EF3A59B8F7A2E3AFCD38D84 |  268395136 |  3145728 |  3103146 | snowman/sdf/pc/data/sdf-C-0240-de-DE.sdfdata
@@ -4766,7 +4766,7 @@ F29C8888817669BC3FB104E429903B0B11A74D8B | D1633190E043F396D7B995BD903AFB10426B8
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: fr-FR
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 C8C99C9E5D3E95B18CD4AA275D0453DDB6F08D9B | 68762C864CB4BA4E63207CBF5D408CEAAF747E37 |  268164837 |  3145728 |  2923907 | snowman/sdf/pc/data/sdf-C-0220-fr-FR.sdfdata
 BD9427A78CD83BC4B14EBCBCD27FC3F5496CF814 | 89F0E0941A6CBCB383F70E9AC19E20A0E0FF564B |  268164837 |  3145728 |  3098703 | snowman/sdf/pc/data/sdf-C-0220-fr-FR.sdfdata
 8C4EA63FE9FF6E3D938BE5A8C906F3DD34DBD3D0 | F76499F202A3BA39735E447A9F13BD56AB3E1C2A |  268164837 |  3145728 |  3108129 | snowman/sdf/pc/data/sdf-C-0220-fr-FR.sdfdata
@@ -4909,52 +4909,52 @@ E96857FD561F844CDE8E59206A1006F31C4BE0F7 | 50B84467507BFDA9AC2EB421EF12CB8FFD62B
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: it-IT
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6D988106338B0471E4FA8EBF67F1CA7F46596429 | AF3DFADC7672E40846B58E20B317615FA31C2BE2 |     376664 |   376664 |   265031 | snowman/sdf/pc/data/sdf-C-0260-it-IT.sdfdata
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: es-ES
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6B16BBCE901EE5F0FAEAB3CF2E3E6822DEEBBB61 | 4D1F0BA9D6843D07823B9E8DBEB134C41F9DC160 |     376460 |   376460 |   265062 | snowman/sdf/pc/data/sdf-C-0380-es-ES.sdfdata
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: ru-RU
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6BE188CA5BB1EA87F055DABFF85582FC145CD518 | 777D4F22B6B15C620C623FE0405AA85E469F3B08 |     415973 |   415973 |   294385 | snowman/sdf/pc/data/sdf-C-0340-ru-RU.sdfdata
 ================================================Chunks================================================
 
 Chunk ID: 10, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: ko-KR
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 124FFFD47F62326CE3A13061207C65C9E20FEEAE | 7C319511E06657229FD0735A9FFA5F4D7CA5AC60 |     373654 |   373654 |   260350 | snowman/sdf/pc/data/sdf-C-0300-ko-KR.sdfdata
 ================================================Chunks================================================
 
 Chunk ID: 11, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: zh-TW
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B9F84978226C6F3A0F5C57C44813BD19983DE379 | 340165B261067FA9744B65B792DFE39AF797398E |     375199 |   375199 |   259732 | snowman/sdf/pc/data/sdf-C-0420-zh-TW.sdfdata
 ================================================Chunks================================================
 
 Chunk ID: 12, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: zh-CN
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 FCB7203E1C6B90839DFECC9D61A74F6AE52EF926 | BE1153A879FC632D04459939BEBFCA973E8DF83C |     374757 |   374757 |   260166 | snowman/sdf/pc/data/sdf-C-0360-zh-CN.sdfdata
 ================================================Chunks================================================
 
 Chunk ID: 13, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: pl-PL
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 8A64A6EF73959E33D072F4DE8B7E76A07C05BE11 | AF337F41842C087FF854468927F1086134BEA129 |     401700 |   401700 |   283359 | snowman/sdf/pc/data/sdf-C-0320-pl-PL.sdfdata
 ================================================Chunks================================================
 
 Chunk ID: 14, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: pt-BR
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 DADD4B17A8FE1B451CB332B5D75D1CDB4C272947 | 0BD33502EFC516CCDF13ED9F3D1264F41D488734 |     372392 |   372392 |   260821 | snowman/sdf/pc/data/sdf-C-0400-pt-BR.sdfdata
 ================================================Chunks================================================
 
 Chunk ID: 15, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: ja-JP
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 4E9F89A54D665EDD3DEF53B283704EF923F8A738 | 6EB12B82FD2BD7436B4E8A831881C4FC8E0FFD84 |     380693 |   380693 |   264964 | snowman/sdf/pc/data/sdf-C-0280-ja-JP.sdfdata
 ================================================Chunks================================================
 
 Chunk ID: 16, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: cs-CZ
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 92E6AAD31C85668241BD0A7E9486E91E89E6DDDE | CADA0F9062A15A78DBBEDFFCEA22AD04AA26ED3C |     250021 |   250021 |   205631 | snowman/sdf/pc/data/sdf-C-0440-cs-CZ.sdfdata
 
 ===============================================Licenses===============================================

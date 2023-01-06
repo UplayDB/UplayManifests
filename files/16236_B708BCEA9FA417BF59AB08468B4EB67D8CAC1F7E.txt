@@ -1,8 +1,8 @@
-Total number of files   : 3866
-Total size of files     : 1628749268 | 1,63 GB
-Total number of chunks  : 10
-Total bytes on disk     : 1628749268 | 1,63 GB
-Total bytes compressed  : 1408775232 | 1,41 GB
+Total number of files  : 3866
+Total number of chunks : 10
+Total size of Files    :       1628749268 Bytes | 1,517 GB
+Total size of Slices   :       1628749268 Bytes | 1,517 GB
+Total size Downloaded  :       1408775232 Bytes | 1,312 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: game
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 912D4FE59F4237D043EA45BEFCFE9F94BA0D8AA2 | 64E2DBEE1DEC4026F173F6E9E0264114F09BB803 |   99573623 |  3145728 |  3090925 | ahe\a1he0.rda
 B53E7BB0636728919129A4BC5CD416FC59DC1141 | 2987F28A0150EDED1AF7AFE24335A99248D35682 |   99573623 |  3145728 |  2805996 | ahe\a1he0.rda
 0357865FB0F8B73784BF3B71B1A66058AA7B9F82 | 632018EF36E2C34B48BD6A69879AA4A3708F80C0 |   99573623 |  3145728 |  3146086 | ahe\a1he0.rda
@@ -1318,7 +1318,7 @@ DE88AA4946650AA0C0935A7F2264B3747DD06D89 | 5FA2F4820C98CC87ACDFA83ADE51F9F60A139
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: support
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 105770BB0A4B2B51EDEB901AE8AC31A200209AAC | 0830CC54ADEC654AB4394032EC4E046185BA01E5 |    1347354 |  1347354 |  1345055 | Support\DirectX\Apr2005_d3dx9_25_x64.cab
 D229D6C60399D526E85676EBB3202AC93D9149A0 | 1ABE9F17489E389E7400DEA76A0386873446E9CC |    1078962 |  1078962 |  1074298 | Support\DirectX\Apr2005_d3dx9_25_x86.cab
 AFF5F79327F9263C7F40CE76BAF9FD2F8BEE9F00 | 69091C7D92B1CC64F8D4E5B4042E418E2BC84F3B |    1397830 |  1397830 |  1395632 | Support\DirectX\Apr2006_d3dx9_30_x64.cab
@@ -1481,7 +1481,7 @@ C210342E5C31AD011689A687B558DE2AB97C7CB4 | EAF535E4A1F488077B2F96C6D5D23515CB197
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Optional, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: bonus_content
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 19CB4C44A070464625960464FD0660654B955E27 | A8E6FBF9C2DCB3AC29C4B07E8FB007D249953209 |   45712633 |  3145728 |  1205423 | BonusContent\production_chain_poster_1602.jpg
 E04BC00645D7F5C1A9F906D463FA9AA1458BC0A3 | 20D5178E9832F235AA9B87D4D271050CACDD26A8 |   45712633 |  3145728 |  1202628 | BonusContent\production_chain_poster_1602.jpg
 8E9E2D063E49081EDF6E8FFF1E2EA3D474A1783C | 248F858F2A4B9D998E5A630C2FBDB9A4A883DA59 |   45712633 |  3145728 |  1200511 | BonusContent\production_chain_poster_1602.jpg
@@ -1530,7 +1530,7 @@ A41B6C88821AF664762DAE53A2830A38D213ADCA | 0DB336024611AC43E56A721FBA20B3D6FAAB2
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: en-US,en-GB, Chunk Tags: English
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D2BB53F1C6E6B8F3C610712D8DEB99F9AF1FAA43 | 711A0E192967627B38EEFAF05A58CF3A9B121A5B |      48904 |    48904 |    38365 | Speech8\1000.wav
 BC2DE2C49D507F218F71A6FCAFE78DF47AF7CD77 | 7450E6C00E61A51D50E25B9861D5738B470D4BAF |      41674 |    41674 |    31791 | Speech8\1002.wav
 BB45F2375AC9C7286215DC920C6608E7EE7AC9A7 | E551B01A973549C5F9324219612FB07061D10222 |      30207 |    30207 |    26261 | Speech8\1004.wav
@@ -1843,7 +1843,7 @@ D6689EB38E11FA0512567CAC62A835265BA09E86 | 17AEA2BE877DC23EC27C2AD6BFF5179FC994F
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: de-DE, Chunk Tags: German
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 AA6FB2F43869A91D38B1A4CED5C43ACA82A1D205 | 6D2C981799DDDF7847E3DF4F075E32369C62A00E |      41637 |    41637 |    33399 | Loca\de-DE\Samples\sdtattk1.wav
 1332D9C2E815031C3979472B11E80B1A82EA0DF1 | 5B04B2CFF27E73D53A96030B970E7A90ECA928C6 |      28627 |    28627 |    24997 | Loca\de-DE\Samples\sdtattk2.wav
 C8D35288815587A4DE77BB4A9C7E4C64C7726D28 | 7DB20379D8559D826774DAAA01412E5697D4DB6B |      28386 |    28386 |    25344 | Loca\de-DE\Samples\sdtattk3.wav
@@ -2249,7 +2249,7 @@ AA0D2283522B9FE7EB1C9793080E574BC7F238F4 | 253FB0555A3823EE7063B1A252EE70FA801A1
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: fr-FR, Chunk Tags: French
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 F51ECCB56D8057500EB1F1917CD013A9521FBD82 | F2FCFAA81DD5F119541916DA3B4999E4CE2CD273 |      17904 |    17904 |    11529 | Loca\fr-FR\Samples\sdtattk1.wav
 478205145B38559AC716BE90F69F49B6871A43F3 | 0C5426E0C65AD3402551FDB76E1F918039508F00 |      17238 |    17238 |    14029 | Loca\fr-FR\Samples\sdtattk2.wav
 E1D9D17D7AB86D1D69F502EF1F7302890CA44C21 | 4F1CD3F06C2BD439FFD1016A831B875258595406 |      17486 |    17486 |    15181 | Loca\fr-FR\Samples\sdtattk3.wav
@@ -2656,7 +2656,7 @@ EA2A61D44036DD5524C8564DE6CC23EA2E2D416A | 47A1DD72A9BBF89B795CA2A1AFBB80ACEF622
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: nl-NL, Chunk Tags: Dutch
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6387B50C34A0B0979109E9D3ADD064839067D5BF | 7A2F036AEBCEBDB872DCC351F380498B1C740A11 |      29476 |    29476 |    20312 | Loca\nl-NL\Samples\sdtattk1.wav
 121984A5780BA2630D4BB88E15389564CD660066 | 1B2E9ADCE31EF9510467CDEB4B3D482FFE85CFF1 |      30940 |    30940 |    21531 | Loca\nl-NL\Samples\sdtattk2.wav
 DD37762555D003A65CA0816C5B961F9534146EFB | 474582DF4C9E1484E83F14131EF0606BD47DA125 |      28508 |    28508 |    19927 | Loca\nl-NL\Samples\sdtattk3.wav
@@ -3063,7 +3063,7 @@ B4167FEC0B29BFAA99BC82B27EA2B18AE1F5D58E | B2EDA618AEEE4D5285AD3D03C63F2BF6C8170
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: it-IT, Chunk Tags: Italian
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 16F86516C268458C3F3E148E1206A03CBFDC7E34 | 895F1C280EB304620A85A56871125E825F1B6D4E |      68592 |    68592 |    48748 | Loca\it-IT\Speech8\1000.WAV
 406A906CAC54BFFF89382D496FE82EA4ED074058 | 51B92645F196CDBF2504F107411BD07908E73F4B |      51308 |    51308 |    32742 | Loca\it-IT\Speech8\1002.WAV
 002C6857AB27B4EEF510A09C074AAEAB7A76E2C2 | 8C6A892E75F195A0EA3A0165D51BEF79EBE6F26E |      26066 |    26066 |    13398 | Loca\it-IT\Speech8\1004.WAV
@@ -3434,7 +3434,7 @@ E38C56CFFD16BDB5A6F76DA0F42C7D0908049036 | B0B3D43F30406DD4643A5CC38C42B7E28896A
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: es-ES, Chunk Tags: Spanish
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B31278C68AB5CA8FA5A00182061670AF5A618AF1 | A0969CB0DFDFEBC15606E9A66C5698F1A889807E |      22674 |    22674 |    19077 | Loca\es-ES\Samples\sdtattk1.wav
 DEC48E5045806641AAA5ABC67F77A537DA84612E | 4D3308C8F2CA96A62CB71629EE2A4D0798887D00 |      28452 |    28452 |    24554 | Loca\es-ES\Samples\sdtattk2.wav
 2BB4192AC2E7418C873BAE71AC42A81282FCA03C | 529CC74E68793EC0F11A4D2E0BBCA20BF3A1D91E |      17942 |    17942 |    12958 | Loca\es-ES\Samples\sdtattk3.wav
@@ -3841,7 +3841,7 @@ D04220C448E61EFC8AA73ABFF5848AAF0BCE7B5A | F6070EFAE34633159FAD7886CED677A3D535C
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: pl-PL, Chunk Tags: Polish
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 76C3199FF1AB27365D9DD1781BEB779A854D0056 | E32346F63C1AEC8B22658BEF5F5CB519F2E410A2 |      60108 |    60108 |    39053 | Loca\pl-PL\Speech8\1000.wav
 3B6EABB0431C29FD071B71A30CA91A1ACBE9BECB | AC8BEBA097B48EBA076A5C794B46157498BC46FA |      63374 |    63374 |    36942 | Loca\pl-PL\Speech8\1002.wav
 430F985D85D4DFFFE6097EDD06160E3A71C6B39C | 854C0DE15FA7A1E1498B7BBF7772BB4B4D34DC61 |      23924 |    23924 |    11875 | Loca\pl-PL\Speech8\1004.wav
@@ -4229,20 +4229,18 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Anno1602HistoryEdition\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Anno1602HistoryEdition\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- de-DE  | de-DE
- nl-NL  | nl-NL
- fr-FR  | fr-FR
- es-ES  | es-ES
- it-IT  | it-IT
- pl-PL  | pl-PL
+en-US, en-US
+de-DE, de-DE
+nl-NL, nl-NL
+fr-FR, fr-FR
+es-ES, es-ES
+it-IT, it-IT
+pl-PL, pl-PL
 
 ============================================Uninstall Runs============================================
 

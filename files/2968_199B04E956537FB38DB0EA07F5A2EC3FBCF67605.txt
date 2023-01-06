@@ -1,8 +1,8 @@
-Total number of files   : 459
-Total size of files     : 283958981 | 283,96 MB
-Total number of chunks  : 1
-Total bytes on disk     : 283958981 | 283,96 MB
-Total bytes compressed  : 114505582 | 114,51 MB
+Total number of files  : 459
+Total number of chunks : 1
+Total size of Files    :        283958981 Bytes | 270,804 MB
+Total size of Slices   :        283958981 Bytes | 270,804 MB
+Total size Downloaded  :        114505582 Bytes | 109,201 MB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: en-US ,
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 83BE9BA77F0BB51AAAAC54A0156A58D4FFCE22D8 | 755203E0CB5BF11539C564D2F0631834FBF03555 |      41808 |    41808 |    10939 | EULA.txt
 A6E25FCA97FB123F2395827B4AF6D035939FACBE | E4D554E03BA91F6B53A2A80253B339F56E303C94 |      96264 |    96264 |    49491 | GameuxInstallHelper.dll
 FAA5715E09292A8D81E5D10E579BE23DA210BCBB | 2D99F0013350EFB29B769FF19DDC8E4D86F4E77E |    1265711 |  1265711 |  1263478 | DOSBOX\dosbox-0.74.tar.gz
@@ -579,8 +579,7 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Rayman_Forever\installPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 
 ============================================Uninstall Runs============================================
 

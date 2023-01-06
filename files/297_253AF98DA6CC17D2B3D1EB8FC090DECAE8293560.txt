@@ -1,8 +1,8 @@
-Total number of files   : 468
-Total size of files     : 11258643264 | 11,26 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2668708672 | 2,67 GB
-Total bytes compressed  : 2508872448 | 2,51 GB
+Total number of files  : 468
+Total number of chunks : 1
+Total size of Files    :      11258643264 Bytes | 10,485 GB
+Total size of Slices   :       2668708672 Bytes | 2,485 GB
+Total size Downloaded  :       2508872448 Bytes | 2,337 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , fr-FR , it-IT , ja-JP , nl-NL , pt-
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 04E541CF27E51A2C80E724930744C2AC5F5E2937 | 79E3CF20E94BCD69CD49F88E76E5077A32A97A34 |  547992986 |  1048576 |   913939 | build\data_pc\data.pak
 62DDE74986581F1FA5B83A709809056A332B9F40 | 072347C2E2DBEAD3C3A067F2C346CEBF96566697 |  547992986 |  1048576 |   972874 | build\data_pc\data.pak
 78D5FC40BDBA0590B36072600F9357843E445F84 | 4E9285BCE406C03D07707F2F726EEFAE4DEF4AF2 |  547992986 |  1048576 |  1004206 | build\data_pc\data.pak
@@ -11155,17 +11155,16 @@ Ignore All Exit Codes?: True, Restart Required?: True
 
 Key: HKEY_CURRENT_USER\SOFTWARE\Ubisoft\Trials Fusion\Language, Type: String
 Registry String Entry
-	Value | Language
- en-US  | en-US
- pt-BR  | pt-BR
- nl-NL  | nl-NL
- fr-FR  | fr-FR
- de-DE  | de-DE
- it-IT  | it-IT
- es-ES  | es-ES
- ja-JP  | ja-JP
- ru-RU  | ru-RU
- zh-CN  | zh-CN
+en-US, en-US
+pt-BR, pt-BR
+nl-NL, nl-NL
+fr-FR, fr-FR
+de-DE, de-DE
+it-IT, it-IT
+es-ES, es-ES
+ja-JP, ja-JP
+ru-RU, ru-RU
+zh-CN, zh-CN
 
 ============================================Uninstall Runs============================================
 

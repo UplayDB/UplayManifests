@@ -1,8 +1,8 @@
-Total number of files   : 218
-Total size of files     : 4856850619 | 4,86 GB
-Total number of chunks  : 1
-Total bytes on disk     : 561883323 | 561,88 MB
-Total bytes compressed  : 4128309872 | 4,13 GB
+Total number of files  : 218
+Total number of chunks : 1
+Total size of Files    :       4856850619 Bytes | 4,523 GB
+Total size of Slices   :        561883323 Bytes | 535,854 MB
+Total size Downloaded  :       4128309872 Bytes | 3,845 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -38,7 +38,7 @@ Name: Italian\manual.pdf | Locale: it-IT
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 D91A2F73781EE21379F03EC8B7FA48BF28315908 | CB6367428A4B2CD1C4C2D330AE870FB872FDBEBC |     171520 |   171520 |    96455 | bin\binkw32.dll
 1881C76DF01D2BE6C34432F6C7FB8F0268C3403D | BFCD6C98C29CC86B0E13432C18629E5F06608546 |   20184168 |  2097152 |  1009161 | bin\Dunia.dll
 3625491B75F52D471CD08357B79BF9FFDECAF70C | ABA7CD3060EAB58BBCD9185BCF2675C450637B71 |   20184168 |  2097152 |  1014255 | bin\Dunia.dll
@@ -2597,83 +2597,72 @@ Ignore All Exit Codes?: True, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\Executable, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\bin\FarCry2.exe  | 
+$INSTALL_DIR\bin\FarCry2.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\Version, Type: String
 Registry String Entry
-	Value | Language
-1.03.00  | 
+1.03.00, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\RELAUNCH, Type: String
 Registry String Entry
-	Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-French  | fr-CA
-German  | de-DE
-Italian  | it-IT
-Spanish  | es-ES
+English, en-US
+French, fr-FR
+French, fr-CA
+German, de-DE
+Italian, it-IT
+Spanish, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\llang, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French  | fr-FR
-French_ca  | fr-CA
-German  | de-DE
-Italian  | it-IT
-Spanish  | es-ES
+English, en-US
+French, fr-FR
+French_ca, fr-CA
+German, de-DE
+Italian, it-IT
+Spanish, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\1.03.00\vv, Type: String
 Registry String Entry
-	Value | Language
-    vv  | 
+vv, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\bin\FarCry2.exe  | 
+$INSTALL_DIR\bin\FarCry2.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-5865cbb3ffd54d7eb2ba667044b0cab1  | 
+5865cbb3ffd54d7eb2ba667044b0cab1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Far Cry 2\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    fr  | fr-CA
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
+us, en-US
+fr, fr-FR
+fr, fr-CA
+de, de-DE
+it, it-IT
+es, es-ES
 
 ============================================Uninstall Runs============================================
 

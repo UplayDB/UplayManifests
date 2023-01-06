@@ -1,8 +1,8 @@
-Total number of files   : 304
-Total size of files     : 13575262121 | 13,58 GB
-Total number of chunks  : 1
-Total bytes on disk     : 690360233 | 690,36 MB
-Total bytes compressed  : 0 | 0,00 B
+Total number of files  : 304
+Total number of chunks : 1
+Total size of Files    :      13575262121 Bytes | 12,643 GB
+Total size of Slices   :        690360233 Bytes | 658,379 MB
+Total size Downloaded  :                0 Bytes | 0,000 B
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: de-DE , en-US , es-ES , es-MX , fr-FR , it-IT , ja-JP , nl-
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 573FA4933011007E9959DB8A769AAF63A8B37782 |      92176 |    92176 |        0 | GameuxInstallHelper.dll
                                          | F2AB0FDA810F5D52938EEA3A30F1E8720F1EA1DE |   12442840 |  2097152 |        0 | gdf.dll
                                          | 2F59F364834A0EDF2E69DB8D983A90D924C633D2 |   12442840 |  2097152 |        0 | gdf.dll
@@ -6773,17 +6773,16 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Assassin's Creed Rogue\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
- Dutch  | nl-NL
-French  | fr-FR
-German  | de-DE
-Italian  | it-IT
-Polish  | pl-PL
-Brazil  | pt-BR
-Spanish  | es-ES
-Mexican  | es-MX
-Japanese  | ja-JP
+English, en-US
+Dutch, nl-NL
+French, fr-FR
+German, de-DE
+Italian, it-IT
+Polish, pl-PL
+Brazil, pt-BR
+Spanish, es-ES
+Mexican, es-MX
+Japanese, ja-JP
 
 ============================================Uninstall Runs============================================
 

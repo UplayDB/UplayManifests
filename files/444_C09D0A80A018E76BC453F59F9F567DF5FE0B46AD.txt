@@ -1,8 +1,8 @@
-Total number of files   : 3035
-Total size of files     : 20880497253 | 20,88 GB
-Total number of chunks  : 1
-Total bytes on disk     : 3700628069 | 3,70 GB
-Total bytes compressed  : 3700628069 | 3,70 GB
+Total number of files  : 3035
+Total number of chunks : 1
+Total size of Files    :      20880497253 Bytes | 19,446 GB
+Total size of Slices   :       3700628069 Bytes | 3,446 GB
+Total size Downloaded  :       3700628069 Bytes | 3,446 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: cs-CZ , da-DK , de-DE , en-CA , en-US , es-ES , fr-FR , hu-
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 5512BF8696FCB37C4752E66AD6CBBED2C4539787 |     117264 |   117264 |   117264 | Blacklist_Launcher.exe
                                          | 7EE3C5BC2C20DD9F013B99D960A3FBABC5CC4E1C |      22405 |    22405 |    22405 | Readme.txt
                                          | 3A4D632E809D20D3FEF2D7CED8ECD316092B87A3 |        115 |      115 |      115 | Register.url
@@ -22098,46 +22098,41 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell Blacklist\gameLanguage, Type: String
 Registry String Entry
-	Value | Language
-   int  | en-US
-   int  | en-CA
-   fra  | fr-FR
-   deu  | de-DE
-   esp  | es-ES
-    cz  | cs-CZ
-   ita  | it-IT
-   por  | pt-BR
-   ned  | nl-NL
-   pol  | pl-PL
-   sve  | sv-SE
-   dan  | da-DK
-   nor  | nb-NO
-   rus  | ru-RU
-   mag  | hu-HU
+int, en-US
+int, en-CA
+fra, fr-FR
+deu, de-DE
+esp, es-ES
+cz, cs-CZ
+ita, it-IT
+por, pt-BR
+ned, nl-NL
+pol, pl-PL
+sve, sv-SE
+dan, da-DK
+nor, nb-NO
+rus, ru-RU
+mag, hu-HU
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell Blacklist\gameAudio, Type: String
 Registry String Entry
-	Value | Language
-   int  | 
+int, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell Blacklist\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\src\SYSTEM\gu.exe  | 
+$INSTALL_DIR\src\SYSTEM\gu.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell Blacklist\installDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Splinter Cell Blacklist\installVersion, Type: String
 Registry String Entry
-	Value | Language
- 01.00  | 
+01.00, 
 
 ============================================Uninstall Runs============================================
 

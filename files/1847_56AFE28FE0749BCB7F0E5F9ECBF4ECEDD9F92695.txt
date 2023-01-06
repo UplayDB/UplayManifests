@@ -1,8 +1,8 @@
-Total number of files   : 974
-Total size of files     : 4166301851 | 4,17 GB
-Total number of chunks  : 1
-Total bytes on disk     : 4166301851 | 4,17 GB
-Total bytes compressed  : 4166301851 | 4,17 GB
+Total number of files  : 974
+Total number of chunks : 1
+Total size of Files    :       4166301851 Bytes | 3,880 GB
+Total size of Slices   :       4166301851 Bytes | 3,880 GB
+Total size Downloaded  :       4166301851 Bytes | 3,880 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -38,7 +38,7 @@ Name: Traditional Chinese\Readme.txt | Locale: zh-TW
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 49FF530B632F4AF066CBAEB5C808032B4A6071C5 |     370070 |   370070 |   370070 | ACC_PC.ico
                                          | 2F9DBAF141F806399E4133D8727A6DA85D97E8B7 |      68581 |    68581 |    68581 | ACCGame\PCConsoleTOC.txt
                                          | 411CC9379820029841D2521CFA9EB68A7F440751 |       2623 |     2623 |     2623 | ACCGame\CookedPCConsole\ACCEp1.upk
@@ -2897,26 +2897,24 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Launcher\Installs\1847\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Launcher\Installs\1847\Language, Type: String
 Registry String Entry
-	Value | Language
- Czech  | cs-CZ
-German  | de-DE
-English  | en-US
-Spanish  | es-ES
-French  | fr-FR
-Italian  | it-IT
-Japanese  | ja-JP
-Korean  | ko-KO
- Dutch  | nl-NL
-Polish  | pl-PL
-Brazilian  | pt-BR
-Russian  | ru-RU
-Chinese(Traditional)  | zh-TW
+Czech, cs-CZ
+German, de-DE
+English, en-US
+Spanish, es-ES
+French, fr-FR
+Italian, it-IT
+Japanese, ja-JP
+Korean, ko-KO
+Dutch, nl-NL
+Polish, pl-PL
+Brazilian, pt-BR
+Russian, ru-RU
+Chinese(Traditional), zh-TW
 
 ============================================Uninstall Runs============================================
 

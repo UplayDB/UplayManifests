@@ -1,8 +1,8 @@
-Total number of files   : 5076
-Total size of files     : 11222642124 | 11,22 GB
-Total number of chunks  : 1
-Total bytes on disk     : 2632707532 | 2,63 GB
-Total bytes compressed  : 2721111389 | 2,72 GB
+Total number of files  : 5076
+Total number of chunks : 1
+Total size of Files    :      11222642124 Bytes | 10,452 GB
+Total size of Slices   :       2632707532 Bytes | 2,452 GB
+Total size Downloaded  :       2721111389 Bytes | 2,534 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -39,7 +39,7 @@ Name: Dutch\manual.pdf | Locale: nl-NL
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 BD2E1AD923FB031A5EEBCE31C5576EF39D9C7F01 | D0ED4C0C6EA4ACE17742964F6803A28FA3208FEC |     155772 |   155772 |   147481 | app.ico
 71768F4FBBEF0AB1B9429364D9C194A1062A1096 | F6DF1B8C44D883978307F59EFCBD5A3E5A883EE6 |     222672 |   222672 |   172632 | EndWarGDF.dll
 5875A687788847A67C90CD8153080E06CB8D10A1 | DDEB8D5A229EDD786FF320615C3931B48CE6151A |      54280 |    54280 |    28239 | FirewallInstallHelper.dll
@@ -8303,60 +8303,52 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's EndWar\Home, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's EndWar\Launcher, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Tom Clancy's EndWar Launcher.exe  | 
+$INSTALL_DIR\Tom Clancy's EndWar Launcher.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's EndWar\Language, Type: String
 Registry String Entry
-	Value | Language
-English  | en-US
-French(Standard)  | fr-FR
-French(Canadian)  | fr-CA
-German(Standard)  | de-DE
-Italian(Standard)  | it-IT
-Spanish  | es-ES
+English, en-US
+French(Standard), fr-FR
+French(Canadian), fr-CA
+German(Standard), de-DE
+Italian(Standard), it-IT
+Spanish, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's EndWar\1.00.0000\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's EndWar\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Binaries\EndWar.exe  | 
+$INSTALL_DIR\Binaries\EndWar.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's EndWar\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-1cd2bff8bd255abb11c3770e19690845  | 
+1cd2bff8bd255abb11c3770e19690845, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's EndWar\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Tom Clancy's EndWar\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    fr  | fr-CA
-    de  | de-DE
-    it  | it-IT
-    es  | es-ES
+us, en-US
+fr, fr-FR
+fr, fr-CA
+de, de-DE
+it, it-IT
+es, es-ES
 
 ============================================Uninstall Runs============================================
 

@@ -1,8 +1,8 @@
-Total number of files   : 72
-Total size of files     : 46694001 | 46,69 MB
-Total number of chunks  : 4
-Total bytes on disk     : 46694001 | 46,69 MB
-Total bytes compressed  : 36370261 | 36,37 MB
+Total number of files  : 72
+Total number of chunks : 4
+Total size of Files    :         46694001 Bytes | 44,531 MB
+Total size of Slices   :         46694001 Bytes | 44,531 MB
+Total size Downloaded  :         36370261 Bytes | 34,685 MB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -26,7 +26,7 @@ Name: THE SETTLERS - Manual-FR.pdf | Locale: fr-FR
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A97C9BDD1F0C05A4B8BFC3DACFB21F8AD48AF5B7 | CA1282F9FD2603A450DF51A5197B51762660531C |     622384 |   622384 |   164290 | \BLOCK1.PA
 C84956CFEBD242F7344EBD4BFBFB7048A1A93636 | A9A7BC89F7FA3AE362CBB5B3D1BFBDE154A7A0E3 |     595800 |   595800 |   104722 | \BLOCK2.PA
 FC990B6F5A597B1FC910CEB72E008B923CFE3279 | D36229717F529BA03968C57AE04A91D12E4D8B4C |     144896 |   144896 |    35136 | \Config.exe
@@ -60,7 +60,7 @@ C2BCF81E57009AD0E33FACC5681EC7D58763EC1D | AEDF3CB4B898C25592273C30D477E66DC5F52
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 86A7A5518ACD8A9EC647B459CEA7EAC64D517357 | 5621A63515009DECA7659ED9AD3AEF3868903012 |       6177 |     6177 |     2160 | \loca\eng.txt
 BC74536D5C58692208B05EA571FCACAEE1E46163 | 51250897293D777AAD8A71821F5436961DFCA036 |       6279 |     6279 |     2243 | \loca\fre.txt
 C001C85B35F5781FE791DC385BED97D2A1836DFD | DACEF778AED510330C8C99B81F9C888F62E091BD |       6458 |     6458 |     2292 | \loca\ger.txt
@@ -70,14 +70,14 @@ C001C85B35F5781FE791DC385BED97D2A1836DFD | DACEF778AED510330C8C99B81F9C888F62E09
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 17A57F23E4A64F91D787304E31B02AC7AFFF8768 | 400076710EB957DBEF49B34446A42FC0EFE54A38 |        160 |      160 |       32 | \save\ARCHIV.DS
 E032E1083F35353FF33848A31E900C8E56DF4237 | 9C18B7AE3AB867319A43429AA899DE2D49995C41 |     335382 |   335382 |    79514 | \save\SAVE0.DS
 E028E930798B3EA3466D54541454E43008661E06 | A1FE1D4859DCEF63F4C138F50247E13AD9E73561 |     325008 |   325008 |    73477 | \save\SAVE1.DS
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 116BA23AAC9003CDE06F3ED6E965E2497A846401 | D2B6DA7E6864E773D4A49F16A33E9552AA3885F1 |       2703 |     2703 |     2003 | \snd\01.SND
 990413E9444CB977C8345A409209065C41CD71BC | 9E95B613C343A77E2061CC24A3EDE856C3FC5110 |       1133 |     1133 |      873 | \snd\02.SND
 C799F6ADF273AFEEE7D0C738245C9658688D0BA6 | F9F37E3C3754F88EE06A9CD5DAE1B78B2A6C6624 |       2419 |     2419 |     1697 | \snd\04.SND

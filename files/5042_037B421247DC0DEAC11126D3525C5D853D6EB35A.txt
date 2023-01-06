@@ -1,8 +1,8 @@
-Total number of files   : 921
-Total size of files     : 10524217064 | 10,52 GB
-Total number of chunks  : 1
-Total bytes on disk     : 1934282472 | 1,93 GB
-Total bytes compressed  : 1934282472 | 1,93 GB
+Total number of files  : 921
+Total number of chunks : 1
+Total size of Files    :      10524217064 Bytes | 9,801 GB
+Total size of Slices   :       1934282472 Bytes | 1,801 GB
+Total size Downloaded  :       1934282472 Bytes | 1,801 GB
 
 Compression Method      : Deflate
 Version                 : 0
@@ -21,7 +21,7 @@ DeprecatedLanguages: cs-CZ , de-DE , en-US , es-ES , fr-CA , fr-FR , hu-HU , it-
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
                                          | 29CC2950E03FA60C0861F5E55C94E3DA21D783CF |    1311544 |  1048576 |  1048576 | avcodec-52.dll
                                          | C50F16EEBCB91E54D5D6283E697CE33A8475F92A |    1311544 |   262968 |   262968 | avcodec-52.dll
                                          | BFA2D011A1942FE879124514B9F227D9A7999292 |     167224 |   167224 |   167224 | avformat-52.dll
@@ -10934,107 +10934,94 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\DataPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Data  | 
+$INSTALL_DIR\Data, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\InstallPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\Product Version, Type: String
 Registry String Entry
-	Value | Language
- 2.1.1  | 
+2.1.1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\SavePath, Type: String
 Registry String Entry
-	Value | Language
-$WinMyDocumentsPath$\Might & Magic Heroes VI  | 
+$WinMyDocumentsPath$\Might & Magic Heroes VI, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\TempPath, Type: String
 Registry String Entry
-	Value | Language
-$WinAppDataPath$\Might & Magic Heroes VI  | 
+$WinAppDataPath$\Might & Magic Heroes VI, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\Language, Type: Number
 Registry Number Entry
-  Value | Language
-  1033  | en-US
-  1029  | cs-CZ
-  1036  | fr-FR
-  3084  | fr-CA
-  1031  | de-DE
-  1038  | hu-HU
-  1040  | it-IT
-  1042  | ko-KO
-  1045  | pl-PL
-  1034  | es-ES
+1033, en-US
+1029, cs-CZ
+1036, fr-FR
+3084, fr-CA
+1031, de-DE
+1038, hu-HU
+1040, it-IT
+1042, ko-KO
+1045, pl-PL
+1034, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\ed, Type: String
 Registry String Entry
-	Value | Language
-    EN  | en-US
-    CZ  | cs-CZ
-    FR  | fr-FR
-    FR  | fr-CA
-    DE  | de-DE
-    HU  | hu-HU
-    IT  | it-IT
-    KR  | ko-KO
-    PL  | pl-PL
-    ES  | es-ES
+EN, en-US
+CZ, cs-CZ
+FR, fr-FR
+FR, fr-CA
+DE, de-DE
+HU, hu-HU
+IT, it-IT
+KR, ko-KO
+PL, pl-PL
+ES, es-ES
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\GameUpdate\execPath, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Might & Magic Heroes VI.exe  | 
+$INSTALL_DIR\Might & Magic Heroes VI.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\GameUpdate\installdir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR  | 
+$INSTALL_DIR, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\GameUpdate\info, Type: String
 Registry String Entry
-	Value | Language
-4af688824ff34a31b5022746f08adcb1  | 
+4af688824ff34a31b5022746f08adcb1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\GameUpdate\language, Type: String
 Registry String Entry
-	Value | Language
-    us  | en-US
-    fr  | fr-FR
-    fr  | fr-CA
-    de  | de-DE
-    it  | it-IT
-    us  | pl-PL
-    sp  | es-ES
-    us  | cs-CZ
-    us  | hu-HU
-    us  | ko-KO
+us, en-US
+fr, fr-FR
+fr, fr-CA
+de, de-DE
+it, it-IT
+us, pl-PL
+sp, es-ES
+us, cs-CZ
+us, hu-HU
+us, ko-KO
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI - Shades of Darkness\2.1.0\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI - Shades of Darkness\2.1.1\v, Type: String
 Registry String Entry
-	Value | Language
-     v  | 
+v, 
 
 ============================================Uninstall Runs============================================
 

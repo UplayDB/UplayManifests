@@ -1,8 +1,8 @@
-Total number of files   : 17
-Total size of files     : 168296839 | 168,30 MB
-Total number of chunks  : 1
-Total bytes on disk     : 168296839 | 168,30 MB
-Total bytes compressed  : 108702321 | 108,70 MB
+Total number of files  : 17
+Total number of chunks : 1
+Total size of Files    :        168296839 Bytes | 160,500 MB
+Total size of Slices   :        168296839 Bytes | 160,500 MB
+Total size Downloaded  :        108702321 Bytes | 103,667 MB
 
 Compression Method      : Zstd
 Version                 : 3
@@ -20,7 +20,7 @@ Is encrypted            : False (Depracted)
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 6A13D07F8417FEA137426D8F729664BE34E498D1 | BF304D1EC28B232436D5195B9B68343E5388AAEC |        538 |      538 |      414 | backersNames01 - 01.csv
 B54ADF64FE433913D7FDD415749F2F6553A6105B | 7E7F1AE5E19541C3CFB24E3E9461EEB7C20E06F4 |      39488 |    39488 |    11388 | basis33.ttf
 77165F71192661313243BCD603874824AA1A81BD | 622409D4B2F07F0AC9E5BEDB5810007124C86111 |      28075 |    28075 |     7689 | credits01 - 01.csv

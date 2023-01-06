@@ -1,8 +1,8 @@
-Total number of files   : 54
-Total size of files     : 6310880160 | 6,31 GB
-Total number of chunks  : 10
-Total bytes on disk     : 2015912864 | 2,02 GB
-Total bytes compressed  : 1946611839 | 1,95 GB
+Total number of files  : 54
+Total number of chunks : 10
+Total size of Files    :       6310880160 Bytes | 5,877 GB
+Total size of Slices   :       2015912864 Bytes | 1,877 GB
+Total size Downloaded  :       1946611839 Bytes | 1,813 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -27,7 +27,7 @@ Name: Base\Bin\Manuals\PL\Manual.pdf | Locale: pl-PL
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 26F9FE6DCDFDBC0C9565688FA7D88749A9F853DC | D4CF81B6297C16669643A92E4A502D110AA2391E |    1112276 |  1112276 |  1104989 | Base\BBA\Fonts.bba
 E3BB93753DB93A13D2CCFE68FC4E8C5D9678B968 | 2421C249B7BDA2095AB3867CC0586C1FC411C626 | 1477360964 |  3145728 |  2956854 | Base\BBA\Gfx.bba
 16067842A463474332F6F55DAC19339633B8A827 | D5C535C4781D980F9654CC272384F393818A3BF9 | 1477360964 |  3145728 |  3144737 | Base\BBA\Gfx.bba
@@ -1991,7 +1991,7 @@ F87E73430743CC318E7BED030BD6724372DB98E1 | 2CC5343D522B43474B0F43B59B51E90B5D63B
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 DCB8E22D1BE42AC25A9F3028B5E03156FFCBED85 | 3A90693422E755BCC42AF2C1DA95B2F9AC6D8A37 |      40960 |    40960 |    17762 | Base\Bin\atimgpud.dll
 99D4E440E652217BBFAADC42FA84A5F0029CA8C3 | 8C322CCD16FBE4928717ECFE08F8708E6E09DB0D |     174080 |   174080 |    97335 | Base\Bin\binkw32.dll
 36DF325FD1B05F15E8027003BF38E86B2F493285 | 009AE64C12960EC5B538745F91F2B75D2BCDF2F1 |      38400 |    38400 |    16151 | Base\Bin\CInput3DX.dll
@@ -2019,7 +2019,7 @@ E66ACAD31935F739A3A12A64012D3C9786AD4F9E | 407C7D1B68A22B481AF14008284DA281301A2
 ================================================Chunks================================================
 
 Chunk ID: 2, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 38E41473194AAD2F3FEB157395CA6C444B0AE714 | 2FBEDB938BF17EA1D2949E2B82584EAA1BB91632 |   23010867 |  3145728 |  3139304 | Base\Bin\Manuals\DE\Manual.pdf
 9D763210E43E7C169C68E7036FF2D2E6624F61A6 | 5BAC357B661BD92D2FDAE63DCA52AB9D0E04B17A |   23010867 |  3145728 |  3108293 | Base\Bin\Manuals\DE\Manual.pdf
 BE90BFACC7DB0B67FB7C1A6E8354640B16935DD9 | B17CE1F233D7739309B8DC60BC0FCAF3F05CA360 |   23010867 |  3145728 |  3096041 | Base\Bin\Manuals\DE\Manual.pdf
@@ -2032,7 +2032,7 @@ C44B0A03FAC29145D2E1FDEE8001EC87499CFCC3 | F32F1095B165538AD54796DCCE64E4D72A374
 ================================================Chunks================================================
 
 Chunk ID: 3, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 DD4671161F73A2EC5E97497CDD8684CBA4588677 | E5E1714462431ADF9AF3354C9C2DC8C9BBCD3083 |   16379872 |  3145728 |  2984491 | Base\Bin\Manuals\ES\Manual.pdf
 0E584B90BC7DD05109A1FEDD4D7A2500E8DA2B2B | 75983E7476FC89456283374AF42DF5D0B725BD47 |   16379872 |  3145728 |  3085113 | Base\Bin\Manuals\ES\Manual.pdf
 9B3A4CC5F36CC143BEEC57F398025053496E287A | FEE7D58729B000EB495FEAA914A396D066C8856B |   16379872 |  3145728 |  3043193 | Base\Bin\Manuals\ES\Manual.pdf
@@ -2043,7 +2043,7 @@ F35C0E28E7445BDFAC930627E8AE67D3C740B69F | 9D487D225240F748B68A98947067FE905E3C9
 ================================================Chunks================================================
 
 Chunk ID: 4, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 CF579E7E3DB0BF8D4EAFBABAF7198EDB9ADD193C | 75B07504480EFDCDA03FB6FBF36A38F5EFA1918D |   16397797 |  3145728 |  2984676 | Base\Bin\Manuals\FR\Manual.pdf
 0E50E43C60770B07092B6D3E46D8BBD912AC1B29 | 5AB29B0AF1E619224EC1E397D61DF1C383837A82 |   16397797 |  3145728 |  3086256 | Base\Bin\Manuals\FR\Manual.pdf
 9F1F0C57A9FB79FE5CE9222F6481A8D28D6CDC49 | C351C8806CDEAEA7143417E9C3C830554EA56054 |   16397797 |  3145728 |  3045461 | Base\Bin\Manuals\FR\Manual.pdf
@@ -2054,7 +2054,7 @@ E56DB36885127922EF932599330C5CF5A123C70F | B9C5AC986C62E727FCCD0FF6EC0F719983F3B
 ================================================Chunks================================================
 
 Chunk ID: 5, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 B81A58D8925121F1E63681637520954BA2F4C34B | A3993F365BD537B8F140D8B5B0D89F669ED64626 |   16380280 |  3145728 |  2982309 | Base\Bin\Manuals\IT\Manual.pdf
 21DFA58DA42DA93456C7F095E380E67A3AF1CD31 | 628C8E28DF801781C3841009F42485F736B3E259 |   16380280 |  3145728 |  3084428 | Base\Bin\Manuals\IT\Manual.pdf
 41A69F101B318827AED52C5AE90896D88D8022F9 | 95C4D25BF4EC1952B33382006608332B8E2618E1 |   16380280 |  3145728 |  3038675 | Base\Bin\Manuals\IT\Manual.pdf
@@ -2065,7 +2065,7 @@ B974605195B293C01AB710C5DA032B80B7FD0115 | 658CB67BB9E2B71A8E3D37E53121644FE534E
 ================================================Chunks================================================
 
 Chunk ID: 6, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 3DE1C740A1120BCF144B076158AC8BD8FA50FD4B | 828CE80792ABF90DCC5F534CEC8F1A24FA6060E9 |   18262504 |  3145728 |  2989317 | Base\Bin\Manuals\NL\Manual.pdf
 CA1E3490B9B2118F333DDF61112648D010DF5F14 | 7078D9BD46BC9DCCA96966E613AC4A33F157E655 |   18262504 |  3145728 |  3079352 | Base\Bin\Manuals\NL\Manual.pdf
 69C4A9CB4809ED58864404581F9538CBF80F44E2 | E58297234B8ABCCC896E9CC5F4CDFF36E6BC2D99 |   18262504 |  3145728 |  3041274 | Base\Bin\Manuals\NL\Manual.pdf
@@ -2076,7 +2076,7 @@ EE353DEF3E7C1B2F4FA1AB4C72EAFC17EFD67F44 | 06F909382FDB797002BDF7A2BD051B326C266
 ================================================Chunks================================================
 
 Chunk ID: 7, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A77CFDDB2797D9531A973815130092BAAECBCFF7 | A34AAC24D02198E60C71EE4CA3CAC75F70501D97 |   15758533 |  3145728 |  2993256 | Base\Bin\Manuals\PL\Manual.pdf
 F008E4890F70C3D3F38453E33188A885C1CD8528 | 54D841F0388C3EAE99C3C124EB52856C9A2C0F1F |   15758533 |  3145728 |  3145033 | Base\Bin\Manuals\PL\Manual.pdf
 195581B895F849AED729B3322773945357952724 | 154927B0A590081F345ACBBDFCDAA4C65745E324 |   15758533 |  3145728 |  3030989 | Base\Bin\Manuals\PL\Manual.pdf
@@ -2087,7 +2087,7 @@ D7DCC3852DBACFFD0175A5E3F20331E970BE1D16 | 6CD18BAD2B53DFEFF3B65CB15E1FDD6224E9C
 ================================================Chunks================================================
 
 Chunk ID: 8, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 0C778BB70F3B6EBABE9E9488B830A4BE246FB0B4 | 99B08801F5D5B4027ACE9273E26518170E4B7187 |   16358595 |  3145728 |  2981226 | Base\Bin\Manuals\US\Manual.pdf
 E6B2B8C8FE339B230906E55AFEBE19D7B4B03213 | 78F3B1EEF8ACD43E97A3C90F1CDCEA78E7B72FEB |   16358595 |  3145728 |  3087337 | Base\Bin\Manuals\US\Manual.pdf
 AFB889E24D85BB7D067813D0BC2236E2691D3033 | 07F107E6B1343FD3F343B40169738142D83660D8 |   16358595 |  3145728 |  3042868 | Base\Bin\Manuals\US\Manual.pdf
@@ -2098,7 +2098,7 @@ F28575E07A7F5D6B8B6CD2D896443908C161C199 | 30AC5ACF712840DA12EFBA6C2C43E6CA3836A
 ================================================Chunks================================================
 
 Chunk ID: 9, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 A17AF21A847F7DA66741201D49B942E1582B19D8 | 550F420B7A455D7B4A83149BE653A8AD6000E8FD |   14572000 |  3145728 |  2935075 | Base\support\vc_redist.x64.exe
 177FEB1168C1038051FBE64F0425ECB8A241742A | 7CE46B69B15935EBC316DE461B823CB4C18CAEE0 |   14572000 |  3145728 |  3146694 | Base\support\vc_redist.x64.exe
 19A97F201561EC655398F8B878251AD718DDDF3C | D30810E6DA1EB33A069BCBA9855F8BEF3CB13DF4 |   14572000 |  3145728 |  3146694 | Base\support\vc_redist.x64.exe

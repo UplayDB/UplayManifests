@@ -1,8 +1,8 @@
-Total number of files   : 431
-Total size of files     : 1773519909 | 1,77 GB
-Total number of chunks  : 2
-Total bytes on disk     : 1773519909 | 1,77 GB
-Total bytes compressed  : 1413294089 | 1,41 GB
+Total number of files  : 431
+Total number of chunks : 2
+Total size of Files    :       1773519909 Bytes | 1,652 GB
+Total size of Slices   :       1773519909 Bytes | 1,652 GB
+Total size Downloaded  :       1413294089 Bytes | 1,316 GB
 
 Compression Method      : Deflate
 Version                 : 3
@@ -32,7 +32,7 @@ Name: Manual.pdf | Locale: en-US
 ================================================Chunks================================================
 
 Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 2432FA23857AF0115D3508535DF25D0482F73303 | 70D30EE17F9D4A4E37E529F13939C2B31F0BDB9A |     291840 |   291840 |   129323 | binkw32.dll
 76516346340652EB4C09EB0694E3222627A12F96 | F0B889BD20F344CAC5A8ABEB95E16E7321393C80 |     154542 |   154542 |   138188 | boxart.bmp
 9971646CF9AA5A21FEBC34F1CDE6C65649E6A757 | 2540742E7168B156F2914F5B5DB8A7DDEBECDD07 |       1193 |     1193 |      652 | deutsch.ini
@@ -949,7 +949,7 @@ E1B331227874CC1CDF4AF1394771056DB1DA61D5 | A4BDD7A5B0C0949CD3B45AA1756063D4EA72E
 ================================================Chunks================================================
 
 Chunk ID: 1, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
-		SHA1			 |     		 Slice SHA1		   |  FileSize  |Slice Size| DownSize | FileName
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
 077C6FC996AC80C24931000B494B9D3916FCEED4 | 807A4E54E9A1ABBE9233425819BCD28E177D6821 |   13767776 |  3145728 |  2935098 | Support\vc_redist.x86_2015.exe
 4E1981BAE231283E2C16E18CF65C600E491B570A | AC926F008BC690EFFF40D712B8003F69785F19A6 |   13767776 |  3145728 |  3146694 | Support\vc_redist.x86_2015.exe
 29F63A7B35DAC8D7ED17B650DBA62B0C49E3FB32 | C32793FA1E6AC89954D4D1993C8491A2B8EBE575 |   13767776 |  3145728 |  3146694 | Support\vc_redist.x86_2015.exe
@@ -1026,26 +1026,22 @@ Ignore All Exit Codes?: False, Restart Required?: False
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft\RAYMAN 3\InstallDir, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft\RAYMAN 3\Engine, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\Rayman3.exe  | 
+$INSTALL_DIR\Rayman3.exe, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Ubi Soft\RAYMAN 3\CompleteInstall, Type: Number
 Registry Number Entry
-  Value | Language
-     1  | 
+1, 
 ===========================================Install Registry===========================================
 
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7F31CDD4-57E5-4F8F-A7DE-3AB43632A0EE}_is1\InstallLocation, Type: String
 Registry String Entry
-	Value | Language
-$INSTALL_DIR\  | 
+$INSTALL_DIR\, 
 
 ============================================Uninstall Runs============================================
 
