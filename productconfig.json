@@ -3033,7 +3033,7 @@
   },
   {
     "ProductId": 4865,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Test Server\r\n  uplay:\r\n    preplayable_label: comingsoon\r\n  background_image: 18f974669e1f0756c61a70fa10741b4c.jpg\r\n  thumb_image: 351b1994e4f756d35e25c248a7c2e2ef.png\r\n  logo_image: 2704b556d7b6741108a822d5c2a56ca0.png\r\n  splash_image: 850d22803c2bb5b6b539162f05c3a7ce.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/rainbowsix\r\n  homepage_url: http://rainbow6.ubi.com\r\n  forum_url: https://discussions.ubisoft.com/category/607/rainbow-six?lang=en-US\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: ac7fdc1bf1a426a1da46ffa06cfaf9c4.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_url: https://webshop-r6.ubi.com/en-US/shop/welcome\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        arguments: ''\r\n        icon_image: f9f35468fba58e84ccfb0af550503186.ico\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege - Vulkan\r\n        path:\r\n          relative: RainbowSix_Vulkan.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        uplay_pipe_required: no\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        arguments: ''\r\n        icon_image: f9f35468fba58e84ccfb0af550503186.ico\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege - Vulkan\r\n        path:\r\n          relative: RainbowSix_Vulkan.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        uplay_pipe_required: no\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Tom Clancy's Rainbow Six Siege TS\r\n    publisher: Ubisoft Montreal\r\n    help_url: https://support.ubi.com\r\n    about_url: http://rainbow6.ubi.com/\r\n  digital_distribution:\r\n    version: 37\r\n  game_invites_enabled: yes\r\n  override_uplayid: 4865\r\n  cloud_saves: yes\r\n  news:\r\n    thread: RainbowSixSiegeTTS\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n  crash_reporting:\r\n    space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n    app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Test Server\r\n  uplay:\r\n    preplayable_label: comingsoon\r\n  background_image: 18f974669e1f0756c61a70fa10741b4c.jpg\r\n  thumb_image: 0d7ed3d7f25496226182ff6e7dfbd710.png\r\n  logo_image: a47ea48c1bafdd75ab32329e35bb6206.png\r\n  splash_image: 7740ad7bc7e7dcd1ee42a17c728d6c8b.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/rainbowsix\r\n  homepage_url: http://rainbow6.ubi.com\r\n  forum_url: https://discussions.ubisoft.com/category/607/rainbow-six?lang=en-US\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: ac7fdc1bf1a426a1da46ffa06cfaf9c4.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_url: https://webshop-r6.ubi.com/en-US/shop/welcome\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        arguments: ''\r\n        icon_image: f9f35468fba58e84ccfb0af550503186.ico\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege - Vulkan\r\n        path:\r\n          relative: RainbowSix_Vulkan.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        uplay_pipe_required: no\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        arguments: ''\r\n        icon_image: f9f35468fba58e84ccfb0af550503186.ico\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege - Vulkan\r\n        path:\r\n          relative: RainbowSix_Vulkan.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        uplay_pipe_required: no\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Tom Clancy's Rainbow Six Siege TS\r\n    publisher: Ubisoft Montreal\r\n    help_url: https://support.ubi.com\r\n    about_url: http://rainbow6.ubi.com/\r\n  digital_distribution:\r\n    version: 37\r\n  game_invites_enabled: yes\r\n  override_uplayid: 4865\r\n  cloud_saves: yes\r\n  news:\r\n    thread: RainbowSixSiegeTTS\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n  crash_reporting:\r\n    space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n    app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4888,
@@ -7905,6 +7905,30 @@
   },
   {
     "ProductId": 62659,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62678,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62679,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62680,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62681,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62684,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62685,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   }
 ]
