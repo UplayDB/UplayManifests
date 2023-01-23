@@ -5721,7 +5721,7 @@
   },
   {
     "ProductId": 14668,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Brothers in Arms: Hell''s Highway'\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \"Brothers in Arms: Hell's Highway\"\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14669,
