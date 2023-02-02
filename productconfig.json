@@ -8090,5 +8090,13 @@
   {
     "ProductId": 62633,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Lion's Song\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 7015,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Trackmania (Steam)\r\n  display_name: Trackmania\r\n  background_image: 6b7da0564c173293938428c11930afa0.jpg\r\n  thumb_image: 71076cef0357111b2f2ee4969e727dbf.jpg\r\n  logo_image: 3ef7644fa8876ca454a90e2b936d32f9.png\r\n  splash_image: 05b22f182e772ed2df2243bd4890064a.jpg\r\n  help_url: https://www.ubisoft.com/help\r\n  facebook_url: https://www.facebook.com/trackmania\r\n  homepage_url: https://trackmania.com/\r\n  forum_url: https://discussions.ubisoft.com/category/824/trackmania\r\n  streams:\r\n    link: https://www.twitch.tv/trackmania\r\n  overlay_notifications_position: bottom_right\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.trackmania.com/\r\n      overlay_supported: yes\r\n      steam_app_id: 2225070\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2225070\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TrackmaniaNext\r\n  app_id: 86263886-327a-4328-ac69-527f0d20a237\r\n  space_id: 5d20614c-234d-4cc8-934d-11ff07c2de69\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: 41958b32-a08c-4313-a6c0-f49d4fb5a91e\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62710,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Trackmania\r\nlocalizations: {}\r\n"
   }
 ]
