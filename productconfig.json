@@ -8098,5 +8098,13 @@
   {
     "ProductId": 62710,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Trackmania\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 58558,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Siege\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 58568,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Siege - Deluxe Edition Year 6\r\nlocalizations: {}\r\n"
   }
 ]
