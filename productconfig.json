@@ -953,7 +953,7 @@
   },
   {
     "ProductId": 60582,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'The Settlers®: New Allies Deluxe Pack'\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 60583,
@@ -8114,5 +8114,65 @@
   {
     "ProductId": 62459,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62827,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry 6\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 3037,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: The Settlers\r\n  display_name: The Settlers - New Allies\r\n  background_image: 3a2dbd430c3518465fb36337241f72c0.jpg\r\n  thumb_image: l2\r\n  logo_image: l3\r\n  splash_image: l4\r\n  help_url: l5\r\n  facebook_url: l6\r\n  homepage_url: l7\r\n  forum_url: l8\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 2e68c2822d678695e84bbcb41810b0ee.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: l9\r\n        description: ''\r\n        path:\r\n          relative: The_Settlers.exe\r\n        trial:\r\n          relative: The_Settlers_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3037\\InstallDir\r\n        icon_image: 2e68c2822d678695e84bbcb41810b0ee.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: l10\r\n        description: ''\r\n        path:\r\n          relative: The_Settlers.exe\r\n        trial:\r\n          relative: The_Settlers_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3037\\InstallDir\r\n        icon_image: 2e68c2822d678695e84bbcb41810b0ee.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: The Settlers - New Allies\r\n    publisher: Ubisoft\r\n    help_url: https://www.ubisoft.com/help\r\n    about_url: http://www.ubisoft.com/\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n    max_party_size: 8\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: a41cf1729c1a1971a31b7ca54b717eb9\r\n    achievements_sync_id: 3037\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TheSettlers8\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: 96e3caa3-42c6-4f39-99c6-dc9923d30db3\r\n    app_id: 9346720e-8298-4722-a6cb-a24d456b774f\r\n  app_id: 9346720e-8298-4722-a6cb-a24d456b774f\r\n  space_id: 96e3caa3-42c6-4f39-99c6-dc9923d30db3\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: e2888472-cc2e-4d2d-a7cd-addffd18687f\r\n  - id: GFN\r\n    app_id: f9bca85e-d394-49d5-acf7-275e2ece23c7\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: 'The Settlers®: New Allies'\r\n    l2: e2b13390cc0fd6faca4f5b01a9e67370.jpg\r\n    l3: 7d6df1df5635e6d0e9e07f3be8185d0e.png\r\n    l4: ef4a7c3eed461633dbffc1b4ca1ed069.png\r\n    l5: https://www.ubisoft.com/help/game/the-settlers-new-allies\r\n    l6: https://www.facebook.com/TheSettlers\r\n    l7: https://www.ubisoft.com/en-us/game/the-settlers/the-settlers\r\n    l8: https://discussions.ubisoft.com/category/921/the-settlers?lang=en-US\r\n    l9: The Settlers - New Allies\r\n    l10: The Settlers - New Allies\r\n  de-DE:\r\n    l1: 'Die Siedler®: Neue Allianzen'\r\n    l2: b8a3675351eb125975ea8eee5abc4fae.jpg\r\n    l3: c2e263273c8a59f974614b519c62c38a.png\r\n    l4: 308dca86cce8b38345fb8240e8d2233b.png\r\n    l5: https://www.ubisoft.com/help/game/the-settlers-new-allies\r\n    l6: https://www.facebook.com/DieSiedler\r\n    l7: https://www.ubisoft.com/de-de/game/the-settlers/the-settlers\r\n    l8: https://discussions.ubisoft.com/category/921/the-settlers?lang=de\r\n    l9: Die Siedler - Neue Allianzen\r\n    l10: Die Siedler - Neue Allianzen\r\n  ja-JP:\r\n    l1: セトラーズ：新たな仲間たち\r\n  zh-CN:\r\n    l2: 69e7abd73a97edf5810f240b293b3ac2.jpg\r\n    l3: a35a0bd0e84a376cac21ceb640894307.png\r\n    l4: 02b1752bda5dbb25618bd979ab83e8b4.png\r\n  fr-FR:\r\n    l6: https://www.facebook.com/TheSettlersFR\r\n"
+  },
+  {
+    "ProductId": 5567,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 5568,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 15020,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'The Settlers®: New Allies - Base Game'\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 15022,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'The Settlers®: New Allies -  Language Pack 2'\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 15103,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  is_visible: yes\r\nlocalizations:\r\n  default:\r\n    l1: The Settlers - Statue of the first settlers\r\n  de-DE:\r\n    l1: Die Siedler - Statue der ersten Siedler\r\n"
+  },
+  {
+    "ProductId": 19032,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19033,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19034,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60581,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60849,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'The Settlers®: New Allies - Explorer Pack'\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60850,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'The Settlers®: New Allies - Deluxe Pack'\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62760,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'The Settlers®: New Allies - Deluxe Edition'\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62812,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   }
 ]
