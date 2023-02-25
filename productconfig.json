@@ -5921,7 +5921,7 @@
   },
   {
     "ProductId": 14724,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Uplay+ Edition Year 4\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Uplay+ Edition\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14725,
