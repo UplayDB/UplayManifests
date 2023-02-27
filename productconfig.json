@@ -8182,5 +8182,21 @@
   {
     "ProductId": 61924,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Monopoly Madness - Demo\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6139,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Warpips\r\n  background_image: 1d0cef397b88c052574763cbf715a92b.jpg\r\n  thumb_image: bf1d84d7a7f85ade7aeee3fce8cda273.jpg\r\n  logo_image: 4f5a7c7838737c2d034a5b9cdc5e0925.png\r\n  splash_image: 47b4f4da1d1252d8a89207a6238cf85d.png\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 5f321d832854c1573f133a0eae0013e0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Warpips\r\n        path:\r\n          relative: Warpips.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6139\\InstallDir\r\n        icon_image: 5f321d832854c1573f133a0eae0013e0.ico\r\n      pc_bang:\r\n        shortcut_icon_image: 5f321d832854c1573f133a0eae0013e0.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Warpips\r\n        path:\r\n          relative: Warpips.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6139\\InstallDir\r\n        icon_image: 5f321d832854c1573f133a0eae0013e0.ico\r\n  overlay_injection_method: default\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Warpips\r\n  digital_distribution:\r\n    version: 1\r\n  app_id: ac8f749c-025b-41b7-a132-11f6340abba5\r\n  space_id: 56b79cc5-e6bd-432f-9708-6cf81e71a1b4\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62022,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Lacuna - A Sci-Fi Noir Adventure\r\n  background_image: 62c2f2276f46ad72df733e9ebb6db49d.jpg\r\n  thumb_image: 0922cbba69d0608ceaffc543f18764a9.jpg\r\n  logo_image: 2f378c1b1ae3a54350457c7155aba367.png\r\n  splash_image: 0545cf50c48080d9bbae25a61bf957f5.png\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: aa6cff34315aafca62e1a78a0ed7354b.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Lacuna - A Sci-Fi Noir Adventure\r\n        path:\r\n          relative: Lacuna.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\62022\\InstallDir\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Lacuna - A Sci-Fi Noir Adventure\r\n        path:\r\n          relative: Lacuna.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\62022\\InstallDir\r\n  overlay_injection_method: default\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Lacuna - A Sci-Fi Noir Adventure\r\n  digital_distribution:\r\n    version: 6\r\n  app_id: db14ef19-8932-4e54-9ed7-695fa745f0bd\r\n  space_id: 1c31f617-d93a-4273-8957-013010193236\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62852,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Warpips\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62853,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Lacuna - A Sci-Fi Noir Adventure\r\nlocalizations: {}\r\n"
   }
 ]
