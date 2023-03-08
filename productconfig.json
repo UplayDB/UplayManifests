@@ -8088,6 +8088,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62598,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Year 7 Operators\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 62613,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -8198,5 +8202,9 @@
   {
     "ProductId": 62853,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Lacuna - A Sci-Fi Noir Adventure\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62948,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Disruptor Cosmetic Pack\r\nlocalizations: {}\r\n"
   }
 ]
