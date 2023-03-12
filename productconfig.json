@@ -8204,6 +8204,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Lacuna - A Sci-Fi Noir Adventure\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62894,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six Siege\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 62948,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Disruptor Cosmetic Pack\r\nlocalizations: {}\r\n"
   }
