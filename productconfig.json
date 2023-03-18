@@ -7544,6 +7544,18 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Roller Champions™ - Gold Bundle\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 60661,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Siege\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60662,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Extraction\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60663,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Microsoft Game Pass\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 60667,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Welcome Pack - Season 2\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -7766,6 +7778,34 @@
   {
     "ProductId": 61433,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \"Fell Seal: Arbiter's Mark - Missions and Monsters\"\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61435,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: For Honor\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61436,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Origins\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61437,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Odyssey\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61438,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch Dogs 2\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61439,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry 5\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61440,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon Wildlands\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61441,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Immortals Fenyx Rising\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 61499,
