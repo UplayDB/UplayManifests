@@ -12,10 +12,6 @@ Is file compressed      : False
 Chunk Version           : 0
 Legacy Installer        : 
 
-Max(?) Slice Size       : 1048576 (Depracted)
-Padded Slice Size:      : 1049088 (Depracted)
-Is encrypted            : False (Depracted)
-
 DeprecatedLanguages: cs-CZ , de-DE , en-US , es-ES , fr-FR , hu-HU , it-IT , ja-JP , nl-NL , pl-PL , pt-BR , ru-RU , 
 
 ================================================Chunks================================================

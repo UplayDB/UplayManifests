@@ -12,10 +12,6 @@ Is file compressed      : False
 Chunk Version           : 2
 Legacy Installer        : 
 
-Max(?) Slice Size       : 0 (Depracted)
-Padded Slice Size:      : 0 (Depracted)
-Is encrypted            : False (Depracted)
-
 
 ================================================Chunks================================================
 

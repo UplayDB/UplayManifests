@@ -12,10 +12,6 @@ Is file compressed      : True
 Chunk Version           : 0
 Legacy Installer        : 
 
-Max(?) Slice Size       : 2097152 (Depracted)
-Padded Slice Size:      : 2098176 (Depracted)
-Is encrypted            : False (Depracted)
-
 
 Readme Files:
 RootPath: Support\Readme, Files Count:9
