@@ -6348,6 +6348,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Land of Lions DLC\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 16736,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew™ Motorfest Insider Program\r\n  background_image: 672873fd1984fc06c9e16280b85c9ff2.jpg\r\n  thumb_image: 31056a867a7608fa18c20e49ca7d91c5.jpg\r\n  logo_image: 6d4435980956c3d67e2ccdc7d346c169.png\r\n  splash_image: a1dd6831e89bd6144c175fab807de73f.jpg\r\n  help_url: http://support.ubi.com\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: b545e676481812a81c11a6914bff6482.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Ubisoft Game\r\n        path:\r\n          relative: Orlando.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16736\\InstallDir\r\n        uplay_pipe_required: no\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Ubisoft Game\r\n        path:\r\n          relative: Orlando.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16736\\InstallDir\r\n        uplay_pipe_required: no\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Ubisoft Game Beta\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://support.ubi.com\r\n  digital_distribution:\r\n    version: 1\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: Orlando_Alpha\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: 494c8677-1715-4fc0-9a52-5e8901483006\r\n    app_id: 834a05c0-da46-4ed4-b9a9-a62e7e9ec869\r\n  app_id: 834a05c0-da46-4ed4-b9a9-a62e7e9ec869\r\n  space_id: 494c8677-1715-4fc0-9a52-5e8901483006\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 16762,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Season Pass 2 Player Assets\r\nlocalizations: {}\r\n"
   },
@@ -6882,6 +6886,10 @@
   {
     "ProductId": 17942,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: UNO - 50th Anniversary Theme Cards\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17950,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 17952,
@@ -8290,5 +8298,9 @@
   {
     "ProductId": 63000,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63003,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest\r\nlocalizations: {}\r\n"
   }
 ]
