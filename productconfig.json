@@ -8306,5 +8306,9 @@
   {
     "ProductId": 63025,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63091,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   }
 ]
