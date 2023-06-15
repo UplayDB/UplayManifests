@@ -8380,6 +8380,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62734,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 62745,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Technical Test - January 2023\r\nlocalizations: {}\r\n"
   },
