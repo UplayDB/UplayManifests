@@ -4352,6 +4352,22 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 5752,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 5753,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 5754,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 5755,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 5800,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -6448,6 +6464,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Land of Lions DLC\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 16732,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest\r\n  background_image: 0200468a9d7f35719a8aa7639e1660f6.jpg\r\n  thumb_image: f20f8e1c4291327f40839533e3d89bed.jpg\r\n  logo_image: b545e676481812a81c11a6914bff6482.ico\r\n  splash_image: a230b79216aa405a38c512fdabed64c2.jpg\r\n  help_url: https://www.ubisoft.com/help\r\n  facebook_url: http://www.facebook.com/thecrewgame\r\n  homepage_url: http://thecrew-game.ubisoft.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: b545e676481812a81c11a6914bff6482.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: The Crew Motorfest\r\n        path:\r\n          relative: TheCrewMotorfest.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16732\\InstallDir\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: The Crew Motorfest\r\n        path:\r\n          relative: TheCrewMotorfest.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16732\\InstallDir\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: The Crew Motorfest\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://www.ubisoft.com\r\n  digital_distribution:\r\n    version: 0\r\n  game_invites_enabled: yes\r\n  uplay:\r\n    achievements: f200ab4012692a1f9710731a553489be\r\n    achievements_sync_id: 16732\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TheCrew_Motorfest\r\n  game_page_modules:\r\n    streams:\r\n      size: 2\r\n  crash_reporting:\r\n    space_id: 214f082f-df82-47ed-8308-2dd21eaf5eb4\r\n    app_id: 834a05c0-da46-4ed4-b9a9-a62e7e9ec869\r\n  app_id: 834a05c0-da46-4ed4-b9a9-a62e7e9ec869\r\n  space_id: 214f082f-df82-47ed-8308-2dd21eaf5eb4\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: ad33a082-c16d-4746-92e5-c632456eb180\r\n  - id: GFN\r\n    app_id: 7f32dbf2-c999-465a-ad70-df5e45fe9ae5\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 16736,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew™ Motorfest Closed Beta\r\n  background_image: 8b0fad165166ebde76223abc258aa863.jpg\r\n  thumb_image: 5c5c79815b5dfddc449a43a17b37fcc6.jpg\r\n  logo_image: a4025302a4949b17729efdac683c60c2.png\r\n  splash_image: dd3b21f1bfb4f52ed73bfafb5020cb71.jpg\r\n  help_url: http://support.ubi.com\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 2ee65d2d4d32ff85dcb64337c2397d2a.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: The Crew Motorfest\r\n        path:\r\n          relative: TheCrewMotorfest.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16736\\InstallDir\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: The Crew Motorfest\r\n        path:\r\n          relative: TheCrewMotorfest.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16736\\InstallDir\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: The Crew Motorfest\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://support.ubi.com\r\n  digital_distribution:\r\n    version: 1\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: Orlando_Alpha\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: 494c8677-1715-4fc0-9a52-5e8901483006\r\n    app_id: 834a05c0-da46-4ed4-b9a9-a62e7e9ec869\r\n  app_id: 834a05c0-da46-4ed4-b9a9-a62e7e9ec869\r\n  space_id: 494c8677-1715-4fc0-9a52-5e8901483006\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
@@ -8416,6 +8436,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry 6\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62830,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62831,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 62834,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -8524,6 +8552,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63104,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63106,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant Founder's Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -8558,6 +8590,18 @@
   {
     "ProductId": 63263,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63290,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63291,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63292,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63304,
@@ -8598,5 +8642,9 @@
   {
     "ProductId": 63491,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63500,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Trial\r\nlocalizations: {}\r\n"
   }
 ]
