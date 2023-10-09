@@ -25,3 +25,8 @@ productconfig.json is a list of json that has a config in it.
 4. Run the addational python files here.
 
 5. Push it to your repo.
+
+
+## Manifest that gathered from elsewhere:
+
+6100_4FB5239E6CAEA1869767AFCAD59A4C5B7D5A3704.manifest - Assassin's Creed® Мираж (Mirage Russian)
