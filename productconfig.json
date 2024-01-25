@@ -4408,6 +4408,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones (Closed Beta 2)\r\n  background_image: e500da69c3cbda7395d5071e53d8714b.jpg\r\n  thumb_image: 3af686ee9d8603e50a02cc740d5cd47c.png\r\n  logo_image: 36abcbbd53c4e8bd527d28a580f0335e.png\r\n  splash_image: f19f361ff62bd5b87b3a2542d1cb0441.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6150\\InstallDir\r\n        play_arguments: ''\r\n      pc_bang: {}\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2023121301\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: SkullAndBones_TTS\r\n  crash_reporting:\r\n    space_id: 007c41be-8e2b-403f-9553-506aa6ac78ac\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  space_id: 007c41be-8e2b-403f-9553-506aa6ac78ac\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 6175,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Prince of Persia™: The Lost Crown DEMO'\r\n  background_image: fa5c86d6b3bb914c9d2fa6b1650acf8f.jpg\r\n  thumb_image: 79bb6503993ce500e41915b230718a32.jpg\r\n  logo_image: 190fbaf44f7de89fb50cb0b0c3455a57.png\r\n  splash_image: 690a0c0d8ff9be729a0f87bf4bfe40aa.png\r\n  help_url: https://www.ubisoft.com/en-us/help/contact\r\n  facebook_url: https://www.facebook.com/princeofpersia\r\n  homepage_url: https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  icon_image: d50c5b0d5c7dab86645d1c31a6249334.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.ubisoft.com/\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Prince of Persia The Lost Crown DEMO\r\n        path:\r\n          relative: TheLostCrown_Demo.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\6175\\InstallDir\r\n        icon_image: d50c5b0d5c7dab86645d1c31a6249334.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Prince of Persia The Lost Crown DEMO\r\n        path:\r\n          relative: TheLostCrown_Demo.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\6175\\InstallDir\r\n        icon_image: d50c5b0d5c7dab86645d1c31a6249334.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Prince of Persia The Lost Crown DEMO\r\n    publisher: Ubisoft\r\n    help_url: https://www.ubisoft.com/en-us/help/contact\r\n    about_url: https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown\r\n  news:\r\n    thread: Memory_Demo\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: b0133d48-d651-4300-b6ff-7737b0d9558d\r\n    app_id: f422a0c1-da56-4602-9a45-c2cf707f4ccf\r\n  app_id: f422a0c1-da56-4602-9a45-c2cf707f4ccf\r\n  space_id: b0133d48-d651-4300-b6ff-7737b0d9558d\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 7013,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Assassin's Creed 18\r\n  background_image: 5a569d6034781cc6aad64f9fd09933ab.jpg\r\n  thumb_image: 27c97b4d76c0a26e88030a857a518677.jpg\r\n  logo_image: 18a0b36f540ec7a577e2d6c7c6c4caf3.png\r\n  splash_image: fdba4739d70f871abe392b1fdc4bd9e3.jpg\r\n  help_url: https://support.ubisoft.com/\r\n  facebook_url: https://www.facebook.com/assassinscreed/\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discussions.ubisoft.com/category/542/assassin-s-creed-valhalla\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: http://assassinscreed.ubi.com/\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      steam_app_id: 2208920\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2208920\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  upn_enabled: true\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 94874ec998162160471a29558d8b53a1\r\n    achievements_sync_id: ACK\r\n  club:\r\n    enabled: yes\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n  player_stats:\r\n    items:\r\n    - id: TotalProgression\r\n    - id: TotalKills\r\n    - id: DistanceTraveled\r\n    - id: CurrentPower\r\n  crash_reporting:\r\n    space_id: c4f15d67-1300-4e9e-bbe3-12e11a148e81\r\n    app_id: 9da14e51-9433-421b-a396-2ac916649564\r\n  app_id: 9da14e51-9433-421b-a396-2ac916649564\r\n  space_id: c4f15d67-1300-4e9e-bbe3-12e11a148e81\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Assassin's Creed® Valhalla\r\n  zh-CN:\r\n    l1: 刺客信条：英灵殿\r\n"
   },
@@ -8608,6 +8612,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Closed Beta\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63901,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63941,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -8673,6 +8681,58 @@
   },
   {
     "ProductId": 64043,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64054,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64057,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64059,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64060,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64061,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64062,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64063,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64064,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64065,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64066,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64082,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64084,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64085,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   }
 ]
