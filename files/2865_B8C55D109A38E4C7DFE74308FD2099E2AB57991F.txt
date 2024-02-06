@@ -1,0 +1,40 @@
+Total number of files  : 1
+Total number of chunks : 1
+Total size of Files    :            13864 Bytes | 13,539 KB
+Total size of Slices   :            13864 Bytes | 13,539 KB
+Total size Downloaded  :             8550 Bytes | 8,350 KB
+
+Compression Method      : Zstd
+Version                 : 3
+GameVersion             : 
+Is Require Patch        : False
+Is file compressed      : True
+Chunk Version           : 0
+Legacy Installer        : 
+
+
+================================================Chunks================================================
+
+Chunk ID: 0, Chunk Type: Required, Chunk UplayID: 0, Chunk Disc: , Chunk Language: , Chunk Tags: 
+		SHA1			 |     		 Slice SHA1		    |  FileSize  |Slice Size| DownSize | FileName
+FC15B9A0E9F03C08BECD3C029586CE3F0CE0182A | AA7055355358D0C5286D69D3FE96AB9B60662D7A |      13864 |    13864 |     8550 | TSOGameSigned.exe
+
+===============================================Licenses===============================================
+
+Identifier: eula, Version: 202, Format: Text
+		SHA1			 |  Lang  |  Text  | Name
+875EE16C651CE95BEB22FAD229180547E29914E7 |  en-US |        | 
+
+
+
+========================================Install Firewall Rules========================================
+
+Name: TSO, Exe: $INSTALL_DIR/TSOGameSigned.exe, Profile: All, Protocol: Udp
+Ports: , Version: 1
+
+
+
+
+==============================================Languages===============================================
+
+Code: en-US, UplayIds Count: 0

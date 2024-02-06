@@ -620,6 +620,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Full Stock Mini Cooper S\r\n  is_visible: no\r\n  is_ulc: yes\r\n  thumb_image: fdce7483d7ff3407ac42298cdfe74164.jpg\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 924,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Growtopia\r\n  sort_string: Growtopia\r\n  background_image: c4142f31ffb37b753ed54f70027c2f76.png\r\n  thumb_image: 46acdcfc3d378a744d311a02a71c7ec4.png\r\n  logo_image: 9b63e2773667ce504cadc82ba625686b.png\r\n  splash_image: c3ff846b738da00e470b1e77be40dd9a.png\r\n  facebook_url: https://www.facebook.com/growtopia/\r\n  homepage_url: https://growtopiagame.com/\r\n  forum_url: https://ubisoft-mobile.helpshift.com/hc/en/26-growtopia\r\n  streams:\r\n    link: https://www.twitch.tv/growtopiagameofficial\r\n  overlay_virtual_control_enabled: no\r\n  uplay_pipe_required: no\r\n  icon_image: cead53fb4a7ffdd39d2a1bafb50dff98.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Growtopia\r\n        description: Growtopia\r\n        path:\r\n          relative: Growtopia.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\924\\InstallDir\r\n        icon_image: cead53fb4a7ffdd39d2a1bafb50dff98.ico\r\n        uplay_pipe_required: no\r\n      pc_bang: {}\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Growtopia\r\n    help_url: https://ubisoft-mobile.helpshift.com/hc/en/26-growtopia/\r\n  news:\r\n    thread: Growtopia\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n  app_id: f2f8f582-6b7b-4d87-9a19-c72f07fccf99\r\n  space_id: 3b2ceefd-2316-4abb-962f-4153257ce741\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 975,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: McLaren F1 Car Shipment\r\n  is_visible: no\r\n  is_ulc: yes\r\n  thumb_image: dc7356b6cf19d94e6321b054592ad06d.jpg\r\nlocalizations: {}\r\n"
   },
@@ -1566,6 +1570,10 @@
   {
     "ProductId": 2855,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew 2\r\n  background_image: 291a762a6e5c444002574ea22e257755.jpg\r\n  thumb_image: 897d520a351122cc3e8809e62c00b4af.jpg\r\n  logo_image: 42ce22d07812a540c6c00465ec3d63ad.png\r\n  splash_image: b3e5e1c578e457591767a09678cb383c.png\r\n  help_url: https://www.ubisoft.com/help\r\n  facebook_url: http://www.facebook.com/thecrewgame\r\n  homepage_url: http://thecrew-game.ubisoft.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: b4ec90f6c9c8a18c1a5f5506053de9d5.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.ubisoft.com/en-gb/game/the-crew/the-crew-2\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: The Crew 2\r\n        path:\r\n          relative: TheCrew2.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\2855\\InstallDir\r\n        icon_image: b4ec90f6c9c8a18c1a5f5506053de9d5.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: The Crew 2\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://www.ubisoft.com\r\n  digital_distribution:\r\n    version: 1\r\n  game_invites_enabled: yes\r\n  uplay:\r\n    achievements: be86e6006466ad585090f231d6a600f2\r\n    achievements_sync_id: 2855\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TheCrew2\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: 90c0ddf3-64c2-40d1-ac53-85ebeccd96eb\r\n    app_id: 41080f91-b0c8-4539-a5d9-965b14ef32bf\r\n  app_id: 41080f91-b0c8-4539-a5d9-965b14ef32bf\r\n  space_id: 90c0ddf3-64c2-40d1-ac53-85ebeccd96eb\r\n  streaming:\r\n    remote_play:\r\n      enabled: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 2865,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  background_image: c4839c869390b12e0c5ed98ea2ba8de5.jpg\r\n  thumb_image: l2\r\n  logo_image: l3\r\n  splash_image: l4\r\n  help_url: http://support.ubi.com\r\n  facebook_url: https://www.facebook.com/ubisoft\r\n  homepage_url: http://www.ubisoft.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  icon_image: 4c84fedb9f0e15fb32069204265e6988.ico\r\n  start_game:\r\n    online:\r\n      executables:\r\n      - shortcut_name: l5\r\n        path:\r\n          relative: TSOGameSigned.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\2865\\InstallDir\r\n        icon_image: 4c84fedb9f0e15fb32069204265e6988.ico\r\n        uplay_pipe_required: no\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: l6\r\n        path:\r\n          relative: TSOGameSigned.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\2865\\InstallDir\r\n        icon_image: 4c84fedb9f0e15fb32069204265e6988.ico\r\n        uplay_pipe_required: no\r\n  installer:\r\n    game_identifier: TSO\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://www.ubisoft.com/\r\n  game_invites_enabled: yes\r\n  app_id: cd408ad0-3457-4cc3-8114-9106e93d2aae\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: The Settlers Online\r\n    l2: 0dd544aaa09d0cde41dd4c42053ffe24.jpg\r\n    l3: cdcb83bc24b5730d36e36e5663506bee.png\r\n    l4: e7910cfb595142d3b533e75dfb8faabc.jpg\r\n    l5: The Settlers Online\r\n    l6: The Settlers Online\r\n  de-DE:\r\n    l1: Die Siedler Online\r\n    l2: a1bef78657013dbd4a6c5ad3b40ff65c.jpg\r\n    l3: 3e719aa5cf64100969ecc539122759b9.png\r\n    l4: 342087903e52c9c41608b85d1f0abce5.png\r\n    l5: Die Siedler Online\r\n    l6: Die Siedler Online\r\n"
   },
   {
     "ProductId": 2905,
@@ -4409,7 +4417,7 @@
   },
   {
     "ProductId": 6150,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones (Closed Beta 2)\r\n  background_image: e500da69c3cbda7395d5071e53d8714b.jpg\r\n  thumb_image: 3af686ee9d8603e50a02cc740d5cd47c.png\r\n  logo_image: 36abcbbd53c4e8bd527d28a580f0335e.png\r\n  splash_image: f19f361ff62bd5b87b3a2542d1cb0441.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6150\\InstallDir\r\n        play_arguments: ''\r\n      pc_bang: {}\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2023121301\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: SkullAndBones_TTS\r\n  crash_reporting:\r\n    space_id: 007c41be-8e2b-403f-9553-506aa6ac78ac\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  space_id: 007c41be-8e2b-403f-9553-506aa6ac78ac\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones (Open Beta)\r\n  background_image: 2b41624c7f74bb93dccbaa517ff5b8ca.jpg\r\n  thumb_image: 86826e4052246f177708e3d208b9c708.jpg\r\n  logo_image: 8776a13c55ada5140cb410b51ed39d28.png\r\n  splash_image: 67753a7e7a76d75b9fe7be68ed873208.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: no\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6150\\InstallDir\r\n        play_arguments: ''\r\n      pc_bang: {}\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones (Open Beta)\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2024020608\r\n  change_language_enabled: yes\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: SkullAndBones_TTS\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 6175,
@@ -4889,7 +4897,7 @@
   },
   {
     "ProductId": 11788,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Settlers 7 - History Edition\r\n  sort_string: The Settlers 7 - History Edition\r\n  background_image: 68df5c350413447857f85b7e4dfd6970.jpg\r\n  thumb_image: 955d00b9bb34d410416615b970049fc8.jpg\r\n  logo_image: fee1bca7543da4da6d581fedfd350a27.png\r\n  splash_image: cfb06385f615279c78b18f354c132f11.jpg\r\n  help_url: https://support.ubi.com/games/2929\r\n  facebook_url: l1\r\n  homepage_url: l2\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications: []\r\n  icon_image: db714bf788f1349b90d91149d90fead8.ico\r\n  start_game:\r\n    online:\r\n      executables:\r\n      - shortcut_name: The Settlers 7 - History Edition\r\n        description: The Settlers 7 - History Edition\r\n        path:\r\n          relative: .\\Base\\Bin\\Settlers7R.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11788\\InstallDir\r\n        uplay_pipe_required: no\r\n    offline:\r\n      executables:\r\n      - shortcut_name: The Settlers 7 - History Edition\r\n        description: The Settlers 7 - History Edition\r\n        path:\r\n          relative: .\\Base\\Bin\\Settlers7R.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11788\\InstallDir\r\n        uplay_pipe_required: no\r\n  installer:\r\n    game_identifier: thesettlers7\r\n    publisher: Ubisoft\r\n    help_url: HELPURL\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 1\r\n  change_language_enabled: yes\r\n  game_invites_enabled: yes\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TSHE7\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n  app_id: dc097464-fee0-43f3-8327-e369dc162ee4\r\n  space_id: 42605930-e223-4473-bd31-08227c62c8b3\r\n  dev:\r\n    require_legacy_game_password: online_only\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: https://www.facebook.com/TheSettlers\r\n    l2: http://www.thesettlers-alliance.com\r\n  de-DE:\r\n    l1: https://www.facebook.com/DieSiedler\r\n    l2: http://www.diesiedler-allianz.de\r\n  fr-FR:\r\n    l1: https://www.facebook.com/TheSettlersFR\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Settlers 7 - History Edition\r\n  sort_string: The Settlers 7 - History Edition\r\n  background_image: 68df5c350413447857f85b7e4dfd6970.jpg\r\n  thumb_image: 955d00b9bb34d410416615b970049fc8.jpg\r\n  logo_image: fee1bca7543da4da6d581fedfd350a27.png\r\n  splash_image: cfb06385f615279c78b18f354c132f11.jpg\r\n  help_url: https://support.ubi.com/games/2929\r\n  facebook_url: l1\r\n  homepage_url: l2\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications: []\r\n  icon_image: db714bf788f1349b90d91149d90fead8.ico\r\n  start_game:\r\n    online:\r\n      executables:\r\n      - shortcut_name: The Settlers 7 - History Edition\r\n        description: The Settlers 7 - History Edition\r\n        path:\r\n          relative: .\\Base\\Bin\\Settlers7R.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11788\\InstallDir\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: The Settlers 7 - History Edition\r\n        description: The Settlers 7 - History Edition\r\n        path:\r\n          relative: .\\Base\\Bin\\Settlers7R.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11788\\InstallDir\r\n  installer:\r\n    game_identifier: thesettlers7\r\n    publisher: Ubisoft\r\n    help_url: HELPURL\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 1\r\n  change_language_enabled: yes\r\n  game_invites_enabled: yes\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TSHE7\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n  app_id: dc097464-fee0-43f3-8327-e369dc162ee4\r\n  space_id: 42605930-e223-4473-bd31-08227c62c8b3\r\n  dev:\r\n    require_legacy_game_password: online_only\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: https://www.facebook.com/TheSettlers\r\n    l2: http://www.thesettlers-alliance.com\r\n  de-DE:\r\n    l1: https://www.facebook.com/DieSiedler\r\n    l2: http://www.diesiedler-allianz.de\r\n  fr-FR:\r\n    l1: https://www.facebook.com/TheSettlersFR\r\n"
   },
   {
     "ProductId": 11802,
@@ -6465,7 +6473,7 @@
   },
   {
     "ProductId": 16382,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Brawlhalla\r\n  background_image: 8b1a7106ca3fbd6c4fc743cdfbb1dbc8.png\r\n  thumb_image: 962525e5e3d481438bb3944c7a0f2072.jpg\r\n  logo_image: 1c0b29d6b23cd0a9eb92fe32ef5a6008.jpg\r\n  splash_image: da43875b9af978b808fb45db783edd43.jpg\r\n  help_url: https://support.ubi.com\r\n  facebook_url: https://www.facebook.com/Brawlhalla/\r\n  homepage_url: https://www.brawlhalla.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  streams:\r\n    link: https://www.twitch.tv/brawlhalla\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.brawlhalla.com/\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Brawlhalla\r\n        path:\r\n          relative: Brawlhalla.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16382\\InstallDir\r\n        icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Brawlhalla\r\n        path:\r\n          relative: Brawlhalla.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16382\\InstallDir\r\n        icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Brawlhalla\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-gb/game/brawlhalla/\r\n  digital_distribution:\r\n    version: 21\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: Brawlhalla\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    streams:\r\n      size: 1\r\n  app_id: 9302eb42-e3f3-403d-a801-b3a97a83f0ad\r\n  space_id: 53251316-4779-4b23-bbd9-179059187465\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Brawlhalla\r\n  background_image: 8b1a7106ca3fbd6c4fc743cdfbb1dbc8.png\r\n  thumb_image: 962525e5e3d481438bb3944c7a0f2072.jpg\r\n  logo_image: 1c0b29d6b23cd0a9eb92fe32ef5a6008.jpg\r\n  splash_image: da43875b9af978b808fb45db783edd43.jpg\r\n  help_url: https://support.ubi.com\r\n  facebook_url: https://www.facebook.com/Brawlhalla/\r\n  homepage_url: https://www.brawlhalla.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  streams:\r\n    link: https://www.twitch.tv/brawlhalla\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.brawlhalla.com/\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Brawlhalla\r\n        path:\r\n          relative: Brawlhalla.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16382\\InstallDir\r\n        icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Brawlhalla\r\n        path:\r\n          relative: Brawlhalla.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16382\\InstallDir\r\n        icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Brawlhalla\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-gb/game/brawlhalla/\r\n  digital_distribution:\r\n    version: 22\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: Brawlhalla\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    streams:\r\n      size: 1\r\n  app_id: 9302eb42-e3f3-403d-a801-b3a97a83f0ad\r\n  space_id: 53251316-4779-4b23-bbd9-179059187465\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 16383,
@@ -7104,6 +7112,26 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Oddballers\r\n  sort_string: OddBallers\r\n  background_image: 3e3b825f15f28966b665e72bcd391bc8.jpg\r\n  thumb_image: 09be99a72e8736c951c0acacea0b92d1.jpg\r\n  logo_image: 5a1ba4e17582bab359399c8db07e6c4b.png\r\n  splash_image: 763a461c74f4618a6e0c3fa90b5580aa.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/Ubisoft.Nordic\r\n  homepage_url: https://www.game-swing.com/oddballers/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 1e73284758cc1b2cefbed8fd96f35cae.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Oddballers\r\n        path:\r\n          relative: Oddballers.exe\r\n        trial:\r\n          relative: OddBallers_Plus\\Oddballers.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\17965\\InstallDir\r\n        icon_image: 1e73284758cc1b2cefbed8fd96f35cae.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Oddballers\r\n        path:\r\n          relative: Oddballers.exe\r\n        trial:\r\n          relative: OddBallers_Plus\\Oddballers.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\17965\\InstallDir\r\n        icon_image: 1e73284758cc1b2cefbed8fd96f35cae.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: OddBallers\r\n    publisher: Ubisoft\r\n    help_url: http://support.ubi.com\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 0\r\n  party:\r\n    party_enabled: yes\r\n    max_party_size: 6\r\n  game_invites_enabled: yes\r\n  override_uplayid: 17965\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: f0714bde416246f0fb38658859abeeea.zip\r\n    achievements_sync_id: 17965\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: Oddballers\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: playtimeAbsolute\r\n    - id: totalGamesWon\r\n    - id: TeamGamesWon\r\n    - id: LevelReached\r\n  app_id: 54abb071-aa48-4d97-8228-92b5fb52fa94\r\n  space_id: 61d65a3e-a6dd-4669-a9ae-669973bcb7bc\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: 5847bc85-c4ec-4463-9458-c856a44db527\r\n  - id: GFN\r\n    app_id: d8cb041a-8868-489e-a89f-2f3cbd426e6f\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 60\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 17978,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17979,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17980,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17981,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17982,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 18034,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry 3\r\nlocalizations: {}\r\n"
   },
@@ -7182,6 +7210,78 @@
   {
     "ProductId": 19000,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Discovery Tour: Viking Age by Ubisoft'\r\n  background_image: 903c167f7f3cb0077c641fb93714dc02.jpg\r\n  thumb_image: 37ff06ad78d295ac813fd9a57e560a2a.jpg\r\n  logo_image: 559532f4182001412ac6218565681572.png\r\n  splash_image: 9be3d3bde596e93dd10d7cd7564fc4e6.png\r\n  help_url: https://support.ubisoft.com/\r\n  facebook_url: https://www.facebook.com/assassinscreed/\r\n  homepage_url: https://www.ubisoft.com/en-gb/game/assassins-creed/discovery-tour\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: d8d50c9b31ab0fbeff32e8046ab1f9c4.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.ubisoft.com/en-gb/game/assassins-creed/discovery-tour\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Discovery Tour Viking Age\r\n        path:\r\n          relative: DiscoveryTourVikingAge.exe\r\n        trial:\r\n          relative: DiscoveryTourVikingAge_Plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\19000\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        icon_image: d8d50c9b31ab0fbeff32e8046ab1f9c4.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Discovery Tour Viking Age\r\n        path:\r\n          relative: DiscoveryTourVikingAge.exe\r\n        trial:\r\n          relative: DiscoveryTourVikingAge_Plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\19000\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        icon_image: d8d50c9b31ab0fbeff32e8046ab1f9c4.ico\r\n  overlay_injection_method: default\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Discovery Tour Viking Age\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-gb/game/assassins-creed/discovery-tour\r\n  digital_distribution:\r\n    version: 1\r\n  change_language_enabled: yes\r\n  cloud_saves: yes\r\n  news:\r\n    thread: ACKDisc\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: StoryProgressionDTV\r\n    - id: LearningsProgressionDTV\r\n    - id: BTSProgressionDTV\r\n    - id: DistanceTraveled\r\n  crash_reporting:\r\n    space_id: de28554a-2a4e-4685-ba6b-6db0847bb3ff\r\n    app_id: b847e120-521a-4066-ad5d-3817be8f5e8c\r\n  app_id: b847e120-521a-4066-ad5d-3817be8f5e8c\r\n  space_id: de28554a-2a4e-4685-ba6b-6db0847bb3ff\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: be1be85f-2ef9-422b-ac88-e4c2cd9f631f\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19001,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19002,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19003,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19004,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19005,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19006,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19007,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19008,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19009,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19010,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19011,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19012,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19013,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19014,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19019,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19020,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19021,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 19022,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 19028,
@@ -7570,6 +7670,526 @@
   {
     "ProductId": 59889,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Valhalla - Twilight pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59930,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59932,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59934,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59936,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59938,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59940,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59942,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59944,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59946,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59948,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59950,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59952,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59954,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59956,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59958,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59960,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59962,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59964,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59966,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59968,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59970,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59972,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59974,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59976,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59978,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59980,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59982,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59984,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59986,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59988,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59990,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59992,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59994,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59996,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59998,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60000,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60002,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60004,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60006,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60008,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60010,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60013,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60015,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60017,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60019,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60021,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60023,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60025,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60027,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60029,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60031,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60033,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60035,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60037,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60039,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60041,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60043,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60045,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60047,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60049,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60051,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60053,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60055,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60057,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60059,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60061,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60063,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60065,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60068,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60070,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60072,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60074,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60076,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60078,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60080,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60082,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60084,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60086,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60088,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60090,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60092,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60094,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60096,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60098,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60100,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60110,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60112,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60114,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60116,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60118,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60120,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60122,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60124,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60126,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60128,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60130,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60132,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60134,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60136,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60138,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60140,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60142,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60144,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60146,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60148,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60150,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60152,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60154,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60156,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60158,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60160,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60162,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60164,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60166,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60168,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60170,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60172,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60174,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60176,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60178,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60180,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60182,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60184,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60186,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60188,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60190,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60192,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60194,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60196,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60198,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 60440,
@@ -8572,6 +9192,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63395,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Growtopia\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63420,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -8628,6 +9252,42 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63719,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63720,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Settlers Online\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63729,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63730,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63732,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63733,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63734,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63735,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63736,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63740,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Season Pass 4 Player Assets\r\nlocalizations: {}\r\n"
   },
@@ -8638,6 +9298,10 @@
   {
     "ProductId": 63774,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63808,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63886,
@@ -8760,6 +9424,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64078,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64082,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -8797,6 +9465,22 @@
   },
   {
     "ProductId": 64101,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64126,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Open Beta\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64128,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64129,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64137,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   }
 ]
