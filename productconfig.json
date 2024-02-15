@@ -9125,7 +9125,7 @@
   },
   {
     "ProductId": 63104,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Welcome Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63130,
