@@ -385,6 +385,11 @@
     "AppId": "9b671a15-40ce-4d80-8899-90f5c0d8480e"
   },
   {
+    "ProductId": 1713,
+    "SpaceId": "8e1120f1-d86e-4da2-ba89-2b85639b872a",
+    "AppId": "2dfa4bfd-b2c3-4993-8838-276d89bab144"
+  },
+  {
     "ProductId": 1771,
     "SpaceId": "429a8e76-f469-4b2e-9d74-c1b35ee0ddad",
     "AppId": "d2408c33-775c-416b-b5d4-768bd23ccbad"
@@ -690,6 +695,11 @@
     "AppId": "c724b8c9-eec6-4bc5-8729-f9659ad90e23"
   },
   {
+    "ProductId": 5763,
+    "SpaceId": "d54324b5-e7d9-49f2-b60f-beb7e8064666",
+    "AppId": "172517d7-64e7-4bb4-9f94-a2bca0af2286"
+  },
+  {
     "ProductId": 5776,
     "SpaceId": "87a9ad04-66fc-44dc-811e-4c8fde971f64",
     "AppId": "18314e11-5c57-41e6-a1c7-37aeccf4611a"
@@ -708,6 +718,11 @@
     "ProductId": 5870,
     "SpaceId": "c23b60a1-4c13-4bad-94c9-4e38e3a248ba",
     "AppId": "26bd9e82-5d4f-40fc-aeee-ca5cb4254b98"
+  },
+  {
+    "ProductId": 6100,
+    "SpaceId": "1d5e4680-e410-432c-af6d-c50d7024ddd0",
+    "AppId": "c841d344-8e38-4ffc-850d-f57935b31059"
   },
   {
     "ProductId": 6115,

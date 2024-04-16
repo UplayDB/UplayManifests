@@ -3,9 +3,7 @@
     "ProductId": 46,
     "ProductType": "Game",
     "TargetPartner": "None",
-    "ProductAssociations": [
-      217
-    ]
+    "ProductAssociations": []
   },
   {
     "ProductId": 80,
@@ -1079,7 +1077,7 @@
   {
     "ProductId": 410,
     "ProductType": "Game",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -1326,7 +1324,7 @@
   {
     "ProductId": 569,
     "ProductType": "Game",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": [
       3432,
       3512,
@@ -3415,7 +3413,7 @@
   {
     "ProductId": 1875,
     "ProductType": "Game",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": [
       1935,
       1936,
@@ -4123,13 +4121,13 @@
   {
     "ProductId": 2265,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 2266,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -5128,7 +5126,7 @@
   {
     "ProductId": 3279,
     "ProductType": "Game",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": [
       4001,
       4002,
@@ -6166,97 +6164,97 @@
   {
     "ProductId": 4001,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4002,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4003,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4004,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4005,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4006,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4007,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4008,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4009,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4010,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4011,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4012,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4013,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4014,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4015,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4016,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -6401,13 +6399,13 @@
   {
     "ProductId": 4212,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4213,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -6467,49 +6465,49 @@
   {
     "ProductId": 4328,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4329,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4330,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4331,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4332,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4333,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4334,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4335,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -7058,7 +7056,9 @@
       63706,
       63707,
       63708,
-      63709
+      63709,
+      64284,
+      64303
     ]
   },
   {
@@ -7311,7 +7311,7 @@
   {
     "ProductId": 5014,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -7552,7 +7552,7 @@
   {
     "ProductId": 5066,
     "ProductType": "AddOn",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -12687,7 +12687,7 @@
   {
     "ProductId": 12776,
     "ProductType": "Template",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": [
       4001,
       4002,
@@ -12716,7 +12716,7 @@
   {
     "ProductId": 12777,
     "ProductType": "Template",
-    "TargetPartner": "EpicGames",
+    "TargetPartner": "None",
     "ProductAssociations": [
       4011,
       4012,
@@ -14218,7 +14218,9 @@
       60702,
       61090,
       62598,
-      62948
+      62948,
+      63966,
+      63968
     ]
   },
   {
@@ -14544,10 +14546,12 @@
       569,
       4212,
       4213,
-      4413,
       5014,
-      5215,
-      5299
+      64096,
+      64098,
+      64099,
+      64100,
+      64101
     ]
   },
   {
@@ -23529,5 +23533,760 @@
     "ProductType": "AddOn",
     "TargetPartner": "None",
     "ProductAssociations": []
+  },
+  {
+    "ProductId": 63966,
+    "ProductType": "Template",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      63965
+    ]
+  },
+  {
+    "ProductId": 63968,
+    "ProductType": "Template",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      63967
+    ]
+  },
+  {
+    "ProductId": 64284,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 64303,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 1713,
+    "ProductType": "Game",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      7086,
+      7087,
+      19001,
+      19002,
+      19003,
+      19004,
+      19005,
+      19006,
+      19007,
+      19008,
+      19009,
+      19010,
+      19011,
+      19012,
+      19013,
+      19014,
+      58051,
+      58052,
+      58054,
+      58055,
+      58057,
+      58059,
+      58061,
+      58062,
+      58064,
+      58065,
+      58067,
+      58068,
+      59556,
+      59557,
+      60415,
+      60416,
+      60417,
+      60418,
+      60419,
+      60420,
+      60421,
+      60422,
+      61168,
+      61291,
+      61292,
+      61293,
+      61294,
+      61684,
+      61685,
+      61877,
+      62431,
+      64222,
+      64223,
+      64224
+    ]
+  },
+  {
+    "ProductId": 5460,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 5466,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      5460
+    ]
+  },
+  {
+    "ProductId": 5763,
+    "ProductType": "Game",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      5466,
+      59636,
+      59639,
+      59642,
+      59726,
+      63763
+    ]
+  },
+  {
+    "ProductId": 6100,
+    "ProductType": "Game",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      6119,
+      6120,
+      6121,
+      6122,
+      6123,
+      6124,
+      6125,
+      6126,
+      6127,
+      6128,
+      6129,
+      6130,
+      6132,
+      6133,
+      6148,
+      61717,
+      61718,
+      61857,
+      61858,
+      61859,
+      61860,
+      61861,
+      61862,
+      61863,
+      62261,
+      62987,
+      62988,
+      63772,
+      63773,
+      63799,
+      63800
+    ]
+  },
+  {
+    "ProductId": 6119,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6120,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6121,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6122,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6123,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6124,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6125,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6126,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6127,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6128,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6129,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6130,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6132,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6133,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6148,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 7086,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 7087,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 17847,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 17848,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 17849,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 17850,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 17851,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 17852,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 17853,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 17854,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 17855,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      17850
+    ]
+  },
+  {
+    "ProductId": 17856,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      17851
+    ]
+  },
+  {
+    "ProductId": 17857,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      17852
+    ]
+  },
+  {
+    "ProductId": 17858,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      17853
+    ]
+  },
+  {
+    "ProductId": 17859,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      17854
+    ]
+  },
+  {
+    "ProductId": 58051,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 58052,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      58051
+    ]
+  },
+  {
+    "ProductId": 58054,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 58055,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      58054
+    ]
+  },
+  {
+    "ProductId": 58057,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 58059,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 58061,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 58062,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      58061
+    ]
+  },
+  {
+    "ProductId": 58064,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 58065,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      58064
+    ]
+  },
+  {
+    "ProductId": 58067,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 58068,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      58067
+    ]
+  },
+  {
+    "ProductId": 59372,
+    "ProductType": "Template",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      5763
+    ]
+  },
+  {
+    "ProductId": 59556,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 59557,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 59636,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 59639,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 59642,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 59726,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 60415,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 60416,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      60415
+    ]
+  },
+  {
+    "ProductId": 60417,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 60418,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      60417
+    ]
+  },
+  {
+    "ProductId": 60419,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 60420,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      60419
+    ]
+  },
+  {
+    "ProductId": 60421,
+    "ProductType": "Consumable",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 60422,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      60421
+    ]
+  },
+  {
+    "ProductId": 60557,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61291,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61292,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61293,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61294,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61684,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61685,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61717,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61718,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61857,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61858,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61859,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61860,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61861,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61862,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61863,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 61877,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 62261,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 62431,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 62987,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 62988,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63763,
+    "ProductType": "ConsumablePacks",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      5460
+    ]
+  },
+  {
+    "ProductId": 63772,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63773,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63800,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 64089,
+    "ProductType": "Template",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      6100,
+      6119,
+      6120,
+      6121,
+      6122,
+      6123,
+      6124,
+      6125,
+      6126,
+      6127,
+      6128,
+      6129,
+      6130,
+      6132,
+      6133,
+      63800
+    ]
+  },
+  {
+    "ProductId": 64127,
+    "ProductType": "Template",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      1713,
+      7086,
+      19001,
+      19002,
+      19003,
+      19004,
+      19005,
+      19006,
+      19007,
+      19008,
+      19009,
+      19010,
+      19011,
+      19012,
+      19013,
+      19014,
+      61168
+    ]
+  },
+  {
+    "ProductId": 64141,
+    "ProductType": "BundlePackage",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      64127
+    ]
+  },
+  {
+    "ProductId": 64222,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 64223,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 64224,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 64376,
+    "ProductType": "BundlePackage",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      64089
+    ]
   }
 ]

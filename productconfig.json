@@ -1040,6 +1040,10 @@
     "Configuration": "#--------------------------------------------------------------------------\n# Assassin's Creed® Rogue™ - Templar Legacy Pack Display Tile\n#--------------------------------------------------------------------------\nversion: 2.0\nroot:\n  name: \"Assassin's Creed® Rogue - Templar Legacy Pack\"\n  thumb_image: c46beaa1d301659f8a0e5064a43c6669.jpg\n  description: DESCR\n\nlocalizations:\n  default:\n    DESCR: \"Become the most feared Templar whether on land or at sea, geared up with any weapons, outfits and ship items anyone could dream of.\"\n  da-DK:\n    DESCR: \"Bliv den mest frygtede Templar til havs og på land med nye våben, tøj og skibsudstyr.\"\n  de-DE:\n    DESCR: \"Werde zum gefürchtetsten Templer mit allen Waffen, Kleidungen und Schiffsteilen, die man sich vorstellen kann.\"\n  es-ES:\n    DESCR: \"Sé el Templario más temido, por mar o tierra, con todas las armas, trajes y objetos navales imaginables.\"\n  fi-FI:\n    DESCR: \"Ryhdy kauhistuttavaksi temppeliherraksi maalla ja merellä ja käytä mitä tahansa aseita, asuja ja laivan varusteita, joista suinkin vain voi uneksia.\"\n  fr-FR:\n    DESCR: \"Devenez le Templier le plus redouté d'Amérique grâce à ces armes, tenues et équipements de navire.\"\n  it-IT:\n    DESCR: \"Diventa il più temuto dei Templari sia per terra che per mare, con armi, tenute e oggetti navali che chiunque sognerebbe di avere.\"\n  nl-NL:\n    DESCR: \"Word de meest gevreesde Templar op land en zee, met alle wapens, outfits en scheepsitems van je dromen.\"\n  nb-NO:\n    DESCR: \"Bli den mest fryktede tempelridderen både på land og til sjøs, utstyrt med alle våpen, antrekk og skipsgjenstander du kan drømme om.\"\n  pl-PL:\n    DESCR: \"Stań się najgroźniejszym Templariuszem na morzu i lądzie dzięki nowemu wyposażeniu, broni i przedmiotom.\"\n  ru-RU:\n    DESCR: \"Получите предметы персонализации для корабля, новый костюм и оружие: станьте самым уважаемым тамплиером.\"\n  sv-SE:\n    DESCR: \"Bli den mest fruktade tempelriddaren på både hav och land med vapen, dräkter och skeppsföremål som andra bara kan drömma om.\""
   },
   {
+    "ProductId": 1713,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones\r\n  background_image: 2b41624c7f74bb93dccbaa517ff5b8ca.jpg\r\n  thumb_image: 95c8f280edf8fc8ef932d94b3b4e9d6e.jpg\r\n  logo_image: 473c37dfe2eb547df774c7097d02c068.png\r\n  splash_image: 36cf60a6238f4181c7adbd573cfd7de4.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\1713\\InstallDir\r\n        play_arguments: ''\r\n        icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n      pc_bang: {}\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2024032601\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 3705f64453d058c16867e825a6738a34.zip\r\n    achievements_sync_id: BFI\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 997051510854778890\r\n    large_image_key: a8a56fd53b0ec08d6e99bbbf46f3ac28\r\n    small_image_key: e6351e7b9fd0a3301109c301477ce71d\r\n  news:\r\n    thread: SkullAndBones\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: Playtime\r\n    - id: performanceTotalDamageDealt\r\n    - id: performanceSinkingShipsTotal\r\n    - id: performancePlayerKills\r\n  crash_reporting:\r\n    space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: 0691bc82-e673-48cb-9156-01a200e66cc1\r\n  - id: GFN\r\n    app_id: 29b2c386-5bc3-4dbe-a6e1-b9c5a28fb4ca\r\n  space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 30\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 1771,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Tom Clancy's Ghost Recon 05\r\n  background_image: c74fb2c0982548a156ce7f5aca476ac5.jpg\r\n  thumb_image: l2\r\n  logo_image: 4960447c1f6db09cee2ea0811a324759.png\r\n  splash_image: 3c203c70f73ed4c1b1875950c0cd7b3e.jpg\r\n  help_url: https://support.ubi.com/games/5102\r\n  facebook_url: https://www.facebook.com/ghostrecon\r\n  homepage_url: http://ghost-recon.ubisoft.com/wildlands/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: yes\r\n  - id: 1\r\n    text: l4\r\n    permanent: yes\r\n  icon_image: 6a4ebf1409810d17b3741c410c563a0c.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://ghost-recon.ubisoft.com/wildlands\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Ghost Recon® Wildlands\r\n        path:\r\n          relative: GRW.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\1771\\InstallDir\r\n        arguments: -offline\r\n        icon_image: 6a4ebf1409810d17b3741c410c563a0c.ico\r\n        denuvo: yes\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Ghost Recon® Wildlands\r\n        path:\r\n          relative: GRW.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\1771\\InstallDir\r\n        arguments: -offline\r\n        icon_image: 6a4ebf1409810d17b3741c410c563a0c.ico\r\n        denuvo: yes\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Tom Clancy's Ghost Recon Wildlands\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://support.ubi.com\r\n  digital_distribution:\r\n    version: 2\r\n  change_language_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 5b368858fc0d46c6d5b1aec9f99834ac.zip\r\n    achievements_sync_id: GRNE\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: GhostReconWildlands\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: CompletedMissionCount\r\n    - id: MarkedEnemiesCount\r\n    - id: CoopPlaytime\r\n    - id: LongDistanceKillCount\r\n    - id: VehicleDistance\r\n  game_streaming_enabled: yes\r\n  crash_reporting:\r\n    space_id: 429a8e76-f469-4b2e-9d74-c1b35ee0ddad\r\n    app_id: d2408c33-775c-416b-b5d4-768bd23ccbad\r\n  app_id: d2408c33-775c-416b-b5d4-768bd23ccbad\r\n  space_id: 429a8e76-f469-4b2e-9d74-c1b35ee0ddad\r\n  addons:\r\n  - id: 3384\r\n    is_visible: no\r\n  - id: 3385\r\n    is_visible: no\r\n  - id: 3386\r\n    is_visible: no\r\n  - id: 3595\r\n    is_visible: no\r\n  - id: 3717\r\n    is_visible: no\r\n  - id: 3718\r\n    is_visible: no\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Tom Clancy's Ghost Recon® Wildlands\r\n    l2: 7d2571260cb531e8765eb30a65a6eb6b.jpg\r\n    l3: 'Warning: You are running an unsupported video driver, please update your driver for optimal performance.'\r\n    l4: Your system is running low on available RAM. You may experience a degradation of performance. Consider turning off any unused background programs.\r\n  zh-CN:\r\n    l1: 幽灵行动：荒野\r\n    l2: a1c957d2cf86d5f4abd3d82b4bd7babb.jpg\r\n    l3: 警告：系统不支持正在运行的绘图驱动程序，请更新驱动程序以获得最佳性能。\r\n    l4: 系统可使用的内存不足，你可能会有较差的游戏性能体验。请尝试关闭任何没在使用的背景程序。\r\n  cs-CZ:\r\n    l3: 'Upozornění: Nainstalované ovladače grafické karty nejsou podporované. Aktualizací ovladače dosáhnete optimálního výkonu.'\r\n    l4: Vašemu systému docházejí prostředky paměti RAM a je možné, že zaznamenáte pokles výkonu. Zkuste vypnout některé nepoužívané programy běžící v pozadí.\r\n  de-DE:\r\n    l3: 'Hinweis: Du nutzt einen nicht unterstützten Grafiktreiber. Bitte aktualisiere den Treiber für optimale Performance.'\r\n    l4: Ihrem System steht nur noch wenig freier Arbeitsspeicher zur Verfügung. Es kann sein, dass die Leistung etwas einbricht. Schließen Sie nötigenfalls nicht genutzte, im Hintergrund laufende Programme.\r\n  en-CA:\r\n    l3: 'Warning: You are running an unsupported graphics driver, please update your driver for optimal performance.'\r\n    l4: Your system is running low on available RAM. You may experience a degradation of performance. Consider turning off any unused background programs.\r\n  es-ES:\r\n    l3: 'Advertencia: estás usando un controlador de gráficos incompatible. Actualiza el controlador para disfrutar de un rendimiento óptimo.'\r\n    l4: Tu sistema dispone de poca memoria RAM. Es posible que se produzca una reducción del rendimiento. Considera la posibilidad de cerrar los programas en segundo plano que no estés usando.\r\n  fr-FR:\r\n    l3: 'Avertissement : vous utilisez un pilote graphique non pris en charge, veuillez mettre à jour votre pilote pour des performances optimales.'\r\n    l4: La RAM disponible sur votre système est insuffisante. Les performances de jeu risquent de s'en ressentir. Essayez de fermer les programmes superflus en arrière-plan.\r\n  it-IT:\r\n    l3: 'Attenzione: utilizzi un driver della scheda video non supportato. Aggiornalo per migliorare le prestazioni.'\r\n    l4: 'Memoria RAM insufficiente: potrebbe verificarsi un calo di prestazioni. Chiudi tutti i programmi in background per risolvere il problema.'\r\n  ja-JP:\r\n    l3: 警告：非対応のグラフィックドライバを使用中です。パフォーマンス最適化のためにドライバをアップデートしてください。\r\n    l4: 使用できるRAMが少なくなっているため、パフォーマンスが低下する可能性があります。使用していないバックグラウンドプログラムの終了をお試しください\r\n  ko-KO:\r\n    l3: 경고: 지원하지 않는 그래픽 드라이버를 사용 중입니다. 최적화를 위해 드라이버를 업데이트하세요.\r\n    l4: 시스템에서 사용할 수 있는 RAM이 부족하여 성능 저하 현상이 발생할 수 있습니다. 사용하지 않는 백그라운드 프로그램을 닫아보십시오.\r\n  nl-NL:\r\n    l3: 'Waarschuwing: je gebruikt een grafisch stuurprogramma dat niet wordt ondersteund. Werk het programma bij voor optimale prestaties.'\r\n    l4: Er is weinig geheugen beschikbaar. Mogelijk draait de game minder soepel. Schakel ongebruikte programma's op de achtergrond uit om de prestaties te verbeteren.\r\n  pl-PL:\r\n    l3: 'Ostrzeżenie: Korzystasz ze sterownika karty graficznej, który nie jest wspierany. Prosimy zaktualizować sterownik w celu uzyskania optymalnej wydajności.'\r\n    l4: Pamięć RAM twojego systemu jest niewystarczająca. Mogą wystąpić spadki wydajności. Wyłącz nieużywane programy, działające w tle.\r\n  pt-BR:\r\n    l3: 'Alerta: você está usando um driver de gráficos não suportado, atualize seu driver para ter um desempenho ideal.'\r\n    l4: Seu sistema está com pouca RAM disponível. É possível que você sofra uma queda no desempenho. Considere encerrar quaisquer programas que estejam sendo executados no fundo.\r\n  pt-PT:\r\n    l3: 'Aviso: estás a utilizar um controlador de placa gráfica não compatível, atualiza o teu controlador para um desempenho ótimo.'\r\n    l4: Seu sistema está com pouca RAM disponível. É possível que você sofra uma queda no desempenho. Considere encerrar quaisquer programas que estejam sendo executados no fundo.\r\n  ru-RU:\r\n    l3: 'Внимание: драйвер видеокарты, который вы используете, не поддерживается игрой. Рекомендуется обновить драйвер.'\r\n    l4: Недостаточно свободной оперативной памяти. Это может ухудшить производительность. Рекомендуем закрыть все неиспользуемые фоновые программы.\r\n  zh-TW:\r\n    l3: 警告：系統不支援目前執行的繪圖驅動程式，請更新驅動程式獲得最佳效能。\r\n    l4: 系統可使用的記憶體不足，你可能會有較差的遊戲效能體驗。請嘗試關閉任何沒有在使用的背景程式。\r\n"
   },
@@ -1677,7 +1681,7 @@
   },
   {
     "ProductId": 3037,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: The Settlers\r\n  display_name: The Settlers - New Allies\r\n  background_image: 3a2dbd430c3518465fb36337241f72c0.jpg\r\n  thumb_image: l2\r\n  logo_image: l3\r\n  splash_image: l4\r\n  help_url: l5\r\n  facebook_url: l6\r\n  homepage_url: l7\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 2e68c2822d678695e84bbcb41810b0ee.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: l8\r\n        description: ''\r\n        path:\r\n          relative: The_Settlers.exe\r\n        trial:\r\n          relative: The_Settlers_plus.exe\r\n          arguments: -dx11\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3037\\InstallDir\r\n        arguments: -dx11\r\n        play_arguments: -dx11\r\n        icon_image: 2e68c2822d678695e84bbcb41810b0ee.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: l9\r\n        description: ''\r\n        path:\r\n          relative: The_Settlers.exe\r\n        trial:\r\n          relative: The_Settlers_plus.exe\r\n          arguments: -dx11\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3037\\InstallDir\r\n        arguments: -dx11 -dx11\r\n        play_arguments: -dx11\r\n        icon_image: 2e68c2822d678695e84bbcb41810b0ee.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: The Settlers - New Allies\r\n    publisher: Ubisoft\r\n    help_url: https://www.ubisoft.com/help\r\n    about_url: http://www.ubisoft.com/\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n    max_party_size: 8\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: a41cf1729c1a1971a31b7ca54b717eb9\r\n    achievements_sync_id: 3037\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TheSettlers8\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: 96e3caa3-42c6-4f39-99c6-dc9923d30db3\r\n    app_id: 9346720e-8298-4722-a6cb-a24d456b774f\r\n  app_id: 9346720e-8298-4722-a6cb-a24d456b774f\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: e2888472-cc2e-4d2d-a7cd-addffd18687f\r\n  - id: GFN\r\n    app_id: f9bca85e-d394-49d5-acf7-275e2ece23c7\r\n  space_id: 96e3caa3-42c6-4f39-99c6-dc9923d30db3\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: 'The Settlers®: New Allies'\r\n    l2: e2b13390cc0fd6faca4f5b01a9e67370.jpg\r\n    l3: 7d6df1df5635e6d0e9e07f3be8185d0e.png\r\n    l4: ef4a7c3eed461633dbffc1b4ca1ed069.png\r\n    l5: https://www.ubisoft.com/help/game/the-settlers-new-allies\r\n    l6: https://www.facebook.com/TheSettlers\r\n    l7: https://www.ubisoft.com/en-us/game/the-settlers/the-settlers\r\n    l8: The Settlers - New Allies\r\n    l9: The Settlers - New Allies\r\n  de-DE:\r\n    l1: 'Die Siedler®: Neue Allianzen'\r\n    l2: b8a3675351eb125975ea8eee5abc4fae.jpg\r\n    l3: c2e263273c8a59f974614b519c62c38a.png\r\n    l4: 308dca86cce8b38345fb8240e8d2233b.png\r\n    l5: https://www.ubisoft.com/help/game/the-settlers-new-allies\r\n    l6: https://www.facebook.com/DieSiedler\r\n    l7: https://www.ubisoft.com/de-de/game/the-settlers/the-settlers\r\n    l8: Die Siedler - Neue Allianzen\r\n    l9: Die Siedler - Neue Allianzen\r\n  ja-JP:\r\n    l1: セトラーズ：新たな仲間たち\r\n  zh-CN:\r\n    l2: 69e7abd73a97edf5810f240b293b3ac2.jpg\r\n    l3: a35a0bd0e84a376cac21ceb640894307.png\r\n    l4: 02b1752bda5dbb25618bd979ab83e8b4.png\r\n  fr-FR:\r\n    l6: https://www.facebook.com/TheSettlersFR\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: The Settlers\r\n  display_name: The Settlers - New Allies\r\n  background_image: 3a2dbd430c3518465fb36337241f72c0.jpg\r\n  thumb_image: l2\r\n  logo_image: l3\r\n  splash_image: l4\r\n  help_url: l5\r\n  facebook_url: l6\r\n  homepage_url: l7\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 2e68c2822d678695e84bbcb41810b0ee.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: l8\r\n        description: ''\r\n        path:\r\n          relative: The_Settlers.exe\r\n        trial:\r\n          relative: The_Settlers_plus.exe\r\n          arguments: -dx11\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3037\\InstallDir\r\n        arguments: -dx11\r\n        play_arguments: -dx11\r\n        icon_image: 2e68c2822d678695e84bbcb41810b0ee.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: l9\r\n        description: ''\r\n        path:\r\n          relative: The_Settlers.exe\r\n        trial:\r\n          relative: The_Settlers_plus.exe\r\n          arguments: -dx11\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3037\\InstallDir\r\n        arguments: -dx11 -dx11\r\n        play_arguments: -dx11\r\n        icon_image: 2e68c2822d678695e84bbcb41810b0ee.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: The Settlers - New Allies\r\n    publisher: Ubisoft\r\n    help_url: https://www.ubisoft.com/help\r\n    about_url: http://www.ubisoft.com/\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n    max_party_size: 8\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: a41cf1729c1a1971a31b7ca54b717eb9\r\n    achievements_sync_id: 3037\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TheSettlers8\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: 96e3caa3-42c6-4f39-99c6-dc9923d30db3\r\n    app_id: 9346720e-8298-4722-a6cb-a24d456b774f\r\n  app_id: 9346720e-8298-4722-a6cb-a24d456b774f\r\n  space_id: 96e3caa3-42c6-4f39-99c6-dc9923d30db3\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: 'The Settlers®: New Allies'\r\n    l2: e2b13390cc0fd6faca4f5b01a9e67370.jpg\r\n    l3: 7d6df1df5635e6d0e9e07f3be8185d0e.png\r\n    l4: ef4a7c3eed461633dbffc1b4ca1ed069.png\r\n    l5: https://www.ubisoft.com/help/game/the-settlers-new-allies\r\n    l6: https://www.facebook.com/TheSettlers\r\n    l7: https://www.ubisoft.com/en-us/game/the-settlers/the-settlers\r\n    l8: The Settlers - New Allies\r\n    l9: The Settlers - New Allies\r\n  de-DE:\r\n    l1: 'Die Siedler®: Neue Allianzen'\r\n    l2: b8a3675351eb125975ea8eee5abc4fae.jpg\r\n    l3: c2e263273c8a59f974614b519c62c38a.png\r\n    l4: 308dca86cce8b38345fb8240e8d2233b.png\r\n    l5: https://www.ubisoft.com/help/game/the-settlers-new-allies\r\n    l6: https://www.facebook.com/DieSiedler\r\n    l7: https://www.ubisoft.com/de-de/game/the-settlers/the-settlers\r\n    l8: Die Siedler - Neue Allianzen\r\n    l9: Die Siedler - Neue Allianzen\r\n  ja-JP:\r\n    l1: セトラーズ：新たな仲間たち\r\n  zh-CN:\r\n    l2: 69e7abd73a97edf5810f240b293b3ac2.jpg\r\n    l3: a35a0bd0e84a376cac21ceb640894307.png\r\n    l4: 02b1752bda5dbb25618bd979ab83e8b4.png\r\n  fr-FR:\r\n    l6: https://www.facebook.com/TheSettlersFR\r\n"
   },
   {
     "ProductId": 3044,
@@ -3696,6 +3700,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 5466,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 5476,
     "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
@@ -4360,6 +4368,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 5763,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rocksmith™+\r\n  background_image: 62e5ca7ea02ede3e2c96038bd16dacb9.jpg\r\n  thumb_image: 0a66fd38b3991dc45d788725c070f8a2.jpg\r\n  logo_image: b4222066a2dda506aedb4716ba2c79eb.png\r\n  splash_image: ccda932821a7f4255d10e889687119ff.png\r\n  help_url: https://www.ubisoft.com/en-gb/help/game/rocksmith-plus\r\n  facebook_url: https://www.facebook.com/rocksmith\r\n  homepage_url: https://rocksmith.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 3e453ce9d434ade99957c108afa5ad7b.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: no\r\n      overlay_shop_url: https://store.ubi.com/upc/rocksmith-plus#plans\r\n      overlay_shop_sigma: no\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      executables:\r\n      - shortcut_name: Rocksmith+\r\n        path:\r\n          relative: Rocksmith+.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Ibex\\InstallDir\r\n        arguments: -ubiservices_dna_version fullgame\r\n        play_arguments: ''\r\n        icon_image: 3e453ce9d434ade99957c108afa5ad7b.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Rocksmith+\r\n        path:\r\n          relative: Rocksmith+.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Ibex\\InstallDir\r\n        arguments: -ubiservices_dna_version fullgame\r\n        play_arguments: ''\r\n        icon_image: 3e453ce9d434ade99957c108afa5ad7b.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Rocksmith+\r\n    publisher: Ubisoft\r\n  digital_distribution:\r\n    version: 0\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: a11f95da4bfec6729b05e3e4a9c5c31a.zip\r\n    achievements_sync_id: 5763\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: Rocksmith+\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: d54324b5-e7d9-49f2-b60f-beb7e8064666\r\n    app_id: 172517d7-64e7-4bb4-9f94-a2bca0af2286\r\n  app_id: 172517d7-64e7-4bb4-9f94-a2bca0af2286\r\n  space_id: d54324b5-e7d9-49f2-b60f-beb7e8064666\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 5776,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: BattleCore Arena\r\n  background_image: b2c7fd2ca9946f3edc12be323f30885a.png\r\n  thumb_image: 549bf2ce027cdea92de8a96765351baf.png\r\n  logo_image: 7c882e9c4b62092d07212e760a66b4f8.png\r\n  splash_image: f3f6c65e5d68e44aac5bb1152c39223c.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/BattleCoreArena\r\n  homepage_url: http://www.battlecorearena.com/\r\n  forum_url: https://discord.gg/kZmqJUQAGN\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 4bfe63443331e02d04c77cfc0713735e.png\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: BattleCore Arena\r\n        description: Game client\r\n        path:\r\n          relative: /BattleCoreArena/Binaries/Win64/BattleCoreArenaClient-Win64-Shipping.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\5776\\InstallDir\r\n        arguments: -UPC=true -US_branch=OnlineTechnicalTest -US_env=prod -nosteam -VG_serverSpaceId=f65501eb-30d0-4dfb-b844-03b0c5e02a50 -unattended\r\n        play_arguments: -UPC=true -US_branch=OnlineTechnicalTest -US_env=prod -nosteam -VG_serverSpaceId=f65501eb-30d0-4dfb-b844-03b0c5e02a50 -unattended\r\n        icon_image: de477d9706430b190cdfc46fb08a00fa.ico\r\n      pc_bang: {}\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: BattleCoreArena\r\n  digital_distribution:\r\n    version: 1\r\n  party:\r\n    party_enabled: yes\r\n    max_party_size: 6\r\n  game_invites_enabled: yes\r\n  app_id: 18314e11-5c57-41e6-a1c7-37aeccf4611a\r\n  space_id: 87a9ad04-66fc-44dc-811e-4c8fde971f64\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
@@ -4392,6 +4404,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Hungry Shark World\r\n  background_image: b430d5aabb5161a7f0fd4a5f0d9b5f9e.jpg\r\n  thumb_image: 285c04655ab94d73bbb607257c063ed2.jpg\r\n  logo_image: dfb581fabe342d19266afc50711fe9a1.png\r\n  splash_image: aef351c398d3f1cf39f86fe57b93c21c.jpg\r\n  help_url: https://support.ubi.com/\r\n  facebook_url: https://www.facebook.com/HungryShark/\r\n  homepage_url: https://www.ubisoft.com/en-gb/game/hungry-shark/world\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l1\r\n    permanent: yes\r\n  icon_image: 1b04f96d2fe343edc21fa591cc41022c.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: no\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Hungry Shark World\r\n        path:\r\n          relative: Hungry Shark World.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\5870\\InstallDir\r\n        arguments: ''\r\n        icon_image: 1b04f96d2fe343edc21fa591cc41022c.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Hungry Shark World\r\n        path:\r\n          relative: Hungry Shark World.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\5870\\InstallDir\r\n        arguments: ''\r\n        icon_image: 1b04f96d2fe343edc21fa591cc41022c.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Hungry Shark World\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 4b3a3a9092ba3f783df072f02bb129ce.zip\r\n    achievements_sync_id: 5870\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: TimePlayed\r\n    - id: gameProgression\r\n    - id: HighScore\r\n    - id: CoinsEarned\r\n    - id: SurvivalTime\r\n    - id: BoostTime\r\n  app_id: 26bd9e82-5d4f-40fc-aeee-ca5cb4254b98\r\n  space_id: c23b60a1-4c13-4bad-94c9-4e38e3a248ba\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: “Connection to Ubisoft Connect has been lost. As the game uses some Ubisoft Connect features you should close and restart your game to prevent any loss of functionality.”\r\n  zh-CN:\r\n    l1: “与 Ubisoft Connect 的连接已丢失。由于游戏使用了一些 Ubisoft Connect 功能，您应该关闭并重新启动游戏，以防止任何功能丢失。”\r\n"
   },
   {
+    "ProductId": 6100,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage\r\n  background_image: 9559114dbbffbb37e2283c61c8e2bd03.jpg\r\n  thumb_image: d8101d9638c7cf3717773074aa030418.jpg\r\n  logo_image: 6a79e2157a3c2998df56f475f2f79449.png\r\n  splash_image: e88e4f2d815b3d9d1f9b59e95e04d624.png\r\n  help_url: https://support.ubisoft.com/\r\n  facebook_url: https://www.facebook.com/assassinscreed/\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: beabeab9b63e93e11f03f4e9231733d4.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      executables:\r\n      - shortcut_name: Assassin's Creed Mirage\r\n        path:\r\n          relative: ACMirage.exe\r\n        trial:\r\n          relative: ACMirage_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6100\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        icon_image: beabeab9b63e93e11f03f4e9231733d4.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Assassin's Creed Mirage\r\n        path:\r\n          relative: ACMirage.exe\r\n        trial:\r\n          relative: ACMirage_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6100\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        icon_image: beabeab9b63e93e11f03f4e9231733d4.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Assassin's Creed Mirage\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://assassinscreed.ubi.com/\r\n  change_language_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 326e2cd834a2b4bc4516503e44cb1f64\r\n    achievements_sync_id: 6100\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: AcRift\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  app_id: c841d344-8e38-4ffc-850d-f57935b31059\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: 5cff87cc-f833-4287-b5d4-2b4241f6b37a\r\n  - id: GFN\r\n    app_id: b60bb2be-35b3-4a55-a3d2-d94ce176339f\r\n  space_id: 1d5e4680-e410-432c-af6d-c50d7024ddd0\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 60\r\n    remote_play:\r\n      enabled: yes\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 6115,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Calico\r\n  background_image: 9797b3b564b6ffa4df380f35ff97f698.jpg\r\n  thumb_image: 24eba171ce073a187cbff161f8f67b42.jpg\r\n  logo_image: 1d61ddc87bef35f33e99755adc07b061.png\r\n  splash_image: 0621e4d7d292756cff92f7923fab07be.png\r\n  help_url: https://www.ubisoft.com/help\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 7d0f5c33e1e3aacea58abba400a7b73d.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Calico\r\n        path:\r\n          relative: Calico.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6115\\InstallDir\r\n        icon_image: 7d0f5c33e1e3aacea58abba400a7b73d.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Calico\r\n        path:\r\n          relative: Calico.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6115\\InstallDir\r\n        icon_image: 7d0f5c33e1e3aacea58abba400a7b73d.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Calico\r\n  digital_distribution:\r\n    version: 8\r\n  app_id: 887ca3ff-de7a-4513-898c-ea6a93cc0933\r\n  space_id: 17845a39-369c-45eb-b44c-696689eb21dc\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
@@ -4404,6 +4420,62 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Death Squared\r\n  background_image: 94722252ed41be85910f2109120b01f5.jpg\r\n  thumb_image: 1e5ee321df51673d3562d7c8816b2059.jpg\r\n  logo_image: 8f02217aee26256451d98afc025a9605.png\r\n  splash_image: 11637e6b71a080ff1ff9402c11502c2f.png\r\n  help_url: https://www.ubisoft.com/help\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 7d799d0d3d1ec0b0197fcce9d0a6d1c1.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Death Squared\r\n        path:\r\n          relative: Death Squared.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6118\\InstallDir\r\n        icon_image: 7d799d0d3d1ec0b0197fcce9d0a6d1c1.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Death Squared\r\n        path:\r\n          relative: Death Squared.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6118\\InstallDir\r\n        icon_image: 7d799d0d3d1ec0b0197fcce9d0a6d1c1.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: DeathSquared\r\n  digital_distribution:\r\n    version: 5\r\n  app_id: d2f1178c-1ce3-4a03-8169-ba7af83b9010\r\n  space_id: b603f9e5-1638-4f98-ad0e-6030d024735e\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 6119,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6120,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6121,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6122,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6123,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6124,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6125,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6126,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6127,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6128,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6129,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6130,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6132,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6133,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 6139,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Warpips\r\n  background_image: 1d0cef397b88c052574763cbf715a92b.jpg\r\n  thumb_image: bf1d84d7a7f85ade7aeee3fce8cda273.jpg\r\n  logo_image: 4f5a7c7838737c2d034a5b9cdc5e0925.png\r\n  splash_image: 47b4f4da1d1252d8a89207a6238cf85d.png\r\n  help_url: https://www.ubisoft.com/help\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 5f321d832854c1573f133a0eae0013e0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Warpips\r\n        path:\r\n          relative: Warpips.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6139\\InstallDir\r\n        icon_image: 5f321d832854c1573f133a0eae0013e0.ico\r\n      pc_bang:\r\n        shortcut_icon_image: 5f321d832854c1573f133a0eae0013e0.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Warpips\r\n        path:\r\n          relative: Warpips.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6139\\InstallDir\r\n        icon_image: 5f321d832854c1573f133a0eae0013e0.ico\r\n  overlay_injection_method: default\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Warpips\r\n  digital_distribution:\r\n    version: 1\r\n  app_id: ac8f749c-025b-41b7-a132-11f6340abba5\r\n  space_id: 56b79cc5-e6bd-432f-9708-6cf81e71a1b4\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
@@ -4413,6 +4485,10 @@
   },
   {
     "ProductId": 6141,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6148,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
@@ -4430,6 +4506,14 @@
   {
     "ProductId": 7015,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Trackmania (Steam)\r\n  display_name: Trackmania\r\n  background_image: 6b7da0564c173293938428c11930afa0.jpg\r\n  thumb_image: 71076cef0357111b2f2ee4969e727dbf.jpg\r\n  logo_image: 3ef7644fa8876ca454a90e2b936d32f9.png\r\n  splash_image: 05b22f182e772ed2df2243bd4890064a.jpg\r\n  help_url: https://www.ubisoft.com/help\r\n  facebook_url: https://www.facebook.com/trackmania\r\n  homepage_url: https://trackmania.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  streams:\r\n    link: https://www.twitch.tv/trackmania\r\n  overlay_notifications_position: bottom_right\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.trackmania.com/\r\n      overlay_supported: yes\r\n      steam_app_id: 2225070\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2225070\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TrackmaniaNext\r\n  app_id: 86263886-327a-4328-ac69-527f0d20a237\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: 41958b32-a08c-4313-a6c0-f49d4fb5a91e\r\n  space_id: 5d20614c-234d-4cc8-934d-11ff07c2de69\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 7086,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 7087,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 8024,
@@ -6277,7 +6361,7 @@
   },
   {
     "ProductId": 15657,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant - Public Test Session\r\n  display_name: XDefiant\r\n  background_image: 15eb8a940eeb1f6c96874a347184833e.jpg\r\n  thumb_image: ef7928ae52623340326061a643722888.png\r\n  logo_image: 397d6e8ff9024133aa1bfcfcf8946d58.png\r\n  splash_image: fdefe7d4738a4dff04879dbb98d9d95a.png\r\n  help_url: https://support.ubisoft.com\r\n  facebook_url: https://www.facebook.com/playxdefiant\r\n  homepage_url: https://www.playxdefiant.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: af43f3c8e111fc1b26e6e62deea2180a.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: XDefiant Public Test Session\r\n        path:\r\n          relative: launcherbe.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\15657\\InstallDir\r\n        arguments: -serverRegion Approved_LIVE\r\n        play_arguments: -serverRegion Approved_LIVE\r\n        icon_image: af43f3c8e111fc1b26e6e62deea2180a.ico\r\n      pc_bang: {}\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: XDefiant\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubisoft.com\r\n    about_url: https://www.playxdefiant.com\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n    max_party_size: 6\r\n  game_invites_enabled: yes\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: Xdefiant\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n    news:\r\n      size: 2\r\n  crash_reporting:\r\n    space_id: e3014688-25dd-4a03-ae5a-82e80eb5053c\r\n    app_id: 4bc245f2-b998-4574-9574-6ab93ec9e44c\r\n  app_id: 4bc245f2-b998-4574-9574-6ab93ec9e44c\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: 0ea91cab-e60a-4cc5-9eaa-cb9ea7871e56\r\n  - id: GFN\r\n    app_id: 9379c28a-ce22-4ae7-9414-41c3feec3ef7\r\n  space_id: e3014688-25dd-4a03-ae5a-82e80eb5053c\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant - Server Test Session\r\n  display_name: XDefiant\r\n  background_image: 15eb8a940eeb1f6c96874a347184833e.jpg\r\n  thumb_image: ddfb99e335b66a15ca1a56d0580d405b.png\r\n  logo_image: 397d6e8ff9024133aa1bfcfcf8946d58.png\r\n  splash_image: fdefe7d4738a4dff04879dbb98d9d95a.png\r\n  help_url: https://support.ubisoft.com\r\n  facebook_url: https://www.facebook.com/playxdefiant\r\n  homepage_url: https://www.playxdefiant.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: af43f3c8e111fc1b26e6e62deea2180a.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: XDefiant Server Test Session\r\n        path:\r\n          relative: launcherbe.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\15657\\InstallDir\r\n        arguments: ''\r\n        play_arguments: ''\r\n        icon_image: af43f3c8e111fc1b26e6e62deea2180a.ico\r\n      pc_bang: {}\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: XDefiant\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubisoft.com\r\n    about_url: https://www.playxdefiant.com\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n    max_party_size: 6\r\n  game_invites_enabled: yes\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: Xdefiant\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n    news:\r\n      size: 2\r\n  crash_reporting:\r\n    space_id: e3014688-25dd-4a03-ae5a-82e80eb5053c\r\n    app_id: 4bc245f2-b998-4574-9574-6ab93ec9e44c\r\n  app_id: 4bc245f2-b998-4574-9574-6ab93ec9e44c\r\n  space_id: e3014688-25dd-4a03-ae5a-82e80eb5053c\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 15664,
@@ -7000,6 +7084,38 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 17847,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17848,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17849,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17855,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17856,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17857,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17858,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17859,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 17860,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: UNO - Fenyx’s Quest Theme Cards\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -7360,6 +7476,34 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch Dogs Legion - Ultimate Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 58052,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 58055,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 58057,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 58059,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 58062,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 58065,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 58068,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 58201,
     "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
@@ -7488,12 +7632,24 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 59372,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: IBEX\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 59416,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Brawlhalla\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 59451,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew 2\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59556,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59557,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull & Bones - Pirate Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 59588,
@@ -7513,6 +7669,18 @@
   },
   {
     "ProductId": 59625,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59636,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59639,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59642,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
@@ -7645,6 +7813,10 @@
   },
   {
     "ProductId": 59721,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59726,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
@@ -8200,6 +8372,22 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 60416,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60418,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60420,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60422,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 60440,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Seeds of Change DLC\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -8238,6 +8426,10 @@
   {
     "ProductId": 60532,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: FOR HONOR™ - Pirate Hero\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60557,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 60567,
@@ -8540,6 +8732,22 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Settlers\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 61291,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61292,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61293,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61294,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and bones - Smuggler pass token\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 61343,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six® Siege – Welcome Pack (2670)\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -8684,6 +8892,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Hungry Shark World\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 61684,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones™ - Pre-Order Bonus\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61685,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 61704,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Rayman Jungle Run\r\nlocalizations: {}\r\n"
   },
@@ -8698,6 +8914,14 @@
   {
     "ProductId": 61715,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Monopoly Madness Demo\r\n  sort_string: Monopoly Madness Demo\r\n  background_image: 29b79ba6d7dd633e22e03c24e1aa6ced.jpg\r\n  thumb_image: 4f8612cf8e98efb229d6059b329ba710.jpg\r\n  logo_image: bc27a3381703481bbe997d4be17cf462.png\r\n  splash_image: e523e7cf00175b1561ac7565a96bac1a.png\r\n  help_url: https://www.ubisoft.com/en-gb/help/game/monopoly-madness\r\n  facebook_url: https://www.facebook.com/ubisoft\r\n  homepage_url: https://www.ubisoft.com/en-us/game/monopoly/madness\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 3d4fc92b9c24eb30117416f91c38e8a1.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_url: https://store.ubisoft.com/633c01098ccadc559fc90884.html\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Monopoly Madness Demo\r\n        description: Monopoly Madness Demo\r\n        path:\r\n          relative: MonopolyMadnessDemo.exe\r\n        working_directory:\r\n          register: HKEY_CURRENT_USER\\SOFTWARE\\EngineSoftware\\MonopolyMadnessDemo\\InstallDir\r\n        uplay_pipe_required: no\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Monopoly Madness Demo\r\n        description: Monopoly Madness Demo\r\n        path:\r\n          relative: MonopolyMadnessDemo.exe\r\n        working_directory:\r\n          register: HKEY_CURRENT_USER\\SOFTWARE\\EngineSoftware\\MonopolyMadnessDemo\\InstallDir\r\n        arguments: -ubisoftConnectPCOfflineMode\r\n        uplay_pipe_required: no\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Monopoly Madness Demo\r\n    publisher: Ubisoft\r\n    help_url: http://support.ubi.com\r\n    about_url: http://www.ubisoft.com/\r\n  change_language_enabled: yes\r\n  cloud_saves: yes\r\n  news:\r\n    thread: Monopoly_Madness_Demo\r\n  crash_reporting:\r\n    space_id: 90dff68a-e02e-417a-9e3e-8fa9f2770119\r\n    app_id: c6fe93d0-c012-4851-97d9-abf2129de220\r\n  app_id: c6fe93d0-c012-4851-97d9-abf2129de220\r\n  space_id: 90dff68a-e02e-417a-9e3e-8fa9f2770119\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61717,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61718,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 61751,
@@ -8724,8 +8948,40 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Prince of Persia: The Forgotten Sands'\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 61857,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed® Mirage - Deluxe Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61858,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed® Mirage - The Forty Thieves\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61859,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed® Mirage - Lightning Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61860,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed® Mirage - Djinn Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61861,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed® Mirage - Fire Demon Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61862,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed® Mirage - Map Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61863,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 61867,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry 6 - Game of the Year Edition\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 61877,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 61885,
@@ -8820,6 +9076,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Legend of Keepers\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62261,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 62299,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six Siege\r\nlocalizations: {}\r\n"
   },
@@ -8858,6 +9118,10 @@
   {
     "ProductId": 62415,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Valhalla\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62431,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull & Bones - Ship Vanity Set\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 62449,
@@ -9124,6 +9388,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Blasphemous\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62987,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Mirage - Master Assassin Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62988,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Mirage - Guardian Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63000,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -9134,6 +9406,18 @@
   {
     "ProductId": 63104,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Welcome Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63106,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant Founder's Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63107,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant Elite Founder's Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63108,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant Ultimate Founder's Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63130,
@@ -9304,7 +9588,23 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: AC Syndicate\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63763,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63772,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \"Assassin's Creed Mirage - Master Assassin Upgrade #1\"\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63773,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \"Assassin's Creed Mirage - Master Assassin Upgrade #2\"\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63774,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63800,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
@@ -9456,6 +9756,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64089,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Free Trial\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64094,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -9488,6 +9792,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Open Beta\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64127,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones™ - Free trial\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64128,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -9500,8 +9808,24 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64141,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull & Bones - Free trial\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64203,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64222,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Vanity Set Y1S2\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64223,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Vanity Set Y1S3\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64224,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Vanity Set Y1S4\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 64284,
@@ -9510,5 +9834,9 @@
   {
     "ProductId": 64303,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64376,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Mirage\r\nlocalizations: {}\r\n"
   }
 ]
