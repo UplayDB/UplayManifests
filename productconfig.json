@@ -1000,6 +1000,10 @@
     "Configuration": "version: 2.0\nroot:\n  name: \"Assassin’s Creed® Unity\"\n  background_image: d4cb571aee87654441fb46624a99b3c5.jpg\n  thumb_image: b72d55757d36943ae5f1a0ac01d8e295.jpg\n  logo_image: 59bbabde8aff65589071ef743a051206.png\n  dialog_image: f2d67485f2d34388e4b6b3f807f358c8.png\n  icon_image: 61fdd16f06ae08158d0a6d476f1c6bd5.ico\n  release_date: \"2014-11-13\"\n  facebook_url: http://www.assassinscreed.com/facebook\n  forum_url:  http://forums.ubi.com/forumdisplay.php/27-Assassin-s-Creed\n  homepage_url: http://ubi.com/\n  help_url: http://support.ubi.com\n  installer:\n    game_identifier: Assassin's Creed Unity\n    publisher: Ubisoft\n    help_url: https://support.ubi.com\n    about_url: http://assassinscreed.ubi.com/\n  digital_distribution:\n    version: 1\n  preload_available_date: \"2014-11-10\"\n"
   },
   {
+    "ProductId": 1534,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 4\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 1581,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Unity - Season Pass\r\n  is_visible: no\r\n  is_ulc: yes\r\n  thumb_image: b72d55757d36943ae5f1a0ac01d8e295.jpg\r\nlocalizations: {}\r\n"
   },
@@ -1512,6 +1516,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 2205 - Season Pass\r\n  is_visible: yes\r\n  thumb_image: d60db641461c5fcfad8f1f72bf5c0dd1.jpg\r\n  shop_url: http://shop.ubi.com/promo?promoID=88024500&linkid=anno2205-seasonpass-dlc\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 2741,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Trials of the Blood Dragon\r\n  background_image: 992eb7548c283eb5a9bf59b03da9a26b.jpg\r\n  thumb_image: eea784877be30e4b80b74e099fd7431c.jpg\r\n  logo_image: ff204dc58fe8986656f19076e536810d.png\r\n  splash_image: da4c530681e5a73d84557576fc2ad8af.jpg\r\n  help_url: http://support.ubi.com\r\n  facebook_url: http://www.facebook.com/trials.official\r\n  homepage_url: https://www.ubisoft.com/en-GB/game/trials-of-the-blood-dragon/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  icon_image: f8b0a25e6333984b0617dcd1c5f0a8ed.ico\r\n  start_game:\r\n    online:\r\n      executables:\r\n      - shortcut_name: Trials of the Blood Dragon\r\n        description: final\r\n        path:\r\n          relative: trialsblooddragon.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\2741\\InstallDir\r\n          append: datapack\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Trials of the Blood Dragon\r\n        description: final\r\n        path:\r\n          relative: trialsblooddragon.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\2741\\InstallDir\r\n          append: datapack\r\n        arguments: -uplay_offline_mode\r\n  installer:\r\n    game_identifier: Trials of the Blood Dragon\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 1\r\n  change_language_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 36372f101e71598621976f1d3f387064\r\n    achievements_sync_id: TBD\r\n  club:\r\n    enabled: yes\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n  player_stats:\r\n    items:\r\n    - id: EnemiesKilled\r\n    - id: RiderFaultsTotal\r\n    - id: TracksCompletedPerfect.grade.A+\r\n    - id: TimePlayed\r\n    - id: TracksCompletedUnique.progressionType.TracksCompleted\r\n  app_id: eb8c4978-59ba-485f-9a70-80d2e9e6cde6\r\n  space_id: 54a1d001-f874-4af8-a88b-055f0c47ae45\r\n  addons:\r\n  - id: 3387\r\n    is_visible: no\r\n  - id: 3388\r\n    is_visible: no\r\n  - id: 3537\r\n    is_visible: no\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 2759,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  is_visible: yes\r\n  thumb_image: f9f92ee2d0f7996d6a431af6e601edd1.jpg\r\nlocalizations:\r\n  default:\r\n    l1: Assassin's Creed® Syndicate - The Dreadful Crimes\r\n  fr-FR:\r\n    l1: Assassin's Creed® Syndicate - The Dreadful Crimes\r\n  it-IT:\r\n    l1: Assassin's Creed® Syndicate - Dreadful Crimes\r\n  de-DE:\r\n    l1: Assassin's Creed® Syndicate - Die Groschenroman-Verbrechen\r\n  es-ES:\r\n    l1: Assassin's Creed® Syndicate - Los Crímenes terroríficos\r\n  nl-NL:\r\n    l1: Assassin's Creed® Syndicate - The Dreadful Crimes\r\n  pl-PL:\r\n    l1: Assassin's Creed® Syndicate - Straszliwe Zbrodnie\r\n  ru-RU:\r\n    l1: Assassin's Creed® Syndicate - Ужасные Преступления\r\n  cs-Cz:\r\n    l1: Assassin's Creed® Syndicate - Ohavné zločiny\r\n  hu-HU:\r\n    l1: Assassin's Creed® Syndicate - Szörnyű bűntettek\r\n  ja-JP:\r\n    l1: Assassin's Creed® Syndicate - 恐ろしい犯罪\r\n  ko-KO:\r\n    l1: Assassin's Creed® Syndicate - 끔찍한 범죄\r\n  zh-TW:\r\n    l1: Assassin's Creed® Syndicate - 駭人犯罪\r\n"
   },
@@ -1924,6 +1932,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 3387,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 3388,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 3393,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: RainBow Six Siege - GSG9 Racer Pack\r\n  is_visible: no\r\n  is_ulc: yes\r\n  thumb_image: 5683450234a07e2249d0d6619b6dc487.jpg\r\nlocalizations: {}\r\n"
   },
@@ -2080,6 +2096,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon Wildlands - The Peruvian Connection Mission\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 3537,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 3539,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Assassin's Creed 16\r\n  background_image: 2d21948937872f3a4e488d1a58b765db.jpg\r\n  thumb_image: l2\r\n  logo_image: 173bca0f8923c59a731b6f43a9810970.png\r\n  splash_image: 4b6c0b2a9ad5dc22b720f7c349e54951.jpg\r\n  help_url: https://support.ubisoft.com/games/3839?platform=9\r\n  facebook_url: https://www.facebook.com/ubisoft/\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  game_options:\r\n    name: Animus Control Panel\r\n    filename: ACP.ini\r\n    model: 4446eed9bc6caee120fb0f4b01f99870\r\n    icon: aco-logo\r\n    forum_url: https://forums.ubi.com/forumdisplay.php/1827\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: yes\r\n  - id: 2\r\n    text: New controller device has been connected\r\n    permanent: no\r\n  - id: 3\r\n    text: Your controller device has been disconnected\r\n    permanent: no\r\n  - id: 4\r\n    text: l4\r\n    permanent: no\r\n  icon_image: 3095113d1c9698957e4fb4e2ce087e0d.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_url: https://payments.ubi.com/ACO/index\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://assassinscreed.ubi.com/\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Assassin's Creed Origins\r\n        description: Final Executable protected with Denuvo\r\n        path:\r\n          relative: ACOrigins.exe\r\n        trial:\r\n          relative: ACOrigins_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3539\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        denuvo: yes\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Assassin's Creed Origins\r\n        description: Final Executable protected with Denuvo\r\n        path:\r\n          relative: ACOrigins.exe\r\n        trial:\r\n          relative: ACOrigins_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3539\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        denuvo: yes\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Assassin's Creed Origins\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://assassinscreed.ubi.com/\r\n  digital_distribution:\r\n    version: 1\r\n  change_language_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 3483afa6b8475717dabfe0f88025a465\r\n    achievements_sync_id: ACE\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: ACOrigins\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: TimePlayed\r\n    - id: TotalProgression\r\n    - id: PlayerLevel\r\n    - id: TotalKills\r\n    - id: DistanceTravelled\r\n  game_streaming_enabled: yes\r\n  crash_reporting:\r\n    space_id: bfd34091-6af6-4029-873b-ba7e036464fa\r\n    app_id: ba09e96a-9f80-42c1-ab6c-4abbc91e9d38\r\n  app_id: ba09e96a-9f80-42c1-ab6c-4abbc91e9d38\r\n  space_id: bfd34091-6af6-4029-873b-ba7e036464fa\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 60\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Assassin's Creed® Origins\r\n    l2: 1be065304226cdb56a5818dd9808c3e0.jpg\r\n    l3: 'Warning: You are running an unsupported video driver, please update your driver for optimal performance.'\r\n    l4: Animus Control Panel settings have been applied\r\n  zh-CN:\r\n    l1: 刺客信条：起源\r\n    l2: 1c270c04e1deae8c84646cde19af6fe7.jpg\r\n    l3: 警告：你所使用的显卡驱动程序游戏并未支持，请升级你的驱动程序才能有最佳的性能表现。\r\n    l4: 已应用 Animus 控制面板调整设置\r\n  da-DK:\r\n    l3: 'Advarsel: Spillet understøtter ikke den grafikdriver, du bruger. Du bør opdatere den for at få den optimale ydelse.'\r\n  nl-NL:\r\n    l3: 'Waarschuwing: je gebruikt een grafisch stuurprogramma dat niet wordt ondersteund. Werk je stuurprogramma bij voor optimale prestaties.'\r\n    l4: Instellingen Animus-bedieningspaneel zijn toegepast\r\n  fi-FI:\r\n    l3: 'Varoitus: Käyttämäsi näytönohjain ei ole tuettu. Päivitä ajurisi, niin saat parhaan mahdollisen kokemuksen.'\r\n  fr-FR:\r\n    l3: 'Avertissement : Ton pilote vidéo n’est pas pris en charge. Mets à jour ton pilote pour de meilleures performances.'\r\n    l4: Les paramètres du panneau de contrôle de l'Animus ont été appliqués\r\n  de-DE:\r\n    l3: 'Warnung: Du benutzt einen nicht unterstützen Grafikkarten-Treiber. Bitte aktualisiere deinen Treiber für das optimale Spielerlebnis.'\r\n    l4: Die Einstellungen der Animus-Systemsteuerung wurden übernommen\r\n  it-IT:\r\n    l3: 'Attenzione: stai utilizzando dei driver video non supportati, aggiornali per ottenere dei risultati migliori.'\r\n    l4: Sono state applicate le impostazioni del pannello di controllo dell'Animus\r\n  ja-JP:\r\n    l3: '警告: サポートされていないビデオドライバを実行しています。最適なパフォーマンスのために、ドライバを更新してください。'\r\n    l4: アニムス操作パネルが適用されました\r\n  nb-NO:\r\n    l3: 'Advarsel: Du kjører en grafikkdriver som ikke støttes. Oppdater driveren for å få optimale ytelser.'\r\n  pl-PL:\r\n    l3: 'Uwaga: używasz nieobsługiwanego sterownika graficznego. Zaktualizuj swój sterownik, by zapewnić sobie optymalną wydajność.'\r\n    l4: Zastosowano ustawienia panelu kontrolnego Animusa\r\n  pt-BR:\r\n    l3: 'Aviso: você está usando um driver de vídeo que não é suportado. Por favor, atualize o seu driver para obter o desempenho adequado.'\r\n    l4: As configurações do painel de controle do Animus foram aplicadas\r\n  ru-RU:\r\n    l3: 'Внимание: игра не поддерживает видеодрайвер. Обнови его, чтобы добиться наилучшей производительности.'\r\n    l4: Параметры панели управления Анимуса успешно изменены\r\n  es-ES:\r\n    l3: 'Advertencia: Estás usando un controlador de vídeo no soportado; actualiza tu controlador para asegurar un rendimiento óptimo.'\r\n    l4: Se ha aplicado la configuración del Panel de control del Animus\r\n  sv-SE:\r\n    l3: Varning! Du använder en grafikkortsdrivrutin som inte stöds. Uppdatera drivrutinen för att optimera prestandan.\r\n  zh-TW:\r\n    l3: 警告：你所使用的顯示卡驅動程式遊戲並未支援，請升級你的驅動程式才能有最佳的效能表現。\r\n  cs-CZ:\r\n    l4: Nastavení Ovládacího panelu Animu se použilo\r\n  ko-KO:\r\n    l4: 애니머스 제어판 설정이 적용되었습니다\r\n"
   },
@@ -2170,6 +2190,10 @@
   {
     "ProductId": 3673,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 3674,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: UNO\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 3687,
@@ -2382,6 +2406,10 @@
   {
     "ProductId": 4145,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 4202,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's The Division\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4207,
@@ -4740,6 +4768,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: For Honor - PTS - [UPLAY PC]\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 10581,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed 3 Remastered\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 10703,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -4978,6 +5010,10 @@
   {
     "ProductId": 11662,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Settlers - History Edition\r\n  sort_string: The Settlers - History Edition\r\n  background_image: 28c87991551f2d20b229d1f5bbc46ff5.jpg\r\n  thumb_image: 8cb29cbc8f38a2322e9a3e63f55caef8.jpg\r\n  logo_image: f4203bc1edbde192646a698e9e515d93.png\r\n  splash_image: 603706c3b1eb4da0813f6e658afbcd75.jpg\r\n  help_url: http://support.ubi.com\r\n  homepage_url: https://www.thesettlers-alliance.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications: []\r\n  icon_image: dcefba428b598de2144db663cd26234e.ico\r\n  start_game:\r\n    online:\r\n      executables:\r\n      - shortcut_name: The Settlers\r\n        description: The Settlers History Edition\r\n        path:\r\n          relative: Siedler1.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        icon_image: dcefba428b598de2144db663cd26234e.ico\r\n      - shortcut_name: Config\r\n        path:\r\n          relative: Config.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        uplay_pipe_required: no\r\n    offline:\r\n      executables:\r\n      - shortcut_name: The Settlers\r\n        description: The Settlers History Edition\r\n        path:\r\n          relative: Siedler1.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        icon_image: dcefba428b598de2144db663cd26234e.ico\r\n      - shortcut_name: Config\r\n        path:\r\n          relative: Config.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        uplay_pipe_required: no\r\n  installer:\r\n    game_identifier: thesettlers\r\n    publisher: Ubisoft\r\n    help_url: HELPURL\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 2\r\n  news:\r\n    thread: TheSettlersHE\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n  app_id: b4e49e6b-3198-4f26-80ac-a35ad08680c2\r\n  space_id: 69cf3d5d-5461-45c9-8fbc-128d62eda942\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11762,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 11767,
@@ -5512,6 +5548,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 12903,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch_Dogs - Standard Edition\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 12980,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -5620,8 +5660,16 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 13275,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Anno 1800 - Standard\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 13276,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Assassin's Creed Origins - Gold\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 13281,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - The Crew 2 - Standard\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 13282,
@@ -5636,6 +5684,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Assassin's Creed Brotherhood - Standard\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 13286,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Assassin's Creed Rogue - Standard\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 13287,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Valiant Hearts\r\nlocalizations: {}\r\n"
   },
@@ -5646,6 +5698,10 @@
   {
     "ProductId": 13311,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Far Cry 3 - Standard\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 13312,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Far Cry Primal - Standard\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 13315,
@@ -5682,6 +5738,10 @@
   {
     "ProductId": 13325,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - From Dust - Standard\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 13327,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Trials of the Blood Dragon - Standard\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 13329,
@@ -5808,6 +5868,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Season Pass Player Assets\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 14179,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Starlink® - Digital Starter Kit\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 14205,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's The Division 2 - PTS\r\nlocalizations: {}\r\n"
   },
@@ -5830,6 +5894,10 @@
   {
     "ProductId": 14224,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew 2 - Trial\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 14270,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint - Base Game\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14278,
@@ -6072,6 +6140,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Silent Hunter 5\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 14710,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'South Park™: The Fractured but Whole™'\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 14711,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Starlink® - Digital Deluxe Edition\r\nlocalizations: {}\r\n"
   },
@@ -6248,6 +6320,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed 2 - Deluxe Edition\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 14922,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed 2 - Standard\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 14928,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: For Honor - Ultimate Edition\r\nlocalizations: {}\r\n"
   },
@@ -6350,6 +6426,10 @@
   {
     "ProductId": 15519,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 15520,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno® 1800 - Base Game\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 15521,
@@ -9404,6 +9484,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Beholder 2\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62921,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'The Settlers®: New Allies - Standard Edition'\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 62948,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Disruptor Cosmetic Pack\r\nlocalizations: {}\r\n"
   },
@@ -9524,12 +9608,40 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Growtopia\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63417,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63418,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Origins\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63419,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Syndicate\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63420,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63421,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63438,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry 6\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63439,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® New Dawn\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63440,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: For Honor\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63441,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63444,
@@ -9542,6 +9654,50 @@
   {
     "ProductId": 63450,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63469,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch Dogs Legion\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63470,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: watch_dogs\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63471,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: UNO\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63472,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Trials® Rising\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63473,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's The Division\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63474,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Division® 2\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63475,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Starlink® : Battle for Atlas'\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63476,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63477,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Extraction\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63478,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Siege\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63479,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Immortals Fenyx Rising\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63491,
@@ -9648,6 +9804,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63812,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Valhalla\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63886,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Closed Beta\r\nlocalizations: {}\r\n"
   },
@@ -9724,6 +9884,74 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: xDefiant\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63990,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Black Flag - Gold Edition\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63991,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscriptions - Assassin's Creed Freedom Cry\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63992,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Liberation HD\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63993,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Assassin's Creed Chronicles China\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63994,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Assassin's Creed Chronicles India\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63995,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Assassin's Creed Chronicles Russia\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63996,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Assassin's Creed Revelations\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63998,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Child of Light - Standard\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63999,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry Blood Dragon\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64002,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Monopoly Madness\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64003,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Monopoly Plus\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64005,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Rayman Legends\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64006,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Scott Pilgrim\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64009,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: South Park - The Stick of Truth\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64010,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Trackmania Turbo\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64011,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Subscription - Valiant Hearts\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64012,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Zombi\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64023,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Steampunk Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -9777,7 +10005,7 @@
   },
   {
     "ProductId": 64063,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Brawlhalla - Battle Pass 10\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 64064,
@@ -9849,7 +10077,7 @@
   },
   {
     "ProductId": 64128,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Brawlhalla - Deluxe Upgrade Battle Pass 10\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 64129,
@@ -9880,12 +10108,20 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Vanity Set Y1S4\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64234,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: For Honor™ - Standard Edition\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64284,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 64303,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64320,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 4\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 64376,
@@ -9942,5 +10178,29 @@
   {
     "ProductId": 64581,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant - Deep Red Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64624,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Steep\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64660,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant – Starter Pack S2\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64661,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant - Bronze S2 Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64662,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant - Bronze S2 Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64663,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant - Gold S2 Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64664,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant - Combat Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   }
 ]
