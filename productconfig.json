@@ -10092,6 +10092,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull & Bones - Free trial\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64190,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: BattleCore Arena\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64191,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: BattleCore Arena\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64203,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -10209,6 +10217,10 @@
   },
   {
     "ProductId": 64770,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64870,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   }
 ]
