@@ -4564,6 +4564,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Trackmania (Steam)\r\n  display_name: Trackmania\r\n  background_image: 6b7da0564c173293938428c11930afa0.jpg\r\n  thumb_image: 71076cef0357111b2f2ee4969e727dbf.jpg\r\n  logo_image: 3ef7644fa8876ca454a90e2b936d32f9.png\r\n  splash_image: 05b22f182e772ed2df2243bd4890064a.jpg\r\n  help_url: https://www.ubisoft.com/help\r\n  facebook_url: https://www.facebook.com/trackmania\r\n  homepage_url: https://trackmania.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  streams:\r\n    link: https://www.twitch.tv/trackmania\r\n  overlay_notifications_position: bottom_right\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.trackmania.com/\r\n      overlay_supported: yes\r\n      steam_app_id: 2225070\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2225070\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TrackmaniaNext\r\n  app_id: 86263886-327a-4328-ac69-527f0d20a237\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: 41958b32-a08c-4313-a6c0-f49d4fb5a91e\r\n  space_id: 5d20614c-234d-4cc8-934d-11ff07c2de69\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 7084,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Monopoly Madness Demo\r\n  sort_string: Monopoly Madness Demo\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_url: https://store.steampowered.com/app/2383760\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      steam_app_id: 2383800\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2383800\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  upn_enabled: true\r\n  cloud_saves: yes\r\n  app_id: c6fe93d0-c012-4851-97d9-abf2129de220\r\n  space_id: 90dff68a-e02e-417a-9e3e-8fa9f2770119\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 7086,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -9534,6 +9538,10 @@
   {
     "ProductId": 63108,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant Ultimate Founder's Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63115,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Monopoly Madness Demo\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63130,
