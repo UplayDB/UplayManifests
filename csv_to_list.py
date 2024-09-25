@@ -15,7 +15,7 @@ for csvs in csvlist:
             csv_list[str(csplit[0])].append(csplit[1].replace(".csv",""))
 
 for csvv in csv_list:
-    fp = open("manifestslist\\"+csvv + '.txt', 'w')
+    fp = open(os.path.join("manifestslist, "+csvv + '.txt'), 'w')
     fp.write(str(csv_list[csvv]))
     fp.close()
 
