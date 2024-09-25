@@ -13,6 +13,8 @@ for csvs in csvlist:
             csv_list[str(csplit[0])].append(csplit[1].replace(".csv",""))
         else:
             csv_list[str(csplit[0])].append(csplit[1].replace(".csv",""))
+for csvv in csv_list:
+	csv_list[csvv].sort()
 
 for csvv in csv_list:
     fp = open(os.path.join("manifestslist", csvv + '.txt'), 'w')
