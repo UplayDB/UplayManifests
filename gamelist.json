@@ -6221,7 +6221,9 @@
       64284,
       64303,
       64769,
-      64770
+      64770,
+      64966,
+      64972
     ]
   },
   {
@@ -23719,5 +23721,15 @@
     "ProductAssociations": [
       64559
     ]
+  },
+  {
+    "ProductId": 64966,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 64972,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
   }
 ]

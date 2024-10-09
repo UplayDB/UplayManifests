@@ -1,8 +1,8 @@
 Total number of files  : 187
 Total number of chunks : 2
-Total size of Files    :       2932333248 Bytes | 2.731 GB
-Total size of Slices   :       2932333248 Bytes | 2.731 GB
-Total size Downloaded  :       2400057762 Bytes | 2.235 GB
+Total size of Files    :       2932333248 Bytes | 2,731 GB
+Total size of Slices   :       2932333248 Bytes | 2,731 GB
+Total size Downloaded  :       2400057762 Bytes | 2,235 GB
 
 Compression Method      : Deflate
 Version                 : 3
