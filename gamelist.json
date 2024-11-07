@@ -20698,7 +20698,9 @@
       64224,
       64481,
       64559,
-      64875
+      64875,
+      65099,
+      65100
     ]
   },
   {
@@ -23729,6 +23731,43 @@
   },
   {
     "ProductId": 64972,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 6143,
+    "ProductType": "Game",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 64829,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      6143
+    ]
+  },
+  {
+    "ProductId": 64932,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      64829,
+      64982
+    ]
+  },
+  {
+    "ProductId": 64982,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      6143
+    ]
+  },
+  {
+    "ProductId": 65099,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65100,
     "ProductType": "AddOn",
     "ProductAssociations": []
   }
