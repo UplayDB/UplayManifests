@@ -6237,7 +6237,10 @@
       64769,
       64770,
       64966,
-      64972
+      64972,
+      65308,
+      65309,
+      65310
     ]
   },
   {
@@ -11851,7 +11854,8 @@
       62641,
       63740,
       64026,
-      64027
+      64027,
+      64028
     ]
   },
   {
@@ -23940,6 +23944,28 @@
   },
   {
     "ProductId": 65228,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 64028,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      64025
+    ]
+  },
+  {
+    "ProductId": 65308,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65309,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65310,
     "ProductType": "AddOn",
     "ProductAssociations": []
   }
