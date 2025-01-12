@@ -24226,5 +24226,109 @@
     "ProductId": 65460,
     "ProductType": "AddOn",
     "ProductAssociations": []
+  },
+  {
+    "ProductId": 9663,
+    "ProductType": "Game",
+    "ProductAssociations": [
+      63817,
+      63818,
+      63819,
+      63820,
+      63821,
+      63822,
+      63823,
+      63824,
+      63825,
+      63826,
+      63827,
+      63828
+    ]
+  },
+  {
+    "ProductId": 63817,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63818,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63819,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63820,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63821,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63822,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63823,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      63817
+    ]
+  },
+  {
+    "ProductId": 63824,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      63818
+    ]
+  },
+  {
+    "ProductId": 63825,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      63819
+    ]
+  },
+  {
+    "ProductId": 63826,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      63820
+    ]
+  },
+  {
+    "ProductId": 63827,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      63821
+    ]
+  },
+  {
+    "ProductId": 63828,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      63822
+    ]
+  },
+  {
+    "ProductId": 63925,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      9663
+    ]
+  },
+  {
+    "ProductId": 65272,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      63925
+    ]
   }
 ]
