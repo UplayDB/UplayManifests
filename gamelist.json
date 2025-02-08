@@ -23811,7 +23811,23 @@
   {
     "ProductId": 6143,
     "ProductType": "Game",
-    "ProductAssociations": []
+    "ProductAssociations": [
+      65545,
+      65546,
+      65547,
+      65548,
+      65549,
+      65550,
+      65551,
+      65552,
+      65553,
+      65554,
+      65555,
+      65556,
+      65557,
+      65558,
+      65594
+    ]
   },
   {
     "ProductId": 64829,
@@ -24242,7 +24258,11 @@
       63825,
       63826,
       63827,
-      63828
+      63828,
+      65566,
+      65567,
+      65568,
+      65569
     ]
   },
   {
@@ -24330,5 +24350,118 @@
     "ProductAssociations": [
       63925
     ]
+  },
+  {
+    "ProductId": 65545,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65546,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65547,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65548,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65549,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65550,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65551,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65552,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65545
+    ]
+  },
+  {
+    "ProductId": 65553,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65546
+    ]
+  },
+  {
+    "ProductId": 65554,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65547
+    ]
+  },
+  {
+    "ProductId": 65555,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65548
+    ]
+  },
+  {
+    "ProductId": 65556,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65549
+    ]
+  },
+  {
+    "ProductId": 65557,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65550
+    ]
+  },
+  {
+    "ProductId": 65558,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65551
+    ]
+  },
+  {
+    "ProductId": 65566,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65567,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65568,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65566
+    ]
+  },
+  {
+    "ProductId": 65569,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65567
+    ]
+  },
+  {
+    "ProductId": 65594,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
   }
 ]
