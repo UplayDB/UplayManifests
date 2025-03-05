@@ -1,8 +1,8 @@
 Total number of files  : 633
 Total number of chunks : 13
-Total size of Files    :      29430442524 Bytes | 27,409 GB
-Total size of Slices   :       3660638748 Bytes | 3,409 GB
-Total size Downloaded  :       3257132549 Bytes | 3,033 GB
+Total size of Files    :      29430442524 Bytes | 27.409 GB
+Total size of Slices   :       3660638748 Bytes | 3.409 GB
+Total size Downloaded  :       3257132549 Bytes | 3.033 GB
 
 Compression Method      : Lzham
 Version                 : 3
