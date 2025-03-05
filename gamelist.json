@@ -24471,5 +24471,281 @@
     "ProductAssociations": [
       15837
     ]
+  },
+  {
+    "ProductId": 419,
+    "ProductType": "Game",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 425,
+    "ProductType": "Game",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 802,
+    "ProductType": "Game",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 834,
+    "ProductType": "Game",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 2024,
+    "ProductType": "Game",
+    "ProductAssociations": [
+      3177,
+      3178,
+      3239
+    ]
+  },
+  {
+    "ProductId": 3277,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2024,
+      3177,
+      3178
+    ]
+  },
+  {
+    "ProductId": 5004,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      1835,
+      2905
+    ]
+  },
+  {
+    "ProductId": 5455,
+    "ProductType": "Game",
+    "ProductAssociations": [
+      5221,
+      5222,
+      5223,
+      5224,
+      5225,
+      5226,
+      5227,
+      5228,
+      5229,
+      5230,
+      5231,
+      5232
+    ]
+  },
+  {
+    "ProductId": 7080,
+    "ProductType": "Game",
+    "ProductAssociations": [
+      13652,
+      13653,
+      13654,
+      13655,
+      13656,
+      13657,
+      13658,
+      13659,
+      13660,
+      13661,
+      13662,
+      13663,
+      13664,
+      13665,
+      13666,
+      13667,
+      13668,
+      17812,
+      17813,
+      17814,
+      17815,
+      17816,
+      17817,
+      17818,
+      19028,
+      58881
+    ]
+  },
+  {
+    "ProductId": 7082,
+    "ProductType": "Game",
+    "ProductAssociations": [
+      5575,
+      5576,
+      5577,
+      5578,
+      5579,
+      5581,
+      5582,
+      5583,
+      5584,
+      5585,
+      5586,
+      5587,
+      15664,
+      15665,
+      15666,
+      15667,
+      59185,
+      59186,
+      59187,
+      59768
+    ]
+  },
+  {
+    "ProductId": 13049,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      802
+    ]
+  },
+  {
+    "ProductId": 13050,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      419
+    ]
+  },
+  {
+    "ProductId": 13051,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      425
+    ]
+  },
+  {
+    "ProductId": 13052,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      834
+    ]
+  },
+  {
+    "ProductId": 15467,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      5455
+    ]
+  },
+  {
+    "ProductId": 15473,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      15467,
+      15469
+    ]
+  },
+  {
+    "ProductId": 16733,
+    "ProductType": "Game",
+    "ProductAssociations": [
+      5749,
+      5750,
+      5751,
+      5752,
+      5753,
+      5754,
+      5755,
+      17950,
+      62828,
+      62829,
+      62830,
+      62831,
+      62834,
+      62836,
+      62837,
+      62838,
+      62839,
+      62840,
+      62841,
+      62842,
+      62843,
+      62844,
+      62845,
+      62846,
+      62847,
+      62848,
+      63104,
+      63290,
+      63291,
+      63292,
+      64084,
+      64085
+    ]
+  },
+  {
+    "ProductId": 63119,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      5575,
+      5576,
+      5577,
+      5578,
+      5579,
+      5581,
+      5582,
+      5583,
+      5584,
+      5585,
+      5586,
+      5587,
+      7082,
+      15664,
+      15665,
+      15666,
+      15667
+    ]
+  },
+  {
+    "ProductId": 63184,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      7080,
+      13653,
+      13654,
+      13655,
+      13656,
+      13657,
+      13658,
+      13659,
+      13660,
+      13661,
+      13662,
+      13663,
+      13664,
+      13665,
+      13666,
+      13667,
+      13668,
+      17812,
+      17813,
+      17814,
+      17815,
+      17816,
+      17817,
+      17818
+    ]
+  },
+  {
+    "ProductId": 64326,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      16733,
+      62834,
+      62837,
+      62838,
+      62839,
+      62840,
+      62841,
+      62842,
+      62843,
+      62844,
+      62845,
+      62846,
+      62847,
+      62848
+    ]
   }
 ]
