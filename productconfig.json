@@ -20,6 +20,10 @@
     "Configuration": "#--------------------------------------------------------------------------\n# PRINCE OF PERSIA THE FORGOTTEN SANDS\n#--------------------------------------------------------------------------\nversion: 2.0\nroot:\n  name: \"Prince of Persia® The Forgotten Sands™\"\n  background_image: 94df8e9b3ee64e61920ba908b65cd9e4.jpg\n  thumb_image: a4fec86c10265aa988ffb97d659c468e.jpg\n  logo_image: f6189b75e7a4ee9045c1cacea2f8aa34.png\n  dialog_image: 1abb77ddd4b99243406fa7d115daa4de.png\n  icon_image: 7e77e4406ce80a33c42ec2a477973032.ico\n  background_color: 000000\n  sort_string: \"Prince of Persia 5\"\n  start_game:\n    online:\n      overlay_supported: no\n      after_game_report_enabled: yes\n      executables:\n        - path: \n            relative: \"Prince of Persia.exe\"\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Prince of Persia - The Forgotten Sands\\InstallDir\n          evil_updater:\n            path: \n              relative: gu.exe\n            working_directory:\n              register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Prince of Persia - The Forgotten Sands\\InstallDir\n    offline:\n      after_game_report_enabled: yes\n      executables:\n        - path: \n            relative: \"Prince of Persia.exe\"\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Prince of Persia - The Forgotten Sands\\InstallDir\n  installer:\n    game_identifier: Prince of Persia The Forgotten Sands\n    publisher: Ubisoft\n    about_url: http://prince-of-persia.com\n    upgraded_from_legacy: yes\n  digital_distribution:\n    version: 3\n  cloud_saves: yes\n  game_streaming_enabled: yes\n  facebook_url: http://prince-of-persia.ubi.com/facebook/\n  forum_url: https://discord.gg/ubisoftofficial\n  homepage_url: http://prince-of-persia.com\n  help_url: http://support.ubi.com\n  uplay:\n    game_code: POPTM\n  space_id: 9feecc9f-4805-487d-8350-b5f2ad6a43fa\n  club:\n    enabled: no\n  orbit_exited: yes\n  settings_exe:\n    path: \n      relative: GameSettings.exe\n    working_directory:\n      register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Prince of Persia - The Forgotten Sands\\InstallDir\n  after_game_report_ad: yes\n  legacy_friends_nicks_enabled: yes"
   },
   {
+    "ProductId": 22,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 2070\r\n  background_image: dab54ae00427d76aa3cf655c4f8c4dde.jpg\r\n  thumb_image: 7270bb74bded62634b57878b7bcb3a22.jpg\r\n  logo_image: 7a2177acf0ba33bbcfbee6ee35108bdb.png\r\n  help_url: https://www.ubisoft.com/help/anno-2070/all-topics\r\n  facebook_url: https://facebook.com/annogame/\r\n  homepage_url: https://www.ubisoft.com/game/anno-2070/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: fb2ebde69f7640f2ac8d00752b8a60bb.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Anno2070\r\n        path:\r\n          relative: Anno5.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\22\\InstallDir\r\n        denuvo: yes\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Anno2070\r\n        path:\r\n          relative: Anno5.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\22\\InstallDir\r\n        denuvo: yes\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Anno 2070\r\n    publisher: Ubisoft\r\n    help_url: https://www.ubisoft.com/help/anno-2070/all-topics\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 1\r\n  crash_reporting:\r\n    space_id: de132bb9-2b0b-4bd2-b918-7bc26a92d413\r\n    app_id: 50defd3b-fe40-4875-8db4-ec7cad37a848\r\n  app_id: 50defd3b-fe40-4875-8db4-ec7cad37a848\r\n  space_id: de132bb9-2b0b-4bd2-b918-7bc26a92d413\r\n  dev:\r\n    require_legacy_game_password: always\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 26,
     "Configuration": "#--------------------------------------------------------------------------\n# ASSASSIN'S CREED BROTHERHOOD\n#--------------------------------------------------------------------------\nversion: 2.0\nroot:\n  dev:\n    require_legacy_game_password: online_only\n  name: l1\n  background_image: 4ad3ac2608472d45a625e1f7370847e0.jpg\n  thumb_image: 17319894db2463c9d82d789b3e46461f.jpg\n  logo_image: 20493274a62f9aaf2238b623de13433c.png\n  dialog_image: 43e1a6d703ea53464174be624cedb042.png\n  icon_image: e2542c609a749837c8f89d52026be9a4.ico\n  background_color: 37566a\n  sort_string: \"Assassin's Creed 03\"\n  start_game:\n    online:\n      legacy_ticket_enabled: yes\n      overlay_supported: yes\n      after_game_report_enabled: yes\n      executables:\n        - path: \n            relative: ACBSP.exe\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Assassin's Creed Brotherhood\\GameUpdate\\installdir\n          evil_updater:\n            path: \n              relative: AssassinsCreedBrotherhood.exe\n            working_directory:\n              register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Assassin's Creed Brotherhood\\GameUpdate\\installdir\n    offline:\n      after_game_report_enabled: yes\n      executables:\n        - path: \n            relative: ACBSP.exe\n          arguments: -playoffline\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Assassin's Creed Brotherhood\\GameUpdate\\installdir\n  cloud_saves: no\n  installer:\n    game_identifier: Assassin's Creed Brotherhood\n    publisher: Ubisoft\n    help_url: http://support.ubi.com\n    about_url: http://assassinscreed.ubi.com/brotherhood/en-GB/home/\n    upgraded_from_legacy: yes\n  game_streaming_enabled: yes\n  legacy_friends_nicks_enabled: no\n  uplay:\n    game_code: ACB\n  space_id: 50f97655-c930-40fd-82c7-fb33fd024fec\n  club:\n    enabled: yes\n  news:\n    thread: ACBrotherhood\n  game_page_modules:\n    news:\n      size: 2    \n  facebook_url: http://assassinscreed.com/facebook/\n  forum_url: https://discord.gg/ubisoftofficial\n  homepage_url: http://assassinscreed.uk.ubi.com/brotherhood/\n  help_url: http://support.ubi.com\n  after_game_report_ad: yes\n  show_properties: yes\n  crash_reporting:\n    space_id: 50f97655-c930-40fd-82c7-fb33fd024fec\n    app_id: e421a897-4eb7-45a7-a4dc-6aaf4d7bd8a9\n  upn_enabled: true\nlocalizations:\n  default:\n    l1: Assassin's Creed® Brotherhood\n  zh-CN:\n    l1: 刺客信条：兄弟会"
   },
@@ -1612,6 +1616,10 @@
     "Configuration": "#--------------------------------------------------------------------------\n# Tom Clancy's Rainbow Six\n#--------------------------------------------------------------------------\nroot:\n  name: \"Tom Clancy's Rainbow Six®\"\n  background_image: ddffd9e26ea5b2aef27f4b95fc77f99a.jpg\n  thumb_image: 866ba59aeb1854bef6108e7768cb1a87.jpg\n  logo_image: dedd7c149bbe8106015fb1616a0229a4.png\n  icon_image: 3adb56e2fdafe930c48b7323b382b2c4.ico\n  sort_string: \"Tom Clancy's Rainbow Six 01\"\n  start_game:\n    online:\n      after_game_report_enabled: no\n      executables:\n        - path: \n            relative: rainbowsix.exe\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Tom Clancy's Rainbow Six_is1\\InstallLocation\n    offline:\n      after_game_report_enabled: no\n      executables:\n        - path: \n            relative: rainbowsix.exe\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Tom Clancy's Rainbow Six_is1\\InstallLocation\n  cloud_saves: no\n  installer:\n    game_identifier: Tom Clancy's Rainbow Six\n    publisher: Ubisoft\n    help_url: http://support.ubi.com\n    about_url: http://support.ubi.com\n    upgraded_from_legacy: yes\n  help_url: http://support.ubi.com\n  after_game_report_ad: no\n  force_safe_mode: yes\n  uplay_pipe_required: no\n  show_properties: yes"
   },
   {
+    "ProductId": 2301,
+    "Configuration": "---\nversion: 2.0\nroot:\n name: NAME\nlocalizations:\n default:\n  NAME: \"Rainbow Six PC\" \n"
+  },
+  {
     "ProductId": 2356,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Calling All Units - Alpha\r\n  background_image: 5ed13af1909eb51148f813b04fc68f47.jpg\r\n  thumb_image: 4d6c4453e77ae746bd48d5e9a3961e67.jpg\r\n  logo_image: 13c98ac7212c2f2c1249747c95e8e864.png\r\n  splash_image: 7083a2e7e9e670d900388ce21350c76d.png\r\n  help_url: http://support.ubi.com\r\n  facebook_url: www.facebook.com/thecrewgame\r\n  homepage_url: http://www.thecrew-game.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  icon_image: 3aff535ff65be461b3bde0cfd4d39ac2.ico\r\n  start_game:\r\n    online:\r\n      executables:\r\n      - shortcut_name: The Crew Calling All Units - Alpha\r\n        path:\r\n          relative: thecrew.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\2356\\InstallDir\r\n        icon_image: 3aff535ff65be461b3bde0cfd4d39ac2.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: The Crew Calling All Units - Alpha\r\n        path:\r\n          relative: thecrew.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\2356\\InstallDir\r\n        icon_image: 3aff535ff65be461b3bde0cfd4d39ac2.ico\r\n  installer:\r\n    game_identifier: The Crew CaU Alpha\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 1\r\n  party:\r\n    party_enabled: yes\r\n  app_id: 40c26135-df4c-412a-ab7d-64051496e3e4\r\n  addons:\r\n  - id: 1836\r\n    is_visible: no\r\n  - id: 2292\r\n    is_visible: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
@@ -1690,6 +1698,10 @@
   {
     "ProductId": 2635,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew - Wild Run Edition\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 2639,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Siege - Standard Edition\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 2676,
@@ -1804,6 +1816,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  background_image: 5ba33578a555ddb1b19f67042a6a9dde.jpg\r\n  thumb_image: l2\r\n  logo_image: e0eb73b34070f58cf5b68cdfd0649a3f.png\r\n  splash_image: dbf23a8db5aedcb712b56bf78069ea51.png\r\n  help_url: https://support.ubisoft.com/games/4315?platform=9\r\n  facebook_url: https://www.facebook.com/forhonorgame\r\n  homepage_url: http://www.forhonorgame.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications_position: top_left\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: yes\r\n  - id: 1\r\n    text: l4\r\n    permanent: yes\r\n  - id: 2\r\n    text: l5\r\n    permanent: yes\r\n  - id: 3\r\n    text: l6\r\n    permanent: yes\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://fh.ubi.com\r\n      overlay_supported: yes\r\n      steam_app_id: 304390\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\304390\\Installed\r\n      arguments: /startedByUplay:Prod,2916,Live_LIVEPC\r\n      offline_arguments: /startedByUplay:Prod,2916,Live_LIVEPC\r\n      play_arguments: /startedByUplay:Prod,2916,Live_LIVEPC\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  override_uplayid: 569\r\n  uplay:\r\n    achievements: 155d751df26b3d33e5576591b2dec49c\r\n    achievements_sync_id: HERO\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: ForHonor\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: TimePlayedTotal\r\n    - id: Reputation\r\n    - id: TimePlayedPVP\r\n    - id: KillTotal\r\n    - id: DeathTotal\r\n    - id: AssistTotal\r\n    - id: CampaignProgression\r\n  game_streaming_enabled: yes\r\n  crash_reporting:\r\n    space_id: 882ad5b5-f549-44a1-a434-c465d22fe4bf\r\n    app_id: 3b27ede8-3ff9-435d-a264-e2de2ccbb2ce\r\n  app_id: 3b27ede8-3ff9-435d-a264-e2de2ccbb2ce\r\n  space_id: 882ad5b5-f549-44a1-a434-c465d22fe4bf\r\n  addons:\r\n  - id: 3955\r\n    is_visible: no\r\n  - id: 4211\r\n    is_visible: no\r\n  - id: 4212\r\n    is_visible: no\r\n  - id: 4213\r\n    is_visible: no\r\n  - id: 4315\r\n    is_visible: no\r\n  - id: 4316\r\n    is_visible: no\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: For Honor\r\n    l2: 65c2b56f7190d6454072d16fe669fa30.jpg\r\n    l3: 'Warning: You are running an unsupported video driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system is below the minimum requirements. For optimal performance please refer to the supported hardware list.'\r\n    l5: 'Warning: Your system is running low on available RAM. You may experience a degradation of performance. Consider turning off any unused background programs.'\r\n    l6: 'Warning: Your system is running low on available virtual memory. Consider turning off any unused background programs.'\r\n  zh-CN:\r\n    l1: 荣耀战魂\r\n    l2: 04761b0a280965692ff7d4c4dc166b94.jpg\r\n    l3: 警告：系统不支持正在运行的绘图驱动程序，请更新驱动程序以获得最佳性能。\r\n    l4: 警告：您的系统不符合此游戏的最低要求。请参阅硬件支持列表以获取更多信息。\r\n    l5: 警告：系统可使用的内存不足，你可能会有较差的游戏性能体验。请尝试关闭任何没在使用的背景程序。\r\n    l6: 警告：系统可使用的虚拟内存不足，请尝试关闭任何没在使用的背景程序。\r\n  cs-CZ:\r\n    l3: 'Upozornění: Nainstalované ovladače grafické karty nejsou podporované. Aktualizací ovladače dosáhnete optimálního výkonu.'\r\n    l4: 'Upozornění: Váš systém nesplňuje minimální systémové požadavky této hry. Více informací naleznete v seznamu podporovaného hardwaru.'\r\n    l5: 'Upozornění: Tvůj systém má nedostatek RAM. Může docházet k poklesu výkonu. Zvaž vypnutí nepoužívaných programů běžících na pozadí.'\r\n    l6: 'Upozornění: Tvůj systém má nedostatek dostupné virtuální paměti. Zvaž vypnutí nepoužívaných programů běžících na pozadí.'\r\n  da-DK:\r\n    l3: 'Advarsel: Du benytter en grafikdriver, der ikke er understøttet. Opdatér din driver for optimal ydelse.'\r\n    l4: 'Advarsel: Dit system opfylder ikke systemkravene til dette spil. Du kan finde flere oplysninger på listen over understøttet hardware.'\r\n  de-DE:\r\n    l3: 'Hinweis: Du nutzt einen nicht unterstützten Grafiktreiber. Bitte aktualisiere den Treiber für optimale Performance.'\r\n    l4: 'Hinweis: Dein System erfüllt nicht die Mindestvoraussetzungen für diesen Titel. Studiere für weitere Informationen die Liste der unterstützten Hardware.'\r\n    l5: 'Hinweis: Der verfügbare Arbeitsspeicher (RAM) in deinem System wird knapp. Es könnte zu Performance-Einbußen kommen. Du solltest in Betracht ziehen, alle unnötigen Hintergrundprogramme zu schließen.'\r\n    l6: 'Hinweis: Der verfügbare virtuelle Speicher in deinem System wird knapp. Du solltest in Betracht ziehen, alle unnötigen Hintergrundprogramme zu schließen.'\r\n  en-CA:\r\n    l3: 'Warning: You are running an unsupported graphics driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system does not meet the minimum requirements for this game. Please refer to the supported hardware list for more information.'\r\n    l5: 'Warning: Your system is running low on available RAM. You may experience a degradation of performance. Consider turning off any unused background programs.'\r\n    l6: 'Warning: Your system is running low on available virtual memory. Consider turning off any unused background programs.'\r\n  es-ES:\r\n    l3: 'Advertencia: estás usando un controlador de gráficos incompatible. Actualiza el controlador para disfrutar de un rendimiento óptimo.'\r\n    l4: 'Advertencia: tu sistema no cumple los requisitos mínimos de este juego. Consulta la lista de hardware compatible para obtener más información.'\r\n    l5: 'Advertencia: Queda poca RAM disponible en tu sistema, es posible que el rendimiento decaiga. Cierra algunos programas activos en segundo plano que no estés usando.'\r\n    l6: 'Advertencia: Queda poca RAM disponible en tu sistema. Cierra algunos programas activos en segundo plano que no estés usando.'\r\n  fi-FI:\r\n    l3: 'Varoitus: käytät näytönohjaimen ajuria, jota ei tueta. Päivitä ajurisi varmistaaksesi parhaan mahdollisen suorituskyvyn.'\r\n    l4: 'Varoitus: järjestelmäsi ei täytä tämän pelin vähimmäisvaatimuksia. Katso lisää tietoa tuettujen laitteistojen luettelosta.'\r\n  fr-FR:\r\n    l3: 'Avertissement : vous utilisez un pilote graphique non pris en charge, veuillez mettre à jour votre pilote pour des performances optimales.'\r\n    l4: 'Avertissement : votre système ne correspond pas à la configuration minimale requise pour ce jeu. Veuillez consulter la liste du matériel pris en charge pour en savoir plus.'\r\n    l5: \"Avertissement: La RAM disponible de votre système sera bientôt épuisée. Vous risquez de constater une dégradation des performances de jeu. Pensez à fermer les éventuels programmes d'arrière-plan inutilisés.\"\r\n    l6: \"Avertissement: La RAM disponible de votre système sera bientôt épuisée. Pensez à fermer les éventuels programmes d'arrière-plan inutilisés.\"\r\n  hu-HU:\r\n    l3: 'Figyelmeztetés: Nem támogatott grafikus illesztőprogramot használsz, kérjük, frissítsd az illesztőprogramot a jobb teljesítmény érdekében.'\r\n    l4: 'Figyelmeztetés: Rendszered nem felel meg a játék minimális rendszerkövetelményeinek. Kérjük, további információért tekintsd meg a támogatott hardverek listáját.'\r\n  it-IT:\r\n    l3: 'Attenzione: utilizzi un driver della scheda video non supportato. Aggiornalo per migliorare le prestazioni.'\r\n    l4: \"Attenzione: il tuo sistema non soddisfa i requisiti minimi di questo gioco. Per ulteriori informazioni, consulta l'elenco dell'hardware supportato.\"\r\n    l5: 'Attenzione: Il sistema sta esaurendo la RAM disponibile: le prestazioni potrebbero calare. Consigliamo di chiudere i programmi in background che non vengono utilizzati.'\r\n    l6: 'Attenzione: Il sistema sta esaurendo la memoria virtuale disponibile. Consigliamo di chiudere i programmi in background che non vengono utilizzati.'\r\n  ja-JP:\r\n    l3: 警告：非対応のグラフィックドライバを使用中です。パフォーマンス最適化のためにドライバをアップデートしてください。\r\n    l4: 警告：お使いのシステムは本ゲーム最低必要条件を満たしていません。詳しくは対応ハードウェアリストをご参照ください。\r\n    l5: 警告：使用可能なRAMの容量が不足しているため、パフォーマンスが低下する恐れがあります。使用していないバックグラウンドプログラムを終了させてください\r\n    l6: 警告：使用可能な仮想メモリの容量が不足しています。使用していないバックグラウンドプログラムを終了させてください\r\n  ko-KO:\r\n    l3: '경고: 지원하지 않는 그래픽 드라이버를 사용 중입니다. 최적화를 위해 드라이버를 업데이트하세요.'\r\n    l4: '경고: 시스템이 게임의 최소 요구 사항을 충족하지 않습니다. 더 자세한 정보는 지원하는 하드웨어 목록을 참조하세요.'\r\n    l5: '경고: 사용 중인 시스템의 RAM이 부족합니다. 퍼포먼스가 저하될 수 있습니다. 사용하지 않는 백그라운드 프로그램은 종료해 주시기 바랍니다.'\r\n    l6: '경고:  사용 중인 시스템의 가상 메모리가 부족합니다. 사용하지 않는 백그라운드 프로그램은 종료해 주시기 바랍니다.'\r\n  nb-NO:\r\n    l3: 'Advarsel: Du bruker en grafikkdriver som ikke støttes. Oppdater driveren for å få optimale ytelser.'\r\n    l4: 'Advarsel: Systemet ditt tilfredsstiller ikke spillets minimumskrav. Sjekk listen over maskinvare som støttes for å få vite mer.'\r\n  nl-NL:\r\n    l3: 'Waarschuwing: je gebruikt een grafisch stuurprogramma dat niet wordt ondersteund. Werk het programma bij voor optimale prestaties.'\r\n    l4: 'Waarschuwing: je systeem voldoet niet aan de vereisten voor deze game. Raadpleeg de lijst met ondersteunde hardware voor meer informatie.'\r\n    l5: \"Waarschuwing: Je systeem heeft weinig werkgeheugen. Dit kan ten koste gaan van de prestaties. Sluit ongebruikte achtergrondprogramma's af.\"\r\n    l6: \"Waarschuwing: Je systeem heeft weinig virtueel geheugen. Sluit ongebruikte achtergrondprogramma's af.\"\r\n  pl-PL:\r\n    l3: 'Ostrzeżenie: Korzystasz ze sterownika karty graficznej, który nie jest wspierany. Prosimy zaktualizować sterownik w celu uzyskania optymalnej wydajności.'\r\n    l4: 'Ostrzeżenie: Twój system nie spełnia minimalnych wymagań tej gry. Prosimy zapoznać się z listą obsługiwanych urządzeń, aby uzyskać więcej informacji.'\r\n    l5: 'Ostrzeżenie: W systemie brakuje dostępnej pamięci RAM, co może spowodować spadek wydajności. Rozważ wyłączenie jakichkolwiek nieużywanych działających w tle programów.'\r\n    l6: 'Ostrzeżenie: W systemie brakuje dostępnej pamięciu wirtualnej. Rozważ wyłączenie jakichkolwiek nieużywanych działających w tle programów.'\r\n  pt-BR:\r\n    l3: 'Alerta: você está usando um driver de gráficos não suportado, atualize seu driver para ter um desempenho ideal.'\r\n    l4: 'Alerta: seu sistema não satisfaz os requisitos mínimos para este jogo. Consulte a lista de hardwares suportados para mais informações.'\r\n    l5: 'Alerta: Seu sistema está com pouca RAM disponível. Você pode sofrer problemas de desempenho. Experimente desligar programas que estejam em execução sem serem necessários.'\r\n    l6: 'Alerta: Seu sistema está com pouca memória virtual disponível. Experimente desligar programas que estejam em execução sem serem necessários.'\r\n  pt-PT:\r\n    l3: 'Aviso: estás a utilizar um controlador de placa gráfica não compatível, atualiza o teu controlador para um desempenho ótimo.'\r\n    l4: 'Aviso: o teu sistema não possui os requisitos mínimos para este jogo. Para mais informações, consulta a lista de hardware compatível.'\r\n    l5: 'Aviso: Seu sistema está com pouca RAM disponível. É possível que você sofra uma queda no desempenho. Considere encerrar quaisquer programas que estejam sendo executados no fundo.'\r\n    l6: 'Aviso: Seu sistema está com pouca memória virtual disponível. Experimente desligar programas que estejam em execução sem serem necessários.'\r\n  ru-RU:\r\n    l3: 'Внимание: драйвер видеокарты, который вы используете, не поддерживается игрой. Рекомендуется обновить драйвер.'\r\n    l4: 'Внимание: характеристики вашего компьютера не соответствуют минимальным системным требованиям. Обратитесь к списку системных требований, чтобы получить более подробную информацию.'\r\n    l5: 'Внимание: Производительность игры может быть снижена из-за недостаточного объема свободной оперативной памяти. Попробуйте закрыть неиспользуемые в данный момент фоновые приложения.'\r\n    l6: 'Внимание: Недостаточный объем виртуальной памяти. Попробуйте закрыть неиспользуемые в данный момент фоновые приложения.'\r\n  sv-SE:\r\n    l3: Varning! Ditt grafikkorts drivrutin stöds inte. Uppdatera din drivrutin för bästa prestanda.\r\n    l4: Varning! Ditt system möter inte minimikraven för spelet. Se listan över stöttad hårdvara för mer information.\r\n  zh-TW:\r\n    l3: 警告：系統不支援目前執行的繪圖驅動程式，請更新驅動程式獲得最佳效能。\r\n    l4: 警告：您的系統並未符合此款遊戲的最低要求。請參閱支援硬體列表取得更多資訊。\r\n    l5: 警告：系統可使用的記憶體不足，你可能會有較差的遊戲效能體驗。請嘗試關閉任何沒有在使用的背景程式。\r\n    l6: 警告：系統可使用的虛擬記憶體不足，請嘗試關閉任何沒有在使用的背景程式。\r\n  es-MX:\r\n    l5: 'Advertencia: Queda poca RAM disponible en tu sistema, es posible que el rendimiento decaiga. Cierra algunos programas activos en segundo plano que no estés usando.'\r\n    l6: 'Advertencia: Queda poca RAM disponible en tu sistema. Cierra algunos programas activos en segundo plano que no estés usando.'\r\n"
   },
   {
+    "ProductId": 2945,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - 600 Credits Pack\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 2946,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  is_visible: no\r\n  is_ulc: yes\r\n  thumb_image: 46cec6431213b3b08410640e7ca2a05f.jpg\r\nlocalizations:\r\n  default:\r\n    l1: LEGEND OF THE MAMMOTH MISSIONS\r\n  fr-FR:\r\n    l1: MISSIONS DE LÉGENDE DU MAMMOUTH\r\n  it-IT:\r\n    l1: LEGGENDA DEL MAMMUT\r\n  de-DE:\r\n    l1: „LEGENDE DES MAMMUTS“-MISSIONEN\r\n  es-ES:\r\n    l1: MISIONES DE LA LEYENDA DEL MAMUT\r\n  pt-BR:\r\n    l1: MISSÕES LENDA DO MAMUTE\r\n  cs-CZ:\r\n    l1: MISE LEGENDY O MAMUTOVI\r\n  da-DK:\r\n    l1: MAMMUTTENS LEGENDE-MISSIONER\r\n  nl-NL:\r\n    l1: LEGENDE VAN DE MAMMOET-MISSIES\r\n  fi-FI:\r\n    l1: MAMMUTIN LEGENDA -TEHTÄVÄT\r\n  ja-JP:\r\n    l1: マンモスの伝説ミッション\r\n  ko-KO:\r\n    l1: 매머드의 전설 미션\r\n  es-MX:\r\n    l1: MISIONES DE LA LEYENDA DEL MAMUT\r\n  nb-NO:\r\n    l1: OPPDRAGENE I SERIEN «MAMMUTLEGENDEN»\r\n  pl-PL:\r\n    l1: MISJE „LEGENDA MAMUTA”\r\n  ru-RU:\r\n    l1: ЗАДАНИЯ \"ЛЕГЕНДА О МАМОНТЕ\"\r\n  zh-CN:\r\n    l1: 长毛象的传奇任务\r\n  zh-TW:\r\n    l1: 長毛象的傳奇任務\r\n  sv-SE:\r\n    l1: MAMMUTENS LEGEND\r\n"
   },
@@ -1886,6 +1902,10 @@
   {
     "ProductId": 3016,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 3023,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Tom Clancy''s The Division '\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 3037,
@@ -2524,6 +2544,18 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon Wildlands - Unidad Conspiracy\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 3949,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon Future Soldier Deluxe Edition\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 3952,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Splinter Cell Blacklist Deluxe Edition\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 3953,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Splinter Cell Conviction\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 3955,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -2616,6 +2648,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 4029,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Vegas\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 4030,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Vegas 2\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 4047,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -2680,6 +2720,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 4170,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's The Division - Standard Edition\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 4173,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Tom Clancy''s The Division '\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 4202,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's The Division\r\nlocalizations: {}\r\n"
   },
@@ -2714,6 +2762,10 @@
   {
     "ProductId": 4316,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 4336,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Steep - Language Pack 1\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4343,
@@ -2768,6 +2820,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Steep\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 4461,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Steep\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 4482,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew - Calling All Units (DLC)\r\nlocalizations: {}\r\n"
   },
@@ -2808,6 +2864,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's The Division - Let It Snow Pack\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 4519,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Splinter Cell Double Agent\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 4551,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Tom Clancy''s Rainbow Six® Siege: Year 2 Pass'\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 4553,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Anno 7b\r\n  background_image: c6aee36e8efa5feef4f47075079ce7fe.jpg\r\n  thumb_image: l2\r\n  logo_image: 86b0ec701ef3a304b2b9062b9d4962d4.png\r\n  splash_image: 5666f620fcb0aa98a4912f98cf935e88.jpg\r\n  help_url: l3\r\n  facebook_url: l4\r\n  homepage_url: l5\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 20fc5f6a50efbf8fd4c2b8674bb70cd9.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.ubisoft.com/en-us/game/anno/1800\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Anno 1800\r\n        path:\r\n          relative: Bin\\Win64\\Anno1800.exe\r\n        trial:\r\n          relative: Bin\\Win64\\Anno1800_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4553\\InstallDir\r\n        icon_image: 20fc5f6a50efbf8fd4c2b8674bb70cd9.ico\r\n        denuvo: yes\r\n      - shortcut_name: Anno 1800 Benchmark (DX11)\r\n        description: Anno 1800 Benchmark (DX11)\r\n        path:\r\n          relative: Bin\\Win64\\Anno1800.exe\r\n        trial:\r\n          relative: Bin\\Win64\\Anno1800_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4553\\InstallDir\r\n        arguments: /devicetype DX11 /benchmark /novsync\r\n        icon_image: 20fc5f6a50efbf8fd4c2b8674bb70cd9.ico\r\n        denuvo: yes\r\n      - shortcut_name: Anno 1800 Benchmark (DX12)\r\n        description: Anno 1800 Benchmark (DX12)\r\n        path:\r\n          relative: Bin\\Win64\\Anno1800.exe\r\n        trial:\r\n          relative: Bin\\Win64\\Anno1800_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4553\\InstallDir\r\n        arguments: /devicetype DX12 /benchmark /novsync\r\n        icon_image: 20fc5f6a50efbf8fd4c2b8674bb70cd9.ico\r\n        denuvo: yes\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Anno 1800\r\n        path:\r\n          relative: Bin\\Win64\\Anno1800.exe\r\n        trial:\r\n          relative: Bin\\Win64\\Anno1800_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4553\\InstallDir\r\n        icon_image: 20fc5f6a50efbf8fd4c2b8674bb70cd9.ico\r\n        denuvo: yes\r\n      - shortcut_name: Anno 1800 Benchmark (DX11)\r\n        description: Anno 1800 Benchmark (DX11)\r\n        path:\r\n          relative: Bin\\Win64\\Anno1800.exe\r\n        trial:\r\n          relative: Bin\\Win64\\Anno1800_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4553\\InstallDir\r\n        arguments: /devicetype DX11 /benchmark /novsync\r\n        icon_image: 20fc5f6a50efbf8fd4c2b8674bb70cd9.ico\r\n        denuvo: yes\r\n      - shortcut_name: Anno 1800 Benchmark (DX12)\r\n        description: Anno 1800 Benchmark (DX12)\r\n        path:\r\n          relative: Bin\\Win64\\Anno1800.exe\r\n        trial:\r\n          relative: Bin\\Win64\\Anno1800_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4553\\InstallDir\r\n        arguments: /devicetype DX12 /benchmark /novsync\r\n        icon_image: 20fc5f6a50efbf8fd4c2b8674bb70cd9.ico\r\n        denuvo: yes\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Anno 1800\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com/Games/5060\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 1\r\n  change_language_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 7897dec2eac326723320d2585f820b9e.zip\r\n    achievements_sync_id: ANNO7\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: Anno1800\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: PlaytimeCustom\r\n    - id: GameProgression\r\n    - id: MaxPopulationCount\r\n  crash_reporting:\r\n    space_id: bd7681a3-3585-4972-9b07-694a1de8622e\r\n    app_id: 67e7c6d5-eb95-4626-8aa8-51c370b73fa3\r\n  app_id: 67e7c6d5-eb95-4626-8aa8-51c370b73fa3\r\n  space_id: bd7681a3-3585-4972-9b07-694a1de8622e\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 60\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Anno 1800\r\n    l2: 1c85c3f56161bbe277d9c5c13ca4a9ba.jpg\r\n    l3: https://www.ubisoft.com/en-gb/help/game/anno-1800\r\n    l4: https://www.facebook.com/annogame\r\n    l5: https://www.ubisoft.com/en-gb/game/anno/1800\r\n  zh-CN:\r\n    l1: 纪元1800\r\n    l2: 5cfc254fd26c1e23f97ef36b7356eb45.jpg\r\n  de-DE:\r\n    l3: https://www.ubisoft.com/de-de/help/game/anno-1800\r\n    l4: https://www.facebook.com/annoDE/\r\n    l5: https://www.ubisoft.com/de-de/game/anno/1800\r\n"
   },
@@ -2822,6 +2886,10 @@
   {
     "ProductId": 4557,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Imperial Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 4559,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4572,
@@ -2840,12 +2908,24 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 4662,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Splinter Cell\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 4682,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Star Trek™: Bridge Crew'\r\n  background_image: 83af95182a1996d446e99bfb72b5d5fa.jpg\r\n  thumb_image: ae213b6983867704b36afd0887b14faf.jpg\r\n  logo_image: 5a58752821b50711f56a15c8bb7d6ea6.png\r\n  splash_image: e5470e3cea50757b234b46f5277af0c8.png\r\n  uplay_pipe_required: no\r\n  start_game:\r\n    steam:\r\n      steam_app_id: 527100\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\527100\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  override_uplayid: 3175\r\n  club:\r\n    enabled: yes\r\n  space_id: e9900ed8-9f2d-45e2-8d85-7d01ff91d6e9\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 4687,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Splinter Cell Chaos Theory\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 4698,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 4699,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Endwar\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4709,
@@ -2862,6 +2942,10 @@
   {
     "ProductId": 4715,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch_Dogs® 2 - Private Eye Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 4735,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch_Dogs 2\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4740,
@@ -3152,6 +3236,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 5032,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Signature Collection\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 5037,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew 2\r\n  background_image: 291a762a6e5c444002574ea22e257755.jpg\r\n  thumb_image: 897d520a351122cc3e8809e62c00b4af.jpg\r\n  logo_image: 42ce22d07812a540c6c00465ec3d63ad.png\r\n  splash_image: l1\r\n  help_url: http://support.ubi.com\r\n  facebook_url: http://www.facebook.com/thecrewgame\r\n  homepage_url: http://thecrew-game.ubisoft.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.ubisoft.com/en-gb/game/the-crew/the-crew-2\r\n      overlay_supported: yes\r\n      steam_app_id: 646910\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\646910\\Installed\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  override_uplayid: 2855\r\n  uplay:\r\n    achievements: be86e6006466ad585090f231d6a600f2\r\n    achievements_sync_id: 2855\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TheCrew2\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: 90c0ddf3-64c2-40d1-ac53-85ebeccd96eb\r\n    app_id: 41080f91-b0c8-4539-a5d9-965b14ef32bf\r\n  app_id: 41080f91-b0c8-4539-a5d9-965b14ef32bf\r\n  space_id: 90c0ddf3-64c2-40d1-ac53-85ebeccd96eb\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: b3e5e1c578e457591767a09678cb383c.png\r\n  zh-CN:\r\n    l1: 55ebbd307cd80b7195f5aa337086e304.jpg\r\n"
   },
@@ -3266,6 +3354,10 @@
   {
     "ProductId": 5087,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Space Junkies\r\n  background_image: 66e13832daf10e8269f2f2f576746027.jpg\r\n  thumb_image: c99a01584ef335ee1bd839d084f3516d.jpg\r\n  logo_image: fbd4a4f434a196fe03779db4401fdbe2.png\r\n  splash_image: 42d5db2260bfe54bb5af411bcb0a07e7.png\r\n  homepage_url: https://www.ubisoft.com/\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_supported: no\r\n      steam_app_id: 819970\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\819970\\Installed\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  game_invites_enabled: yes\r\n  override_uplayid: 5056\r\n  news:\r\n    thread: SpaceJunkies\r\n  player_stats:\r\n    items:\r\n    - id: headsetPlaytime\r\n    - id: lootBox\r\n    - id: nbMatchRated\r\n    - id: CurrentLevel\r\n    - id: nbMatchStarted\r\n  space_id: e6752512-d123-4f29-943f-93fe9642077f\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 5092,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Assassin's Creed 17\r\n  background_image: df0c2d8dafeef298d25d308e2d671322.jpg\r\n  thumb_image: l2\r\n  logo_image: fa3b2098a82f5fce7bb439079726440a.png\r\n  splash_image: c5db953cc785c5369f4a3848bf5471a4.png\r\n  help_url: https://support.ubisoft.com/games/5046?platform=9\r\n  facebook_url: https://www.facebook.com/assassinscreed/\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: yes\r\n  - id: 2\r\n    text: New controller device has been connected\r\n    permanent: no\r\n  - id: 3\r\n    text: Your controller device has been disconnected\r\n    permanent: no\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://assassinscreed.ubisoft.com/game\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      steam_app_id: 812140\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\812140\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: default\r\n  upn_enabled: true\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: e121f30863e5d273cc327bb9467978e7\r\n    achievements_sync_id: ACD\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: ACOdyssey\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: TimePlayed\r\n    - id: TotalProgress\r\n    - id: PlayerLevel\r\n    - id: TotalKills\r\n    - id: DistanceTravelled\r\n  crash_reporting:\r\n    space_id: 7d3950e6-41ce-43e3-976b-f893b246c31e\r\n    app_id: b5a56749-f302-46f7-8b17-ace3b0c3410f\r\n  app_id: b5a56749-f302-46f7-8b17-ace3b0c3410f\r\n  space_id: 7d3950e6-41ce-43e3-976b-f893b246c31e\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Assassin's Creed® Odyssey\r\n    l2: dc483860ed7e46a710bba16bb51671ab.jpg\r\n    l3: 'Warning: You are running an unsupported video driver, please update your driver for optimal performance.'\r\n  zh-CN:\r\n    l1: 刺客信条：奥德赛\r\n    l2: 6e61ff455fd916a82aa25711624d7316.jpg\r\n    l3: 警告：你所使用的显卡驱动程序游戏并未支持，请升级你的驱动程序才能有最佳的性能表现。\r\n  da-DK:\r\n    l3: 'Advarsel: Spillet understøtter ikke den grafikdriver, du bruger. Du bør opdatere den for at få den optimale ydelse.'\r\n  nl-NL:\r\n    l3: 'Waarschuwing: je gebruikt een grafisch stuurprogramma dat niet wordt ondersteund. Werk je stuurprogramma bij voor optimale prestaties.'\r\n  fi-FI:\r\n    l3: 'Varoitus: Käyttämäsi näytönohjain ei ole tuettu. Päivitä ajurisi, niin saat parhaan mahdollisen kokemuksen.'\r\n  fr-FR:\r\n    l3: 'Avertissement : Ton pilote vidéo n’est pas pris en charge. Mets à jour ton pilote pour de meilleures performances.'\r\n  de-DE:\r\n    l3: 'Warnung: Du benutzt einen nicht unterstützen Grafikkarten-Treiber. Bitte aktualisiere deinen Treiber für das optimale Spielerlebnis.'\r\n  it-IT:\r\n    l3: 'Attenzione: stai utilizzando dei driver video non supportati, aggiornali per ottenere dei risultati migliori.'\r\n  ja-JP:\r\n    l3: '警告: サポートされていないビデオドライバを実行しています。最適なパフォーマンスのために、ドライバを更新してください。'\r\n  nb-NO:\r\n    l3: 'Advarsel: Du kjører en grafikkdriver som ikke støttes. Oppdater driveren for å få optimale ytelser.'\r\n  pl-PL:\r\n    l3: 'Uwaga: używasz nieobsługiwanego sterownika graficznego. Zaktualizuj swój sterownik, by zapewnić sobie optymalną wydajność.'\r\n  pt-BR:\r\n    l3: 'Aviso: você está usando um driver de vídeo que não é suportado. Por favor, atualize o seu driver para obter o desempenho adequado.'\r\n  ru-RU:\r\n    l3: 'Внимание: игра не поддерживает видеодрайвер. Обнови его, чтобы добиться наилучшей производительности.'\r\n  es-ES:\r\n    l3: 'Advertencia: Estás usando un controlador de vídeo no soportado; actualiza tu controlador para asegurar un rendimiento óptimo.'\r\n  sv-SE:\r\n    l3: Varning! Du använder en grafikkortsdrivrutin som inte stöds. Uppdatera drivrutinen för att optimera prestandan.\r\n  zh-TW:\r\n    l3: 警告：你所使用的顯示卡驅動程式遊戲並未支援，請升級你的驅動程式才能有最佳的效能表現。\r\n"
   },
   {
     "ProductId": 5100,
@@ -5212,6 +5304,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 10211,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six 3 Gold\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 10212,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 10250,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Ghost Recon® Wildlands - Deluxe Edition\r\nlocalizations: {}\r\n"
   },
@@ -5232,8 +5332,20 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 10315,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy’s Rainbow Six Lockdown\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 10366,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Siege PTS\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 10381,
+    "Configuration": "---\nversion: 2.0\nroot:\n name: NAME\nlocalizations:\n default:\n  NAME: \"Rainbow Six Siege - Standard Edition\" \n"
+  },
+  {
+    "ProductId": 10420,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Siege - WW - Digital - Uplay - Standard + Gold Edition\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 10422,
@@ -5258,6 +5370,10 @@
   {
     "ProductId": 10498,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Star Trek: Bridge Crew'\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 10512,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - 1200 Credits Pack\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 10537,
@@ -5356,6 +5472,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 10804,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Origins\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 10808,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Origins - Deluxe Edition\r\nlocalizations: {}\r\n"
   },
@@ -5438,6 +5558,10 @@
   {
     "ProductId": 11067,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11079,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Year 3 Pass\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 11081,
@@ -5580,6 +5704,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: For Honor® - Starter Edition\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 11531,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 5\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 11534,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Tom Clancy''s Rainbow Six® Siege: Starter Edition'\r\nlocalizations: {}\r\n"
   },
@@ -5612,7 +5740,15 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Settlers - History Edition\r\n  sort_string: The Settlers - History Edition\r\n  background_image: 28c87991551f2d20b229d1f5bbc46ff5.jpg\r\n  thumb_image: 8cb29cbc8f38a2322e9a3e63f55caef8.jpg\r\n  logo_image: f4203bc1edbde192646a698e9e515d93.png\r\n  splash_image: 603706c3b1eb4da0813f6e658afbcd75.jpg\r\n  help_url: http://support.ubi.com\r\n  homepage_url: https://www.thesettlers-alliance.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications: []\r\n  icon_image: dcefba428b598de2144db663cd26234e.ico\r\n  start_game:\r\n    online:\r\n      executables:\r\n      - shortcut_name: The Settlers\r\n        description: The Settlers History Edition\r\n        path:\r\n          relative: Siedler1.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        icon_image: dcefba428b598de2144db663cd26234e.ico\r\n      - shortcut_name: Config\r\n        path:\r\n          relative: Config.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        uplay_pipe_required: no\r\n    offline:\r\n      executables:\r\n      - shortcut_name: The Settlers\r\n        description: The Settlers History Edition\r\n        path:\r\n          relative: Siedler1.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        icon_image: dcefba428b598de2144db663cd26234e.ico\r\n      - shortcut_name: Config\r\n        path:\r\n          relative: Config.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        uplay_pipe_required: no\r\n  installer:\r\n    game_identifier: thesettlers\r\n    publisher: Ubisoft\r\n    help_url: HELPURL\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 2\r\n  news:\r\n    thread: TheSettlersHE\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n  app_id: b4e49e6b-3198-4f26-80ac-a35ad08680c2\r\n  space_id: 69cf3d5d-5461-45c9-8fbc-128d62eda942\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 11761,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey - The Blind King\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 11762,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11764,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey\r\nlocalizations: {}\r\n"
   },
   {
@@ -5622,6 +5758,10 @@
   {
     "ProductId": 11768,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey - Language Pack 3\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11777,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 11783,
@@ -5710,6 +5850,14 @@
   {
     "ProductId": 11903,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Tom Clancy's Ghost Recon 06\r\n  background_image: 41bad6a14f8d55dd42421e4e9ccac4b1.jpg\r\n  thumb_image: l2\r\n  logo_image: 3139ef53229894056c94232bb7b5d957.png\r\n  splash_image: de3b87fdf34f7d0d2962915bc68cdf2a.jpg\r\n  help_url: https://support.ubi.com\r\n  facebook_url: https://www.facebook.com/ghostrecon/\r\n  homepage_url: https://ghost-recon.ubisoft.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: no\r\n  - id: 1\r\n    text: Your system is running low on available RAM. You may experience a degradation of performance. Consider turning off any unused background programs.\r\n    permanent: no\r\n  icon_image: 736e15bcd62e86efee7946230be731f6.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://support.ubi.com\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Ghost Recon® Breakpoint\r\n        path:\r\n          relative: GRB.exe\r\n        trial:\r\n          relative: GRB_UPP.exe\r\n          arguments: -arg_app_id {AppId}\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11903\\InstallDir\r\n        arguments: -arg_app_id {AppId}\r\n        play_arguments: -arg_app_id {AppId}\r\n        denuvo: yes\r\n      - shortcut_name: Ghost Recon® Breakpoint (Vulkan)\r\n        path:\r\n          relative: GRB_vulkan.exe\r\n        trial:\r\n          relative: GRB_UPP_vulkan.exe\r\n          arguments: -arg_app_id {AppId}\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11903\\InstallDir\r\n        arguments: -arg_app_id {AppId}\r\n        play_arguments: -arg_app_id {AppId}\r\n        denuvo: yes\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Ghost Recon® Breakpoint\r\n        path:\r\n          relative: GRB.exe\r\n        trial:\r\n          relative: GRB_UPP.exe\r\n          arguments: -arg_app_id {AppId}\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11903\\InstallDir\r\n        arguments: -arg_app_id {AppId} -arg_app_id {AppId}\r\n        play_arguments: -arg_app_id {AppId}\r\n        denuvo: yes\r\n      - shortcut_name: Ghost Recon® Breakpoint (Vulkan)\r\n        path:\r\n          relative: GRB_vulkan.exe\r\n        trial:\r\n          relative: GRB_UPP_vulkan.exe\r\n          arguments: -arg_app_id {AppId}\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11903\\InstallDir\r\n        arguments: -arg_app_id {AppId} -arg_app_id {AppId}\r\n        play_arguments: -arg_app_id {AppId}\r\n        denuvo: yes\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Ghost Recon Breakpoint\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://support.ubi.com\r\n  change_language_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: a51ecea20298a9a45e429fe4af73bba2\r\n    achievements_sync_id: GRW2\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: GhostReconBreakpoint\r\n  game_page_style: ui-theme-breakpoint\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: SoloGlobalPlaytime\r\n    - id: CoopGlobalPlaytime\r\n    - id: PvPGlobalPlaytime\r\n    - id: PlayerLevel\r\n    - id: StoryCompletionRatio\r\n  crash_reporting:\r\n    space_id: e5af8b3f-a867-4ed4-8804-229b50c9bb1f\r\n    app_id: dc0736e0-ec67-4802-bb3a-f853b3a34042\r\n  app_id: dc0736e0-ec67-4802-bb3a-f853b3a34042\r\n  space_id: e5af8b3f-a867-4ed4-8804-229b50c9bb1f\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 60\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Tom Clancy's Ghost Recon® Breakpoint\r\n    l2: 0540f178200a5ef9bc3abb05d5d8d473.jpg\r\n    l3: 'Warning: You are running an unsupported video driver, please update your driver for optimal performance.'\r\n  zh-CN:\r\n    l1: 幽灵行动：断点\r\n    l2: 37745d717de339b9b12d2cf3b1f149ef.jpg\r\n    l3: 警告：你所使用的显卡驱动程序游戏并未支持，请升级你的驱动程序才能有最佳的性能表现。\r\n  da-DK:\r\n    l3: 'Advarsel: Spillet understøtter ikke den grafikdriver, du bruger. Du bør opdatere den for at få den optimale ydelse.'\r\n  nl-NL:\r\n    l3: 'Waarschuwing: je gebruikt een grafisch stuurprogramma dat niet wordt ondersteund. Werk je stuurprogramma bij voor optimale prestaties.'\r\n  fi-FI:\r\n    l3: 'Varoitus: Käyttämäsi näytönohjain ei ole tuettu. Päivitä ajurisi, niin saat parhaan mahdollisen kokemuksen.'\r\n  fr-FR:\r\n    l3: 'Avertissement : Ton pilote vidéo n’est pas pris en charge. Mets à jour ton pilote pour de meilleures performances.'\r\n  de-DE:\r\n    l3: 'Warnung: Du benutzt einen nicht unterstützen Grafikkarten-Treiber. Bitte aktualisiere deinen Treiber für das optimale Spielerlebnis.'\r\n  it-IT:\r\n    l3: 'Attenzione: stai utilizzando dei driver video non supportati, aggiornali per ottenere dei risultati migliori.'\r\n  ja-JP:\r\n    l3: '警告: サポートされていないビデオドライバを実行しています。最適なパフォーマンスのために、ドライバを更新してください。'\r\n  nb-NO:\r\n    l3: 'Advarsel: Du kjører en grafikkdriver som ikke støttes. Oppdater driveren for å få optimale ytelser.'\r\n  pl-PL:\r\n    l3: 'Uwaga: używasz nieobsługiwanego sterownika graficznego. Zaktualizuj swój sterownik, by zapewnić sobie optymalną wydajność.'\r\n  pt-BR:\r\n    l3: 'Aviso: você está usando um driver de vídeo que não é suportado. Por favor, atualize o seu driver para obter o desempenho adequado.'\r\n  ru-RU:\r\n    l3: 'Внимание: игра не поддерживает видеодрайвер. Обнови его, чтобы добиться наилучшей производительности.'\r\n  es-ES:\r\n    l3: 'Advertencia: Estás usando un controlador de vídeo no soportado; actualiza tu controlador para asegurar un rendimiento óptimo.'\r\n  sv-SE:\r\n    l3: Varning! Du använder en grafikkortsdrivrutin som inte stöds. Uppdatera drivrutinen för att optimera prestandan.\r\n  zh-TW:\r\n    l3: 警告：你所使用的顯示卡驅動程式遊戲並未支援，請升級你的驅動程式才能有最佳的效能表現。\r\n"
+  },
+  {
+    "ProductId": 11908,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Division® 2\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11909,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Division® 2\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 11912,
@@ -6240,6 +6388,18 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 12845,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: THE SETTLERS II - Veni, Vidi, Vici History Edition\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 12846,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: THE SETTLERS III - History Edition\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 12847,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: THE SETTLERS IV - History Edition\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 12903,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch_Dogs - Standard Edition\r\nlocalizations: {}\r\n"
   },
@@ -6642,6 +6802,10 @@
   {
     "ProductId": 14221,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Unity - Giveaway April 2019\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 14222,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno® 1800 - Base Game\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14224,
@@ -7640,6 +7804,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 16891,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno® 1800\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 16915,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Valhalla\r\nlocalizations: {}\r\n"
   },
@@ -7806,6 +7974,10 @@
   {
     "ProductId": 17258,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Trackmania - Starter Access\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17285,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Valhalla - Standard Edition\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 17287,

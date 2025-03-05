@@ -26020,5 +26020,453 @@
       17956,
       58861
     ]
+  },
+  {
+    "ProductId": 22,
+    "ProductType": "Game",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 2639,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      10366,
+      10381,
+      15578
+    ]
+  },
+  {
+    "ProductId": 2945,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2169
+    ]
+  },
+  {
+    "ProductId": 3023,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      4124,
+      4173
+    ]
+  },
+  {
+    "ProductId": 4173,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      568,
+      2905,
+      2906,
+      2907,
+      4698
+    ]
+  },
+  {
+    "ProductId": 4336,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4006,
+      4007,
+      4013,
+      4014,
+      4015,
+      4016,
+      4329,
+      4330,
+      4331,
+      4332,
+      4335
+    ]
+  },
+  {
+    "ProductId": 4461,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      4336,
+      4436
+    ]
+  },
+  {
+    "ProductId": 4551,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2169,
+      4343
+    ]
+  },
+  {
+    "ProductId": 4735,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2688,
+      3367,
+      3962
+    ]
+  },
+  {
+    "ProductId": 5092,
+    "ProductType": "Game",
+    "ProductAssociations": [
+      5105,
+      5106,
+      5107,
+      5108,
+      5109,
+      5110,
+      5111,
+      5112,
+      5113,
+      5114,
+      5141,
+      5142,
+      5143,
+      5144,
+      5145,
+      5146,
+      5151,
+      5152,
+      5153,
+      5163,
+      5164,
+      5165,
+      5166,
+      5167,
+      5168,
+      5169,
+      5170,
+      5171,
+      5172,
+      5173,
+      5174,
+      5175,
+      5176,
+      5177,
+      5178,
+      5179,
+      5180,
+      5182,
+      5197,
+      5198,
+      5199,
+      5200,
+      5201,
+      5202,
+      5203,
+      5204,
+      5205,
+      5206,
+      5207,
+      5208,
+      5209,
+      5234,
+      5235,
+      5236,
+      5237,
+      5238,
+      5239,
+      5304,
+      5305,
+      5306,
+      5307,
+      5621,
+      5623,
+      17941,
+      59777
+    ]
+  },
+  {
+    "ProductId": 10381,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      635,
+      2064,
+      2957
+    ]
+  },
+  {
+    "ProductId": 10512,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2649
+    ]
+  },
+  {
+    "ProductId": 10804,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      3539,
+      5046,
+      5047,
+      15532,
+      60863
+    ]
+  },
+  {
+    "ProductId": 11079,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2169,
+      11081
+    ]
+  },
+  {
+    "ProductId": 11531,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      1803,
+      5067,
+      5241
+    ]
+  },
+  {
+    "ProductId": 11761,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      5180
+    ]
+  },
+  {
+    "ProductId": 11764,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      5092,
+      5623
+    ]
+  },
+  {
+    "ProductId": 11777,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      11761,
+      11764,
+      11767,
+      11768,
+      12402
+    ]
+  },
+  {
+    "ProductId": 11908,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      4932,
+      5022,
+      12980,
+      15478
+    ]
+  },
+  {
+    "ProductId": 11909,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      11908,
+      12072,
+      12079,
+      14205
+    ]
+  },
+  {
+    "ProductId": 12845,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      11783
+    ]
+  },
+  {
+    "ProductId": 12846,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      11784
+    ]
+  },
+  {
+    "ProductId": 12847,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      11785
+    ]
+  },
+  {
+    "ProductId": 14222,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      4553,
+      4557,
+      5440,
+      5441,
+      5442,
+      5443,
+      5444,
+      5445,
+      5446,
+      5447,
+      5448,
+      15519,
+      59682,
+      59720,
+      59721
+    ]
+  },
+  {
+    "ProductId": 16891,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      12120,
+      12121,
+      14222,
+      16890
+    ]
+  },
+  {
+    "ProductId": 17285,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      16956,
+      16963
+    ]
+  },
+  {
+    "ProductId": 2301,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2298
+    ]
+  },
+  {
+    "ProductId": 3949,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      674
+    ]
+  },
+  {
+    "ProductId": 3952,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      444
+    ]
+  },
+  {
+    "ProductId": 3953,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2,
+      96
+    ]
+  },
+  {
+    "ProductId": 4029,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      88
+    ]
+  },
+  {
+    "ProductId": 4030,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      108
+    ]
+  },
+  {
+    "ProductId": 4170,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      568,
+      2905,
+      2906,
+      2907,
+      4698
+    ]
+  },
+  {
+    "ProductId": 4519,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      110
+    ]
+  },
+  {
+    "ProductId": 4559,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 4662,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      109
+    ]
+  },
+  {
+    "ProductId": 4687,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      95
+    ]
+  },
+  {
+    "ProductId": 4699,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      83
+    ]
+  },
+  {
+    "ProductId": 5032,
+    "ProductType": "BundlePackage",
+    "ProductAssociations": [
+      2301,
+      3949,
+      3952,
+      3953,
+      4029,
+      4030,
+      4170,
+      4519,
+      4662,
+      4687,
+      4699,
+      10211,
+      10212,
+      10315,
+      10366,
+      10420
+    ]
+  },
+  {
+    "ProductId": 10211,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2235
+    ]
+  },
+  {
+    "ProductId": 10212,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      2297
+    ]
+  },
+  {
+    "ProductId": 10315,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      358
+    ]
+  },
+  {
+    "ProductId": 10420,
+    "ProductType": "Template",
+    "ProductAssociations": [
+      635,
+      2064,
+      2957,
+      4559
+    ]
   }
 ]
