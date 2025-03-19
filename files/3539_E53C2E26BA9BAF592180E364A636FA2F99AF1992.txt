@@ -1,8 +1,8 @@
 Total number of files  : 447
 Total number of chunks : 58
-Total size of Files    :      79647476759 Bytes | 74.177 GB
-Total size of Slices   :       2338065431 Bytes | 2.177 GB
-Total size Downloaded  :        708683861 Bytes | 675.854 MB
+Total size of Files    :      79647476759 Bytes | 74,177 GB
+Total size of Slices   :       2338065431 Bytes | 2,177 GB
+Total size Downloaded  :        708683861 Bytes | 675,854 MB
 
 Compression Method      : Zstd
 Version                 : 3
