@@ -30,6 +30,12 @@
     ]
   },
   {
+    "ProductId": 13,
+    "Manifest": [
+      "8693C32A1538403908F339AB0159A5E905DCD8D5"
+    ]
+  },
+  {
     "ProductId": 22,
     "Manifest": [
       "33416BDD719B92CFD793FF4692E02FF498A04A30"
@@ -1113,6 +1119,12 @@
     ]
   },
   {
+    "ProductId": 6100,
+    "Manifest": [
+      "DA441FBEF92DE89076D7D31D593E8DF85B69DA61"
+    ]
+  },
+  {
     "ProductId": 6115,
     "Manifest": [
       "E5298108479F1C5310BB914A7D876DAC24026843"
@@ -1340,6 +1352,12 @@
     "ProductId": 17051,
     "Manifest": [
       "ED0A036A8DD846C8B64A41E8BD2BF0728737219C"
+    ]
+  },
+  {
+    "ProductId": 17903,
+    "Manifest": [
+      "FA82A50EE1364A4778AFB24259AE0CEEA86BC22C"
     ]
   },
   {

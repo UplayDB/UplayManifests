@@ -20,6 +20,10 @@
     "Configuration": "#--------------------------------------------------------------------------\n# PRINCE OF PERSIA THE FORGOTTEN SANDS\n#--------------------------------------------------------------------------\nversion: 2.0\nroot:\n  name: \"Prince of Persia® The Forgotten Sands™\"\n  background_image: 94df8e9b3ee64e61920ba908b65cd9e4.jpg\n  thumb_image: a4fec86c10265aa988ffb97d659c468e.jpg\n  logo_image: f6189b75e7a4ee9045c1cacea2f8aa34.png\n  dialog_image: 1abb77ddd4b99243406fa7d115daa4de.png\n  icon_image: 7e77e4406ce80a33c42ec2a477973032.ico\n  background_color: 000000\n  sort_string: \"Prince of Persia 5\"\n  start_game:\n    online:\n      overlay_supported: no\n      after_game_report_enabled: yes\n      executables:\n        - path: \n            relative: \"Prince of Persia.exe\"\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Prince of Persia - The Forgotten Sands\\InstallDir\n          evil_updater:\n            path: \n              relative: gu.exe\n            working_directory:\n              register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Prince of Persia - The Forgotten Sands\\InstallDir\n    offline:\n      after_game_report_enabled: yes\n      executables:\n        - path: \n            relative: \"Prince of Persia.exe\"\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Prince of Persia - The Forgotten Sands\\InstallDir\n  installer:\n    game_identifier: Prince of Persia The Forgotten Sands\n    publisher: Ubisoft\n    about_url: http://prince-of-persia.com\n    upgraded_from_legacy: yes\n  digital_distribution:\n    version: 3\n  cloud_saves: yes\n  game_streaming_enabled: yes\n  facebook_url: http://prince-of-persia.ubi.com/facebook/\n  forum_url: https://discord.gg/ubisoftofficial\n  homepage_url: http://prince-of-persia.com\n  help_url: http://support.ubi.com\n  uplay:\n    game_code: POPTM\n  space_id: 9feecc9f-4805-487d-8350-b5f2ad6a43fa\n  club:\n    enabled: no\n  orbit_exited: yes\n  settings_exe:\n    path: \n      relative: GameSettings.exe\n    working_directory:\n      register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Prince of Persia - The Forgotten Sands\\InstallDir\n  after_game_report_ad: yes\n  legacy_friends_nicks_enabled: yes"
   },
   {
+    "ProductId": 13,
+    "Configuration": "#--------------------------------------------------------------------------\n# Driver San Francisco Deluxe Edition\n#--------------------------------------------------------------------------\nversion: 2.0\nroot:\n  name: \"Driver® San Francisco\"\n  background_image: 4bcab2979539c736ff9cfbe7acbcbd56.jpg\n  thumb_image: 1d6d30d753595225f53f82350c6b424e.jpg\n  logo_image: 8f42e80a3e1dafaddea9a30f0254d662.png\n  dialog_image: 9bc9e172c3d6cd06289e9e4a4d0958f0.png\n  icon_image: bfcc0fa67411fe2af8c63571dd5b18db.ico\n  background_color: 000000\n  start_game:\n    online:\n      overlay_supported: no\n      after_game_report_enabled: yes\n      executables:\n        - path: \n            relative: \"Driver.exe\"\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Driver San Francisco\\GameUpdate\\installdir\n          evil_updater:\n            path: \n              relative: gu.exe\n            working_directory:\n              register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Driver San Francisco\\GameUpdate\\installdir\n    offline:\n      after_game_report_enabled: yes\n      executables:\n        - path: \n            relative: \"Driver.exe\"\n          arguments: -offline\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Driver San Francisco\\GameUpdate\\installdir\n  cloud_saves: no\n  installer:\n    game_identifier: Driver San Francisco\n    publisher: Ubisoft\n    help_url: http://support.ubi.com\n    about_url: http://www.driver-game.com\n    upgraded_from_legacy: yes\n  game_streaming_enabled: yes\n  uplay:\n    game_code: DRV5\n    platform_code: PC\n\n  facebook_url: http://www.facebook.com/driver\n  homepage_url: http://www.driver-game.com\n  help_url: http://support.ubi.com\n  forum_url: https://discord.gg/ubisoftofficial\n  after_game_report_ad: yes\n  legacy_friends_nicks_enabled: yes\n  space_id: d177ec97-aaed-4cf7-9215-e4e18d91a0ce\n  club:\n    enabled: yes\n  "
+  },
+  {
     "ProductId": 22,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 2070\r\n  background_image: dab54ae00427d76aa3cf655c4f8c4dde.jpg\r\n  thumb_image: 7270bb74bded62634b57878b7bcb3a22.jpg\r\n  logo_image: 7a2177acf0ba33bbcfbee6ee35108bdb.png\r\n  help_url: https://www.ubisoft.com/help/anno-2070/all-topics\r\n  facebook_url: https://facebook.com/annogame/\r\n  homepage_url: https://www.ubisoft.com/game/anno-2070/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: fb2ebde69f7640f2ac8d00752b8a60bb.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Anno2070\r\n        path:\r\n          relative: Anno5.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\22\\InstallDir\r\n        denuvo: yes\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Anno2070\r\n        path:\r\n          relative: Anno5.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\22\\InstallDir\r\n        denuvo: yes\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Anno 2070\r\n    publisher: Ubisoft\r\n    help_url: https://www.ubisoft.com/help/anno-2070/all-topics\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 1\r\n  crash_reporting:\r\n    space_id: de132bb9-2b0b-4bd2-b918-7bc26a92d413\r\n    app_id: 50defd3b-fe40-4875-8db4-ec7cad37a848\r\n  app_id: 50defd3b-fe40-4875-8db4-ec7cad37a848\r\n  space_id: de132bb9-2b0b-4bd2-b918-7bc26a92d413\r\n  dev:\r\n    require_legacy_game_password: always\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
@@ -190,6 +194,14 @@
   {
     "ProductId": 128,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® III - Benedict Arnold\r\n  is_visible: yes\r\n  thumb_image: c887db3d5c7fbb5c66b9b87d2009fb35.jpg\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 157,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 158,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 161,
@@ -688,6 +700,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Trials Fusion: Full Game'\r\n  is_visible: yes\r\n  thumb_image: be6f57c4d9b6108f9b3154debd0db06f.jpg\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 792,
+    "Configuration": "---\nversion: 2.0\nroot:\n name: NAME\nlocalizations:\n default:\n  NAME: \"Trials Fusion\" \n"
+  },
+  {
     "ProductId": 801,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  cd_key_required: no\r\n  background_image: f01e7904a46b04af56e51292d0f9366f.jpg\r\n  thumb_image: e61cb9eceb39205ecb5f0b0d0d38aaaf.jpg\r\n  logo_image: 7973711bfada4f1c052e478e4f878700.png\r\n  help_url: http://support.ubi.com\r\n  facebook_url: https://www.facebook.com/ChildofLightgame\r\n  homepage_url: http://childoflight.ubi.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: caf27a6c87a1c85158db4e4881e8ef2b.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: \r\n        path:\r\n          relative: ChildofLight.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\801\\InstallDir\r\n    offline:\r\n      executables:\r\n      - shortcut_name: \r\n        path:\r\n          relative: ChildofLight.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\801\\InstallDir\r\n        arguments: -offline\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Child of Light Demo\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n  game_streaming_enabled: yes\r\n  app_id: 4c2582ee-ec9e-420c-9ba2-ba401f2eacce\r\n  space_id: 600a36b8-ed3e-40c6-8a5f-c2b890eda50a\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Child of Light Demo\r\n  ja-JP:\r\n    l1: チャイルド オブ ライト 体験版\r\n"
   },
@@ -972,6 +988,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Exclusive Body Parts Pack (unlock for Season Pass Gamestop Preorder)\r\n  is_visible: no\r\n  is_ulc: yes\r\n  thumb_image: fdce7483d7ff3407ac42298cdfe74164.jpg\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 1081,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed Shadows\r\n  background_image: 5aa743e6cf8672c3162fcb8d8456bf04.jpg\r\n  thumb_image: 16fcc734008c4404d27c930405830d86.jpg\r\n  logo_image: 7dba5db276751b66171c696fb9c62b15.png\r\n  splash_image: ab22de8cc682f0a951d0a8bf614aebf3.png\r\n  help_url: https://support.ubisoft.com/\r\n  facebook_url: https://www.facebook.com/assassinscreed/\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      steam_app_id: 3159330\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\3159330\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  upn_enabled: true\r\n  uplay:\r\n    achievements: 7573b875ed51df0e3fe561bd7f0635c3\r\n    achievements_sync_id: 8006\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: AcRed\r\n  app_id: 32f4b40b-b657-420d-a046-a0a18331c7f9\r\n  space_id: 1a99b369-2931-4b22-96a4-9a0b58e586e8\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 60\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 1123,
     "Configuration": "---\nversion: 2.0\nroot:\n name: NAME\nlocalizations:\n default:\n  NAME: \"BASTILLE PACK\" \n"
   },
@@ -1070,6 +1090,10 @@
   {
     "ProductId": 1296,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Unity\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 1298,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry 4 – Standard Edition\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 1356,
@@ -2417,7 +2441,7 @@
   },
   {
     "ProductId": 3619,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  background_image: 160159cf6a4487f5605078896c68e294.jpg\r\n  thumb_image: l2\r\n  logo_image: 8ed50864d177441829e82c7afb003f39.png\r\n  splash_image: 78facfd210141a2b6a2c2faa3c809fae.jpg\r\n  help_url: https://support.ubisoft.com/games/4568?platform=9\r\n  facebook_url: https://www.facebook.com/watchdogsgame\r\n  homepage_url: http://watchdogs.ubisoft.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: no\r\n  - id: 1\r\n    text: l4\r\n    permanent: yes\r\n  - id: 2\r\n    text: l5\r\n    permanent: yes\r\n  - id: 3\r\n    text: l6\r\n    permanent: yes\r\n  - id: 4\r\n    text: l7\r\n    permanent: yes\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      steam_app_id: 447040\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\447040\\Installed\r\n      arguments: -launcher_restarted\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  party:\r\n    party_enabled: yes\r\n    max_party_size: 2\r\n  game_invites_enabled: yes\r\n  override_uplayid: 2688\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 28b7907fb6ca8b6f746701e8568bde60\r\n    achievements_sync_id: WD2\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  crash_reporting:\r\n    space_id: 8c8d9b22-498c-45e6-80da-7cd22787c9b3\r\n    app_id: 35c5c607-2717-47d9-9323-7df47c6e1c4d\r\n  app_id: 35c5c607-2717-47d9-9323-7df47c6e1c4d\r\n  space_id: 8c8d9b22-498c-45e6-80da-7cd22787c9b3\r\n  addons:\r\n  - id: 3367\r\n    is_visible: no\r\n  - id: 3368\r\n    is_visible: no\r\n  - id: 3373\r\n    is_visible: no\r\n  - id: 3374\r\n    is_visible: no\r\n  - id: 3375\r\n    is_visible: no\r\n  - id: 3376\r\n    is_visible: no\r\n  - id: 3377\r\n    is_visible: no\r\n  - id: 3378\r\n    is_visible: no\r\n  - id: 3379\r\n    is_visible: no\r\n  - id: 3380\r\n    is_visible: no\r\n  - id: 3381\r\n    is_visible: no\r\n  - id: 3382\r\n    is_visible: no\r\n  - id: 3383\r\n    is_visible: no\r\n  - id: 3400\r\n    is_visible: no\r\n  - id: 3401\r\n    is_visible: no\r\n  - id: 3402\r\n    is_visible: no\r\n  - id: 3403\r\n    is_visible: no\r\n  - id: 3404\r\n    is_visible: no\r\n  - id: 3405\r\n    is_visible: no\r\n  - id: 3406\r\n    is_visible: no\r\n  - id: 3407\r\n    is_visible: no\r\n  - id: 3408\r\n    is_visible: no\r\n  - id: 3409\r\n    is_visible: no\r\n  - id: 3410\r\n    is_visible: no\r\n  - id: 3411\r\n    is_visible: no\r\n  - id: 3412\r\n    is_visible: no\r\n  - id: 3413\r\n    is_visible: no\r\n  - id: 3414\r\n    is_visible: no\r\n  - id: 3415\r\n    is_visible: no\r\n  - id: 3416\r\n    is_visible: no\r\n  - id: 3417\r\n    is_visible: no\r\n  - id: 3418\r\n    is_visible: no\r\n  - id: 3611\r\n    is_visible: no\r\n  - id: 3612\r\n    is_visible: no\r\n  - id: 3671\r\n    is_visible: no\r\n  - id: 3672\r\n    is_visible: no\r\n  - id: 3673\r\n    is_visible: no\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: WATCH_DOGS® 2\r\n    l2: 0f946fb03f8bdf913969d1c22df1625e.jpg\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your CPU is below the minimum requirements (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz or better). CPUs below the minimum requirements might work, but not officially supported.\r\n    l7: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  zh-CN:\r\n    l1: 看门狗2\r\n    l2: 361d4ac8f27b8da4871863d4b837f9e1.jpg\r\n    l3: 已成功连接新的控制器。\r\n    l4: 系统使用的显卡驱动程序太旧，为提供最佳游戏体验，请至显卡制造商网站下载最新驱动程序并更新。\r\n    l5: 没有足够的内存可以提供稳定的显示张数。如果遇到性能方面的问题，请关闭所有的背景应用程序 / 处理程序或降低绘图品质试试看。\r\n    l6: 你的 CPU 规格未达到最低硬件需求（Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz 以上）。 CPU 未达最低需求或许可以运行游戏，但并不推荐使用。\r\n    l7: 你的 GPU 规格未达到最低需求（NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) 以上）。GPU 未达最低需求或许可以运行游戏，但并不推荐使用。\r\n  en-CA:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your CPU is below the minimum requirements (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz or better). CPUs below the minimum requirements might work, but not officially supported.\r\n    l7: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  en-UK:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your CPU is below the minimum requirements (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz or better). CPUs below the minimum requirements might work, but not officially supported.\r\n    l7: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  cs-CZ:\r\n    l3: Připojení nového ovladače proběhlo úspěšně.\r\n    l4: Zvolený grafický adaptér používá zastaralou verzi ovladače. Chcete-li si hru vychutnat na maximum, stáhněte si nejnovější software ze stránek výrobce své grafické karty.\r\n    l5: Nedostatek paměti pro stabilní běh hry. Pokud budete mít problémy s výkonem, zkuste zavřít všechny aplikace/procesy na pozadí nebo snižte kvalitu grafiky.\r\n    l6: Váš procesor je pod minimálními požadavky (Intel Core i5 2400S @ 2,5 GHz | AMD FX 6120 @ 3,5 GHz nebo lepší). Procesory pod minimálními požadavky mohou fungovat, ale nejsou oficiálně podporovány.\r\n    l7: Vaše grafická karta je pod minimálními požadavky (NVIDIA GeForce GTX 660 (2 GB) | AMD Radeon HD 7870 (2 GB) nebo lepší). Grafické karty pod minimálními požadavky mohou fungovat, ale nejsou oficiálně podporovány.\r\n  da-DK:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your CPU is below the minimum requirements (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz or better). CPUs below the minimum requirements might work, but not officially supported.\r\n    l7: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  de-DE:\r\n    l3: Der neue Controller wurde erfolgreich angeschlossen.\r\n    l4: Die Treiberversion deiner aktivierten Grafikkarte ist veraltet. Suche auf der Hersteller-Website deiner Grafikkarte die aktuellste Software für eine optimales Spielerlebnis.\r\n    l5: Nicht genug Arbeitsspeicher für eine stabile Bildfrequenz. Falls Leistungsprobleme auftreten, solltest du versuchen, alle Hintergrundanwendungen/-prozesse zu schließen oder die Grafikqualität herabzusetzen.\r\n    l6: Deine CPU erfüllt nicht die Mindestanforderungen (Intel Core i5 2400S mit 2,5 GHz | AMD FX 6120 mit 3,5 GHz oder besser). CPUs unterhalb der Mindestanforderungen können funktionieren, werden aber offiziell nicht unterstützt.\r\n    l7: Deine Grafikkarte erfüllt nicht die Mindestanforderungen (NVIDIA GeForce GTX 660 (2 GB) | AMD Radeon HD 7870 (2 GB) oder besser). Grafikkarten unterhalb der Mindestanforderungen können funktionieren, werden aber offiziell nicht unterstützt.\r\n  es-ES:\r\n    l3: El nuevo mando se ha conectado satisfactoriamente.\r\n    l4: La versión de los controladores de tu adaptador de vídeo no está actualizada. Para obtener una experiencia de juego perfecta, pásate por el sitio web del fabricante de la tarjeta de vídeo para obtener el software actualizado.\r\n    l5: No hay RAM disponible para mostrar una tasa de fotogramas estable. Si se dan problemas de rendimiento, intenta cerrar todas las aplicaciones y procesos en segundo plano o disminuir la calidad de los gráficos.\r\n    l6: Tu CPU está por debajo de los requisitos mínimos (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz o superior). Los CPU inferiores a los requisitos mínimos pueden funcionar, pero no es compatible oficialmente.\r\n    l7: Tu CPU está por debajo de los requisitos mínimos (NVIDIA GeForce GTX 660 de 2GB | AMD Radeon HD 7870 de 2GB o superior). Los CPU inferiores a los requisitos mínimos pueden funcionar, pero no es compatible oficialmente.\r\n  es-MX:\r\n    l3: El nuevo control se conectó satisfactoriamente.\r\n    l4: La versión de los controladores de tu adaptador de video no está actualizada. Para obtener una experiencia de juego perfecta, visita el sitio web del fabricante de la tarjeta de video para obtener el software actualizado.\r\n    l5: No hay RAM disponible para mostrar una tasa de fotogramas estable. Si se dan problemas de rendimiento, intenta cerrar todas las aplicaciones y procesos en segundo plano o disminuir la calidad de los gráficos.\r\n    l6: Tu CPU está por debajo de los requisitos mínimos (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz o superior). Los CPU con requisitos mínimos por debajo de los recomentadados pueden funcionar, pero no son compatibles oficialmente.\r\n    l7: Tu CPU está por debajo de los requisitos mínimos (NVIDIA GeForce GTX 660 de 2GB | AMD Radeon HD 7870 de 2GB o superior). Los CPU con requisitos mínimos por debajo de los recomendados pueden funcionar, pero no son compatibles oficialmente.\r\n  fi-FI:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your CPU is below the minimum requirements (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz or better). CPUs below the minimum requirements might work, but not officially supported.\r\n    l7: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  fr-FR:\r\n    l3: La nouvelle manette a été connectée avec succès.\r\n    l4: Le pilote de la carte graphique activée n’est pas à jour. Pour profiter d’une expérience de jeu optimale, téléchargez la dernière version du logiciel sur le site du fabricant de votre matériel.\r\n    l5: Pas assez de RAM disponible pour obtenir une fréquence d'affichage stable. En cas de problèmes de rendement, essayez de fermer toutes les applications en arrière-plan ou de diminuer la qualité des graphismes.\r\n    l6: Les caractéristiques de votre processeur sont inférieures à la configuration minimale requise (Intel Core i5 2400S à 2,5 GHz | AMD FX 6120 à 3,5 GHz ou supérieur). Les processeurs présentant de telles caractéristiques sont susceptibles de faire fonctionner le jeu, mais ne sont pas pris en charge officiellement.\r\n    l7: Les caractéristiques de votre processeur graphique sont inférieures à la configuration minimale requise (NVIDIA GeForce GTX 660 (2 Go) | AMD Radeon HD 7870 (2 Go) ou supérieur). Les processeurs graphiques présentant de telles caractéristiques sont susceptibles de faire fonctionner le jeu, mais ne sont pas pris en charge officiellement.\r\n  fr-CA:\r\n    l3: La nouvelle manette a été connectée avec succès.\r\n    l4: Le pilote de la carte graphique activée n’est pas à jour. Pour profiter d’une expérience de jeu optimale, téléchargez la dernière version du logiciel sur le site du fabricant de votre matériel.\r\n  hu-HU:\r\n    l3: Az új kontroller sikeresen csatlakoztatva.\r\n    l4: A grafikuskártya illesztőprogramja elavult verziójú. A legjobb játékélmény érdekében keresd meg a videókártya gyártójának honlapján a legfrissebb szoftvert.\r\n    l5: Nincs elég szabad RAM a stabil képfrissítéshez. Teljesítményproblémák esetén próbáld bezárni a háttérben futó alkalmazásokat/folyamatokat vagy csökkentsd a grafika minőségét.\r\n    l6: A processzorod nem éri el a minimális követelményeket (Intel Core i5 2400S @ 2,5 GHz | AMD FX 6120 @ 3,5 GHz vagy jobb). A minimális követelményeket el nem érő processzor működhet, de hivatalosan nem támogatott.\r\n    l7: A GPU nem éri el a minimális követelményeket (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) vagy jobb). A minimális követelményeket el nem érő GPU működhet, de hivatalosan nem támogatott.\r\n  it-IT:\r\n    l3: Il nuovo controller è stato collegato con successo.\r\n    l4: I driver della scheda grafica selezionata non sono aggiornati. Per la miglior esperienza di gioco possibile, controlla il sito del produttore per trovare l'ultima versione.\r\n    l5: RAM insufficiente per un framerate stabile. Se hai problemi di prestazioni, prova a chiudere tutte le applicazioni e i processi o a diminuire la qualità grafica.\r\n    l6: La tua CPU non soddisfa i requisiti minimi (Intel Core i5 2400S @ 2,5 GHz | AMD FX 6120 @ 3,5 GHz o superiori). Le CPU che non soddisfano i requisiti potrebbero funzionare, ma non sono supportate ufficialmente.\r\n    l7: La tua GPU non soddisfa i requisiti minimi (NVIDIA GeForce GTX 660 (2 GB) | AMD Radeon HD 7870 (2 GB) o superiori. Le GPU che non soddisfano i requisiti potrebbero funzionare, ma non sono supportate ufficialmente.\r\n  ja-JP:\r\n    l3: 新しいコントローラーの接続に成功しました\r\n    l4: 使用可能なグラフィックスアダプターのドライバーバージョンは使用期限が切れています。最高のゲーム体験のためには、ビデオカード製造者のウェブサイトを確認して最新ソフトウェアを入手してください\r\n    l5: 安定したフレームレートに必要なメモリが不足しています。パフォーマンスに問題が生じた場合は、他のアプリ/プロセスを全て閉じるか、グラフィック品質を下げてください\r\n    l6: ご使用のCPUは必要動作環境(Intel Core i5 2400S、2.5 GHz / AMD FX 6120、3.5 GHz以上)を満たしていません。必要動作環境を満たしていないCPUでも動作しますが、公式にはサポートしていません\r\n    l7: ご使用のCPUは必要動作環境(NVIDIA GeForce GTX 660、2 GB / AMD Radeon HD 7870、2 GB)を満たしていません。必要動作環境を満たしていないCPUでも動作しますが、公式にはサポートしていません\r\n  ko-KO:\r\n    l3: 새 컨트롤러를 성공적으로 연결했습니다.\r\n    l4: 그래픽 어댑터가 가능한 드라이버가 구 버전입니다. 게임의 성능을 최대한 즐기시려면 비디오 카드 제조업체의 웹사이트에서 최신 소프트웨어를 다운로드받으십시오.\r\n    l5: 사용 가능한 RAM이 부족해 프레임 안정화를 진행할 수 없습니다. 게임 실행에 문제가 발생하면 다른 백그라운드 응용 프로그램과 프로세스를 닫거나 그래픽 설정을 낮추기를 바랍니다.\r\n    l6: CPU가 최소 사양인 Intel Core i5 2400S @ 2.5 GHz 또는 AMD FX 6120 @ 3.5 GHz 이하 모델입니다. 최소 사양 이하의 CPU에서 게임이 구동될 수도 있지만 공식적으로 지원하지 않습니다.\r\n    l7: GPU가 최소 사양인 NVIDIA GeForce GTX 660(2GB) 또는 AMD Radeon HD 7870(2GB) 이하 모델입니다. 최소 사양 이하의 GPU에서 게임이 구동될 수도 있지만 공식적으로 지원하지 않습니다.\r\n  nb-NO:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your CPU is below the minimum requirements (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz or better). CPUs below the minimum requirements might work, but not officially supported.\r\n    l7: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  nl-NL:\r\n    l3: Nieuwe controller verbinden gelukt.\r\n    l4: Het stuurbestand van je actieve grafische adapter is verouderd. Kijk voor de beste spelbeleving op de website van de videokaartfabrikant voor de meest recente software.\r\n    l5: Niet genoeg vrij RAM voor een stabiele framesnelheid. Als je problemen met de performance ervaart, kun je proberen alle programma's / processen op de achtergrond te sluiten of de kwaliteit van de graphics te verlagen.\r\n    l6: Je processor voldoet niet aan de minimum vereisten (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz of beter). Processoren die niet voldoen aan de minimum vereisten kunnen wel werken, maar worden niet officieel ondersteund.\r\n    l7: Je GPU (videokaart) voldoet niet aan de minimum vereisten(NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) of beter). Videokaarten die niet voldoen aan de minimum vereisten kunnen wel werken, maar worden niet officieel ondersteund.\r\n  pl-PL:\r\n    l3: Nowy kontroler został podłączony.\r\n    l4: Sterownik wybranej karty graficznej jest nieaktualny. Aby uzyskać jak najlepsze wrażenia z gry, odwiedź stronę producenta karty i pobierz najnowsze sterowniki.\r\n    l5: Za mało pamięci RAM dla stabilnej częstotliwości odświeżania. W przypadku problemów z wydajnością, należy zamknąć wszystkie aplikacje/procesy działające w tle lub obniżyć jakość grafiki.\r\n    l6: Twój procesor nie spełnia minimalnych wymagań (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz lub lepszy). Gra może działać z procesorami, które nie spełniają minimalnych wymagań, ale nie są one oficjalnie obsługiwane.\r\n    l7: Twoja karta graficzna nie spełnia minimalnych wymagań (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) lub lepsza). Gra może działać z kartami graficznymi, które nie spełniają minimalnych wymagań, ale nie są one oficjalnie obsługiwane.\r\n  pt-BR:\r\n    l3: Um novo controle foi conectado com sucesso.\r\n    l4: A versão de driver do seu adaptador de vídeo ativado está desatualizada. Para uma melhor experiência de jogo, verifique o site do fabricante da placa de vídeo para obter o software mais recente.\r\n    l5: Não há RAM suficiente para manter uma taxa de quadros estável. Caso ocorram problemas de desempenho, experimente fechar todos os aplicativos/processos em segundo plano ou diminua a qualidade dos gráficos.\r\n    l6: A sua CPU está abaixo dos requisitos mínimos (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz ou superior). CPUs abaixo dos requisitos mínimos podem funcionar, mas não são compatíveis oficialmente.\r\n    l7: A sua GPU está abaixo dos requisitos mínimos (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) ou superior). GPUs abaixo dos requisitos mínimos podem funcionar, mas não são compatíveis oficialmente.\r\n  pt-PT:\r\n    l3: Um novo controle foi conectado com sucesso.\r\n    l4: A versão de driver do seu adaptador de vídeo ativado está desatualizada. Para uma melhor experiência de jogo, verifique o site do fabricante da placa de vídeo para obter o software mais recente.\r\n    l5: Não há RAM suficiente para manter uma taxa de quadros estável. Caso ocorram problemas de desempenho, experimente fechar todos os aplicativos/processos em segundo plano ou diminua a qualidade dos gráficos.\r\n    l6: A sua CPU está abaixo dos requisitos mínimos (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz ou superior). CPUs abaixo dos requisitos mínimos podem funcionar, mas não são compatíveis oficialmente.\r\n    l7: A sua GPU está abaixo dos requisitos mínimos (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) ou superior). GPUs abaixo dos requisitos mínimos podem funcionar, mas não são compatíveis oficialmente.\r\n  ru-RU:\r\n    l3: Подключен новый контроллер.\r\n    l4: Версия драйвера видеокарты устарела. Чтобы в полной мере насладиться возможностями игры, посетите сайт изготовителя видеокарты и установите новейшее ПО.\r\n    l5: Недостаточно оперативной памяти для поддержания стабильной частоты кадров. При возникновении проблем с производительностью попробуйте закрыть фоновые процессы и приложения либо понизить настройки графики.\r\n    l6: Ваш процессор не соответствует минимальным системным требованиям (Intel Core i5 2400S @ 2.5 ГГц, AMD FX 6120 @ 3.5 ГГц или лучше). Не соответствующие системным требованиям процессоры могут работать, но официально не поддерживаются.\r\n    l7: Ваша видеокарта не соответствует минимальным системным требованиям (NVIDIA GeForce GTX 660 (2ГБ) | AMD Radeon HD 7870 (2ГБ) или лучше). Не соответствующие системным требованиям видеокарты могут работать, но официально не поддерживаются.\r\n  sv-SE:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your CPU is below the minimum requirements (Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz or better). CPUs below the minimum requirements might work, but not officially supported.\r\n    l7: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  zh-TW:\r\n    l3: 已成功連接新的控制器。\r\n    l4: 系統使用的顯示卡驅動程式太舊，為提供最佳遊戲體驗，請至顯示卡製造商網站下載最新驅動程式並更新。\r\n    l5: 沒有足夠的記憶體可以提供穩定的顯示張數。如果遇到效能方面的問題，請關閉所有的背景應用程式 / 處理程序或降低繪圖品質試試看。\r\n    l6: 你的 CPU 規格未達到最低硬體需求（Intel Core i5 2400S @ 2.5 GHz | AMD FX 6120 @ 3.5 GHz 以上）。 CPU 未達最低需求或許可以執行遊戲，但並不推薦使用。\r\n    l7: 你的 GPU 規格未達到最低需求（NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) 以上）。GPU 未達最低需求或許可以執行遊戲，但並不推薦使用。\r\n  fr-cA:\r\n    l5: Pas assez de RAM disponible pour obtenir une fréquence d'affichage stable. En cas de problèmes de rendement, essayez de fermer toutes les applications en arrière-plan ou de diminuer la qualité des graphismes.\r\n    l6: Les caractéristiques de votre processeur sont inférieures à la configuration minimale requise (Intel Core i5 2400S à 2,5 GHz | AMD FX 6120 à 3,5 GHz ou supérieur). Les processeurs présentant de telles caractéristiques sont susceptibles de faire fonctionner le jeu, mais ne sont pas pris en charge officiellement.\r\n    l7: Les caractéristiques de votre processeur graphique sont inférieures à la configuration minimale requise (NVIDIA GeForce GTX 660 (2 Go) | AMD Radeon HD 7870 (2 Go) ou supérieur). Les processeurs graphiques présentant de telles caractéristiques sont susceptibles de faire fonctionner le jeu, mais ne sont pas pris en charge officiellement.\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  background_image: 160159cf6a4487f5605078896c68e294.jpg\r\n  thumb_image: l2\r\n  logo_image: 8ed50864d177441829e82c7afb003f39.png\r\n  splash_image: 78facfd210141a2b6a2c2faa3c809fae.jpg\r\n  help_url: https://support.ubisoft.com/games/4568?platform=9\r\n  facebook_url: https://www.facebook.com/watchdogsgame\r\n  homepage_url: http://watchdogs.ubisoft.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: no\r\n  - id: 1\r\n    text: l4\r\n    permanent: yes\r\n  - id: 2\r\n    text: l5\r\n    permanent: yes\r\n  - id: 4\r\n    text: l6\r\n    permanent: yes\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      steam_app_id: 447040\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\447040\\Installed\r\n      arguments: -launcher_restarted\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  party:\r\n    party_enabled: yes\r\n    max_party_size: 2\r\n  game_invites_enabled: yes\r\n  override_uplayid: 2688\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 28b7907fb6ca8b6f746701e8568bde60\r\n    achievements_sync_id: WD2\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  crash_reporting:\r\n    space_id: 8c8d9b22-498c-45e6-80da-7cd22787c9b3\r\n    app_id: 35c5c607-2717-47d9-9323-7df47c6e1c4d\r\n  app_id: 35c5c607-2717-47d9-9323-7df47c6e1c4d\r\n  space_id: 8c8d9b22-498c-45e6-80da-7cd22787c9b3\r\n  addons:\r\n  - id: 3367\r\n    is_visible: no\r\n  - id: 3368\r\n    is_visible: no\r\n  - id: 3373\r\n    is_visible: no\r\n  - id: 3374\r\n    is_visible: no\r\n  - id: 3375\r\n    is_visible: no\r\n  - id: 3376\r\n    is_visible: no\r\n  - id: 3377\r\n    is_visible: no\r\n  - id: 3378\r\n    is_visible: no\r\n  - id: 3379\r\n    is_visible: no\r\n  - id: 3380\r\n    is_visible: no\r\n  - id: 3381\r\n    is_visible: no\r\n  - id: 3382\r\n    is_visible: no\r\n  - id: 3383\r\n    is_visible: no\r\n  - id: 3400\r\n    is_visible: no\r\n  - id: 3401\r\n    is_visible: no\r\n  - id: 3402\r\n    is_visible: no\r\n  - id: 3403\r\n    is_visible: no\r\n  - id: 3404\r\n    is_visible: no\r\n  - id: 3405\r\n    is_visible: no\r\n  - id: 3406\r\n    is_visible: no\r\n  - id: 3407\r\n    is_visible: no\r\n  - id: 3408\r\n    is_visible: no\r\n  - id: 3409\r\n    is_visible: no\r\n  - id: 3410\r\n    is_visible: no\r\n  - id: 3411\r\n    is_visible: no\r\n  - id: 3412\r\n    is_visible: no\r\n  - id: 3413\r\n    is_visible: no\r\n  - id: 3414\r\n    is_visible: no\r\n  - id: 3415\r\n    is_visible: no\r\n  - id: 3416\r\n    is_visible: no\r\n  - id: 3417\r\n    is_visible: no\r\n  - id: 3418\r\n    is_visible: no\r\n  - id: 3611\r\n    is_visible: no\r\n  - id: 3612\r\n    is_visible: no\r\n  - id: 3671\r\n    is_visible: no\r\n  - id: 3672\r\n    is_visible: no\r\n  - id: 3673\r\n    is_visible: no\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: WATCH_DOGS® 2\r\n    l2: 0f946fb03f8bdf913969d1c22df1625e.jpg\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  zh-CN:\r\n    l1: 看门狗2\r\n    l2: 361d4ac8f27b8da4871863d4b837f9e1.jpg\r\n    l3: 已成功连接新的控制器。\r\n    l4: 系统使用的显卡驱动程序太旧，为提供最佳游戏体验，请至显卡制造商网站下载最新驱动程序并更新。\r\n    l5: 没有足够的内存可以提供稳定的显示张数。如果遇到性能方面的问题，请关闭所有的背景应用程序 / 处理程序或降低绘图品质试试看。\r\n    l6: 你的 GPU 规格未达到最低需求（NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) 以上）。GPU 未达最低需求或许可以运行游戏，但并不推荐使用。\r\n  en-CA:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  en-UK:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  cs-CZ:\r\n    l3: Připojení nového ovladače proběhlo úspěšně.\r\n    l4: Zvolený grafický adaptér používá zastaralou verzi ovladače. Chcete-li si hru vychutnat na maximum, stáhněte si nejnovější software ze stránek výrobce své grafické karty.\r\n    l5: Nedostatek paměti pro stabilní běh hry. Pokud budete mít problémy s výkonem, zkuste zavřít všechny aplikace/procesy na pozadí nebo snižte kvalitu grafiky.\r\n    l6: Vaše grafická karta je pod minimálními požadavky (NVIDIA GeForce GTX 660 (2 GB) | AMD Radeon HD 7870 (2 GB) nebo lepší). Grafické karty pod minimálními požadavky mohou fungovat, ale nejsou oficiálně podporovány.\r\n  da-DK:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  de-DE:\r\n    l3: Der neue Controller wurde erfolgreich angeschlossen.\r\n    l4: Die Treiberversion deiner aktivierten Grafikkarte ist veraltet. Suche auf der Hersteller-Website deiner Grafikkarte die aktuellste Software für eine optimales Spielerlebnis.\r\n    l5: Nicht genug Arbeitsspeicher für eine stabile Bildfrequenz. Falls Leistungsprobleme auftreten, solltest du versuchen, alle Hintergrundanwendungen/-prozesse zu schließen oder die Grafikqualität herabzusetzen.\r\n    l6: Deine Grafikkarte erfüllt nicht die Mindestanforderungen (NVIDIA GeForce GTX 660 (2 GB) | AMD Radeon HD 7870 (2 GB) oder besser). Grafikkarten unterhalb der Mindestanforderungen können funktionieren, werden aber offiziell nicht unterstützt.\r\n  es-ES:\r\n    l3: El nuevo mando se ha conectado satisfactoriamente.\r\n    l4: La versión de los controladores de tu adaptador de vídeo no está actualizada. Para obtener una experiencia de juego perfecta, pásate por el sitio web del fabricante de la tarjeta de vídeo para obtener el software actualizado.\r\n    l5: No hay RAM disponible para mostrar una tasa de fotogramas estable. Si se dan problemas de rendimiento, intenta cerrar todas las aplicaciones y procesos en segundo plano o disminuir la calidad de los gráficos.\r\n    l6: Tu CPU está por debajo de los requisitos mínimos (NVIDIA GeForce GTX 660 de 2GB | AMD Radeon HD 7870 de 2GB o superior). Los CPU inferiores a los requisitos mínimos pueden funcionar, pero no es compatible oficialmente.\r\n  es-MX:\r\n    l3: El nuevo control se conectó satisfactoriamente.\r\n    l4: La versión de los controladores de tu adaptador de video no está actualizada. Para obtener una experiencia de juego perfecta, visita el sitio web del fabricante de la tarjeta de video para obtener el software actualizado.\r\n    l5: No hay RAM disponible para mostrar una tasa de fotogramas estable. Si se dan problemas de rendimiento, intenta cerrar todas las aplicaciones y procesos en segundo plano o disminuir la calidad de los gráficos.\r\n    l6: Tu CPU está por debajo de los requisitos mínimos (NVIDIA GeForce GTX 660 de 2GB | AMD Radeon HD 7870 de 2GB o superior). Los CPU con requisitos mínimos por debajo de los recomendados pueden funcionar, pero no son compatibles oficialmente.\r\n  fi-FI:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  fr-FR:\r\n    l3: La nouvelle manette a été connectée avec succès.\r\n    l4: Le pilote de la carte graphique activée n’est pas à jour. Pour profiter d’une expérience de jeu optimale, téléchargez la dernière version du logiciel sur le site du fabricant de votre matériel.\r\n    l5: Pas assez de RAM disponible pour obtenir une fréquence d'affichage stable. En cas de problèmes de rendement, essayez de fermer toutes les applications en arrière-plan ou de diminuer la qualité des graphismes.\r\n    l6: Les caractéristiques de votre processeur graphique sont inférieures à la configuration minimale requise (NVIDIA GeForce GTX 660 (2 Go) | AMD Radeon HD 7870 (2 Go) ou supérieur). Les processeurs graphiques présentant de telles caractéristiques sont susceptibles de faire fonctionner le jeu, mais ne sont pas pris en charge officiellement.\r\n  fr-CA:\r\n    l3: La nouvelle manette a été connectée avec succès.\r\n    l4: Le pilote de la carte graphique activée n’est pas à jour. Pour profiter d’une expérience de jeu optimale, téléchargez la dernière version du logiciel sur le site du fabricant de votre matériel.\r\n  hu-HU:\r\n    l3: Az új kontroller sikeresen csatlakoztatva.\r\n    l4: A grafikuskártya illesztőprogramja elavult verziójú. A legjobb játékélmény érdekében keresd meg a videókártya gyártójának honlapján a legfrissebb szoftvert.\r\n    l5: Nincs elég szabad RAM a stabil képfrissítéshez. Teljesítményproblémák esetén próbáld bezárni a háttérben futó alkalmazásokat/folyamatokat vagy csökkentsd a grafika minőségét.\r\n    l6: A GPU nem éri el a minimális követelményeket (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) vagy jobb). A minimális követelményeket el nem érő GPU működhet, de hivatalosan nem támogatott.\r\n  it-IT:\r\n    l3: Il nuovo controller è stato collegato con successo.\r\n    l4: I driver della scheda grafica selezionata non sono aggiornati. Per la miglior esperienza di gioco possibile, controlla il sito del produttore per trovare l'ultima versione.\r\n    l5: RAM insufficiente per un framerate stabile. Se hai problemi di prestazioni, prova a chiudere tutte le applicazioni e i processi o a diminuire la qualità grafica.\r\n    l6: La tua GPU non soddisfa i requisiti minimi (NVIDIA GeForce GTX 660 (2 GB) | AMD Radeon HD 7870 (2 GB) o superiori. Le GPU che non soddisfano i requisiti potrebbero funzionare, ma non sono supportate ufficialmente.\r\n  ja-JP:\r\n    l3: 新しいコントローラーの接続に成功しました\r\n    l4: 使用可能なグラフィックスアダプターのドライバーバージョンは使用期限が切れています。最高のゲーム体験のためには、ビデオカード製造者のウェブサイトを確認して最新ソフトウェアを入手してください\r\n    l5: 安定したフレームレートに必要なメモリが不足しています。パフォーマンスに問題が生じた場合は、他のアプリ/プロセスを全て閉じるか、グラフィック品質を下げてください\r\n    l6: ご使用のCPUは必要動作環境(NVIDIA GeForce GTX 660、2 GB / AMD Radeon HD 7870、2 GB)を満たしていません。必要動作環境を満たしていないCPUでも動作しますが、公式にはサポートしていません\r\n  ko-KO:\r\n    l3: 새 컨트롤러를 성공적으로 연결했습니다.\r\n    l4: 그래픽 어댑터가 가능한 드라이버가 구 버전입니다. 게임의 성능을 최대한 즐기시려면 비디오 카드 제조업체의 웹사이트에서 최신 소프트웨어를 다운로드받으십시오.\r\n    l5: 사용 가능한 RAM이 부족해 프레임 안정화를 진행할 수 없습니다. 게임 실행에 문제가 발생하면 다른 백그라운드 응용 프로그램과 프로세스를 닫거나 그래픽 설정을 낮추기를 바랍니다.\r\n    l6: GPU가 최소 사양인 NVIDIA GeForce GTX 660(2GB) 또는 AMD Radeon HD 7870(2GB) 이하 모델입니다. 최소 사양 이하의 GPU에서 게임이 구동될 수도 있지만 공식적으로 지원하지 않습니다.\r\n  nb-NO:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  nl-NL:\r\n    l3: Nieuwe controller verbinden gelukt.\r\n    l4: Het stuurbestand van je actieve grafische adapter is verouderd. Kijk voor de beste spelbeleving op de website van de videokaartfabrikant voor de meest recente software.\r\n    l5: Niet genoeg vrij RAM voor een stabiele framesnelheid. Als je problemen met de performance ervaart, kun je proberen alle programma's / processen op de achtergrond te sluiten of de kwaliteit van de graphics te verlagen.\r\n    l6: Je GPU (videokaart) voldoet niet aan de minimum vereisten(NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) of beter). Videokaarten die niet voldoen aan de minimum vereisten kunnen wel werken, maar worden niet officieel ondersteund.\r\n  pl-PL:\r\n    l3: Nowy kontroler został podłączony.\r\n    l4: Sterownik wybranej karty graficznej jest nieaktualny. Aby uzyskać jak najlepsze wrażenia z gry, odwiedź stronę producenta karty i pobierz najnowsze sterowniki.\r\n    l5: Za mało pamięci RAM dla stabilnej częstotliwości odświeżania. W przypadku problemów z wydajnością, należy zamknąć wszystkie aplikacje/procesy działające w tle lub obniżyć jakość grafiki.\r\n    l6: Twoja karta graficzna nie spełnia minimalnych wymagań (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) lub lepsza). Gra może działać z kartami graficznymi, które nie spełniają minimalnych wymagań, ale nie są one oficjalnie obsługiwane.\r\n  pt-BR:\r\n    l3: Um novo controle foi conectado com sucesso.\r\n    l4: A versão de driver do seu adaptador de vídeo ativado está desatualizada. Para uma melhor experiência de jogo, verifique o site do fabricante da placa de vídeo para obter o software mais recente.\r\n    l5: Não há RAM suficiente para manter uma taxa de quadros estável. Caso ocorram problemas de desempenho, experimente fechar todos os aplicativos/processos em segundo plano ou diminua a qualidade dos gráficos.\r\n    l6: A sua GPU está abaixo dos requisitos mínimos (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) ou superior). GPUs abaixo dos requisitos mínimos podem funcionar, mas não são compatíveis oficialmente.\r\n  pt-PT:\r\n    l3: Um novo controle foi conectado com sucesso.\r\n    l4: A versão de driver do seu adaptador de vídeo ativado está desatualizada. Para uma melhor experiência de jogo, verifique o site do fabricante da placa de vídeo para obter o software mais recente.\r\n    l5: Não há RAM suficiente para manter uma taxa de quadros estável. Caso ocorram problemas de desempenho, experimente fechar todos os aplicativos/processos em segundo plano ou diminua a qualidade dos gráficos.\r\n    l6: A sua GPU está abaixo dos requisitos mínimos (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) ou superior). GPUs abaixo dos requisitos mínimos podem funcionar, mas não são compatíveis oficialmente.\r\n  ru-RU:\r\n    l3: Подключен новый контроллер.\r\n    l4: Версия драйвера видеокарты устарела. Чтобы в полной мере насладиться возможностями игры, посетите сайт изготовителя видеокарты и установите новейшее ПО.\r\n    l5: Недостаточно оперативной памяти для поддержания стабильной частоты кадров. При возникновении проблем с производительностью попробуйте закрыть фоновые процессы и приложения либо понизить настройки графики.\r\n    l6: Ваша видеокарта не соответствует минимальным системным требованиям (NVIDIA GeForce GTX 660 (2ГБ) | AMD Radeon HD 7870 (2ГБ) или лучше). Не соответствующие системным требованиям видеокарты могут работать, но официально не поддерживаются.\r\n  sv-SE:\r\n    l3: New controller has been successfully connected.\r\n    l4: The driver version of your enabled graphics adapter is out of date. For the best gaming experience, check the video card manufacturer’s website for the latest software.\r\n    l5: Not enough free RAM for stable frame rate. In case of performance issues, try to close all the background applications/processes or decrease the graphics quality.\r\n    l6: Your GPU is below the minimum requirements (NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) or better). GPUs below the minimum requirements might work, but not officially supported.\r\n  zh-TW:\r\n    l3: 已成功連接新的控制器。\r\n    l4: 系統使用的顯示卡驅動程式太舊，為提供最佳遊戲體驗，請至顯示卡製造商網站下載最新驅動程式並更新。\r\n    l5: 沒有足夠的記憶體可以提供穩定的顯示張數。如果遇到效能方面的問題，請關閉所有的背景應用程式 / 處理程序或降低繪圖品質試試看。\r\n    l6: 你的 GPU 規格未達到最低需求（NVIDIA GeForce GTX 660 (2GB) | AMD Radeon HD 7870 (2GB) 以上）。GPU 未達最低需求或許可以執行遊戲，但並不推薦使用。\r\n  fr-cA:\r\n    l5: Pas assez de RAM disponible pour obtenir une fréquence d'affichage stable. En cas de problèmes de rendement, essayez de fermer toutes les applications en arrière-plan ou de diminuer la qualité des graphismes.\r\n    l6: Les caractéristiques de votre processeur graphique sont inférieures à la configuration minimale requise (NVIDIA GeForce GTX 660 (2 Go) | AMD Radeon HD 7870 (2 Go) ou supérieur). Les processeurs graphiques présentant de telles caractéristiques sont susceptibles de faire fonctionner le jeu, mais ne sont pas pris en charge officiellement.\r\n"
   },
   {
     "ProductId": 3634,
@@ -2746,6 +2770,10 @@
   {
     "ProductId": 4213,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 4296,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch_Dogs 2\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4300,
@@ -4932,6 +4960,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Hungry Shark World\r\n  background_image: b430d5aabb5161a7f0fd4a5f0d9b5f9e.jpg\r\n  thumb_image: 285c04655ab94d73bbb607257c063ed2.jpg\r\n  logo_image: dfb581fabe342d19266afc50711fe9a1.png\r\n  splash_image: aef351c398d3f1cf39f86fe57b93c21c.jpg\r\n  help_url: https://support.ubi.com/\r\n  facebook_url: https://www.facebook.com/HungryShark/\r\n  homepage_url: https://www.ubisoft.com/en-gb/game/hungry-shark/world\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l1\r\n    permanent: yes\r\n  icon_image: 1b04f96d2fe343edc21fa591cc41022c.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: no\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Hungry Shark World\r\n        path:\r\n          relative: Hungry Shark World.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\5870\\InstallDir\r\n        arguments: ''\r\n        icon_image: 1b04f96d2fe343edc21fa591cc41022c.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Hungry Shark World\r\n        path:\r\n          relative: Hungry Shark World.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\5870\\InstallDir\r\n        arguments: ''\r\n        icon_image: 1b04f96d2fe343edc21fa591cc41022c.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Hungry Shark World\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 4b3a3a9092ba3f783df072f02bb129ce.zip\r\n    achievements_sync_id: 5870\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: TimePlayed\r\n    - id: gameProgression\r\n    - id: HighScore\r\n    - id: CoinsEarned\r\n    - id: SurvivalTime\r\n    - id: BoostTime\r\n  app_id: 26bd9e82-5d4f-40fc-aeee-ca5cb4254b98\r\n  space_id: c23b60a1-4c13-4bad-94c9-4e38e3a248ba\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: “Connection to Ubisoft Connect has been lost. As the game uses some Ubisoft Connect features you should close and restart your game to prevent any loss of functionality.”\r\n  zh-CN:\r\n    l1: “与 Ubisoft Connect 的连接已丢失。由于游戏使用了一些 Ubisoft Connect 功能，您应该关闭并重新启动游戏，以防止任何功能丢失。”\r\n"
   },
   {
+    "ProductId": 5884,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Star Wars Outlaws - Hunter's Legacy\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 5885,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Star Wars Outlaws - Cartel Ronin\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 5900,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -4997,7 +5033,11 @@
   },
   {
     "ProductId": 6100,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage\r\n  background_image: 9559114dbbffbb37e2283c61c8e2bd03.jpg\r\n  thumb_image: d8101d9638c7cf3717773074aa030418.jpg\r\n  logo_image: 6a79e2157a3c2998df56f475f2f79449.png\r\n  splash_image: e88e4f2d815b3d9d1f9b59e95e04d624.png\r\n  help_url: https://support.ubisoft.com/\r\n  facebook_url: https://www.facebook.com/assassinscreed/\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: beabeab9b63e93e11f03f4e9231733d4.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      executables:\r\n      - shortcut_name: Assassin's Creed Mirage\r\n        path:\r\n          relative: ACMirage.exe\r\n        trial:\r\n          relative: ACMirage_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6100\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        icon_image: beabeab9b63e93e11f03f4e9231733d4.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Assassin's Creed Mirage\r\n        path:\r\n          relative: ACMirage.exe\r\n        trial:\r\n          relative: ACMirage_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6100\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        icon_image: beabeab9b63e93e11f03f4e9231733d4.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Assassin's Creed Mirage\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://assassinscreed.ubi.com/\r\n  change_language_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 326e2cd834a2b4bc4516503e44cb1f64\r\n    achievements_sync_id: 6100\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: AcRift\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  app_id: c841d344-8e38-4ffc-850d-f57935b31059\r\n  dynamic_app_id:\r\n  - id: Luna\r\n    app_id: 5cff87cc-f833-4287-b5d4-2b4241f6b37a\r\n  - id: GFN\r\n    app_id: b60bb2be-35b3-4a55-a3d2-d94ce176339f\r\n  space_id: 1d5e4680-e410-432c-af6d-c50d7024ddd0\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 60\r\n    remote_play:\r\n      enabled: yes\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage\r\n  background_image: 9559114dbbffbb37e2283c61c8e2bd03.jpg\r\n  thumb_image: d8101d9638c7cf3717773074aa030418.jpg\r\n  logo_image: 6a79e2157a3c2998df56f475f2f79449.png\r\n  splash_image: e88e4f2d815b3d9d1f9b59e95e04d624.png\r\n  help_url: https://support.ubisoft.com/\r\n  facebook_url: https://www.facebook.com/assassinscreed/\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: beabeab9b63e93e11f03f4e9231733d4.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      executables:\r\n      - shortcut_name: Assassin's Creed Mirage\r\n        path:\r\n          relative: ACMirage.exe\r\n        trial:\r\n          relative: ACMirage_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6100\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        icon_image: beabeab9b63e93e11f03f4e9231733d4.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Assassin's Creed Mirage\r\n        path:\r\n          relative: ACMirage.exe\r\n        trial:\r\n          relative: ACMirage_plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\6100\\InstallDir\r\n        arguments: /appid:{AppId}\r\n        play_arguments: /appid:{AppId}\r\n        icon_image: beabeab9b63e93e11f03f4e9231733d4.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Assassin's Creed Mirage\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://assassinscreed.ubi.com/\r\n  change_language_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 326e2cd834a2b4bc4516503e44cb1f64\r\n    achievements_sync_id: 6100\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: AcRift\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  app_id: c841d344-8e38-4ffc-850d-f57935b31059\r\n  space_id: 1d5e4680-e410-432c-af6d-c50d7024ddd0\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 60\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6101,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage\r\n  background_image: 9559114dbbffbb37e2283c61c8e2bd03.jpg\r\n  thumb_image: d8101d9638c7cf3717773074aa030418.jpg\r\n  logo_image: 6a79e2157a3c2998df56f475f2f79449.png\r\n  splash_image: e88e4f2d815b3d9d1f9b59e95e04d624.png\r\n  help_url: https://support.ubisoft.com/\r\n  facebook_url: https://www.facebook.com/assassinscreed/\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      steam_app_id: 3035570\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\3035570\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  upn_enabled: true\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 326e2cd834a2b4bc4516503e44cb1f64\r\n    achievements_sync_id: 6100\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: AcRift\r\n  app_id: c841d344-8e38-4ffc-850d-f57935b31059\r\n  space_id: 1d5e4680-e410-432c-af6d-c50d7024ddd0\r\n  streaming:\r\n    share_play:\r\n      enabled: yes\r\n      session_limit: 60\r\n  share_play: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 6115,
@@ -5060,6 +5100,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 6131,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 6132,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -5094,6 +5138,70 @@
   {
     "ProductId": 6175,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Prince of Persia™: The Lost Crown DEMO'\r\n  background_image: fa5c86d6b3bb914c9d2fa6b1650acf8f.jpg\r\n  thumb_image: 79bb6503993ce500e41915b230718a32.jpg\r\n  logo_image: 190fbaf44f7de89fb50cb0b0c3455a57.png\r\n  splash_image: 690a0c0d8ff9be729a0f87bf4bfe40aa.png\r\n  help_url: https://www.ubisoft.com/en-us/help/contact\r\n  facebook_url: https://www.facebook.com/princeofpersia\r\n  homepage_url: https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  icon_image: d50c5b0d5c7dab86645d1c31a6249334.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.ubisoft.com/\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Prince of Persia The Lost Crown DEMO\r\n        path:\r\n          relative: TheLostCrown_Demo.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\6175\\InstallDir\r\n        icon_image: d50c5b0d5c7dab86645d1c31a6249334.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Prince of Persia The Lost Crown DEMO\r\n        path:\r\n          relative: TheLostCrown_Demo.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\6175\\InstallDir\r\n        icon_image: d50c5b0d5c7dab86645d1c31a6249334.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Prince of Persia The Lost Crown DEMO\r\n    publisher: Ubisoft\r\n    help_url: https://www.ubisoft.com/en-us/help/contact\r\n    about_url: https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown\r\n  news:\r\n    thread: Memory_Demo\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  crash_reporting:\r\n    space_id: b0133d48-d651-4300-b6ff-7737b0d9558d\r\n    app_id: f422a0c1-da56-4602-9a45-c2cf707f4ccf\r\n  app_id: f422a0c1-da56-4602-9a45-c2cf707f4ccf\r\n  space_id: b0133d48-d651-4300-b6ff-7737b0d9558d\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6180,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6181,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6182,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6183,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6184,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6185,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6186,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6187,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6188,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6189,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6190,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6191,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6192,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6194,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6195,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 6196,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 6200,
@@ -5134,6 +5242,26 @@
   {
     "ProductId": 7111,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Valiant Hearts: Coming Home'\r\n  background_image: d84aeb38016937e5d3e397e2be269ce0.jpg\r\n  thumb_image: de4631e79948c254808c8f9fde338b96.bmp\r\n  logo_image: 82058588f5a745d4d7e8937b5cf9bf21.png\r\n  splash_image: 837bb3fdc20fdf25f75ae1460cf5c8c4.png\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: no\r\n      overlay_supported: yes\r\n      steam_app_id: 2741360\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2741360\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  upn_enabled: true\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: c70ac733daaa3745287f14ac5d2179aa.zip\r\n    achievements_sync_id: 7111\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  app_id: 9bacff1a-1cb6-4a58-98c4-970e38783aa6\r\n  space_id: b08114f4-7a24-4c76-995a-050a39113960\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 8013,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 8014,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 8015,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 8016,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 8017,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 8024,
@@ -5304,6 +5432,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 10101,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Ghost Recon® Wildlands\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 10211,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six 3 Gold\r\nlocalizations: {}\r\n"
   },
@@ -5356,8 +5488,20 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Test Server\r\n  background_image: bbafbe44c8b07d6e068881c0ebd3d697.png\r\n  thumb_image: d6d04fe030b477875581f2ebdb542b59.png\r\n  logo_image: 2704b556d7b6741108a822d5c2a56ca0.png\r\n  splash_image: bbafbe44c8b07d6e068881c0ebd3d697.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/rainbowsix\r\n  homepage_url: http://rainbow6.ubi.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: no\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      steam_app_id: 623990\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\623990\\Installed\r\n      offline_arguments: -offline\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  override_uplayid: 4865\r\n  cloud_saves: yes\r\n  news:\r\n    thread: RainbowSixSiegeTTS\r\n  crash_reporting:\r\n    space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n    app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 10441,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 5\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 10450,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Origins - Season Pass\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 10458,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Origins - Secrets of The First Pyramids\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 10459,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 5 – Doomsday Prepper Pack\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 10462,
@@ -5370,6 +5514,10 @@
   {
     "ProductId": 10498,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Star Trek: Bridge Crew'\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 10502,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Ghost Recon Wildlands - Fallen Ghosts DLC\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 10512,
@@ -5596,7 +5744,15 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Happy Playdays Bundle - WW\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 11325,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 5 - Season Pass\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 11326,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 5 - Deluxe Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11327,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 5 - Deluxe Pack\r\nlocalizations: {}\r\n"
   },
   {
@@ -5728,6 +5884,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 5\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 11575,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® 5 - Gold Edition\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 11651,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -5738,6 +5898,14 @@
   {
     "ProductId": 11662,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Settlers - History Edition\r\n  sort_string: The Settlers - History Edition\r\n  background_image: 28c87991551f2d20b229d1f5bbc46ff5.jpg\r\n  thumb_image: 8cb29cbc8f38a2322e9a3e63f55caef8.jpg\r\n  logo_image: f4203bc1edbde192646a698e9e515d93.png\r\n  splash_image: 603706c3b1eb4da0813f6e658afbcd75.jpg\r\n  help_url: http://support.ubi.com\r\n  homepage_url: https://www.thesettlers-alliance.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications: []\r\n  icon_image: dcefba428b598de2144db663cd26234e.ico\r\n  start_game:\r\n    online:\r\n      executables:\r\n      - shortcut_name: The Settlers\r\n        description: The Settlers History Edition\r\n        path:\r\n          relative: Siedler1.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        icon_image: dcefba428b598de2144db663cd26234e.ico\r\n      - shortcut_name: Config\r\n        path:\r\n          relative: Config.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        uplay_pipe_required: no\r\n    offline:\r\n      executables:\r\n      - shortcut_name: The Settlers\r\n        description: The Settlers History Edition\r\n        path:\r\n          relative: Siedler1.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        icon_image: dcefba428b598de2144db663cd26234e.ico\r\n      - shortcut_name: Config\r\n        path:\r\n          relative: Config.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11662\\InstallDir\r\n        uplay_pipe_required: no\r\n  installer:\r\n    game_identifier: thesettlers\r\n    publisher: Ubisoft\r\n    help_url: HELPURL\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 2\r\n  news:\r\n    thread: TheSettlersHE\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n  app_id: b4e49e6b-3198-4f26-80ac-a35ad08680c2\r\n  space_id: 69cf3d5d-5461-45c9-8fbc-128d62eda942\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11685,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ode\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11760,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey - The Blind King\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 11761,
@@ -5758,6 +5926,10 @@
   {
     "ProductId": 11768,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey - Language Pack 3\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11769,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Odyssey\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 11777,
@@ -5844,6 +6016,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey - Season Pass\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 11865,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Odyssey\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 11899,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Roller Champions\r\n  background_image: ed6ef903393eb828993220ac272f1cac.jpg\r\n  thumb_image: 97766662fc43533636352612af88187e.jpg\r\n  logo_image: 5fc41bdaaab8bf5bd889f36169250149.png\r\n  splash_image: eb56b40cb581cb7db8b23e3d0041eade.png\r\n  help_url: https://www.ubisoft.com/en-us/help/game/roller-champions\r\n  facebook_url: https://www.facebook.com/RollerChampions/\r\n  homepage_url: https://roller-champions.ubisoft.com/game/en-us/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  streams:\r\n    link: https://www.twitch.tv/rollerchampions\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 94c102fb99ca3749fbe974f8e1dd850c.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.ubisoft.com/en-us/game/roller-champions\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Roller Champions\r\n        path:\r\n          relative: Roller.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\11899\\InstallDir\r\n        arguments: ''\r\n        play_arguments: ''\r\n        icon_image: 94c102fb99ca3749fbe974f8e1dd850c.ico\r\n      pc_bang: {}\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Roller Champions\r\n    publisher: Ubisoft\r\n  digital_distribution:\r\n    version: 1\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  uplay:\r\n    achievements: 9c9c68ee56997c71c2c5e97e79029ae1\r\n    achievements_sync_id: 11899\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: Rollerball\r\n  game_page_style: ui-theme-pink\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: playtimeAbsolute\r\n    - id: progressionRollerPassTier\r\n    - id: MatchResultGamemode.gamemode.QuickMatch.endreason.Win\r\n  crash_reporting:\r\n    space_id: 20d5c466-84fe-4f1e-8625-f6a4e2319edf\r\n    app_id: 34c5530a-84e9-4a0d-a557-85e9d7f9d004\r\n  app_id: 34c5530a-84e9-4a0d-a557-85e9d7f9d004\r\n  space_id: 20d5c466-84fe-4f1e-8625-f6a4e2319edf\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
@@ -5866,6 +6042,10 @@
   {
     "ProductId": 11914,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Division® 2 - The Capitol Defender Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 11948,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry 3 - Deluxe Edition\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 11955,
@@ -6408,8 +6588,16 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 12983,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® New Dawn - Standard Edition\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 12999,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry® New Dawn - Base Game\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 13007,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch_Dogs\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 13027,
@@ -6438,6 +6626,10 @@
   {
     "ProductId": 13070,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry New Dawn - Deluxe Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 13071,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry New Dawn - Language Pack 1\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 13072,
@@ -6780,6 +6972,14 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Season Pass Player Assets\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 14103,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno® 1800\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 14149,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno® 1800 - Base Game\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 14179,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Starlink® - Digital Starter Kit\r\nlocalizations: {}\r\n"
   },
@@ -6820,16 +7020,32 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint - Base Game\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 14272,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 14278,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint - Language Pack 2\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 14342,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint - Season Pass\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14343,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint - Ultimate Pack\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 14344,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint - Ultimate Pack\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 14382,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Steep - Giveaway - May 2019 [UPLAY]\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 14468,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch Dogs Legion - Golden King Pack\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14474,
@@ -6844,12 +7060,20 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch Dogs Legion - Language Pack 2\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 14498,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Watch Dogs Legion\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 14571,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14579,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Immortals Fenyx Rising\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 14584,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Immortals Fenyx Rising - Language Pack 1\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14585,
@@ -6860,12 +7084,20 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Immortals Fenyx Rising - Language Pack 3\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 14632,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Immortals Fenyx Rising\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 14633,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14648,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 14649,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: watch_dogs\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 14653,
@@ -7636,6 +7868,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Might & Magic® - Chess Royale\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 16273,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Trackmania Next - Subscription - Club - 1 Year\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 16289,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Year 4 Operators\r\nlocalizations: {}\r\n"
   },
@@ -7796,6 +8032,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 16864,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon Breakpoint\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 16884,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed 2\r\nlocalizations: {}\r\n"
   },
@@ -7950,6 +8190,10 @@
   {
     "ProductId": 17139,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17141,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Trackmania - Bundle - Digital - Uplay - WW - Club Access 1 year\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 17243,
@@ -8296,6 +8540,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 17869,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 17871,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Starter Pack Season Three\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -8310,6 +8558,10 @@
   {
     "ProductId": 17888,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Bloodline\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 17903,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Star Wars Outlaws\r\n  background_image: 376479f272d67944d8d9ac17e8fc51a8.jpg\r\n  thumb_image: 944a1b9a973a797f140979539d018bfc.jpg\r\n  logo_image: 71f904743eb3aa2d43a38841787a327b.png\r\n  splash_image: b21699f12726af673c54c2cd790e8fa6.png\r\n  help_url: https://www.ubisoft.com/en-us/help\r\n  facebook_url: https://www.starwarsoutlaws.com/facebook\r\n  homepage_url: https://www.starwarsoutlaws.com/\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: e99521e9ad8d8a3f57ad2184355dd2cb.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Outlaws\r\n        path:\r\n          relative: Outlaws.exe\r\n        trial:\r\n          relative: Outlaws_Plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\17903\\InstallDir\r\n        arguments: ''\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Outlaws\r\n        path:\r\n          relative: Outlaws.exe\r\n        trial:\r\n          relative: Outlaws_Plus.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\17903\\InstallDir\r\n        arguments: ''\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Star Wars Outlaws\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubisoft.com\r\n    about_url: https://www.starwarsoutlaws.com/\r\n  change_language_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 249b4564233e2c617759bf2a85bb233f\r\n    achievements_sync_id: 17903\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: Helix_outlaws\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  app_id: 69488c50-c7b7-4460-b502-66a973e02150\r\n  space_id: 6302d801-4d95-4f69-8e07-8f169511ca30\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 17905,
@@ -8596,6 +8848,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 19036,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 19040,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -8678,6 +8934,10 @@
   {
     "ProductId": 58068,
     "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 58160,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 58201,
@@ -8904,6 +9164,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - The High Life DLC\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 59653,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint - Infiltration Pack\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 59658,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Anno 1800 - Cosmetic DLC #5'\r\nlocalizations: {}\r\n"
   },
@@ -8970,6 +9234,14 @@
   {
     "ProductId": 59674,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59675,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59676,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 59682,
@@ -9058,6 +9330,10 @@
   {
     "ProductId": 59789,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon Wildlands - Fallen Ghosts\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 59808,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Ghost Recon® Breakpoint - New Ultimate Edition\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 59865,
@@ -9824,6 +10100,46 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: UNO - AC Valhalla Theme Cards\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 60747,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60749,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60751,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60754,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60756,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60758,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60761,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60763,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60765,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60767,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 60769,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -9882,6 +10198,62 @@
   {
     "ProductId": 60797,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60800,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60802,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60804,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60806,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60808,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60810,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60812,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60814,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60816,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60818,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60820,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60822,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60824,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 60826,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 60830,
@@ -10276,6 +10648,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 61865,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Master Assassin Edition\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 61867,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Far Cry 6 - Game of the Year Edition\r\nlocalizations: {}\r\n"
   },
@@ -10400,6 +10776,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Roller Champions™\r\n  sort_string: Roller Champions\r\n  background_image: 971630c11d68f305d2a776c3774cc28e.jpg\r\n  thumb_image: 97766662fc43533636352612af88187e.jpg\r\n  logo_image: 5fc41bdaaab8bf5bd889f36169250149.png\r\n  splash_image: eb56b40cb581cb7db8b23e3d0041eade.png\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      steam_app_id: 2211280\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2211280\\Installed\r\n      arguments: -uplay_steam_mode on\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: Rollerball\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  app_id: 34c5530a-84e9-4a0d-a557-85e9d7f9d004\r\n  space_id: 20d5c466-84fe-4f1e-8625-f6a4e2319edf\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62326,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Immortals Fenyx Rising™\r\n  sort_string: Immortals Fenyx Rising\r\n  background_image: 22e9f2d0fc157278673840ad2e89c803.jpg\r\n  thumb_image: f1166b68eea8d132ad067434064c939a.jpg\r\n  logo_image: 4198c5f80b1e285656bc57c05fecca11.png\r\n  splash_image: aee5f1bd5b1a5ffa8587c553622d7f62.jpg\r\n  help_url: https://support.ubisoft.com/Games/6162?platform=9\r\n  facebook_url: https://www.facebook.com/ImmortalsFenyxRising\r\n  homepage_url: https://immortalsfenyxrising.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      steam_app_id: 2221920\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2221920\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: default\r\n  upn_enabled: true\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: c7370c267a862f049ddf958e823d3a22\r\n    achievements_sync_id: 5405\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: ImmortalsFenyxRising\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: TimePlayed\r\n    - id: TotalKills\r\n    - id: WeaponShardsCollected\r\n    - id: DistanceTravelledOnGround\r\n    - id: DistanceTravelledWhileGliding\r\n  crash_reporting:\r\n    space_id: 6234f561-391d-4417-a11f-e039400ce0ca\r\n    app_id: a7e8eb10-a9ad-426d-81fa-860d6802dd3b\r\n  app_id: a7e8eb10-a9ad-426d-81fa-860d6802dd3b\r\n  space_id: 6234f561-391d-4417-a11f-e039400ce0ca\r\n  dynamic_app_id: []\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 62329,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Roller Champions™\r\nlocalizations: {}\r\n"
   },
@@ -10414,6 +10794,10 @@
   {
     "ProductId": 62346,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62358,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Immortals Fenyx Rising\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 62377,
@@ -10508,8 +10892,16 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62548,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Watch Dogs®: Legion'\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 62551,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Watch Dogs®: Legion - Ultimate Edition'\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 62552,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Watch Dogs®: Legion - Bloodline'\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 62553,
@@ -10660,6 +11052,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Neon Abyss\r\n  background_image: cd7a7d4e894043e0497b31f15d32bc62.jpg\r\n  thumb_image: ad6fb0b1dfaec9ef423fd7945a31be9f.jpg\r\n  logo_image: 5e13c25c7c74b6f3c66000cd3f84202f.png\r\n  splash_image: 9419c7fb647714528bf2cd5be43983f9.png\r\n  help_url: https://www.ubisoft.com/help\r\n  overlay_notifications: []\r\n  icon_image: fa8b3a523a4920369ebde65dd131c883.ico\r\n  start_game:\r\n    online:\r\n      executables:\r\n      - shortcut_name: Neon Abyss\r\n        path:\r\n          relative: Neon Abyss.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\62813\\InstallDir\r\n        icon_image: fa8b3a523a4920369ebde65dd131c883.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Neon Abyss\r\n        path:\r\n          relative: Neon Abyss.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\62813\\InstallDir\r\n        icon_image: fa8b3a523a4920369ebde65dd131c883.ico\r\n  installer:\r\n    game_identifier: Neon Abyss\r\n  digital_distribution:\r\n    version: 5\r\n  app_id: ce568930-a2b6-4019-a24f-e21430e4488f\r\n  space_id: d106c5f8-a747-4369-855d-f74efbb7a498\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 62815,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 62817,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Blasphemous\r\n  background_image: c0f2ae23e15be05459c71e9bb354760e.jpg\r\n  thumb_image: 1316d2f1d2717de82f442176ac18d1f9.jpg\r\n  logo_image: ac8daa7e16354be28e7c18ef6cc6c632.png\r\n  splash_image: 4954539732e61cf0451ef1520f60b2f3.png\r\n  help_url: https://www.ubisoft.com/help\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: af06e586b6e5a5611f951547e051ab6a.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Blasphemous\r\n        path:\r\n          relative: Blasphemous.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\62817\\InstallDir\r\n        icon_image: af06e586b6e5a5611f951547e051ab6a.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Blasphemous\r\n        path:\r\n          relative: Blasphemous.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\62817\\InstallDir\r\n        icon_image: af06e586b6e5a5611f951547e051ab6a.ico\r\n  overlay_injection_method: default\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Blasphemous\r\n  digital_distribution:\r\n    version: 1\r\n  app_id: cc98f58e-d309-431e-b46d-67b2eac5fdac\r\n  space_id: 59e0edee-cacb-4d1e-971d-ba321723f37e\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
@@ -10772,6 +11168,26 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63029,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63030,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63031,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63032,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Pre-order Bonus\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63033,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Year 1 Pass\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63059,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Avatar: Frontiers of Pandora - DLC 2'\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -10786,6 +11202,14 @@
   {
     "ProductId": 63091,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63095,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63097,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63104,
@@ -10822,6 +11246,42 @@
   {
     "ProductId": 63187,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: XDefiant\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63192,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Star Wars Outlaws\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63226,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Fire Demon Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63227,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Djinn Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63228,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Lightning Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63229,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - The Forty Thieves\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63230,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Guardian Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63231,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Deluxe Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63232,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Master Assassin Pack\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63233,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Digital Artbook & Soundtrack\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63241,
@@ -10996,6 +11456,18 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Trial\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63518,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Ultimate Edition\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63534,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Base Game\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63653,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63680,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -11060,12 +11532,44 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Anno 1800 - Season Pass 4 Player Assets\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63742,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63743,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63744,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63745,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63746,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63747,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63758,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: AC Syndicate\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63763,
     "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63770,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63771,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63772,
@@ -11116,8 +11620,20 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 63844,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Shadows - Premium Starter Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 63886,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Closed Beta\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63892,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 63893,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63901,
@@ -11380,6 +11896,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Orlando - Year Two Pass\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64087,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Year 2 Pass\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64089,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Free Trial\r\nlocalizations: {}\r\n"
   },
@@ -11448,6 +11968,58 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64208,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64209,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64210,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64211,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64212,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64213,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64214,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64215,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64216,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64217,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64218,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64219,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64220,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64222,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Vanity Set Y1S2\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -11458,6 +12030,10 @@
   {
     "ProductId": 64224,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones - Vanity Set Y1S4\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64229,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 64234,
@@ -11484,11 +12060,43 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Mirage\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64381,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64382,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64383,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64384,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64385,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Shadows - Pre Order Bonus\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64425,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 64426,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64442,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64443,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64444,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
@@ -11516,6 +12124,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Brawlhalla - Ezio Starter Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64480,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64481,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull And Bones - Seasonal Boatload S3\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -11540,6 +12152,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones™ - Free Week-end\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 64528,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 64538,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: BattleCore Arena\r\nlocalizations: {}\r\n"
   },
@@ -11562,6 +12178,10 @@
   {
     "ProductId": 64624,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Steep\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64656,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Star Wars Outlaws\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 64660,
@@ -11626,6 +12246,14 @@
   {
     "ProductId": 64932,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Champions Tactics™ Grimoria Chronicles\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64958,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 64959,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed® Mirage - Standard Edition\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 64966,
@@ -11745,6 +12373,14 @@
   },
   {
     "ProductId": 65162,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 65219,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 65220,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
@@ -11902,6 +12538,18 @@
   {
     "ProductId": 65377,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 65406,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 65420,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed Shadows\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 65421,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed Shadows - Standard Edition\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 65442,
