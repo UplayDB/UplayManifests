@@ -24307,8 +24307,10 @@
       65567,
       65568,
       65569,
-      65930,
-      65931
+      65989,
+      65990,
+      65991,
+      65992
     ]
   },
   {
@@ -28299,5 +28301,29 @@
     "ProductId": 65931,
     "ProductType": "AddOn",
     "ProductAssociations": []
+  },
+  {
+    "ProductId": 65989,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65990,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65989
+    ]
+  },
+  {
+    "ProductId": 65991,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 65992,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      65991
+    ]
   }
 ]
