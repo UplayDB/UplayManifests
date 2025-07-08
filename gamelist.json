@@ -1296,7 +1296,16 @@
       65374,
       65375,
       65376,
-      65377
+      65377,
+      66271,
+      66272,
+      66274,
+      66275,
+      66277,
+      66278,
+      66280,
+      66281,
+      66283
     ]
   },
   {
@@ -1629,7 +1638,9 @@
       65861,
       65862,
       65864,
-      65925
+      65925,
+      66227,
+      66228
     ]
   },
   {
@@ -3106,7 +3117,9 @@
       65858,
       65860,
       65862,
-      65864
+      65864,
+      66227,
+      66228
     ]
   },
   {
@@ -17767,7 +17780,10 @@
       63291,
       63292,
       64084,
-      64085
+      64085,
+      66261,
+      66263,
+      66265
     ]
   },
   {
@@ -24729,7 +24745,10 @@
       63291,
       63292,
       64084,
-      64085
+      64085,
+      66261,
+      66263,
+      66265
     ]
   },
   {
@@ -28401,6 +28420,84 @@
   {
     "ProductId": 66149,
     "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66227,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66228,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66261,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66263,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66265,
+    "ProductType": "AddOn",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66271,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66272,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      66271
+    ]
+  },
+  {
+    "ProductId": 66274,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66275,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      66274
+    ]
+  },
+  {
+    "ProductId": 66277,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66278,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      66277
+    ]
+  },
+  {
+    "ProductId": 66280,
+    "ProductType": "Consumable",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 66281,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      66280
+    ]
+  },
+  {
+    "ProductId": 66283,
+    "ProductType": "Consumable",
     "ProductAssociations": []
   }
 ]
