@@ -521,7 +521,7 @@
   },
   {
     "ProductId": 599,
-    "Configuration": "version: 2.0\nroot:\n  name: \"Far Cry® 3 Deluxe Edition\"\n  background_image: f76fdfbd11e9e9252f2dd49dcaa0c4b9.jpg\n  thumb_image: ed9da50536f11b289121329af97881e1.jpg\n  logo_image: 4d3b3afc6ab3ed8a08b6caf52cb37a9e.png\n  dialog_image: 9daa19d3b7dd717067174a81d5d22c9a.png\n  icon_image: 8929a88b26292fa9f2ade81e2766c300.ico\n  background_color: 37566a\n  sort_string: \"Far Cry 03\"\n  start_game:\n    online:\n      legacy_ticket_enabled: yes\n      overlay_supported: no\n      overlay_required: no\n      after_game_report_enabled: yes\n      executables:\n        - path:\n            register: HKEY_CURRENT_USER\\SOFTWARE\\UBISOFT\\Far Cry 3\\ExecutableName\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n          arguments_register: HKEY_CURRENT_USER\\SOFTWARE\\UBISOFT\\Far Cry 3\\StartArguments\n          description: FC3_GAME\n          shortcut_name: \"Far Cry 3\"\n          evil_updater:\n            path:\n              relative: bin\\FC3Updater.exe\n            arguments: -write_registry\n            working_directory:\n              register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n        - path:\n            relative: bin\\FC3Editor.exe\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n          description: FC3_EDITOR\n          shortcut_name: \"Far Cry 3 Map Editor\"\n          uplay_pipe_required: no\n    offline:\n      after_game_report_enabled: yes\n      executables:\n        - path:\n            register: HKEY_CURRENT_USER\\SOFTWARE\\UBISOFT\\Far Cry 3\\ExecutableName\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n          arguments_register: HKEY_CURRENT_USER\\SOFTWARE\\UBISOFT\\Far Cry 3\\StartArguments\n          description: FC3_GAME\n          evil_updater:\n            path:\n              relative: bin\\FC3Updater.exe\n            arguments: -offline -write_registry\n            working_directory:\n              register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n        - path:\n            relative: bin\\FC3Editor.exe\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n          description: FC3_EDITOR\n          uplay_pipe_required: no\n  cloud_saves: yes\n  game_streaming_enabled: yes\n  uplay:\n    game_code: FC3\n    achievements: aced799b0ec4f086256e9c389cf2f2c5\n    achievements_sync_id: FC3\n  space_id: 50228b8c-bbaa-4c32-83c6-2831a1ac317c\n  club:\n    enabled: yes\n  additional_content:\n    - name: \"Deluxe Edition Extra Content\"\n      thumb_image_url: ed9da50536f11b289121329af97881e1.jpg\n      description: \"Download the original soundtrack for Far Cry 3 now. This package also includes the Far Cry 3 survival guide.\"\n      download_url: http://static3.cdn.ubi.com/orbit/uplay_launcher_3_0/additional_content/599/Far_Cry_3_Deluxe_Extra_Content.zip\n  after_game_report_ad: yes\n  homepage_url: https://www.ubisoft.com/en-us/game/far-cry-3/\n  facebook_url: http://www.facebook.com/farcry\n  forum_url: https://discord.gg/ubisoftofficial\n  help_url: http://support.ubi.com\n  display_name: \"Far Cry 3\"\n  legacy_friends_nicks_enabled: yes\n  installer:\n    game_identifier: Far Cry 3\n    publisher: Ubisoft\n    help_url: https://support.ubi.com\n    about_url: http://far-cry.ubi.com/far-cry-3\n    upgraded_from_legacy: yes\n  digital_distribution:\n    version: 1\n  news:\n    thread: FarCry3\n  game_page_modules:\n    friends:\n      size: 1\n    friends_suggestions:\n      enabled: yes\n    news:\n      size: 2\n    streams:\n      size: 1\nlocalizations:\n  default:\n    FC3_EDITOR: \"Map Editor\"\n    FC3_GAME: \"Far Cry 3\""
+    "Configuration": "version: 2.0\nroot:\n  name: \"Far Cry® 3 Deluxe Edition\"\n  background_image: f76fdfbd11e9e9252f2dd49dcaa0c4b9.jpg\n  thumb_image: ed9da50536f11b289121329af97881e1.jpg\n  logo_image: 4d3b3afc6ab3ed8a08b6caf52cb37a9e.png\n  dialog_image: 9daa19d3b7dd717067174a81d5d22c9a.png\n  icon_image: 8929a88b26292fa9f2ade81e2766c300.ico\n  background_color: 37566a\n  sort_string: \"Far Cry 03\"\n  start_game:\n    online:\n      legacy_ticket_enabled: yes\n      overlay_supported: no\n      overlay_required: no\n      after_game_report_enabled: yes\n      executables:\n        - path:\n            register: HKEY_CURRENT_USER\\SOFTWARE\\UBISOFT\\Far Cry 3\\ExecutableName\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n          arguments_register: HKEY_CURRENT_USER\\SOFTWARE\\UBISOFT\\Far Cry 3\\StartArguments\n          description: FC3_GAME\n          shortcut_name: \"Far Cry 3\"\n          evil_updater:\n            path:\n              relative: bin\\FC3Updater.exe\n            arguments: -write_registry\n            working_directory:\n              register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n        - path:\n            relative: bin\\FC3Editor.exe\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n          description: FC3_EDITOR\n          shortcut_name: \"Far Cry 3 Map Editor\"\n          uplay_pipe_required: no\n    offline:\n      after_game_report_enabled: yes\n      executables:\n        - path:\n            register: HKEY_CURRENT_USER\\SOFTWARE\\UBISOFT\\Far Cry 3\\ExecutableName\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n          arguments_register: HKEY_CURRENT_USER\\SOFTWARE\\UBISOFT\\Far Cry 3\\StartArguments\n          description: FC3_GAME\n          evil_updater:\n            path:\n              relative: bin\\FC3Updater.exe\n            arguments: -offline -write_registry\n            working_directory:\n              register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n        - path:\n            relative: bin\\FC3Editor.exe\n          working_directory:\n            register: HKEY_LOCAL_MACHINE\\SOFTWARE\\UBISOFT\\Far Cry 3\\InstallDir\n          description: FC3_EDITOR\n          uplay_pipe_required: no\n  cloud_saves: yes\n  game_streaming_enabled: yes\n  uplay:\n    game_code: FC3\n    achievements: f5d6bf762f2428f4a3ec240d81500ba5\n    achievements_sync_id: FC3\n  space_id: 50228b8c-bbaa-4c32-83c6-2831a1ac317c\n  club:\n    enabled: yes\n  additional_content:\n    - name: \"Deluxe Edition Extra Content\"\n      thumb_image_url: ed9da50536f11b289121329af97881e1.jpg\n      description: \"Download the original soundtrack for Far Cry 3 now. This package also includes the Far Cry 3 survival guide.\"\n      download_url: http://static3.cdn.ubi.com/orbit/uplay_launcher_3_0/additional_content/599/Far_Cry_3_Deluxe_Extra_Content.zip\n  after_game_report_ad: yes\n  homepage_url: https://www.ubisoft.com/en-us/game/far-cry-3/\n  facebook_url: http://www.facebook.com/farcry\n  forum_url: https://discord.gg/ubisoftofficial\n  help_url: http://support.ubi.com\n  display_name: \"Far Cry 3\"\n  legacy_friends_nicks_enabled: yes\n  installer:\n    game_identifier: Far Cry 3\n    publisher: Ubisoft\n    help_url: https://support.ubi.com\n    about_url: http://far-cry.ubi.com/far-cry-3\n    upgraded_from_legacy: yes\n  digital_distribution:\n    version: 1\n  news:\n    thread: FarCry3\n  game_page_modules:\n    friends:\n      size: 1\n    friends_suggestions:\n      enabled: yes\n    news:\n      size: 2\n    streams:\n      size: 1\nlocalizations:\n  default:\n    FC3_EDITOR: \"Map Editor\"\n    FC3_GAME: \"Far Cry 3\""
   },
   {
     "ProductId": 602,
@@ -1233,7 +1233,7 @@
   },
   {
     "ProductId": 1713,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones\r\n  background_image: 2b41624c7f74bb93dccbaa517ff5b8ca.jpg\r\n  thumb_image: 95c8f280edf8fc8ef932d94b3b4e9d6e.jpg\r\n  logo_image: 473c37dfe2eb547df774c7097d02c068.png\r\n  splash_image: 36cf60a6238f4181c7adbd573cfd7de4.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\1713\\InstallDir\r\n        play_arguments: ''\r\n        icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2025062401\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 3705f64453d058c16867e825a6738a34.zip\r\n    achievements_sync_id: BFI\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 997051510854778890\r\n    large_image_key: a8a56fd53b0ec08d6e99bbbf46f3ac28\r\n    small_image_key: e6351e7b9fd0a3301109c301477ce71d\r\n  news:\r\n    thread: SkullAndBones\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: Playtime\r\n    - id: performanceTotalDamageDealt\r\n    - id: performanceSinkingShipsTotal\r\n    - id: performancePlayerKills\r\n  crash_reporting:\r\n    space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones\r\n  background_image: 2b41624c7f74bb93dccbaa517ff5b8ca.jpg\r\n  thumb_image: 95c8f280edf8fc8ef932d94b3b4e9d6e.jpg\r\n  logo_image: 473c37dfe2eb547df774c7097d02c068.png\r\n  splash_image: 36cf60a6238f4181c7adbd573cfd7de4.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\1713\\InstallDir\r\n        play_arguments: ''\r\n        icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2025072201\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 3705f64453d058c16867e825a6738a34.zip\r\n    achievements_sync_id: BFI\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 997051510854778890\r\n    large_image_key: a8a56fd53b0ec08d6e99bbbf46f3ac28\r\n    small_image_key: e6351e7b9fd0a3301109c301477ce71d\r\n  news:\r\n    thread: SkullAndBones\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: Playtime\r\n    - id: performanceTotalDamageDealt\r\n    - id: performanceSinkingShipsTotal\r\n    - id: performancePlayerKills\r\n  crash_reporting:\r\n    space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 1771,
@@ -5453,7 +5453,7 @@
   },
   {
     "ProductId": 10300,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 10303,
@@ -6417,75 +6417,75 @@
   },
   {
     "ProductId": 12747,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12748,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12749,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12750,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12751,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12752,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12753,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12754,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12755,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12756,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12757,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12758,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12759,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12760,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12761,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12762,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12763,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12764,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12766,
@@ -6493,7 +6493,7 @@
   },
   {
     "ProductId": 12775,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12776,
@@ -6561,11 +6561,11 @@
   },
   {
     "ProductId": 12813,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12814,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: ''\r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 12845,
@@ -12293,11 +12293,11 @@
   },
   {
     "ProductId": 65111,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull & Bones - Seasonal Box - Y2S2\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 65112,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull & Bones - Seasonal Boatload - Y2S2\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 65113,
@@ -12509,7 +12509,7 @@
   },
   {
     "ProductId": 65365,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Virtuosa - Hero - FOR HONOR\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 65366,
@@ -12853,6 +12853,10 @@
   },
   {
     "ProductId": 66281,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66284,
     "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   }
 ]

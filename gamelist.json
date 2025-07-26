@@ -1305,7 +1305,8 @@
       66278,
       66280,
       66281,
-      66283
+      66283,
+      66284
     ]
   },
   {
@@ -28499,5 +28500,12 @@
     "ProductId": 66283,
     "ProductType": "Consumable",
     "ProductAssociations": []
+  },
+  {
+    "ProductId": 66284,
+    "ProductType": "ConsumablePacks",
+    "ProductAssociations": [
+      66283
+    ]
   }
 ]
