@@ -545,7 +545,7 @@
   },
   {
     "ProductId": 635,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  uplay:\r\n    preplayable_label: comingsoon\r\n    achievements: 114e5afa77fec3c93829176268c39f52\r\n    achievements_sync_id: RSIX7\r\n  background_image: 2f26ea5286de480357562313e59c28fa.png\r\n  thumb_image: l2\r\n  logo_image: ff2a8f1f45e2312bcc33257a1af0bc65.png\r\n  splash_image: 30eb51e44455cca97249b8096c0bdf62.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/rainbowsix\r\n  homepage_url: http://rainbow6.ubi.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications_position: top_left\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: yes\r\n  - id: 1\r\n    text: l4\r\n    permanent: yes\r\n  icon_image: a9864cb57ce30ae81f4fa0b970ee8654.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_url: https://webshop-r6.ubi.com/en-US/shop/welcome\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six Siege X\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\635\\InstallDir\r\n        arguments: ''\r\n        play_arguments: ''\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six Siege X\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\635\\InstallDir\r\n        arguments: ' '\r\n        play_arguments: ''\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Tom Clancy's Rainbow Six Siege X\r\n    publisher: Ubisoft Montreal\r\n    help_url: https://support.ubi.com\r\n    about_url: http://rainbow6.ubi.com/\r\n  digital_distribution:\r\n    version: 53\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 445956193924546560\r\n    large_image_key: rainbowsixsiege\r\n  news:\r\n    thread: RainbowSixSiege\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: PClearanceLevel\r\n    - id: PPvPTimePlayed\r\n    - id: PPvETimePlayed\r\n    - id: PTotalTimePlayed\r\n  game_streaming_enabled: yes\r\n  crash_reporting:\r\n    space_id: 0d2ae42d-4c27-4cb7-af6c-2099062302bb\r\n    app_id: e3d5ea9e-50bd-43b7-88bf-39794f4e3d40\r\n  app_id: e3d5ea9e-50bd-43b7-88bf-39794f4e3d40\r\n  space_id: 0d2ae42d-4c27-4cb7-af6c-2099062302bb\r\n  addons:\r\n  - id: 2064\r\n    is_visible: yes\r\n    thumb_image: 64fe17fb0498a3fbc7507ecc24206e4b.jpg\r\n    name: Rainbow Six Siege - Ultra HD Texture Pack\r\n    optional_addon_enabled_by_default: no\r\n  - id: 2161\r\n    is_visible: yes\r\n    thumb_image: 41b96f4737309345181f099432afc7f2.jpg\r\n    name: Rainbow Six Siege - Season Pass\r\n  - id: 2162\r\n    is_visible: no\r\n  - id: 2163\r\n    is_visible: yes\r\n    thumb_image: c4bf6f07edb0d1289a140a26cd2a0aa9.png\r\n    name: Rainbow Six Siege - Amethyst Skin\r\n  - id: 2165\r\n    is_visible: yes\r\n    thumb_image: 05b639c621ebeb0df79e617f9e54bcf7.png\r\n    name: Rainbow Six Siege - Cobalt Skin\r\n  - id: 2166\r\n    is_visible: yes\r\n    thumb_image: bf6dc0f34fd1aebe536551303c62bcde.png\r\n    name: Rainbow Six Siege - Emerald Skin\r\n  - id: 2167\r\n    is_visible: yes\r\n    thumb_image: 63b73c9ceba9c18292368d5d4fc42912.png\r\n    name: Rainbow Six Siege - Platinum Skin\r\n  - id: 2168\r\n    is_visible: no\r\n  - id: 2260\r\n    is_visible: no\r\n  - id: 2261\r\n    is_visible: yes\r\n    thumb_image: 8a61b6301d0598c58bc0191e04e6caa6.jpg\r\n    name: Rainbow Six Siege - The Safari Bundle\r\n  - id: 2263\r\n    is_visible: no\r\n  - id: 2281\r\n    is_visible: no\r\n  - id: 2282\r\n    is_visible: no\r\n  - id: 2283\r\n    is_visible: no\r\n  - id: 2284\r\n    is_visible: no\r\n  - id: 2285\r\n    is_visible: no\r\n  - id: 2286\r\n    is_visible: no\r\n  - id: 2391\r\n    is_visible: no\r\n  - id: 2392\r\n    is_visible: no\r\n  - id: 2393\r\n    is_visible: no\r\n  - id: 2394\r\n    is_visible: no\r\n  - id: 2395\r\n    is_visible: no\r\n  - id: 2396\r\n    is_visible: no\r\n  - id: 2397\r\n    is_visible: no\r\n  - id: 2398\r\n    is_visible: no\r\n  - id: 2956\r\n    is_visible: no\r\n  - id: 2957\r\n    is_visible: no\r\n  - id: 3126\r\n    is_visible: no\r\n    thumb_image: b69b93a91788a8b58db8ac0f47616a92.png\r\n    name: Rainbow Six Siege - Ruby Skin\r\n  - id: 3191\r\n    is_visible: yes\r\n    thumb_image: e1c64a7f906c828ab6c15c506887ae55.png\r\n    name: Rainbow Six Siege - Topaz Skin\r\n  - id: 3192\r\n    is_visible: yes\r\n    thumb_image: 2660e3591fa3d7a2aa7006ced9016cb0.png\r\n    name: Rainbow Six Siege - Cyan Skin\r\n  - id: 3195\r\n    is_visible: no\r\n    thumb_image: 8ba535b5686dfadae139d01760101163.png\r\n    name: Rainbow Six Siege - Esport Skin 1\r\n  - id: 3196\r\n    is_visible: no\r\n    thumb_image: 330740e8a4b23c7637b14ff07f559b12.png\r\n    name: Rainbow Six Siege - Esport Skin 2\r\n  - id: 3197\r\n    is_visible: no\r\n    thumb_image: f745c8645a99fa942a77ae3b3c31646e.png\r\n    name: Rainbow Six Siege - Esport Skin 3\r\n  - id: 3198\r\n    is_visible: no\r\n  - id: 3201\r\n    is_visible: no\r\n    thumb_image: 2c1912994aa918bc73e5c3aa88f550ff.png\r\n    name: Rainbow Six Siege - Esport Skins Bundle\r\n  - id: 3202\r\n    is_visible: yes\r\n    thumb_image: 49143e35143244d69fb30174b2ab43d4.png\r\n    name: Rainbow Six Siege - Stone Bundle\r\n  - id: 3342\r\n    is_visible: no\r\n  - id: 3359\r\n    is_visible: no\r\n  - id: 3393\r\n    is_visible: no\r\n    thumb_image: 5683450234a07e2249d0d6619b6dc487.jpg\r\n    name: RainBow Six Siege - GSG9 Racer Pack\r\n  - id: 3394\r\n    is_visible: no\r\n    thumb_image: 9b1cfe068e0f4cac7c6e9846b3530ee4.jpg\r\n    name: Rainbow Six Siege - Racer SAS pack\r\n  - id: 3395\r\n    is_visible: no\r\n  - id: 3396\r\n    is_visible: no\r\n  - id: 3397\r\n    is_visible: no\r\n  - id: 3398\r\n    is_visible: no\r\n  - id: 3399\r\n    is_visible: no\r\n  - id: 3475\r\n    is_visible: no\r\n  - id: 3476\r\n    is_visible: no\r\n  - id: 3477\r\n    is_visible: no\r\n  - id: 3478\r\n    is_visible: no\r\n  - id: 3484\r\n    is_visible: no\r\n  - id: 3614\r\n    is_visible: no\r\n  - id: 3615\r\n    is_visible: no\r\n  - id: 3642\r\n    is_visible: no\r\n  - id: 3643\r\n    is_visible: no\r\n    thumb_image: 4b3f849efdc2afb37563c8d7308f1390.png\r\n  - id: 3644\r\n    is_visible: no\r\n  - id: 3645\r\n    is_visible: no\r\n  - id: 3646\r\n    is_visible: no\r\n  - id: 3647\r\n    is_visible: no\r\n  - id: 3648\r\n    is_visible: no\r\n  - id: 3649\r\n    is_visible: no\r\n  - id: 3967\r\n    is_visible: no\r\n  - id: 4128\r\n    is_visible: no\r\n  - id: 4129\r\n    is_visible: no\r\n  - id: 4130\r\n    is_visible: no\r\n  - id: 4131\r\n    is_visible: no\r\n  - id: 4132\r\n    is_visible: no\r\n  - id: 4133\r\n    is_visible: no\r\n  - id: 4134\r\n    is_visible: no\r\n  - id: 4141\r\n    is_visible: no\r\n  - id: 4142\r\n    is_visible: no\r\n  - id: 4143\r\n    is_visible: no\r\n  - id: 4144\r\n    is_visible: no\r\n  - id: 4145\r\n    is_visible: no\r\n  dev:\r\n    game_install_uac_required: yes\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Tom Clancy's Rainbow Six® Siege X\r\n    l2: a1f13207cce7318a1c783efa7394abcb.png\r\n    l3: 'Warning: You are running an unsupported video driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system is below the minimum requirements. For optimal performance please refer to the supported hardware list.'\r\n  zh-CN:\r\n    l1: 彩虹六号：围攻X\r\n    l2: 8178b9c31c545f06df550152e1416809.png\r\n    l3: 警告：系统不支持正在运行的绘图驱动程序，请更新驱动程序以获得最佳性能。\r\n    l4: 警告：您的系统不符合此游戏的最低要求。请参阅硬件支持列表以获取更多信息。\r\n  cs-CZ:\r\n    l3: 'Upozornění: Nainstalované ovladače grafické karty nejsou podporované. Aktualizací ovladače dosáhnete optimálního výkonu.'\r\n    l4: 'Upozornění: Váš systém nesplňuje minimální systémové požadavky této hry. Více informací naleznete v seznamu podporovaného hardwaru.'\r\n  da-DK:\r\n    l3: 'Advarsel: Du benytter en grafikdriver, der ikke er understøttet. Opdatér din driver for optimal ydelse.'\r\n    l4: 'Advarsel: Dit system opfylder ikke systemkravene til dette spil. Du kan finde flere oplysninger på listen over understøttet hardware.'\r\n  de-DE:\r\n    l3: 'Hinweis: Du nutzt einen nicht unterstützten Grafiktreiber. Bitte aktualisiere den Treiber für optimale Performance.'\r\n    l4: 'Hinweis: Dein System erfüllt nicht die Mindestvoraussetzungen für diesen Titel. Studiere für weitere Informationen die Liste der unterstützten Hardware.'\r\n  en-CA:\r\n    l3: 'Warning: You are running an unsupported graphics driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system does not meet the minimum requirements for this game. Please refer to the supported hardware list for more information.'\r\n  es-ES:\r\n    l3: 'Advertencia: estás usando un controlador de gráficos incompatible. Actualiza el controlador para disfrutar de un rendimiento óptimo.'\r\n    l4: 'Advertencia: tu sistema no cumple los requisitos mínimos de este juego. Consulta la lista de hardware compatible para obtener más información.'\r\n  fi-FI:\r\n    l3: 'Varoitus: käytät näytönohjaimen ajuria, jota ei tueta. Päivitä ajurisi varmistaaksesi parhaan mahdollisen suorituskyvyn.'\r\n    l4: 'Varoitus: järjestelmäsi ei täytä tämän pelin vähimmäisvaatimuksia. Katso lisää tietoa tuettujen laitteistojen luettelosta.'\r\n  fr-FR:\r\n    l3: 'Avertissement : vous utilisez un pilote graphique non pris en charge, veuillez mettre à jour votre pilote pour des performances optimales.'\r\n    l4: 'Avertissement : votre système ne correspond pas à la configuration minimale requise pour ce jeu. Veuillez consulter la liste du matériel pris en charge pour en savoir plus.'\r\n  hu-HU:\r\n    l3: 'Figyelmeztetés: Nem támogatott grafikus illesztőprogramot használsz, kérjük, frissítsd az illesztőprogramot a jobb teljesítmény érdekében.'\r\n    l4: 'Figyelmeztetés: Rendszered nem felel meg a játék minimális rendszerkövetelményeinek. Kérjük, további információért tekintsd meg a támogatott hardverek listáját.'\r\n  it-IT:\r\n    l3: 'Attenzione: utilizzi un driver della scheda video non supportato. Aggiornalo per migliorare le prestazioni.'\r\n    l4: \"Attenzione: il tuo sistema non soddisfa i requisiti minimi di questo gioco. Per ulteriori informazioni, consulta l'elenco dell'hardware supportato.\"\r\n  ja-JP:\r\n    l3: 警告：非対応のグラフィックドライバを使用中です。パフォーマンス最適化のためにドライバをアップデートしてください。\r\n    l4: 警告：お使いのシステムは本ゲーム最低必要条件を満たしていません。詳しくは対応ハードウェアリストをご参照ください。\r\n  ko-KO:\r\n    l3: '경고: 지원하지 않는 그래픽 드라이버를 사용 중입니다. 최적화를 위해 드라이버를 업데이트하세요.'\r\n    l4: '경고: 시스템이 게임의 최소 요구 사항을 충족하지 않습니다. 더 자세한 정보는 지원하는 하드웨어 목록을 참조하세요.'\r\n  nb-NO:\r\n    l3: 'Advarsel: Du bruker en grafikkdriver som ikke støttes. Oppdater driveren for å få optimale ytelser.'\r\n    l4: 'Advarsel: Systemet ditt tilfredsstiller ikke spillets minimumskrav. Sjekk listen over maskinvare som støttes for å få vite mer.'\r\n  nl-NL:\r\n    l3: 'Waarschuwing: je gebruikt een grafisch stuurprogramma dat niet wordt ondersteund. Werk het programma bij voor optimale prestaties.'\r\n    l4: 'Waarschuwing: je systeem voldoet niet aan de vereisten voor deze game. Raadpleeg de lijst met ondersteunde hardware voor meer informatie.'\r\n  pl-PL:\r\n    l3: 'Ostrzeżenie: Korzystasz ze sterownika karty graficznej, który nie jest wspierany. Prosimy zaktualizować sterownik w celu uzyskania optymalnej wydajności.'\r\n    l4: 'Ostrzeżenie: Twój system nie spełnia minimalnych wymagań tej gry. Prosimy zapoznać się z listą obsługiwanych urządzeń, aby uzyskać więcej informacji.'\r\n  pt-BR:\r\n    l3: 'Alerta: você está usando um driver de gráficos não suportado, atualize seu driver para ter um desempenho ideal.'\r\n    l4: 'Alerta: seu sistema não satisfaz os requisitos mínimos para este jogo. Consulte a lista de hardwares suportados para mais informações.'\r\n  pt-PT:\r\n    l3: 'Aviso: estás a utilizar um controlador de placa gráfica não compatível, atualiza o teu controlador para um desempenho ótimo.'\r\n    l4: 'Aviso: o teu sistema não possui os requisitos mínimos para este jogo. Para mais informações, consulta a lista de hardware compatível.'\r\n  ru-RU:\r\n    l3: 'Внимание: драйвер видеокарты, который вы используете, не поддерживается игрой. Рекомендуется обновить драйвер.'\r\n    l4: 'Внимание: характеристики вашего компьютера не соответствуют минимальным системным требованиям. Обратитесь к списку системных требований, чтобы получить более подробную информацию.'\r\n  sv-SE:\r\n    l3: Varning! Ditt grafikkorts drivrutin stöds inte. Uppdatera din drivrutin för bästa prestanda.\r\n    l4: Varning! Ditt system möter inte minimikraven för spelet. Se listan över stöttad hårdvara för mer information.\r\n  zh-TW:\r\n    l3: 警告：系統不支援目前執行的繪圖驅動程式，請更新驅動程式獲得最佳效能。\r\n    l4: 警告：您的系統並未符合此款遊戲的最低要求。請參閱支援硬體列表取得更多資訊。\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  uplay:\r\n    preplayable_label: comingsoon\r\n    achievements: 114e5afa77fec3c93829176268c39f52\r\n    achievements_sync_id: RSIX7\r\n  background_image: 2f26ea5286de480357562313e59c28fa.png\r\n  thumb_image: l2\r\n  logo_image: ff2a8f1f45e2312bcc33257a1af0bc65.png\r\n  splash_image: 169c18226ebc0202badfa5aae7deea93.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/rainbowsix\r\n  homepage_url: http://rainbow6.ubi.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications_position: top_left\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: yes\r\n  - id: 1\r\n    text: l4\r\n    permanent: yes\r\n  icon_image: 69afec942276f4d9ec953269731bdd91.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_url: https://webshop-r6.ubi.com/en-US/shop/welcome\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six Siege\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\635\\InstallDir\r\n        arguments: ''\r\n        play_arguments: ''\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six Siege\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\635\\InstallDir\r\n        arguments: ' '\r\n        play_arguments: ''\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Tom Clancy's Rainbow Six Siege\r\n    publisher: Ubisoft Montreal\r\n    help_url: https://support.ubi.com\r\n    about_url: http://rainbow6.ubi.com/\r\n  digital_distribution:\r\n    version: 53\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 445956193924546560\r\n    large_image_key: rainbowsixsiege\r\n  news:\r\n    thread: RainbowSixSiege\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: PClearanceLevel\r\n    - id: PPvPTimePlayed\r\n    - id: PPvETimePlayed\r\n    - id: PTotalTimePlayed\r\n  game_streaming_enabled: yes\r\n  crash_reporting:\r\n    space_id: 0d2ae42d-4c27-4cb7-af6c-2099062302bb\r\n    app_id: e3d5ea9e-50bd-43b7-88bf-39794f4e3d40\r\n  app_id: e3d5ea9e-50bd-43b7-88bf-39794f4e3d40\r\n  space_id: 0d2ae42d-4c27-4cb7-af6c-2099062302bb\r\n  addons:\r\n  - id: 2064\r\n    is_visible: yes\r\n    thumb_image: 64fe17fb0498a3fbc7507ecc24206e4b.jpg\r\n    name: Rainbow Six Siege - Ultra HD Texture Pack\r\n    optional_addon_enabled_by_default: no\r\n  - id: 2161\r\n    is_visible: yes\r\n    thumb_image: 41b96f4737309345181f099432afc7f2.jpg\r\n    name: Rainbow Six Siege - Season Pass\r\n  - id: 2162\r\n    is_visible: no\r\n  - id: 2163\r\n    is_visible: yes\r\n    thumb_image: c4bf6f07edb0d1289a140a26cd2a0aa9.png\r\n    name: Rainbow Six Siege - Amethyst Skin\r\n  - id: 2165\r\n    is_visible: yes\r\n    thumb_image: 05b639c621ebeb0df79e617f9e54bcf7.png\r\n    name: Rainbow Six Siege - Cobalt Skin\r\n  - id: 2166\r\n    is_visible: yes\r\n    thumb_image: bf6dc0f34fd1aebe536551303c62bcde.png\r\n    name: Rainbow Six Siege - Emerald Skin\r\n  - id: 2167\r\n    is_visible: yes\r\n    thumb_image: 63b73c9ceba9c18292368d5d4fc42912.png\r\n    name: Rainbow Six Siege - Platinum Skin\r\n  - id: 2168\r\n    is_visible: no\r\n  - id: 2260\r\n    is_visible: no\r\n  - id: 2261\r\n    is_visible: yes\r\n    thumb_image: 8a61b6301d0598c58bc0191e04e6caa6.jpg\r\n    name: Rainbow Six Siege - The Safari Bundle\r\n  - id: 2263\r\n    is_visible: no\r\n  - id: 2281\r\n    is_visible: no\r\n  - id: 2282\r\n    is_visible: no\r\n  - id: 2283\r\n    is_visible: no\r\n  - id: 2284\r\n    is_visible: no\r\n  - id: 2285\r\n    is_visible: no\r\n  - id: 2286\r\n    is_visible: no\r\n  - id: 2391\r\n    is_visible: no\r\n  - id: 2392\r\n    is_visible: no\r\n  - id: 2393\r\n    is_visible: no\r\n  - id: 2394\r\n    is_visible: no\r\n  - id: 2395\r\n    is_visible: no\r\n  - id: 2396\r\n    is_visible: no\r\n  - id: 2397\r\n    is_visible: no\r\n  - id: 2398\r\n    is_visible: no\r\n  - id: 2956\r\n    is_visible: no\r\n  - id: 2957\r\n    is_visible: no\r\n  - id: 3126\r\n    is_visible: no\r\n    thumb_image: b69b93a91788a8b58db8ac0f47616a92.png\r\n    name: Rainbow Six Siege - Ruby Skin\r\n  - id: 3191\r\n    is_visible: yes\r\n    thumb_image: e1c64a7f906c828ab6c15c506887ae55.png\r\n    name: Rainbow Six Siege - Topaz Skin\r\n  - id: 3192\r\n    is_visible: yes\r\n    thumb_image: 2660e3591fa3d7a2aa7006ced9016cb0.png\r\n    name: Rainbow Six Siege - Cyan Skin\r\n  - id: 3195\r\n    is_visible: no\r\n    thumb_image: 8ba535b5686dfadae139d01760101163.png\r\n    name: Rainbow Six Siege - Esport Skin 1\r\n  - id: 3196\r\n    is_visible: no\r\n    thumb_image: 330740e8a4b23c7637b14ff07f559b12.png\r\n    name: Rainbow Six Siege - Esport Skin 2\r\n  - id: 3197\r\n    is_visible: no\r\n    thumb_image: f745c8645a99fa942a77ae3b3c31646e.png\r\n    name: Rainbow Six Siege - Esport Skin 3\r\n  - id: 3198\r\n    is_visible: no\r\n  - id: 3201\r\n    is_visible: no\r\n    thumb_image: 2c1912994aa918bc73e5c3aa88f550ff.png\r\n    name: Rainbow Six Siege - Esport Skins Bundle\r\n  - id: 3202\r\n    is_visible: yes\r\n    thumb_image: 49143e35143244d69fb30174b2ab43d4.png\r\n    name: Rainbow Six Siege - Stone Bundle\r\n  - id: 3342\r\n    is_visible: no\r\n  - id: 3359\r\n    is_visible: no\r\n  - id: 3393\r\n    is_visible: no\r\n    thumb_image: 5683450234a07e2249d0d6619b6dc487.jpg\r\n    name: RainBow Six Siege - GSG9 Racer Pack\r\n  - id: 3394\r\n    is_visible: no\r\n    thumb_image: 9b1cfe068e0f4cac7c6e9846b3530ee4.jpg\r\n    name: Rainbow Six Siege - Racer SAS pack\r\n  - id: 3395\r\n    is_visible: no\r\n  - id: 3396\r\n    is_visible: no\r\n  - id: 3397\r\n    is_visible: no\r\n  - id: 3398\r\n    is_visible: no\r\n  - id: 3399\r\n    is_visible: no\r\n  - id: 3475\r\n    is_visible: no\r\n  - id: 3476\r\n    is_visible: no\r\n  - id: 3477\r\n    is_visible: no\r\n  - id: 3478\r\n    is_visible: no\r\n  - id: 3484\r\n    is_visible: no\r\n  - id: 3614\r\n    is_visible: no\r\n  - id: 3615\r\n    is_visible: no\r\n  - id: 3642\r\n    is_visible: no\r\n  - id: 3643\r\n    is_visible: no\r\n    thumb_image: 4b3f849efdc2afb37563c8d7308f1390.png\r\n  - id: 3644\r\n    is_visible: no\r\n  - id: 3645\r\n    is_visible: no\r\n  - id: 3646\r\n    is_visible: no\r\n  - id: 3647\r\n    is_visible: no\r\n  - id: 3648\r\n    is_visible: no\r\n  - id: 3649\r\n    is_visible: no\r\n  - id: 3967\r\n    is_visible: no\r\n  - id: 4128\r\n    is_visible: no\r\n  - id: 4129\r\n    is_visible: no\r\n  - id: 4130\r\n    is_visible: no\r\n  - id: 4131\r\n    is_visible: no\r\n  - id: 4132\r\n    is_visible: no\r\n  - id: 4133\r\n    is_visible: no\r\n  - id: 4134\r\n    is_visible: no\r\n  - id: 4141\r\n    is_visible: no\r\n  - id: 4142\r\n    is_visible: no\r\n  - id: 4143\r\n    is_visible: no\r\n  - id: 4144\r\n    is_visible: no\r\n  - id: 4145\r\n    is_visible: no\r\n  dev:\r\n    game_install_uac_required: yes\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Tom Clancy's Rainbow Six® Siege\r\n    l2: a1f13207cce7318a1c783efa7394abcb.png\r\n    l3: 'Warning: You are running an unsupported video driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system is below the minimum requirements. For optimal performance please refer to the supported hardware list.'\r\n  zh-CN:\r\n    l1: 彩虹六号：围攻\r\n    l2: 8178b9c31c545f06df550152e1416809.png\r\n    l3: 警告：系统不支持正在运行的绘图驱动程序，请更新驱动程序以获得最佳性能。\r\n    l4: 警告：您的系统不符合此游戏的最低要求。请参阅硬件支持列表以获取更多信息。\r\n  cs-CZ:\r\n    l3: 'Upozornění: Nainstalované ovladače grafické karty nejsou podporované. Aktualizací ovladače dosáhnete optimálního výkonu.'\r\n    l4: 'Upozornění: Váš systém nesplňuje minimální systémové požadavky této hry. Více informací naleznete v seznamu podporovaného hardwaru.'\r\n  da-DK:\r\n    l3: 'Advarsel: Du benytter en grafikdriver, der ikke er understøttet. Opdatér din driver for optimal ydelse.'\r\n    l4: 'Advarsel: Dit system opfylder ikke systemkravene til dette spil. Du kan finde flere oplysninger på listen over understøttet hardware.'\r\n  de-DE:\r\n    l3: 'Hinweis: Du nutzt einen nicht unterstützten Grafiktreiber. Bitte aktualisiere den Treiber für optimale Performance.'\r\n    l4: 'Hinweis: Dein System erfüllt nicht die Mindestvoraussetzungen für diesen Titel. Studiere für weitere Informationen die Liste der unterstützten Hardware.'\r\n  en-CA:\r\n    l3: 'Warning: You are running an unsupported graphics driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system does not meet the minimum requirements for this game. Please refer to the supported hardware list for more information.'\r\n  es-ES:\r\n    l3: 'Advertencia: estás usando un controlador de gráficos incompatible. Actualiza el controlador para disfrutar de un rendimiento óptimo.'\r\n    l4: 'Advertencia: tu sistema no cumple los requisitos mínimos de este juego. Consulta la lista de hardware compatible para obtener más información.'\r\n  fi-FI:\r\n    l3: 'Varoitus: käytät näytönohjaimen ajuria, jota ei tueta. Päivitä ajurisi varmistaaksesi parhaan mahdollisen suorituskyvyn.'\r\n    l4: 'Varoitus: järjestelmäsi ei täytä tämän pelin vähimmäisvaatimuksia. Katso lisää tietoa tuettujen laitteistojen luettelosta.'\r\n  fr-FR:\r\n    l3: 'Avertissement : vous utilisez un pilote graphique non pris en charge, veuillez mettre à jour votre pilote pour des performances optimales.'\r\n    l4: 'Avertissement : votre système ne correspond pas à la configuration minimale requise pour ce jeu. Veuillez consulter la liste du matériel pris en charge pour en savoir plus.'\r\n  hu-HU:\r\n    l3: 'Figyelmeztetés: Nem támogatott grafikus illesztőprogramot használsz, kérjük, frissítsd az illesztőprogramot a jobb teljesítmény érdekében.'\r\n    l4: 'Figyelmeztetés: Rendszered nem felel meg a játék minimális rendszerkövetelményeinek. Kérjük, további információért tekintsd meg a támogatott hardverek listáját.'\r\n  it-IT:\r\n    l3: 'Attenzione: utilizzi un driver della scheda video non supportato. Aggiornalo per migliorare le prestazioni.'\r\n    l4: \"Attenzione: il tuo sistema non soddisfa i requisiti minimi di questo gioco. Per ulteriori informazioni, consulta l'elenco dell'hardware supportato.\"\r\n  ja-JP:\r\n    l3: 警告：非対応のグラフィックドライバを使用中です。パフォーマンス最適化のためにドライバをアップデートしてください。\r\n    l4: 警告：お使いのシステムは本ゲーム最低必要条件を満たしていません。詳しくは対応ハードウェアリストをご参照ください。\r\n  ko-KO:\r\n    l3: '경고: 지원하지 않는 그래픽 드라이버를 사용 중입니다. 최적화를 위해 드라이버를 업데이트하세요.'\r\n    l4: '경고: 시스템이 게임의 최소 요구 사항을 충족하지 않습니다. 더 자세한 정보는 지원하는 하드웨어 목록을 참조하세요.'\r\n  nb-NO:\r\n    l3: 'Advarsel: Du bruker en grafikkdriver som ikke støttes. Oppdater driveren for å få optimale ytelser.'\r\n    l4: 'Advarsel: Systemet ditt tilfredsstiller ikke spillets minimumskrav. Sjekk listen over maskinvare som støttes for å få vite mer.'\r\n  nl-NL:\r\n    l3: 'Waarschuwing: je gebruikt een grafisch stuurprogramma dat niet wordt ondersteund. Werk het programma bij voor optimale prestaties.'\r\n    l4: 'Waarschuwing: je systeem voldoet niet aan de vereisten voor deze game. Raadpleeg de lijst met ondersteunde hardware voor meer informatie.'\r\n  pl-PL:\r\n    l3: 'Ostrzeżenie: Korzystasz ze sterownika karty graficznej, który nie jest wspierany. Prosimy zaktualizować sterownik w celu uzyskania optymalnej wydajności.'\r\n    l4: 'Ostrzeżenie: Twój system nie spełnia minimalnych wymagań tej gry. Prosimy zapoznać się z listą obsługiwanych urządzeń, aby uzyskać więcej informacji.'\r\n  pt-BR:\r\n    l3: 'Alerta: você está usando um driver de gráficos não suportado, atualize seu driver para ter um desempenho ideal.'\r\n    l4: 'Alerta: seu sistema não satisfaz os requisitos mínimos para este jogo. Consulte a lista de hardwares suportados para mais informações.'\r\n  pt-PT:\r\n    l3: 'Aviso: estás a utilizar um controlador de placa gráfica não compatível, atualiza o teu controlador para um desempenho ótimo.'\r\n    l4: 'Aviso: o teu sistema não possui os requisitos mínimos para este jogo. Para mais informações, consulta a lista de hardware compatível.'\r\n  ru-RU:\r\n    l3: 'Внимание: драйвер видеокарты, который вы используете, не поддерживается игрой. Рекомендуется обновить драйвер.'\r\n    l4: 'Внимание: характеристики вашего компьютера не соответствуют минимальным системным требованиям. Обратитесь к списку системных требований, чтобы получить более подробную информацию.'\r\n  sv-SE:\r\n    l3: Varning! Ditt grafikkorts drivrutin stöds inte. Uppdatera din drivrutin för bästa prestanda.\r\n    l4: Varning! Ditt system möter inte minimikraven för spelet. Se listan över stöttad hårdvara för mer information.\r\n  zh-TW:\r\n    l3: 警告：系統不支援目前執行的繪圖驅動程式，請更新驅動程式獲得最佳效能。\r\n    l4: 警告：您的系統並未符合此款遊戲的最低要求。請參閱支援硬體列表取得更多資訊。\r\n"
   },
   {
     "ProductId": 648,
@@ -1233,7 +1233,7 @@
   },
   {
     "ProductId": 1713,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones\r\n  background_image: 2b41624c7f74bb93dccbaa517ff5b8ca.jpg\r\n  thumb_image: 326be19f7f6782cc1d812ed5ba82c6af.jpg\r\n  logo_image: d0fa6e06b2290631a45e7ea9103cf8be.png\r\n  splash_image: 0833465f5c9d3a29ad136eb40afc4839.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\1713\\InstallDir\r\n        play_arguments: ''\r\n        icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2026021001\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 3705f64453d058c16867e825a6738a34.zip\r\n    achievements_sync_id: BFI\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 997051510854778890\r\n    large_image_key: a8a56fd53b0ec08d6e99bbbf46f3ac28\r\n    small_image_key: e6351e7b9fd0a3301109c301477ce71d\r\n  news:\r\n    thread: SkullAndBones\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: Playtime\r\n    - id: performanceTotalDamageDealt\r\n    - id: performanceSinkingShipsTotal\r\n    - id: performancePlayerKills\r\n  crash_reporting:\r\n    space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones\r\n  background_image: 2b41624c7f74bb93dccbaa517ff5b8ca.jpg\r\n  thumb_image: 326be19f7f6782cc1d812ed5ba82c6af.jpg\r\n  logo_image: d0fa6e06b2290631a45e7ea9103cf8be.png\r\n  splash_image: 0833465f5c9d3a29ad136eb40afc4839.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\1713\\InstallDir\r\n        play_arguments: ''\r\n        icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2026042101\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 3705f64453d058c16867e825a6738a34.zip\r\n    achievements_sync_id: BFI\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 997051510854778890\r\n    large_image_key: a8a56fd53b0ec08d6e99bbbf46f3ac28\r\n    small_image_key: e6351e7b9fd0a3301109c301477ce71d\r\n  news:\r\n    thread: SkullAndBones\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: Playtime\r\n    - id: performanceTotalDamageDealt\r\n    - id: performanceSinkingShipsTotal\r\n    - id: performancePlayerKills\r\n  crash_reporting:\r\n    space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 1771,
@@ -1257,7 +1257,7 @@
   },
   {
     "ProductId": 1843,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  background_image: 2f26ea5286de480357562313e59c28fa.png\r\n  thumb_image: l2\r\n  logo_image: ff2a8f1f45e2312bcc33257a1af0bc65.png\r\n  splash_image: 30eb51e44455cca97249b8096c0bdf62.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/rainbowsix\r\n  homepage_url: http://rainbow6.ubi.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications_position: top_left\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: yes\r\n  - id: 1\r\n    text: l4\r\n    permanent: yes\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_url: https://webshop-r6.ubi.com/\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      steam_app_id: 359550\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\359550\\Installed\r\n      offline_arguments: -offline\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  override_uplayid: 635\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 114e5afa77fec3c93829176268c39f52\r\n    achievements_sync_id: RSIX7\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 445956193924546560\r\n    large_image_key: rainbowsixsiege\r\n  news:\r\n    thread: RainbowSixSiege\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: PClearanceLevel\r\n    - id: PPvPTimePlayed\r\n    - id: PPvETimePlayed\r\n    - id: PTotalTimePlayed\r\n  game_streaming_enabled: yes\r\n  crash_reporting:\r\n    space_id: 0d2ae42d-4c27-4cb7-af6c-2099062302bb\r\n    app_id: e3d5ea9e-50bd-43b7-88bf-39794f4e3d40\r\n  app_id: e3d5ea9e-50bd-43b7-88bf-39794f4e3d40\r\n  space_id: 0d2ae42d-4c27-4cb7-af6c-2099062302bb\r\n  addons:\r\n  - id: 2064\r\n    is_visible: yes\r\n    thumb_image: 64fe17fb0498a3fbc7507ecc24206e4b.jpg\r\n    name: Rainbow Six Siege - Ultra HD Texture Pack\r\n  - id: 2161\r\n    is_visible: yes\r\n    thumb_image: 41b96f4737309345181f099432afc7f2.jpg\r\n    name: Rainbow Six Siege - Season Pass\r\n  - id: 2162\r\n    is_visible: no\r\n  - id: 2163\r\n    is_visible: yes\r\n  - id: 2165\r\n    is_visible: yes\r\n  - id: 2166\r\n    is_visible: yes\r\n  - id: 2167\r\n    is_visible: yes\r\n  - id: 2168\r\n    is_visible: no\r\n  - id: 2260\r\n    is_visible: no\r\n  - id: 2261\r\n    is_visible: yes\r\n  - id: 2263\r\n    is_visible: no\r\n  - id: 2281\r\n    is_visible: no\r\n  - id: 2282\r\n    is_visible: no\r\n  - id: 2283\r\n    is_visible: no\r\n  - id: 2284\r\n    is_visible: no\r\n  - id: 2285\r\n    is_visible: no\r\n  - id: 2286\r\n    is_visible: no\r\n  - id: 2391\r\n    is_visible: no\r\n  - id: 2392\r\n    is_visible: no\r\n  - id: 2393\r\n    is_visible: no\r\n  - id: 2394\r\n    is_visible: no\r\n  - id: 2395\r\n    is_visible: no\r\n  - id: 2396\r\n    is_visible: no\r\n  - id: 2397\r\n    is_visible: no\r\n  - id: 2398\r\n    is_visible: no\r\n  - id: 2956\r\n    is_visible: no\r\n  - id: 2957\r\n    is_visible: no\r\n  - id: 3126\r\n    is_visible: no\r\n    thumb_image: b69b93a91788a8b58db8ac0f47616a92.png\r\n    name: Rainbow Six Siege - Ruby Skin\r\n    description: Rainbow Six Siege - Ruby Skin\r\n  - id: 3191\r\n    is_visible: yes\r\n  - id: 3192\r\n    is_visible: yes\r\n  - id: 3195\r\n    is_visible: no\r\n  - id: 3196\r\n    is_visible: no\r\n  - id: 3197\r\n    is_visible: no\r\n  - id: 3198\r\n    is_visible: no\r\n  - id: 3201\r\n    is_visible: no\r\n  - id: 3202\r\n    is_visible: yes\r\n    thumb_image: 49143e35143244d69fb30174b2ab43d4.png\r\n    name: Rainbow Six Siege - Stone Bundle\r\n  - id: 3342\r\n    is_visible: no\r\n  - id: 3359\r\n    is_visible: no\r\n  - id: 3393\r\n    is_visible: no\r\n  - id: 3394\r\n    is_visible: no\r\n  - id: 3395\r\n    is_visible: no\r\n  - id: 3396\r\n    is_visible: no\r\n  - id: 3397\r\n    is_visible: no\r\n  - id: 3398\r\n    is_visible: no\r\n  - id: 3399\r\n    is_visible: no\r\n  - id: 3475\r\n    is_visible: no\r\n  - id: 3476\r\n    is_visible: no\r\n  - id: 3477\r\n    is_visible: no\r\n  - id: 3478\r\n    is_visible: no\r\n  - id: 3484\r\n    is_visible: no\r\n  - id: 3614\r\n    is_visible: no\r\n  - id: 3615\r\n    is_visible: no\r\n  - id: 3642\r\n    is_visible: no\r\n  - id: 3643\r\n    is_visible: no\r\n  - id: 3644\r\n    is_visible: no\r\n  - id: 3645\r\n    is_visible: no\r\n  - id: 3646\r\n    is_visible: no\r\n  - id: 3647\r\n    is_visible: no\r\n  - id: 3648\r\n    is_visible: no\r\n  - id: 3649\r\n    is_visible: no\r\n  - id: 3967\r\n    is_visible: no\r\n  - id: 4128\r\n    is_visible: no\r\n  - id: 4129\r\n    is_visible: no\r\n  - id: 4130\r\n    is_visible: no\r\n  - id: 4131\r\n    is_visible: no\r\n  - id: 4132\r\n    is_visible: no\r\n  - id: 4133\r\n    is_visible: no\r\n  - id: 4134\r\n    is_visible: no\r\n  - id: 4141\r\n    is_visible: no\r\n  - id: 4142\r\n    is_visible: no\r\n  - id: 4143\r\n    is_visible: no\r\n  - id: 4144\r\n    is_visible: no\r\n  - id: 4145\r\n    is_visible: no\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Tom Clancy's Rainbow Six® Siege X\r\n    l2: a1f13207cce7318a1c783efa7394abcb.png\r\n    l3: 'Warning: You are running an unsupported video driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system is below the minimum requirements. For optimal performance please refer to the supported hardware list.'\r\n  zh-CN:\r\n    l1: 彩虹六号：围攻X\r\n    l2: 8178b9c31c545f06df550152e1416809.png\r\n    l3: 警告：系统不支持正在运行的绘图驱动程序，请更新驱动程序以获得最佳性能。\r\n    l4: 警告：您的系统不符合此游戏的最低要求。请参阅硬件支持列表以获取更多信息。\r\n  cs-CZ:\r\n    l3: 'Upozornění: Nainstalované ovladače grafické karty nejsou podporované. Aktualizací ovladače dosáhnete optimálního výkonu.'\r\n    l4: 'Upozornění: Váš systém nesplňuje minimální systémové požadavky této hry. Více informací naleznete v seznamu podporovaného hardwaru.'\r\n  da-DK:\r\n    l3: 'Advarsel: Du benytter en grafikdriver, der ikke er understøttet. Opdatér din driver for optimal ydelse.'\r\n    l4: 'Advarsel: Dit system opfylder ikke systemkravene til dette spil. Du kan finde flere oplysninger på listen over understøttet hardware.'\r\n  de-DE:\r\n    l3: 'Hinweis: Du nutzt einen nicht unterstützten Grafiktreiber. Bitte aktualisiere den Treiber für optimale Performance.'\r\n    l4: 'Hinweis: Dein System erfüllt nicht die Mindestvoraussetzungen für diesen Titel. Studiere für weitere Informationen die Liste der unterstützten Hardware.'\r\n  en-CA:\r\n    l3: 'Warning: You are running an unsupported graphics driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system does not meet the minimum requirements for this game. Please refer to the supported hardware list for more information.'\r\n  es-ES:\r\n    l3: 'Advertencia: estás usando un controlador de gráficos incompatible. Actualiza el controlador para disfrutar de un rendimiento óptimo.'\r\n    l4: 'Advertencia: tu sistema no cumple los requisitos mínimos de este juego. Consulta la lista de hardware compatible para obtener más información.'\r\n  fi-FI:\r\n    l3: 'Varoitus: käytät näytönohjaimen ajuria, jota ei tueta. Päivitä ajurisi varmistaaksesi parhaan mahdollisen suorituskyvyn.'\r\n    l4: 'Varoitus: järjestelmäsi ei täytä tämän pelin vähimmäisvaatimuksia. Katso lisää tietoa tuettujen laitteistojen luettelosta.'\r\n  fr-FR:\r\n    l3: 'Avertissement : vous utilisez un pilote graphique non pris en charge, veuillez mettre à jour votre pilote pour des performances optimales.'\r\n    l4: 'Avertissement : votre système ne correspond pas à la configuration minimale requise pour ce jeu. Veuillez consulter la liste du matériel pris en charge pour en savoir plus.'\r\n  hu-HU:\r\n    l3: 'Figyelmeztetés: Nem támogatott grafikus illesztőprogramot használsz, kérjük, frissítsd az illesztőprogramot a jobb teljesítmény érdekében.'\r\n    l4: 'Figyelmeztetés: Rendszered nem felel meg a játék minimális rendszerkövetelményeinek. Kérjük, további információért tekintsd meg a támogatott hardverek listáját.'\r\n  it-IT:\r\n    l3: 'Attenzione: utilizzi un driver della scheda video non supportato. Aggiornalo per migliorare le prestazioni.'\r\n    l4: \"Attenzione: il tuo sistema non soddisfa i requisiti minimi di questo gioco. Per ulteriori informazioni, consulta l'elenco dell'hardware supportato.\"\r\n  ja-JP:\r\n    l3: 警告：非対応のグラフィックドライバを使用中です。パフォーマンス最適化のためにドライバをアップデートしてください。\r\n    l4: 警告：お使いのシステムは本ゲーム最低必要条件を満たしていません。詳しくは対応ハードウェアリストをご参照ください。\r\n  ko-KO:\r\n    l3: '경고: 지원하지 않는 그래픽 드라이버를 사용 중입니다. 최적화를 위해 드라이버를 업데이트하세요.'\r\n    l4: '경고: 시스템이 게임의 최소 요구 사항을 충족하지 않습니다. 더 자세한 정보는 지원하는 하드웨어 목록을 참조하세요.'\r\n  nb-NO:\r\n    l3: 'Advarsel: Du bruker en grafikkdriver som ikke støttes. Oppdater driveren for å få optimale ytelser.'\r\n    l4: 'Advarsel: Systemet ditt tilfredsstiller ikke spillets minimumskrav. Sjekk listen over maskinvare som støttes for å få vite mer.'\r\n  nl-NL:\r\n    l3: 'Waarschuwing: je gebruikt een grafisch stuurprogramma dat niet wordt ondersteund. Werk het programma bij voor optimale prestaties.'\r\n    l4: 'Waarschuwing: je systeem voldoet niet aan de vereisten voor deze game. Raadpleeg de lijst met ondersteunde hardware voor meer informatie.'\r\n  pl-PL:\r\n    l3: 'Ostrzeżenie: Korzystasz ze sterownika karty graficznej, który nie jest wspierany. Prosimy zaktualizować sterownik w celu uzyskania optymalnej wydajności.'\r\n    l4: 'Ostrzeżenie: Twój system nie spełnia minimalnych wymagań tej gry. Prosimy zapoznać się z listą obsługiwanych urządzeń, aby uzyskać więcej informacji.'\r\n  pt-BR:\r\n    l3: 'Alerta: você está usando um driver de gráficos não suportado, atualize seu driver para ter um desempenho ideal.'\r\n    l4: 'Alerta: seu sistema não satisfaz os requisitos mínimos para este jogo. Consulte a lista de hardwares suportados para mais informações.'\r\n  pt-PT:\r\n    l3: 'Aviso: estás a utilizar um controlador de placa gráfica não compatível, atualiza o teu controlador para um desempenho ótimo.'\r\n    l4: 'Aviso: o teu sistema não possui os requisitos mínimos para este jogo. Para mais informações, consulta a lista de hardware compatível.'\r\n  ru-RU:\r\n    l3: 'Внимание: драйвер видеокарты, который вы используете, не поддерживается игрой. Рекомендуется обновить драйвер.'\r\n    l4: 'Внимание: характеристики вашего компьютера не соответствуют минимальным системным требованиям. Обратитесь к списку системных требований, чтобы получить более подробную информацию.'\r\n  sv-SE:\r\n    l3: Varning! Ditt grafikkorts drivrutin stöds inte. Uppdatera din drivrutin för bästa prestanda.\r\n    l4: Varning! Ditt system möter inte minimikraven för spelet. Se listan över stöttad hårdvara för mer information.\r\n  zh-TW:\r\n    l3: 警告：系統不支援目前執行的繪圖驅動程式，請更新驅動程式獲得最佳效能。\r\n    l4: 警告：您的系統並未符合此款遊戲的最低要求。請參閱支援硬體列表取得更多資訊。\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  background_image: 2f26ea5286de480357562313e59c28fa.png\r\n  thumb_image: l2\r\n  logo_image: ff2a8f1f45e2312bcc33257a1af0bc65.png\r\n  splash_image: 169c18226ebc0202badfa5aae7deea93.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/rainbowsix\r\n  homepage_url: http://rainbow6.ubi.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_notifications_position: top_left\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications:\r\n  - id: 0\r\n    text: l3\r\n    permanent: yes\r\n  - id: 1\r\n    text: l4\r\n    permanent: yes\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_url: https://webshop-r6.ubi.com/\r\n      overlay_shop_sigma: yes\r\n      overlay_supported: yes\r\n      steam_app_id: 359550\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\359550\\Installed\r\n      offline_arguments: -offline\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  game_invites_enabled: yes\r\n  override_uplayid: 635\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 114e5afa77fec3c93829176268c39f52\r\n    achievements_sync_id: RSIX7\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 445956193924546560\r\n    large_image_key: rainbowsixsiege\r\n  news:\r\n    thread: RainbowSixSiege\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: PClearanceLevel\r\n    - id: PPvPTimePlayed\r\n    - id: PPvETimePlayed\r\n    - id: PTotalTimePlayed\r\n  game_streaming_enabled: yes\r\n  crash_reporting:\r\n    space_id: 0d2ae42d-4c27-4cb7-af6c-2099062302bb\r\n    app_id: e3d5ea9e-50bd-43b7-88bf-39794f4e3d40\r\n  app_id: e3d5ea9e-50bd-43b7-88bf-39794f4e3d40\r\n  space_id: 0d2ae42d-4c27-4cb7-af6c-2099062302bb\r\n  addons:\r\n  - id: 2064\r\n    is_visible: yes\r\n    thumb_image: 64fe17fb0498a3fbc7507ecc24206e4b.jpg\r\n    name: Rainbow Six Siege - Ultra HD Texture Pack\r\n  - id: 2161\r\n    is_visible: yes\r\n    thumb_image: 41b96f4737309345181f099432afc7f2.jpg\r\n    name: Rainbow Six Siege - Season Pass\r\n  - id: 2162\r\n    is_visible: no\r\n  - id: 2163\r\n    is_visible: yes\r\n  - id: 2165\r\n    is_visible: yes\r\n  - id: 2166\r\n    is_visible: yes\r\n  - id: 2167\r\n    is_visible: yes\r\n  - id: 2168\r\n    is_visible: no\r\n  - id: 2260\r\n    is_visible: no\r\n  - id: 2261\r\n    is_visible: yes\r\n  - id: 2263\r\n    is_visible: no\r\n  - id: 2281\r\n    is_visible: no\r\n  - id: 2282\r\n    is_visible: no\r\n  - id: 2283\r\n    is_visible: no\r\n  - id: 2284\r\n    is_visible: no\r\n  - id: 2285\r\n    is_visible: no\r\n  - id: 2286\r\n    is_visible: no\r\n  - id: 2391\r\n    is_visible: no\r\n  - id: 2392\r\n    is_visible: no\r\n  - id: 2393\r\n    is_visible: no\r\n  - id: 2394\r\n    is_visible: no\r\n  - id: 2395\r\n    is_visible: no\r\n  - id: 2396\r\n    is_visible: no\r\n  - id: 2397\r\n    is_visible: no\r\n  - id: 2398\r\n    is_visible: no\r\n  - id: 2956\r\n    is_visible: no\r\n  - id: 2957\r\n    is_visible: no\r\n  - id: 3126\r\n    is_visible: no\r\n    thumb_image: b69b93a91788a8b58db8ac0f47616a92.png\r\n    name: Rainbow Six Siege - Ruby Skin\r\n    description: Rainbow Six Siege - Ruby Skin\r\n  - id: 3191\r\n    is_visible: yes\r\n  - id: 3192\r\n    is_visible: yes\r\n  - id: 3195\r\n    is_visible: no\r\n  - id: 3196\r\n    is_visible: no\r\n  - id: 3197\r\n    is_visible: no\r\n  - id: 3198\r\n    is_visible: no\r\n  - id: 3201\r\n    is_visible: no\r\n  - id: 3202\r\n    is_visible: yes\r\n    thumb_image: 49143e35143244d69fb30174b2ab43d4.png\r\n    name: Rainbow Six Siege - Stone Bundle\r\n  - id: 3342\r\n    is_visible: no\r\n  - id: 3359\r\n    is_visible: no\r\n  - id: 3393\r\n    is_visible: no\r\n  - id: 3394\r\n    is_visible: no\r\n  - id: 3395\r\n    is_visible: no\r\n  - id: 3396\r\n    is_visible: no\r\n  - id: 3397\r\n    is_visible: no\r\n  - id: 3398\r\n    is_visible: no\r\n  - id: 3399\r\n    is_visible: no\r\n  - id: 3475\r\n    is_visible: no\r\n  - id: 3476\r\n    is_visible: no\r\n  - id: 3477\r\n    is_visible: no\r\n  - id: 3478\r\n    is_visible: no\r\n  - id: 3484\r\n    is_visible: no\r\n  - id: 3614\r\n    is_visible: no\r\n  - id: 3615\r\n    is_visible: no\r\n  - id: 3642\r\n    is_visible: no\r\n  - id: 3643\r\n    is_visible: no\r\n  - id: 3644\r\n    is_visible: no\r\n  - id: 3645\r\n    is_visible: no\r\n  - id: 3646\r\n    is_visible: no\r\n  - id: 3647\r\n    is_visible: no\r\n  - id: 3648\r\n    is_visible: no\r\n  - id: 3649\r\n    is_visible: no\r\n  - id: 3967\r\n    is_visible: no\r\n  - id: 4128\r\n    is_visible: no\r\n  - id: 4129\r\n    is_visible: no\r\n  - id: 4130\r\n    is_visible: no\r\n  - id: 4131\r\n    is_visible: no\r\n  - id: 4132\r\n    is_visible: no\r\n  - id: 4133\r\n    is_visible: no\r\n  - id: 4134\r\n    is_visible: no\r\n  - id: 4141\r\n    is_visible: no\r\n  - id: 4142\r\n    is_visible: no\r\n  - id: 4143\r\n    is_visible: no\r\n  - id: 4144\r\n    is_visible: no\r\n  - id: 4145\r\n    is_visible: no\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Tom Clancy's Rainbow Six® Siege\r\n    l2: a1f13207cce7318a1c783efa7394abcb.png\r\n    l3: 'Warning: You are running an unsupported video driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system is below the minimum requirements. For optimal performance please refer to the supported hardware list.'\r\n  zh-CN:\r\n    l1: 彩虹六号：围攻\r\n    l2: 8178b9c31c545f06df550152e1416809.png\r\n    l3: 警告：系统不支持正在运行的绘图驱动程序，请更新驱动程序以获得最佳性能。\r\n    l4: 警告：您的系统不符合此游戏的最低要求。请参阅硬件支持列表以获取更多信息。\r\n  cs-CZ:\r\n    l3: 'Upozornění: Nainstalované ovladače grafické karty nejsou podporované. Aktualizací ovladače dosáhnete optimálního výkonu.'\r\n    l4: 'Upozornění: Váš systém nesplňuje minimální systémové požadavky této hry. Více informací naleznete v seznamu podporovaného hardwaru.'\r\n  da-DK:\r\n    l3: 'Advarsel: Du benytter en grafikdriver, der ikke er understøttet. Opdatér din driver for optimal ydelse.'\r\n    l4: 'Advarsel: Dit system opfylder ikke systemkravene til dette spil. Du kan finde flere oplysninger på listen over understøttet hardware.'\r\n  de-DE:\r\n    l3: 'Hinweis: Du nutzt einen nicht unterstützten Grafiktreiber. Bitte aktualisiere den Treiber für optimale Performance.'\r\n    l4: 'Hinweis: Dein System erfüllt nicht die Mindestvoraussetzungen für diesen Titel. Studiere für weitere Informationen die Liste der unterstützten Hardware.'\r\n  en-CA:\r\n    l3: 'Warning: You are running an unsupported graphics driver, please update your driver for optimal performance.'\r\n    l4: 'Warning: Your system does not meet the minimum requirements for this game. Please refer to the supported hardware list for more information.'\r\n  es-ES:\r\n    l3: 'Advertencia: estás usando un controlador de gráficos incompatible. Actualiza el controlador para disfrutar de un rendimiento óptimo.'\r\n    l4: 'Advertencia: tu sistema no cumple los requisitos mínimos de este juego. Consulta la lista de hardware compatible para obtener más información.'\r\n  fi-FI:\r\n    l3: 'Varoitus: käytät näytönohjaimen ajuria, jota ei tueta. Päivitä ajurisi varmistaaksesi parhaan mahdollisen suorituskyvyn.'\r\n    l4: 'Varoitus: järjestelmäsi ei täytä tämän pelin vähimmäisvaatimuksia. Katso lisää tietoa tuettujen laitteistojen luettelosta.'\r\n  fr-FR:\r\n    l3: 'Avertissement : vous utilisez un pilote graphique non pris en charge, veuillez mettre à jour votre pilote pour des performances optimales.'\r\n    l4: 'Avertissement : votre système ne correspond pas à la configuration minimale requise pour ce jeu. Veuillez consulter la liste du matériel pris en charge pour en savoir plus.'\r\n  hu-HU:\r\n    l3: 'Figyelmeztetés: Nem támogatott grafikus illesztőprogramot használsz, kérjük, frissítsd az illesztőprogramot a jobb teljesítmény érdekében.'\r\n    l4: 'Figyelmeztetés: Rendszered nem felel meg a játék minimális rendszerkövetelményeinek. Kérjük, további információért tekintsd meg a támogatott hardverek listáját.'\r\n  it-IT:\r\n    l3: 'Attenzione: utilizzi un driver della scheda video non supportato. Aggiornalo per migliorare le prestazioni.'\r\n    l4: \"Attenzione: il tuo sistema non soddisfa i requisiti minimi di questo gioco. Per ulteriori informazioni, consulta l'elenco dell'hardware supportato.\"\r\n  ja-JP:\r\n    l3: 警告：非対応のグラフィックドライバを使用中です。パフォーマンス最適化のためにドライバをアップデートしてください。\r\n    l4: 警告：お使いのシステムは本ゲーム最低必要条件を満たしていません。詳しくは対応ハードウェアリストをご参照ください。\r\n  ko-KO:\r\n    l3: '경고: 지원하지 않는 그래픽 드라이버를 사용 중입니다. 최적화를 위해 드라이버를 업데이트하세요.'\r\n    l4: '경고: 시스템이 게임의 최소 요구 사항을 충족하지 않습니다. 더 자세한 정보는 지원하는 하드웨어 목록을 참조하세요.'\r\n  nb-NO:\r\n    l3: 'Advarsel: Du bruker en grafikkdriver som ikke støttes. Oppdater driveren for å få optimale ytelser.'\r\n    l4: 'Advarsel: Systemet ditt tilfredsstiller ikke spillets minimumskrav. Sjekk listen over maskinvare som støttes for å få vite mer.'\r\n  nl-NL:\r\n    l3: 'Waarschuwing: je gebruikt een grafisch stuurprogramma dat niet wordt ondersteund. Werk het programma bij voor optimale prestaties.'\r\n    l4: 'Waarschuwing: je systeem voldoet niet aan de vereisten voor deze game. Raadpleeg de lijst met ondersteunde hardware voor meer informatie.'\r\n  pl-PL:\r\n    l3: 'Ostrzeżenie: Korzystasz ze sterownika karty graficznej, który nie jest wspierany. Prosimy zaktualizować sterownik w celu uzyskania optymalnej wydajności.'\r\n    l4: 'Ostrzeżenie: Twój system nie spełnia minimalnych wymagań tej gry. Prosimy zapoznać się z listą obsługiwanych urządzeń, aby uzyskać więcej informacji.'\r\n  pt-BR:\r\n    l3: 'Alerta: você está usando um driver de gráficos não suportado, atualize seu driver para ter um desempenho ideal.'\r\n    l4: 'Alerta: seu sistema não satisfaz os requisitos mínimos para este jogo. Consulte a lista de hardwares suportados para mais informações.'\r\n  pt-PT:\r\n    l3: 'Aviso: estás a utilizar um controlador de placa gráfica não compatível, atualiza o teu controlador para um desempenho ótimo.'\r\n    l4: 'Aviso: o teu sistema não possui os requisitos mínimos para este jogo. Para mais informações, consulta a lista de hardware compatível.'\r\n  ru-RU:\r\n    l3: 'Внимание: драйвер видеокарты, который вы используете, не поддерживается игрой. Рекомендуется обновить драйвер.'\r\n    l4: 'Внимание: характеристики вашего компьютера не соответствуют минимальным системным требованиям. Обратитесь к списку системных требований, чтобы получить более подробную информацию.'\r\n  sv-SE:\r\n    l3: Varning! Ditt grafikkorts drivrutin stöds inte. Uppdatera din drivrutin för bästa prestanda.\r\n    l4: Varning! Ditt system möter inte minimikraven för spelet. Se listan över stöttad hårdvara för mer information.\r\n  zh-TW:\r\n    l3: 警告：系統不支援目前執行的繪圖驅動程式，請更新驅動程式獲得最佳效能。\r\n    l4: 警告：您的系統並未符合此款遊戲的最低要求。請參閱支援硬體列表取得更多資訊。\r\n"
   },
   {
     "ProductId": 1847,
@@ -2113,7 +2113,7 @@
   },
   {
     "ProductId": 3352,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: UNO\r\n  background_image: 8a12a2e8d560d8e34eee3fa1024cdc06.jpg\r\n  thumb_image: 7cbe1f127624922cd5d3025974ed00c1.jpg\r\n  logo_image: 2b05950ee06f54764583275098ab0826.png\r\n  splash_image: 38301eb4bff124cd1ff512351c9f2fd7.jpg\r\n  help_url: https://support.ubi.com/en-GB/games/5133\r\n  facebook_url: https://www.facebook.com/uno/\r\n  homepage_url: https://www.ubisoft.com/en-US/game/uno/uno/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 582992d92699fe3425e2c8b3d08d1541.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: UNO\r\n        path:\r\n          relative: uno.exe\r\n        trial:\r\n          relative: bin_plus\\uno.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3352\\InstallDir\r\n    offline:\r\n      executables:\r\n      - shortcut_name: UNO\r\n        path:\r\n          relative: uno.exe\r\n        trial:\r\n          relative: bin_plus\\uno.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3352\\InstallDir\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: UNO\r\n    publisher: Ubisoft\r\n    help_url: http://www.ubisoft.com/\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 4\r\n  game_invites_enabled: yes\r\n  override_uplayid: 3352\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: f526767aba26908c6f864f56b2c5cce2\r\n    achievements_sync_id: UNO\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: UNO\r\n  game_page_modules: {}\r\n  app_id: 9c1dda73-c659-48be-8aa4-86e7f6392540\r\n  space_id: 560554cc-10a7-462e-b87f-8aa3515cc344\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: UNO\r\n  background_image: 8a12a2e8d560d8e34eee3fa1024cdc06.jpg\r\n  thumb_image: 7cbe1f127624922cd5d3025974ed00c1.jpg\r\n  logo_image: 2b05950ee06f54764583275098ab0826.png\r\n  splash_image: 38301eb4bff124cd1ff512351c9f2fd7.jpg\r\n  help_url: https://support.ubi.com/en-GB/games/5133\r\n  facebook_url: https://www.facebook.com/uno/\r\n  homepage_url: https://www.ubisoft.com/en-US/game/uno/uno/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 582992d92699fe3425e2c8b3d08d1541.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: UNO\r\n        path:\r\n          relative: uno.exe\r\n        trial:\r\n          relative: bin_plus\\uno.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3352\\InstallDir\r\n    offline:\r\n      executables:\r\n      - shortcut_name: UNO\r\n        path:\r\n          relative: uno.exe\r\n        trial:\r\n          relative: bin_plus\\uno.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\3352\\InstallDir\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: UNO\r\n    publisher: Ubisoft\r\n    help_url: http://www.ubisoft.com/\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 4\r\n  game_invites_enabled: yes\r\n  override_uplayid: 3352\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 80e691e89210880ef27acd17b80f3970\r\n    achievements_sync_id: UNO\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: UNO\r\n  game_page_modules: {}\r\n  app_id: 9c1dda73-c659-48be-8aa4-86e7f6392540\r\n  space_id: 560554cc-10a7-462e-b87f-8aa3515cc344\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 3353,
@@ -3121,7 +3121,7 @@
   },
   {
     "ProductId": 4932,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Tom Clancy's The Division 03\r\n  background_image: 417345ad37eaa76ab466a433a83507bd.png\r\n  thumb_image: l2\r\n  logo_image: 542e159dfea48f5a2a17a30e34c7d6b8.png\r\n  splash_image: f570aad17795b9ffc438458c5213a1ee.png\r\n  help_url: https://support.ubi.com/\r\n  facebook_url: https://www.facebook.com/TheDivisionGame/\r\n  homepage_url: https://tomclancy-thedivision.ubisoft.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 15a8918b82e47c0da7e24b34d42d71c1.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://tomclancy-thedivision.ubisoft.com/\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Tom Clancy's The Division 2\r\n        path:\r\n          relative: TheDivision2Launcher.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4932\\InstallDir\r\n        arguments: -disable_eos_sdk\r\n        icon_image: 15a8918b82e47c0da7e24b34d42d71c1.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Tom Clancy's The Division 2\r\n        path:\r\n          relative: TheDivision2Launcher.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4932\\InstallDir\r\n        arguments: -disable_eos_sdk\r\n        icon_image: 15a8918b82e47c0da7e24b34d42d71c1.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Tom Clancy's The Division 2\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com/\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 1\r\n  change_language_enabled: yes\r\n  game_invites_enabled: yes\r\n  uplay:\r\n    achievements: 236f0da63e40e7ab42c813cc1f0926f0.zip\r\n    achievements_sync_id: TCTD2\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TCTD2\r\n  game_page_style: ui-theme-orange\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n    news:\r\n      size: 2\r\n  player_stats:\r\n    items:\r\n    - id: TotalAbsolutePlaytime\r\n    - id: LatestLevel.rankType.NormalXP\r\n    - id: LatestLevel.rankType.DarkZoneXP\r\n    - id: LatestLevel.rankType.OrganizedPvpXP\r\n    - id: SumItemsLooted\r\n  crash_reporting:\r\n    space_id: 60859c37-949d-49e2-8fc8-6d8dc40f1a9e\r\n    app_id: 6c6b8cd7-d901-4cd5-8279-07ba92088f06\r\n  app_id: 6c6b8cd7-d901-4cd5-8279-07ba92088f06\r\n  space_id: 60859c37-949d-49e2-8fc8-6d8dc40f1a9e\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Tom Clancy's The Division® 2\r\n    l2: 514a93a313459529a69a1019e2b31ed0.jpg\r\n  zh-CN:\r\n    l1: 全境封锁2\r\n    l2: 5cd86dcd6386a6434df5afeb0fce4cdb.jpg\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Tom Clancy's The Division 03\r\n  background_image: 417345ad37eaa76ab466a433a83507bd.png\r\n  thumb_image: l2\r\n  logo_image: 542e159dfea48f5a2a17a30e34c7d6b8.png\r\n  splash_image: f570aad17795b9ffc438458c5213a1ee.png\r\n  help_url: https://support.ubi.com/\r\n  facebook_url: https://www.facebook.com/TheDivisionGame/\r\n  homepage_url: https://tomclancy-thedivision.ubisoft.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 15a8918b82e47c0da7e24b34d42d71c1.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://tomclancy-thedivision.ubisoft.com/\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Tom Clancy's The Division 2\r\n        path:\r\n          relative: TheDivision2Launcher.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4932\\InstallDir\r\n        arguments: ''\r\n        icon_image: 15a8918b82e47c0da7e24b34d42d71c1.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Tom Clancy's The Division 2\r\n        path:\r\n          relative: TheDivision2Launcher.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4932\\InstallDir\r\n        arguments: ''\r\n        icon_image: 15a8918b82e47c0da7e24b34d42d71c1.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Tom Clancy's The Division 2\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com/\r\n    about_url: http://www.ubisoft.com/\r\n  digital_distribution:\r\n    version: 1\r\n  change_language_enabled: yes\r\n  game_invites_enabled: yes\r\n  uplay:\r\n    achievements: 236f0da63e40e7ab42c813cc1f0926f0.zip\r\n    achievements_sync_id: TCTD2\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  news:\r\n    thread: TCTD2\r\n  game_page_style: ui-theme-orange\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n    news:\r\n      size: 2\r\n  player_stats:\r\n    items:\r\n    - id: TotalAbsolutePlaytime\r\n    - id: LatestLevel.rankType.NormalXP\r\n    - id: LatestLevel.rankType.DarkZoneXP\r\n    - id: LatestLevel.rankType.OrganizedPvpXP\r\n    - id: SumItemsLooted\r\n  crash_reporting:\r\n    space_id: 60859c37-949d-49e2-8fc8-6d8dc40f1a9e\r\n    app_id: 6c6b8cd7-d901-4cd5-8279-07ba92088f06\r\n  app_id: 6c6b8cd7-d901-4cd5-8279-07ba92088f06\r\n  space_id: 60859c37-949d-49e2-8fc8-6d8dc40f1a9e\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Tom Clancy's The Division® 2\r\n    l2: 514a93a313459529a69a1019e2b31ed0.jpg\r\n  zh-CN:\r\n    l1: 全境封锁2\r\n    l2: 5cd86dcd6386a6434df5afeb0fce4cdb.jpg\r\n"
   },
   {
     "ProductId": 4934,
@@ -5246,6 +5246,10 @@
   {
     "ProductId": 7111,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Valiant Hearts: Coming Home'\r\n  background_image: d84aeb38016937e5d3e397e2be269ce0.jpg\r\n  thumb_image: de4631e79948c254808c8f9fde338b96.bmp\r\n  logo_image: 82058588f5a745d4d7e8937b5cf9bf21.png\r\n  splash_image: 837bb3fdc20fdf25f75ae1460cf5c8c4.png\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  start_game:\r\n    steam:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_sigma: no\r\n      overlay_supported: yes\r\n      steam_app_id: 2741360\r\n      steam_installation_status_register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\Steam\\InstallPath\r\n      game_installation_status_register: HKEY_CURRENT_USER\\SOFTWARE\\Valve\\Steam\\Apps\\2741360\\Installed\r\n      offline_supported: yes\r\n  third_party_platform:\r\n    name: Steam\r\n  upn_enabled: true\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: c70ac733daaa3745287f14ac5d2179aa.zip\r\n    achievements_sync_id: 7111\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  app_id: 9bacff1a-1cb6-4a58-98c4-970e38783aa6\r\n  space_id: b08114f4-7a24-4c76-995a-050a39113960\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 8000,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  background_image: f0edec78fb2d8fa536fd6bffa426d9a6.jpg\r\n  thumb_image: 3bb727abb6926e4c42ec5a9817d143fe.jpg\r\n  logo_image: dd86e337f605a5914db464855960add1.png\r\n  splash_image: d3af9a6c03a6f7e008a5af82de52371c.jpg\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: a9c96a1951a8852aa20c0bb5d57da252.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: The Division Resurgence - Early Access\r\n        path:\r\n          relative: TheDivision.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\8000\\InstallDir\r\n        arguments: ''\r\n        icon_image: a9c96a1951a8852aa20c0bb5d57da252.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: The Division Resurgence - Early Access\r\n        path:\r\n          relative: TheDivision.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\8000\\InstallDir\r\n        arguments: ''\r\n        icon_image: a9c96a1951a8852aa20c0bb5d57da252.ico\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: The Division Resurgence\r\n    publisher: Ubisoft\r\n  app_id: 512ea9ce-d5dd-432b-be8d-699a39375329\r\n  space_id: 4b85f504-2f0a-4de1-be40-5435d115b5c2\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: The Division Resurgence\r\n  nl-NL:\r\n    l1: The Division Resurgence\r\n  da-DK:\r\n    l1: The Division Resurgence\r\n  fi-FI:\r\n    l1: The Division Resurgence\r\n  fr-FR:\r\n    l1: The Division Resurgence\r\n  de-DE:\r\n    l1: The Division Resurgence\r\n  it-IT:\r\n    l1: The Division Resurgence\r\n  nb-NO:\r\n    l1: The Division Resurgence\r\n  pl-PL:\r\n    l1: The Division Resurgence\r\n  ru-RU:\r\n    l1: The Division Resurgence\r\n  es-ES:\r\n    l1: The Division Resurgence\r\n  sv-SE:\r\n    l1: The Division Resurgence\r\n  tr-TR:\r\n    l1: The Division Resurgence\r\n  ja-JP:\r\n    l1: ディビジョン リサージェンス\r\n  ko-KO:\r\n    l1: 더 디비전 리서전스\r\n  pt-PT:\r\n    l1: The Division Resurgence\r\n  pt-BR:\r\n    l1: The Division Resurgence\r\n  es-MX:\r\n    l1: The Division Resurgence\r\n  zh-TW:\r\n    l1: 全境封鎖曙光\r\n  zh-CN:\r\n    l1: 《全境封锁：曙光》\r\n  th-TH:\r\n    l1: The Division Resurgence\r\n  uk-UA:\r\n    l1: The Division Resurgence\r\n"
   },
   {
     "ProductId": 8013,
@@ -7885,7 +7889,7 @@
   },
   {
     "ProductId": 16382,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Brawlhalla\r\n  background_image: 8b1a7106ca3fbd6c4fc743cdfbb1dbc8.png\r\n  thumb_image: 962525e5e3d481438bb3944c7a0f2072.jpg\r\n  logo_image: 1c0b29d6b23cd0a9eb92fe32ef5a6008.jpg\r\n  splash_image: da43875b9af978b808fb45db783edd43.jpg\r\n  help_url: https://support.ubi.com\r\n  facebook_url: https://www.facebook.com/Brawlhalla/\r\n  homepage_url: https://www.brawlhalla.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  streams:\r\n    link: https://www.twitch.tv/brawlhalla\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.brawlhalla.com/\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Brawlhalla\r\n        path:\r\n          relative: Brawlhalla.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16382\\InstallDir\r\n        icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Brawlhalla\r\n        path:\r\n          relative: Brawlhalla.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16382\\InstallDir\r\n        icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Brawlhalla\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-gb/game/brawlhalla/\r\n  digital_distribution:\r\n    version: 57\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: Brawlhalla\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    streams:\r\n      size: 1\r\n  app_id: 9302eb42-e3f3-403d-a801-b3a97a83f0ad\r\n  space_id: 52e74574-1eb1-48a9-b903-e32848fddd0d\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Brawlhalla\r\n  background_image: 8b1a7106ca3fbd6c4fc743cdfbb1dbc8.png\r\n  thumb_image: 962525e5e3d481438bb3944c7a0f2072.jpg\r\n  logo_image: 1c0b29d6b23cd0a9eb92fe32ef5a6008.jpg\r\n  splash_image: da43875b9af978b808fb45db783edd43.jpg\r\n  help_url: https://support.ubi.com\r\n  facebook_url: https://www.facebook.com/Brawlhalla/\r\n  homepage_url: https://www.brawlhalla.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  streams:\r\n    link: https://www.twitch.tv/brawlhalla\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_browser_home_url: https://www.brawlhalla.com/\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Brawlhalla\r\n        path:\r\n          relative: Brawlhalla.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16382\\InstallDir\r\n        icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Brawlhalla\r\n        path:\r\n          relative: Brawlhalla.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\16382\\InstallDir\r\n        icon_image: d62bb5e1d371f4007acc596bc407cad1.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Brawlhalla\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-gb/game/brawlhalla/\r\n  digital_distribution:\r\n    version: 64\r\n  game_invites_enabled: yes\r\n  news:\r\n    thread: Brawlhalla\r\n  game_page_modules:\r\n    friends:\r\n      size: 1\r\n    streams:\r\n      size: 1\r\n  app_id: 9302eb42-e3f3-403d-a801-b3a97a83f0ad\r\n  space_id: 52e74574-1eb1-48a9-b903-e32848fddd0d\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 16383,
@@ -11333,7 +11337,7 @@
   },
   {
     "ProductId": 63330,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Skate add-on\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63331,
@@ -11341,11 +11345,11 @@
   },
   {
     "ProductId": 63332,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Hoverboard Toys\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63333,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Ridge Ultimate pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 63373,
@@ -12489,7 +12493,7 @@
   },
   {
     "ProductId": 65359,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Queen Kalliopi - Gladiator Hero Skin - FOR HONOR\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 65360,
@@ -12864,6 +12868,38 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 66375,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66378,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66381,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66384,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66387,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66390,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66393,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66396,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 66400,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Y3 BMW Double Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -12884,6 +12920,18 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest - Y3 JDM Car Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 66416,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66419,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66422,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 66442,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Anno 117: Pax Romana - Demo'\r\nlocalizations: {}\r\n"
   },
@@ -12894,6 +12942,66 @@
   {
     "ProductId": 66507,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: UNO™ SHOW’EM NO MERCY!™\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66695,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66698,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66701,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66704,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66707,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66710,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66713,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66716,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66719,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66722,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66725,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66728,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66731,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66734,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66737,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 66793,
@@ -12909,7 +13017,119 @@
   },
   {
     "ProductId": 66857,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: UNO™ - BRAWLHALLA COSMETIC PACK\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66883,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66886,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66889,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66892,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66895,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66898,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66901,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66904,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66907,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66910,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66913,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66916,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66919,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66922,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66925,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66928,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66931,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66934,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66937,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66940,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66943,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66946,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66949,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66952,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66955,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 66958,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67031,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67034,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67049,
@@ -12925,71 +13145,71 @@
   },
   {
     "ProductId": 67143,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Careers Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67144,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - BMX Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67146,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Frenzy Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67147,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Pockett Car Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67148,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Pockett Plane Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67149,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Pockett Hovercraft Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67150,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Showdown Toys Pack Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67152,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Xtreme Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67153,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Longboard Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67154,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Mountainboard Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67155,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Snowskate Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67157,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Motor Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67158,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Rocket Skis Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67159,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Snowmobile Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67160,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Jumbo Bike Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67161,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Rocket Bike Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67162,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Dirt Bike Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67164,
@@ -13017,15 +13237,15 @@
   },
   {
     "ProductId": 67176,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest | Audi Double Car Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67178,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest | Triple Bike Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67180,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest | JDM Custom Car Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67182,
@@ -13033,43 +13253,43 @@
   },
   {
     "ProductId": 67189,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Battle Pass – Y10S1\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67191,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Legacy Pass – Y6S1\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67193,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Battle Bundle – Y10S1\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67196,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Scorching Herald – Gryphon Hero Skin\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67198,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tales of Gryphon Bundle\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67200,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Eivor Wolf-Kissed – Berserker Hero Skin\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67202,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Naoe the Swift – Shinobi Hero Skin\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67204,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Yasuke the Brave – Shugoki Hero Skin\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67206,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Ultimate Hero Skin Bundle\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67208,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin's Creed Shadows Hero Skin Bundle\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67210,
@@ -13173,19 +13393,23 @@
   },
   {
     "ProductId": 67266,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Siege - Y11S1 - 1200 R6C Premier Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67267,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 7,200 Premier Pack - Rainbow Six Siege\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67279,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 67280,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 67315,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Shady Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67324,
@@ -13193,15 +13417,15 @@
   },
   {
     "ProductId": 67326,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Brawlhalla Gold Battle Pass: Season 13'\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67328,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: 'Brawlhalla Deluxe Battle Pass Upgrade: Season 13'\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67332,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Brawlhalla - Spring Esports 2026 Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67334,
@@ -13229,11 +13453,11 @@
   },
   {
     "ProductId": 67365,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Bug Mask Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67369,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rise Up Bundle\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67382,
@@ -13245,10 +13469,130 @@
   },
   {
     "ProductId": 67415,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Rise Up Supply Drop\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67419,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Rainbow Six Siege - Y11 Cosmetic Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67420,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67470,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67472,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67536,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67539,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67541,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67545,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's The Division Resurgence\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67570,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew 2 - American Summit Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67572,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew 2 - European Summit Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67574,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew 2 - Japanese Summit Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67578,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67579,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67591,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67593,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67601,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67602,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67604,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67606,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67608,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67781,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67788,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67790,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67792,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67794,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67796,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67798,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67800,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67804,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67808,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67844,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's The Division Resurgence\r\nlocalizations: {}\r\n"
   }
 ]
