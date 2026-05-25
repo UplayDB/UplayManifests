@@ -245,7 +245,7 @@
   },
   {
     "ProductId": 273,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed® IV Black Flag™\r\n  sort_string: Assassin's Creed 07\r\n  display_name: \"Assassin's Creed IV: Black Flag\"\r\n  background_image: a9b44b9de3d00d25c7e881fbfe7c7cf0.jpg\r\n  thumb_image: bf7a7873bcb13e2883a2424ac734e0a8.jpg\r\n  logo_image: 21edfad5262ff2311072336c5f1f0ebb.png\r\n  help_url: http://support.ubi.com\r\n  facebook_url: http://www.facebook.com/assassinscreed\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  icon_image: 7b80d82afa3927b3ee4d2614deb35e3c.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      legacy_ticket_enabled: yes\r\n      executables:\r\n      - shortcut_name: \r\n        description: Singleplayer\r\n        path:\r\n          relative: AC4BFSP.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\273\\InstallDir\r\n      - shortcut_name: \r\n        description: Multiplayer\r\n        path:\r\n          relative: AC4BFMP.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\273\\InstallDir\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: \r\n        description: Singleplayer\r\n        path:\r\n          relative: AC4BFSP.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\273\\InstallDir\r\n        arguments: -offline\r\n      - shortcut_name: \r\n        description: Multiplayer\r\n        path:\r\n          relative: AC4BFMP.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\273\\InstallDir\r\n        arguments: -offline\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Assassin's Creed IV Black Flag\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://assassinscreed.ubi.com/\r\n  digital_distribution:\r\n    version: 9\r\n  uplay:\r\n    achievements: 9e04a2a27dfa06c6713c04523bd36c9a\r\n    achievements_sync_id: ACBF\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: ACBlackFlag\r\n  game_streaming_enabled: yes\r\n  crash_reporting:\r\n    space_id: c8b3f1c6-a246-4ffe-a837-a49d6bb0ce52\r\n    app_id: 66b22534-0c4c-4bb0-b6f6-9674cfc307ce\r\n  app_id: 66b22534-0c4c-4bb0-b6f6-9674cfc307ce\r\n  space_id: c8b3f1c6-a246-4ffe-a837-a49d6bb0ce52\r\n  dev:\r\n    require_legacy_game_password: always\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Assassin’s Creed® IV Black Flag™\r\n  sort_string: Assassin's Creed 07\r\n  display_name: \"Assassin's Creed IV: Black Flag\"\r\n  background_image: a9b44b9de3d00d25c7e881fbfe7c7cf0.jpg\r\n  thumb_image: bf7a7873bcb13e2883a2424ac734e0a8.jpg\r\n  logo_image: 21edfad5262ff2311072336c5f1f0ebb.png\r\n  help_url: http://support.ubi.com\r\n  facebook_url: http://www.facebook.com/assassinscreed\r\n  homepage_url: http://assassinscreed.ubi.com/\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  icon_image: 7b80d82afa3927b3ee4d2614deb35e3c.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      overlay_shop_url_set_by_game: yes\r\n      legacy_ticket_enabled: yes\r\n      executables:\r\n      - shortcut_name: \r\n        description: Singleplayer\r\n        path:\r\n          relative: AC4BFSP.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\273\\InstallDir\r\n      - shortcut_name: \r\n        description: Multiplayer\r\n        path:\r\n          relative: AC4BFMP.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\273\\InstallDir\r\n    offline:\r\n      executables:\r\n      - shortcut_name: \r\n        description: Singleplayer\r\n        path:\r\n          relative: AC4BFSP.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\273\\InstallDir\r\n        arguments: -offline\r\n      - shortcut_name: \r\n        description: Multiplayer\r\n        path:\r\n          relative: AC4BFMP.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\273\\InstallDir\r\n        arguments: -offline\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Assassin's Creed IV Black Flag\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://assassinscreed.ubi.com/\r\n  digital_distribution:\r\n    version: 9\r\n  uplay:\r\n    achievements: 9e04a2a27dfa06c6713c04523bd36c9a\r\n    achievements_sync_id: ACBF\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: ACBlackFlag\r\n  game_streaming_enabled: yes\r\n  crash_reporting:\r\n    space_id: c8b3f1c6-a246-4ffe-a837-a49d6bb0ce52\r\n    app_id: 66b22534-0c4c-4bb0-b6f6-9674cfc307ce\r\n  app_id: 66b22534-0c4c-4bb0-b6f6-9674cfc307ce\r\n  space_id: c8b3f1c6-a246-4ffe-a837-a49d6bb0ce52\r\n  dev:\r\n    require_legacy_game_password: always\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 274,
@@ -613,7 +613,7 @@
   },
   {
     "ProductId": 720,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Assassin's Creed 10\r\n  background_image: d4cb571aee87654441fb46624a99b3c5.jpg\r\n  thumb_image: b72d55757d36943ae5f1a0ac01d8e295.jpg\r\n  logo_image: 59bbabde8aff65589071ef743a051206.png\r\n  help_url: https://support.ubisoft.com/games/4043?platform=9\r\n  facebook_url: http://www.facebook.com/assassinscreed\r\n  homepage_url: http://assassinscreed.ubi.com/en-gb/games/assassins-creed-unity.aspx\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 61fdd16f06ae08158d0a6d476f1c6bd5.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Assassin’s Creed Unity\r\n        path:\r\n          relative: ACU.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\720\\InstallDir\r\n        icon_image: 61fdd16f06ae08158d0a6d476f1c6bd5.ico\r\n      pc_bang: {}\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Assassin’s Creed Unity\r\n        path:\r\n          relative: ACU.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\720\\InstallDir\r\n        arguments: -offline\r\n        icon_image: 61fdd16f06ae08158d0a6d476f1c6bd5.ico\r\n  overlay_injection_method: default\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Assassin's Creed Unity\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://assassinscreed.ubi.com/\r\n  digital_distribution:\r\n    version: 9\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 8fa65bccd0d9ac668b23f3b4e768ba37\r\n    achievements_sync_id: ACU\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: ACUnity\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  game_streaming_enabled: yes\r\n  app_id: 697a073a-83f3-46af-9da7-0d0b0a8a2366\r\n  space_id: 6678eff0-1293-4f87-8c8c-06a4ca646068\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Assassin's Creed® Unity\r\n  zh-CN:\r\n    l1: 刺客信条：大革命\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: l1\r\n  sort_string: Assassin's Creed 10\r\n  background_image: d4cb571aee87654441fb46624a99b3c5.jpg\r\n  thumb_image: b72d55757d36943ae5f1a0ac01d8e295.jpg\r\n  logo_image: 59bbabde8aff65589071ef743a051206.png\r\n  help_url: https://support.ubisoft.com/games/4043?platform=9\r\n  facebook_url: http://www.facebook.com/assassinscreed\r\n  homepage_url: http://assassinscreed.ubi.com/en-gb/games/assassins-creed-unity.aspx\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 61fdd16f06ae08158d0a6d476f1c6bd5.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Assassin’s Creed Unity\r\n        path:\r\n          relative: ACU.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\720\\InstallDir\r\n        icon_image: 61fdd16f06ae08158d0a6d476f1c6bd5.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Assassin’s Creed Unity\r\n        path:\r\n          relative: ACU.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\720\\InstallDir\r\n        arguments: -offline\r\n        icon_image: 61fdd16f06ae08158d0a6d476f1c6bd5.ico\r\n  overlay_injection_method: default\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Assassin's Creed Unity\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: http://assassinscreed.ubi.com/\r\n  digital_distribution:\r\n    version: 9\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 8fa65bccd0d9ac668b23f3b4e768ba37\r\n    achievements_sync_id: ACU\r\n  club:\r\n    enabled: yes\r\n  news:\r\n    thread: ACUnity\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  game_streaming_enabled: yes\r\n  app_id: 697a073a-83f3-46af-9da7-0d0b0a8a2366\r\n  space_id: 6678eff0-1293-4f87-8c8c-06a4ca646068\r\n  dev:\r\n    require_legacy_game_password: online_only\r\n  show_properties: yes\r\nlocalizations:\r\n  default:\r\n    l1: Assassin's Creed® Unity\r\n  zh-CN:\r\n    l1: 刺客信条：大革命\r\n"
   },
   {
     "ProductId": 742,
@@ -1233,7 +1233,7 @@
   },
   {
     "ProductId": 1713,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones\r\n  background_image: 2b41624c7f74bb93dccbaa517ff5b8ca.jpg\r\n  thumb_image: 326be19f7f6782cc1d812ed5ba82c6af.jpg\r\n  logo_image: d0fa6e06b2290631a45e7ea9103cf8be.png\r\n  splash_image: 0833465f5c9d3a29ad136eb40afc4839.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\1713\\InstallDir\r\n        play_arguments: ''\r\n        icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2026042101\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 3705f64453d058c16867e825a6738a34.zip\r\n    achievements_sync_id: BFI\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 997051510854778890\r\n    large_image_key: a8a56fd53b0ec08d6e99bbbf46f3ac28\r\n    small_image_key: e6351e7b9fd0a3301109c301477ce71d\r\n  news:\r\n    thread: SkullAndBones\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: Playtime\r\n    - id: performanceTotalDamageDealt\r\n    - id: performanceSinkingShipsTotal\r\n    - id: performancePlayerKills\r\n  crash_reporting:\r\n    space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones\r\n  background_image: 2b41624c7f74bb93dccbaa517ff5b8ca.jpg\r\n  thumb_image: 326be19f7f6782cc1d812ed5ba82c6af.jpg\r\n  logo_image: d0fa6e06b2290631a45e7ea9103cf8be.png\r\n  splash_image: d560b84e07bbff25b0e70c30ed13eb3a.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/SkullandBonesGame/\r\n  homepage_url: https://www.ubisoft.com/en-us/game/skull-and-bones\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Skull and Bones\r\n        path:\r\n          relative: skullandbones.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\1713\\InstallDir\r\n        play_arguments: ''\r\n        icon_image: afa07acb3b159f68055b6fb675598bc0.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Skull and Bones\r\n    publisher: Ubisoft\r\n    help_url: https://support.ubi.com\r\n    about_url: https://www.ubisoft.com/en-us/company/about-us\r\n  digital_distribution:\r\n    version: 2026051901\r\n  change_language_enabled: yes\r\n  party:\r\n    party_enabled: yes\r\n  game_invites_enabled: yes\r\n  cloud_saves: yes\r\n  uplay:\r\n    achievements: 3705f64453d058c16867e825a6738a34.zip\r\n    achievements_sync_id: BFI\r\n  club:\r\n    enabled: yes\r\n    challenges_enabled: yes\r\n  discord:\r\n    enabled: yes\r\n    app_id: 997051510854778890\r\n    large_image_key: a8a56fd53b0ec08d6e99bbbf46f3ac28\r\n    small_image_key: e6351e7b9fd0a3301109c301477ce71d\r\n  news:\r\n    thread: SkullAndBones\r\n  game_page_modules:\r\n    player_stats:\r\n      size: 2\r\n    friends:\r\n      size: 1\r\n    friends_suggestions:\r\n      enabled: yes\r\n    streams:\r\n      size: 1\r\n  player_stats:\r\n    items:\r\n    - id: Playtime\r\n    - id: performanceTotalDamageDealt\r\n    - id: performanceSinkingShipsTotal\r\n    - id: performancePlayerKills\r\n  crash_reporting:\r\n    space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n    app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  app_id: 2dfa4bfd-b2c3-4993-8838-276d89bab144\r\n  space_id: 8e1120f1-d86e-4da2-ba89-2b85639b872a\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 1771,
@@ -2993,7 +2993,7 @@
   },
   {
     "ProductId": 4865,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Test Server\r\n  uplay:\r\n    preplayable_label: comingsoon\r\n  background_image: 18f974669e1f0756c61a70fa10741b4c.jpg\r\n  thumb_image: 70c564386eb2e9b6a0dea545af3036a0.png\r\n  logo_image: 8c2377d3b5eb5b0c6093288e2d190ebe.png\r\n  splash_image: 9b98b57867c247a5391f4e1885ec5071.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/rainbowsix\r\n  homepage_url: http://rainbow6.ubi.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 69afec942276f4d9ec953269731bdd91.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_url: https://webshop-r6.ubi.com/en-US/shop/welcome\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege TS\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        arguments: ''\r\n        icon_image: a9864cb57ce30ae81f4fa0b970ee8654.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege TS\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        arguments: ''\r\n        icon_image: a9864cb57ce30ae81f4fa0b970ee8654.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Tom Clancy's Rainbow Six Siege TS\r\n    publisher: Ubisoft Montreal\r\n    help_url: https://support.ubi.com\r\n    about_url: http://rainbow6.ubi.com/\r\n  digital_distribution:\r\n    version: 37\r\n  game_invites_enabled: yes\r\n  override_uplayid: 4865\r\n  cloud_saves: yes\r\n  news:\r\n    thread: RainbowSixSiegeTTS\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n  crash_reporting:\r\n    space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n    app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n  dev:\r\n    game_install_uac_required: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's Rainbow Six® Siege - Test Server\r\n  uplay:\r\n    preplayable_label: comingsoon\r\n  background_image: e194ab0915b5f13644b938e0e14163d4.jpg\r\n  thumb_image: 270bc7e7b8be68a89138679c5c72e1b9.jpg\r\n  logo_image: 8c2377d3b5eb5b0c6093288e2d190ebe.png\r\n  splash_image: b20f76646adc067a9051a61d1672a666.png\r\n  help_url: https://www.ubisoft.com/en-gb/help\r\n  facebook_url: https://www.facebook.com/rainbowsix\r\n  homepage_url: http://rainbow6.ubi.com\r\n  forum_url: https://discord.gg/ubisoftofficial\r\n  overlay_virtual_control_enabled: no\r\n  overlay_notifications: []\r\n  icon_image: 69afec942276f4d9ec953269731bdd91.ico\r\n  start_game:\r\n    online:\r\n      overlay_required: yes\r\n      overlay_shop_enabled: yes\r\n      overlay_shop_default_enabled: yes\r\n      overlay_shop_url: https://webshop-r6.ubi.com/en-US/shop/welcome\r\n      overlay_shop_sigma: yes\r\n      overlay_product_activation_enabled: yes\r\n      overlay_supported: yes\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege TS\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        arguments: ''\r\n        icon_image: a9864cb57ce30ae81f4fa0b970ee8654.ico\r\n    offline:\r\n      executables:\r\n      - shortcut_name: Tom Clancy's Rainbow Six® Siege TS\r\n        path:\r\n          relative: RainbowSix.exe\r\n        working_directory:\r\n          register: HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\4865\\InstallDir\r\n        arguments: ''\r\n        icon_image: a9864cb57ce30ae81f4fa0b970ee8654.ico\r\n  overlay_injection_method: sdk\r\n  upn_enabled: true\r\n  installer:\r\n    game_identifier: Tom Clancy's Rainbow Six Siege TS\r\n    publisher: Ubisoft Montreal\r\n    help_url: https://support.ubi.com\r\n    about_url: http://rainbow6.ubi.com/\r\n  digital_distribution:\r\n    version: 37\r\n  game_invites_enabled: yes\r\n  override_uplayid: 4865\r\n  cloud_saves: yes\r\n  news:\r\n    thread: RainbowSixSiegeTTS\r\n  game_page_modules:\r\n    friends:\r\n      size: 2\r\n    friends_suggestions:\r\n      enabled: yes\r\n  crash_reporting:\r\n    space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n    app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  app_id: a427a342-56bb-437b-b835-fa695c75893b\r\n  space_id: 5c22ec5f-d475-4ec1-8c60-0c28ce9affed\r\n  dev:\r\n    game_install_uac_required: yes\r\n  show_properties: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 4868,
@@ -13152,6 +13152,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - BMX Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 67145,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 67146,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Frenzy Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
@@ -13170,6 +13174,10 @@
   {
     "ProductId": 67150,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Riders Republic - Showdown Toys Pack Addon\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 67151,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67152,
@@ -13232,6 +13240,10 @@
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
   {
+    "ProductId": 67169,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\nlocalizations: {}\r\n"
+  },
+  {
     "ProductId": 67175,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   },
@@ -13249,7 +13261,7 @@
   },
   {
     "ProductId": 67182,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: The Crew Motorfest RC Frenzy Pack\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67189,
@@ -13481,11 +13493,11 @@
   },
   {
     "ProductId": 67470,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones Seasonal Box\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67472,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones Seasonal Boatload\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67536,
@@ -13517,7 +13529,7 @@
   },
   {
     "ProductId": 67578,
-    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: Skull and Bones Starter Pack Entitlements\r\n  is_visible: yes\r\nlocalizations: {}\r\n"
   },
   {
     "ProductId": 67579,
@@ -13594,5 +13606,41 @@
   {
     "ProductId": 67844,
     "Configuration": "version: 2.0\r\nroot:\r\n  name: Tom Clancy's The Division Resurgence\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 68121,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 68124,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 68127,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 68130,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 68133,
+    "Configuration": "version: 2.0\r\nroot:\r\n  title: \r\n  description: \r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 68135,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 68137,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 68139,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
+  },
+  {
+    "ProductId": 68142,
+    "Configuration": "version: 2.0\r\nroot:\r\n  name: \r\n  is_visible: no\r\n  is_ulc: yes\r\nlocalizations: {}\r\n"
   }
 ]
